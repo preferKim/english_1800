@@ -1,0 +1,394 @@
+{
+  "lesson": "D47",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D47.mp3",
+  "model": "large-v3",
+  "duration_sec": 227.89,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "novel",
+      "meanings": [
+        "소설"
+      ],
+      "examples": [
+        "To publish a novel"
+      ],
+      "start": 2.55,
+      "end": 7.45
+    },
+    {
+      "no": 2,
+      "word": "grave",
+      "meanings": [
+        "무덤"
+      ],
+      "examples": [
+        "My grandfather's grave"
+      ],
+      "start": 8.94,
+      "end": 16.06
+    },
+    {
+      "no": 3,
+      "word": "crime",
+      "meanings": [
+        "범죄"
+      ],
+      "examples": [
+        "To commit a crime"
+      ],
+      "start": 15.24,
+      "end": 19.9
+    },
+    {
+      "no": 4,
+      "word": "prison",
+      "meanings": [
+        "감옥"
+      ],
+      "examples": [
+        "To go to prison"
+      ],
+      "start": 21.71,
+      "end": 25.87
+    },
+    {
+      "no": 5,
+      "word": "blanket",
+      "meanings": [
+        "담요"
+      ],
+      "examples": [
+        "An extra blanket"
+      ],
+      "start": 27.48,
+      "end": 32.02
+    },
+    {
+      "no": 6,
+      "word": "skin",
+      "meanings": [
+        "피부"
+      ],
+      "examples": [
+        "Dry skin"
+      ],
+      "start": 32.02,
+      "end": 37.95
+    },
+    {
+      "no": 7,
+      "word": "instance",
+      "meanings": [
+        "사례"
+      ],
+      "examples": [
+        "For instance"
+      ],
+      "start": 40.09,
+      "end": 43.99
+    },
+    {
+      "no": 8,
+      "word": "element",
+      "meanings": [
+        "요소",
+        "성분"
+      ],
+      "examples": [
+        "A key element"
+      ],
+      "start": 45.31,
+      "end": 51.19
+    },
+    {
+      "no": 9,
+      "word": "dozen",
+      "meanings": [
+        "다스",
+        "열두 개"
+      ],
+      "examples": [
+        "A dozen eggs"
+      ],
+      "start": 53.01,
+      "end": 58.6
+    },
+    {
+      "no": 10,
+      "word": "honesty",
+      "meanings": [
+        "정직"
+      ],
+      "examples": [
+        "Honesty and courage"
+      ],
+      "start": 60.43,
+      "end": 65.17
+    },
+    {
+      "no": 11,
+      "word": "duty",
+      "meanings": [
+        "의무",
+        "세금"
+      ],
+      "examples": [
+        "A sense of duty"
+      ],
+      "start": 66.98,
+      "end": 75.06
+    },
+    {
+      "no": 12,
+      "word": "failure",
+      "meanings": [
+        "실패"
+      ],
+      "examples": [
+        "To end in failure"
+      ],
+      "start": 74.26,
+      "end": 79.0
+    },
+    {
+      "no": 13,
+      "word": "rate",
+      "meanings": [
+        "비율",
+        "요금",
+        "속도"
+      ],
+      "examples": [
+        "A high success rate"
+      ],
+      "start": 80.84,
+      "end": 89.89
+    },
+    {
+      "no": 14,
+      "word": "progress",
+      "meanings": [
+        "진보",
+        "진전",
+        "진행",
+        "진보하다",
+        "진전하다",
+        "진행하다"
+      ],
+      "examples": [
+        "To make a progress"
+      ],
+      "start": 89.09,
+      "end": 106.3
+    },
+    {
+      "no": 15,
+      "word": "trade",
+      "meanings": [
+        "거래",
+        "무역",
+        "거래하다",
+        "무역하다"
+      ],
+      "examples": [
+        "International trade"
+      ],
+      "start": 102.62,
+      "end": 111.35
+    },
+    {
+      "no": 16,
+      "word": "doubt",
+      "meanings": [
+        "의심",
+        "의심하다",
+        "의문이다"
+      ],
+      "examples": [
+        "To have your doubts"
+      ],
+      "start": 113.31,
+      "end": 125.62
+    },
+    {
+      "no": 17,
+      "word": "march",
+      "meanings": [
+        "행진하다",
+        "행진"
+      ],
+      "examples": [
+        "To march through the streets"
+      ],
+      "start": 121.51,
+      "end": 130.7
+    },
+    {
+      "no": 18,
+      "word": "delay",
+      "meanings": [
+        "미루다",
+        "연기하다",
+        "지연시키다",
+        "지연"
+      ],
+      "examples": [
+        "To delay your decision"
+      ],
+      "start": 129.8,
+      "end": 141.73
+    },
+    {
+      "no": 19,
+      "word": "satisfy",
+      "meanings": [
+        "만족시키다"
+      ],
+      "examples": [
+        "To satisfy them"
+      ],
+      "start": 140.83,
+      "end": 146.05
+    },
+    {
+      "no": 20,
+      "word": "misunderstand",
+      "meanings": [
+        "오해하다"
+      ],
+      "examples": [
+        "Don't misunderstand me"
+      ],
+      "start": 148.49,
+      "end": 153.39
+    },
+    {
+      "no": 21,
+      "word": "scold",
+      "meanings": [
+        "꼬짓다"
+      ],
+      "examples": [
+        "To scold him for being late"
+      ],
+      "start": 154.96,
+      "end": 160.44
+    },
+    {
+      "no": 22,
+      "word": "apply",
+      "meanings": [
+        "지원하다",
+        "신청하다",
+        "적용하다"
+      ],
+      "examples": [
+        "To apply for a job"
+      ],
+      "start": 162.11,
+      "end": 172.46
+    },
+    {
+      "no": 23,
+      "word": "drown",
+      "meanings": [
+        "익사하다",
+        "익사시키다"
+      ],
+      "examples": [
+        "Many people drowned"
+      ],
+      "start": 171.64,
+      "end": 178.5
+    },
+    {
+      "no": 24,
+      "word": "broad",
+      "meanings": [
+        "넓은"
+      ],
+      "examples": [
+        "A broad street"
+      ],
+      "start": 179.98,
+      "end": 184.64
+    },
+    {
+      "no": 25,
+      "word": "cruel",
+      "meanings": [
+        "잔인한"
+      ],
+      "examples": [
+        "A cruel man"
+      ],
+      "start": 186.43,
+      "end": 190.77
+    },
+    {
+      "no": 26,
+      "word": "private",
+      "meanings": [
+        "사적인"
+      ],
+      "examples": [
+        "His private life"
+      ],
+      "start": 192.39,
+      "end": 197.39
+    },
+    {
+      "no": 27,
+      "word": "urgent",
+      "meanings": [
+        "긴급한"
+      ],
+      "examples": [
+        "An urgent message"
+      ],
+      "start": 199.2,
+      "end": 203.98
+    },
+    {
+      "no": 28,
+      "word": "military",
+      "meanings": [
+        "군사의"
+      ],
+      "examples": [
+        "Military training"
+      ],
+      "start": 205.91,
+      "end": 210.82
+    },
+    {
+      "no": 29,
+      "word": "historical",
+      "meanings": [
+        "역사의"
+      ],
+      "examples": [
+        "The historical background"
+      ],
+      "start": 212.34,
+      "end": 217.96
+    },
+    {
+      "no": 30,
+      "word": "fully",
+      "meanings": [
+        "완전히",
+        "충분히"
+      ],
+      "examples": [
+        "I fully understand it"
+      ],
+      "start": 217.98,
+      "end": 226.46
+    }
+  ],
+  "source_method": "en"
+}

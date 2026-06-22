@@ -1,0 +1,399 @@
+{
+  "lesson": "D31",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D31.mp3",
+  "model": "large-v3",
+  "duration_sec": 244.27,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "heaven",
+      "meanings": [
+        "천국"
+      ],
+      "examples": [
+        "To go heaven"
+      ],
+      "start": 1.66,
+      "end": 6.46
+    },
+    {
+      "no": 2,
+      "word": "myth",
+      "meanings": [
+        "신화"
+      ],
+      "examples": [
+        "Ancient Greek myths"
+      ],
+      "start": 8.3,
+      "end": 12.79
+    },
+    {
+      "no": 3,
+      "word": "sand",
+      "meanings": [
+        "모래",
+        "모래사장"
+      ],
+      "examples": [
+        "The wet sand"
+      ],
+      "start": 14.64,
+      "end": 22.37
+    },
+    {
+      "no": 4,
+      "word": "castle",
+      "meanings": [
+        "성"
+      ],
+      "examples": [
+        "A sand castle"
+      ],
+      "start": 21.41,
+      "end": 26.04
+    },
+    {
+      "no": 5,
+      "word": "kindness",
+      "meanings": [
+        "친절"
+      ],
+      "examples": [
+        "Treat them with kindness"
+      ],
+      "start": 27.68,
+      "end": 32.8
+    },
+    {
+      "no": 6,
+      "word": "mindness",
+      "meanings": [
+        "집중",
+        "집중력"
+      ],
+      "examples": [
+        "Don't lose your concentration"
+      ],
+      "start": 32.8,
+      "end": 35.61
+    },
+    {
+      "no": 7,
+      "word": "mystery",
+      "meanings": [
+        "수수께끼",
+        "신비",
+        "불가사의"
+      ],
+      "examples": [
+        "To remain a mystery"
+      ],
+      "start": 43.53,
+      "end": 54.94
+    },
+    {
+      "no": 8,
+      "word": "battle",
+      "meanings": [
+        "전투"
+      ],
+      "examples": [
+        "To be killed in battle"
+      ],
+      "start": 52.42,
+      "end": 59.56
+    },
+    {
+      "no": 9,
+      "word": "industry",
+      "meanings": [
+        "산업",
+        "공업",
+        "근면"
+      ],
+      "examples": [
+        "Heavy industry",
+        "Light industry"
+      ],
+      "start": 56.77,
+      "end": 67.62
+    },
+    {
+      "no": 10,
+      "word": "pile",
+      "meanings": [
+        "쌓아올리다"
+      ],
+      "examples": [
+        "A pile of books"
+      ],
+      "start": 69.65,
+      "end": 72.95
+    },
+    {
+      "no": 11,
+      "word": "chat",
+      "meanings": [
+        "담소",
+        "수다",
+        "담소하다",
+        "채팅하다"
+      ],
+      "examples": [
+        "To have a chat on the internet"
+      ],
+      "start": 76.64,
+      "end": 88.21
+    },
+    {
+      "no": 12,
+      "word": "puzzle",
+      "meanings": [
+        "퍼즐",
+        "수수께끼",
+        "어리둥절하게 하다"
+      ],
+      "examples": [
+        "A crossword puzzle"
+      ],
+      "start": 87.47,
+      "end": 97.68
+    },
+    {
+      "no": 13,
+      "word": "text",
+      "meanings": [
+        "문자메시지",
+        "글",
+        "교재",
+        "문자를 보내다"
+      ],
+      "examples": [
+        "To send her a text"
+      ],
+      "start": 96.84,
+      "end": 108.29
+    },
+    {
+      "no": 14,
+      "word": "advance",
+      "meanings": [
+        "진보",
+        "진전",
+        "전진",
+        "진격하다",
+        "진전되다"
+      ],
+      "examples": [
+        "The advances in technology"
+      ],
+      "start": 105.57,
+      "end": 118.3
+    },
+    {
+      "no": 15,
+      "word": "graduate",
+      "meanings": [
+        "졸업하다",
+        "졸업자"
+      ],
+      "examples": [
+        "To graduate from college"
+      ],
+      "start": 120.38,
+      "end": 129.17
+    },
+    {
+      "no": 16,
+      "word": "predict",
+      "meanings": [
+        "예측하다",
+        "예견하다"
+      ],
+      "examples": [
+        "To predict the future"
+      ],
+      "start": 130.94,
+      "end": 139.6
+    },
+    {
+      "no": 17,
+      "word": "compare",
+      "meanings": [
+        "비교하다"
+      ],
+      "examples": [
+        "Compare the two poems"
+      ],
+      "start": 138.72,
+      "end": 144.29
+    },
+    {
+      "no": 18,
+      "word": "complain",
+      "meanings": [
+        "불평하다",
+        "항의하다"
+      ],
+      "examples": [
+        "He never complains"
+      ],
+      "start": 145.78,
+      "end": 156.67
+    },
+    {
+      "no": 19,
+      "word": "forgive",
+      "meanings": [
+        "용서하다"
+      ],
+      "examples": [
+        "Forgive me"
+      ],
+      "start": 153.78,
+      "end": 164.36
+    },
+    {
+      "no": 20,
+      "word": "determine",
+      "meanings": [
+        "결정하다",
+        "알아내다"
+      ],
+      "examples": [
+        "To determine a person's character"
+      ],
+      "start": 160.33,
+      "end": 171.84
+    },
+    {
+      "no": 21,
+      "word": "exist",
+      "meanings": [
+        "존재하다"
+      ],
+      "examples": [
+        "Does life exist on Mars"
+      ],
+      "start": 169.06,
+      "end": 177.23
+    },
+    {
+      "no": 22,
+      "word": "dive",
+      "meanings": [
+        "다이빙하다",
+        "잠수하다"
+      ],
+      "examples": [
+        "To dive into a pool"
+      ],
+      "start": 176.27,
+      "end": 183.39
+    },
+    {
+      "no": 23,
+      "word": "upper",
+      "meanings": [
+        "위쪽의"
+      ],
+      "examples": [
+        "The upper floor"
+      ],
+      "start": 185.01,
+      "end": 191.86
+    },
+    {
+      "no": 24,
+      "word": "central",
+      "meanings": [
+        "중심의",
+        "중앙의"
+      ],
+      "examples": [
+        "Central Asia"
+      ],
+      "start": 191.2,
+      "end": 199.58
+    },
+    {
+      "no": 25,
+      "word": "normal",
+      "meanings": [
+        "정상의",
+        "보통의"
+      ],
+      "examples": [
+        "A normal life"
+      ],
+      "start": 198.52,
+      "end": 207.37
+    },
+    {
+      "no": 26,
+      "word": "similar",
+      "meanings": [
+        "비슷한"
+      ],
+      "examples": [
+        "Similar interests"
+      ],
+      "start": 206.45,
+      "end": 211.48
+    },
+    {
+      "no": 27,
+      "word": "honest",
+      "meanings": [
+        "착한"
+      ],
+      "examples": [
+        "An honest man"
+      ],
+      "start": 212.98,
+      "end": 218.22
+    },
+    {
+      "no": 28,
+      "word": "ashamed",
+      "meanings": [
+        "부끄러워하는"
+      ],
+      "examples": [
+        "To be ashamed of yourself"
+      ],
+      "start": 220.86,
+      "end": 225.35
+    },
+    {
+      "no": 29,
+      "word": "anymore",
+      "meanings": [
+        "더 이상"
+      ],
+      "examples": [
+        "You are not a child anymore"
+      ],
+      "start": 227.39,
+      "end": 232.62
+    },
+    {
+      "no": 30,
+      "word": "besides",
+      "meanings": [
+        "게다가",
+        "무엇 왜"
+      ],
+      "examples": [
+        "It's too late",
+        "I'm tired"
+      ],
+      "start": 234.61,
+      "end": 242.54
+    }
+  ],
+  "source_method": "en"
+}

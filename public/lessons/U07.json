@@ -1,0 +1,407 @@
+{
+  "lesson": "U07",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-U07.mp3",
+  "model": "large-v3",
+  "duration_sec": 265.35,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "crew",
+      "meanings": [
+        "승무원"
+      ],
+      "examples": [
+        "Passengers and crew"
+      ],
+      "start": 1.48,
+      "end": 7.48
+    },
+    {
+      "no": 2,
+      "word": "elbow",
+      "meanings": [
+        "팔꿈치"
+      ],
+      "examples": [
+        "He sat with his elbow on the table"
+      ],
+      "start": 7.48,
+      "end": 15.02
+    },
+    {
+      "no": 3,
+      "word": "stripe",
+      "meanings": [
+        "줄무늬"
+      ],
+      "examples": [
+        "A zebra's black and white stripes"
+      ],
+      "start": 16.9,
+      "end": 22.03
+    },
+    {
+      "no": 4,
+      "word": "cafeteria",
+      "meanings": [
+        "카페테리아",
+        "구내식당"
+      ],
+      "examples": [
+        "A school cafeteria"
+      ],
+      "start": 24.0,
+      "end": 30.16
+    },
+    {
+      "no": 5,
+      "word": "lighthouse",
+      "meanings": [
+        "등대"
+      ],
+      "examples": [
+        "A lighthouse keeper"
+      ],
+      "start": 32.39,
+      "end": 36.45
+    },
+    {
+      "no": 6,
+      "word": "accent",
+      "meanings": [
+        "만시",
+        "억양",
+        "강세"
+      ],
+      "examples": [
+        "A northern accent"
+      ],
+      "start": 34.34,
+      "end": 44.99
+    },
+    {
+      "no": 7,
+      "word": "psychology",
+      "meanings": [
+        "심리",
+        "심리학"
+      ],
+      "examples": [
+        "Educational psychology"
+      ],
+      "start": 46.53,
+      "end": 52.85
+    },
+    {
+      "no": 8,
+      "word": "astronomy",
+      "meanings": [
+        "천문학"
+      ],
+      "examples": [
+        "To study astronomy"
+      ],
+      "start": 55.02,
+      "end": 59.3
+    },
+    {
+      "no": 9,
+      "word": "concept",
+      "meanings": [
+        "개념"
+      ],
+      "examples": [
+        "The basic concepts of mathematics"
+      ],
+      "start": 61.12,
+      "end": 66.45
+    },
+    {
+      "no": 10,
+      "word": "strategy",
+      "meanings": [
+        "전략"
+      ],
+      "examples": [
+        "The government's economic strategy"
+      ],
+      "start": 68.35,
+      "end": 73.71
+    },
+    {
+      "no": 11,
+      "word": "permission",
+      "meanings": [
+        "허락",
+        "허가",
+        "승인"
+      ],
+      "examples": [
+        "He skipped classes without permission"
+      ],
+      "start": 75.25,
+      "end": 82.73
+    },
+    {
+      "no": 12,
+      "word": "therapy",
+      "meanings": [
+        "치료",
+        "치료법"
+      ],
+      "examples": [
+        "Drug therapy"
+      ],
+      "start": 84.82,
+      "end": 90.01
+    },
+    {
+      "no": 13,
+      "word": "usage",
+      "meanings": [
+        "사용",
+        "용법",
+        "업법"
+      ],
+      "examples": [
+        "To reduce water usage"
+      ],
+      "start": 90.84,
+      "end": 99.03
+    },
+    {
+      "no": 14,
+      "word": "antarctic",
+      "meanings": [
+        "남극의",
+        "남극지역"
+      ],
+      "examples": [
+        "An Antarctic explorer"
+      ],
+      "start": 100.94,
+      "end": 107.66
+    },
+    {
+      "no": 15,
+      "word": "documentary",
+      "meanings": [
+        "다큐멘터리",
+        "다큐멘터리의",
+        "문서의"
+      ],
+      "examples": [
+        "A TV documentary about volcanoes",
+        "A TV documentary on volcanoes"
+      ],
+      "start": 109.69,
+      "end": 122.4
+    },
+    {
+      "no": 16,
+      "word": "routine",
+      "meanings": [
+        "일상적인 일",
+        "일상의"
+      ],
+      "examples": [
+        "My daily routine"
+      ],
+      "start": 124.15,
+      "end": 130.84
+    },
+    {
+      "no": 17,
+      "word": "lyric",
+      "meanings": [
+        "서정시"
+      ],
+      "examples": [
+        "A lyric example"
+      ],
+      "start": 130.84,
+      "end": 134.93
+    },
+    {
+      "no": 18,
+      "word": "antique",
+      "meanings": [
+        "골동품",
+        "골동품의"
+      ],
+      "examples": [
+        "An antique shop"
+      ],
+      "start": 139.67,
+      "end": 153.01
+    },
+    {
+      "no": 19,
+      "word": "fellow",
+      "meanings": [
+        "동료의",
+        "동료"
+      ],
+      "examples": [
+        "Fellow students"
+      ],
+      "start": 154.36,
+      "end": 160.14
+    },
+    {
+      "no": 20,
+      "word": "criminal",
+      "meanings": [
+        "범죄의",
+        "형사상의",
+        "범인"
+      ],
+      "examples": [
+        "Criminal behavior",
+        "Dangerous criminals"
+      ],
+      "start": 161.86,
+      "end": 171.71
+    },
+    {
+      "no": 21,
+      "word": "alien",
+      "meanings": [
+        "외국의",
+        "외계의",
+        "낯선",
+        "외계인",
+        "외국인",
+        "외국인 체류자"
+      ],
+      "examples": [
+        "An alien environment",
+        "Aliens from outer space"
+      ],
+      "start": 173.17,
+      "end": 186.93
+    },
+    {
+      "no": 22,
+      "word": "fake",
+      "meanings": [
+        "가짜의",
+        "위조의",
+        "위조품",
+        "가짜",
+        "사기꾼",
+        "위조하다"
+      ],
+      "examples": [
+        "A fake ID card"
+      ],
+      "start": 188.63,
+      "end": 200.14
+    },
+    {
+      "no": 23,
+      "word": "infect",
+      "meanings": [
+        "감염시키다",
+        "전염시키다"
+      ],
+      "examples": [
+        "People infected with HIV"
+      ],
+      "start": 202.02,
+      "end": 208.86
+    },
+    {
+      "no": 24,
+      "word": "specialize",
+      "meanings": [
+        "전공하다"
+      ],
+      "examples": [
+        "To specialize",
+        "Specialize in AI"
+      ],
+      "start": 211.15,
+      "end": 216.12
+    },
+    {
+      "no": 25,
+      "word": "evolve",
+      "meanings": [
+        "진화하다",
+        "진전하다"
+      ],
+      "examples": [
+        "Did humans evolve from apes"
+      ],
+      "start": 217.84,
+      "end": 225.24
+    },
+    {
+      "no": 26,
+      "word": "carve",
+      "meanings": [
+        "조각하다",
+        "색이다"
+      ],
+      "examples": [
+        "He carved his name on his desk"
+      ],
+      "start": 227.05,
+      "end": 233.62
+    },
+    {
+      "no": 27,
+      "word": "eco-friendly",
+      "meanings": [
+        "친환경적인"
+      ],
+      "examples": [
+        "Eco-friendly products"
+      ],
+      "start": 234.94,
+      "end": 240.41
+    },
+    {
+      "no": 28,
+      "word": "mechanical",
+      "meanings": [
+        "기계의"
+      ],
+      "examples": [
+        "A mechanical device"
+      ],
+      "start": 242.22,
+      "end": 246.97
+    },
+    {
+      "no": 29,
+      "word": "dramatic",
+      "meanings": [
+        "극적인",
+        "영광"
+      ],
+      "examples": [
+        "A dramatic change"
+      ],
+      "start": 248.93,
+      "end": 254.83
+    },
+    {
+      "no": 30,
+      "word": "priceless",
+      "meanings": [
+        "값을 매길 수 없는",
+        "대단히 귀중한"
+      ],
+      "examples": [
+        "Priceless works of art"
+      ],
+      "start": 256.48,
+      "end": 263.94
+    }
+  ],
+  "source_method": "en"
+}

@@ -1,0 +1,396 @@
+{
+  "lesson": "D37",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D37.mp3",
+  "model": "large-v3",
+  "duration_sec": 226.35,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "agent",
+      "meanings": [
+        "대리인",
+        "중개인"
+      ],
+      "examples": [
+        "a travel agent"
+      ],
+      "start": 1.38,
+      "end": 9.8
+    },
+    {
+      "no": 2,
+      "word": "politics",
+      "meanings": [
+        "정치"
+      ],
+      "examples": [
+        "his life in politics"
+      ],
+      "start": 9.8,
+      "end": 16.34
+    },
+    {
+      "no": 3,
+      "word": "reality",
+      "meanings": [
+        "현실"
+      ],
+      "examples": [
+        "to face reality"
+      ],
+      "start": 16.34,
+      "end": 22.61
+    },
+    {
+      "no": 4,
+      "word": "relationship",
+      "meanings": [
+        "관계"
+      ],
+      "examples": [
+        "your relationship with your parents"
+      ],
+      "start": 22.61,
+      "end": 29.91
+    },
+    {
+      "no": 5,
+      "word": "role",
+      "meanings": [
+        "역할"
+      ],
+      "examples": [
+        "to play an important role"
+      ],
+      "start": 29.91,
+      "end": 36.48
+    },
+    {
+      "no": 6,
+      "word": "theater",
+      "meanings": [
+        "극장",
+        "연극"
+      ],
+      "examples": [
+        "a movie theater"
+      ],
+      "start": 36.48,
+      "end": 43.4
+    },
+    {
+      "no": 7,
+      "word": "performance",
+      "meanings": [
+        "공연",
+        "연주",
+        "수행",
+        "실적"
+      ],
+      "examples": [
+        "an evening performance"
+      ],
+      "start": 43.4,
+      "end": 53.14
+    },
+    {
+      "no": 8,
+      "word": "reservation",
+      "meanings": [
+        "예약"
+      ],
+      "examples": [
+        "to make a reservation"
+      ],
+      "start": 54.49,
+      "end": 59.52
+    },
+    {
+      "no": 9,
+      "word": "sightseeing",
+      "meanings": [
+        "관광"
+      ],
+      "examples": [
+        "to go sightseeing"
+      ],
+      "start": 59.52,
+      "end": 66.19
+    },
+    {
+      "no": 10,
+      "word": "path",
+      "meanings": [
+        "길"
+      ],
+      "examples": [
+        "a path through the woods"
+      ],
+      "start": 66.19,
+      "end": 72.3
+    },
+    {
+      "no": 11,
+      "word": "source",
+      "meanings": [
+        "원천",
+        "근원",
+        "출처"
+      ],
+      "examples": [
+        "energy sources"
+      ],
+      "start": 72.3,
+      "end": 80.35
+    },
+    {
+      "no": 12,
+      "word": "proof",
+      "meanings": [
+        "증거"
+      ],
+      "examples": [
+        "further proof"
+      ],
+      "start": 80.35,
+      "end": 86.32
+    },
+    {
+      "no": 13,
+      "word": "term",
+      "meanings": [
+        "기간",
+        "기한",
+        "용어"
+      ],
+      "examples": [
+        "the long term"
+      ],
+      "start": 86.32,
+      "end": 94.52
+    },
+    {
+      "no": 14,
+      "word": "net",
+      "meanings": [
+        "인터넷",
+        "그물"
+      ],
+      "examples": [
+        "the net",
+        "to surf the net"
+      ],
+      "start": 94.52,
+      "end": 102.44
+    },
+    {
+      "no": 15,
+      "word": "cast",
+      "meanings": [
+        "깁스",
+        "배역진",
+        "출연진",
+        "던지다",
+        "배역하다"
+      ],
+      "examples": [
+        "to have your leg in a cast"
+      ],
+      "start": 102.44,
+      "end": 114.43
+    },
+    {
+      "no": 16,
+      "word": "trust",
+      "meanings": [
+        "신뢰",
+        "신뢰하다"
+      ],
+      "examples": [
+        "I trust him"
+      ],
+      "start": 114.43,
+      "end": 121.7
+    },
+    {
+      "no": 17,
+      "word": "crash",
+      "meanings": [
+        "충돌하다",
+        "추락하다",
+        "충돌 사고",
+        "추락사고"
+      ],
+      "examples": [
+        "a car crash"
+      ],
+      "start": 121.7,
+      "end": 132.02
+    },
+    {
+      "no": 18,
+      "word": "hatch",
+      "meanings": [
+        "부화하다",
+        "배",
+        "비행기",
+        "해치"
+      ],
+      "examples": [
+        "the eggs hatched"
+      ],
+      "start": 132.02,
+      "end": 141.11
+    },
+    {
+      "no": 19,
+      "word": "clap",
+      "meanings": [
+        "박수를 치다"
+      ],
+      "examples": [
+        "to clap your hands"
+      ],
+      "start": 141.94,
+      "end": 147.2
+    },
+    {
+      "no": 20,
+      "word": "announce",
+      "meanings": [
+        "발표하다"
+      ],
+      "examples": [
+        "to announce a plan"
+      ],
+      "start": 147.2,
+      "end": 153.53
+    },
+    {
+      "no": 21,
+      "word": "represent",
+      "meanings": [
+        "나타내다",
+        "대표하다"
+      ],
+      "examples": [
+        "to represent a change"
+      ],
+      "start": 153.53,
+      "end": 161.88
+    },
+    {
+      "no": 22,
+      "word": "devote",
+      "meanings": [
+        "바치다"
+      ],
+      "examples": [
+        "to devote yourself to your study"
+      ],
+      "start": 161.88,
+      "end": 169.01
+    },
+    {
+      "no": 23,
+      "word": "peaceful",
+      "meanings": [
+        "평화로운"
+      ],
+      "examples": [
+        "a peaceful life"
+      ],
+      "start": 169.01,
+      "end": 175.26
+    },
+    {
+      "no": 24,
+      "word": "painful",
+      "meanings": [
+        "아픈",
+        "고통스러운"
+      ],
+      "examples": [
+        "painful memories"
+      ],
+      "start": 175.26,
+      "end": 182.82
+    },
+    {
+      "no": 25,
+      "word": "sharp",
+      "meanings": [
+        "날카로운"
+      ],
+      "examples": [
+        "a sharp knife"
+      ],
+      "start": 182.82,
+      "end": 189.13
+    },
+    {
+      "no": 26,
+      "word": "responsible",
+      "meanings": [
+        "책임 있는",
+        "원인이 되는"
+      ],
+      "examples": [
+        "what was responsible for the fire"
+      ],
+      "start": 189.96,
+      "end": 198.44
+    },
+    {
+      "no": 27,
+      "word": "lazy",
+      "meanings": [
+        "게으른"
+      ],
+      "examples": [
+        "he is lazy"
+      ],
+      "start": 198.44,
+      "end": 204.28
+    },
+    {
+      "no": 28,
+      "word": "likely",
+      "meanings": [
+        "무엇 할 것 같은"
+      ],
+      "examples": [
+        "she is likely to succeed"
+      ],
+      "start": 204.28,
+      "end": 211.56
+    },
+    {
+      "no": 29,
+      "word": "completely",
+      "meanings": [
+        "완전히"
+      ],
+      "examples": [
+        "I'm not completely sure"
+      ],
+      "start": 211.56,
+      "end": 218.31
+    },
+    {
+      "no": 30,
+      "word": "immediately",
+      "meanings": [
+        "즉시"
+      ],
+      "examples": [
+        "to answer immediately"
+      ],
+      "start": 218.31,
+      "end": 224.61
+    }
+  ],
+  "source_method": "en"
+}

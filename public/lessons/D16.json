@@ -1,0 +1,411 @@
+{
+  "lesson": "D16",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D16.mp3",
+  "model": "large-v3",
+  "duration_sec": 243.93,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "planet",
+      "meanings": [
+        "행성",
+        "지구"
+      ],
+      "examples": [
+        "The planet",
+        "Other planets"
+      ],
+      "start": 2.14,
+      "end": 9.99
+    },
+    {
+      "no": 2,
+      "word": "beauty",
+      "meanings": [
+        "아름다움",
+        "미인"
+      ],
+      "examples": [
+        "The beauty of the sunset"
+      ],
+      "start": 11.94,
+      "end": 20.39
+    },
+    {
+      "no": 3,
+      "word": "sight",
+      "meanings": [
+        "시력",
+        "봄",
+        "시야",
+        "광경"
+      ],
+      "examples": [
+        "To lose your sight"
+      ],
+      "start": 19.67,
+      "end": 29.64
+    },
+    {
+      "no": 4,
+      "word": "nation",
+      "meanings": [
+        "국가",
+        "민족"
+      ],
+      "examples": [
+        "The African nations"
+      ],
+      "start": 28.78,
+      "end": 34.71
+    },
+    {
+      "no": 5,
+      "word": "foreigner",
+      "meanings": [
+        "외국인"
+      ],
+      "examples": [
+        "Foreigners in Korea"
+      ],
+      "start": 36.5,
+      "end": 41.24
+    },
+    {
+      "no": 6,
+      "word": "band",
+      "meanings": [
+        "악단",
+        "악대",
+        "밴드",
+        "띠"
+      ],
+      "examples": [
+        "A rock band"
+      ],
+      "start": 43.06,
+      "end": 55.21
+    },
+    {
+      "no": 7,
+      "word": "straw",
+      "meanings": [
+        "밀집",
+        "빨대"
+      ],
+      "examples": [
+        "A straw hat"
+      ],
+      "start": 51.55,
+      "end": 61.2
+    },
+    {
+      "no": 8,
+      "word": "storm",
+      "meanings": [
+        "폭풍호"
+      ],
+      "examples": [
+        "Heavy storms"
+      ],
+      "start": 58.56,
+      "end": 67.0
+    },
+    {
+      "no": 9,
+      "word": "disease",
+      "meanings": [
+        "질병"
+      ],
+      "examples": [
+        "Heart disease"
+      ],
+      "start": 64.42,
+      "end": 72.84
+    },
+    {
+      "no": 10,
+      "word": "purpose",
+      "meanings": [
+        "목적"
+      ],
+      "examples": [
+        "The purpose of your visit"
+      ],
+      "start": 70.4,
+      "end": 77.44
+    },
+    {
+      "no": 11,
+      "word": "display",
+      "meanings": [
+        "전시",
+        "진열",
+        "전시하다",
+        "진열하다"
+      ],
+      "examples": [
+        "To display photos"
+      ],
+      "start": 76.68,
+      "end": 90.81
+    },
+    {
+      "no": 12,
+      "word": "reply",
+      "meanings": [
+        "대답하다",
+        "대답"
+      ],
+      "examples": [
+        "To reply to a question"
+      ],
+      "start": 87.16,
+      "end": 100.16
+    },
+    {
+      "no": 13,
+      "word": "record",
+      "meanings": [
+        "기록하다",
+        "녹음하다",
+        "녹화하다",
+        "기록"
+      ],
+      "examples": [
+        "To set the record"
+      ],
+      "start": 94.67,
+      "end": 109.23
+    },
+    {
+      "no": 14,
+      "word": "cheer",
+      "meanings": [
+        "환호하다",
+        "응원하다",
+        "힘을 북돋우다",
+        "환호",
+        "응원"
+      ],
+      "examples": [
+        "Cheer up"
+      ],
+      "start": 106.7,
+      "end": 123.4
+    },
+    {
+      "no": 15,
+      "word": "shake",
+      "meanings": [
+        "흔들다",
+        "흔들리다",
+        "밀크쉐이크"
+      ],
+      "examples": [
+        "To shake a bottle"
+      ],
+      "start": 118.01,
+      "end": 133.16
+    },
+    {
+      "no": 16,
+      "word": "key",
+      "meanings": [
+        "열쇠",
+        "비결",
+        "컴퓨터 키",
+        "핵심적인"
+      ],
+      "examples": [
+        "The key to success"
+      ],
+      "start": 126.81,
+      "end": 141.49
+    },
+    {
+      "no": 17,
+      "word": "wild",
+      "meanings": [
+        "야생을",
+        "야생"
+      ],
+      "examples": [
+        "The wild",
+        "Wild animals"
+      ],
+      "start": 137.33,
+      "end": 147.42
+    },
+    {
+      "no": 18,
+      "word": "square",
+      "meanings": [
+        "정사각형을",
+        "제곱을",
+        "정사각형",
+        "광장",
+        "제곱"
+      ],
+      "examples": [
+        "A square room"
+      ],
+      "start": 146.6,
+      "end": 158.76
+    },
+    {
+      "no": 19,
+      "word": "wake",
+      "meanings": [
+        "잠에서 깨다",
+        "깨우다"
+      ],
+      "examples": [
+        "Wake up"
+      ],
+      "start": 157.94,
+      "end": 163.81
+    },
+    {
+      "no": 20,
+      "word": "discover",
+      "meanings": [
+        "발견하다"
+      ],
+      "examples": [
+        "To discover new facts"
+      ],
+      "start": 165.52,
+      "end": 170.54
+    },
+    {
+      "no": 21,
+      "word": "solve",
+      "meanings": [
+        "풀다",
+        "해결하다"
+      ],
+      "examples": [
+        "To solve a problem"
+      ],
+      "start": 172.21,
+      "end": 180.34
+    },
+    {
+      "no": 22,
+      "word": "continue",
+      "meanings": [
+        "계속하다"
+      ],
+      "examples": [
+        "To continue to work"
+      ],
+      "start": 179.52,
+      "end": 186.93
+    },
+    {
+      "no": 23,
+      "word": "burn",
+      "meanings": [
+        "불타다",
+        "태우다"
+      ],
+      "examples": [
+        "To burn trash"
+      ],
+      "start": 186.01,
+      "end": 191.97
+    },
+    {
+      "no": 24,
+      "word": "simple",
+      "meanings": [
+        "간단한",
+        "단순한"
+      ],
+      "examples": [
+        "A simple question"
+      ],
+      "start": 193.84,
+      "end": 199.61
+    },
+    {
+      "no": 25,
+      "word": "quiet",
+      "meanings": [
+        "조용한"
+      ],
+      "examples": [
+        "A quiet place"
+      ],
+      "start": 201.44,
+      "end": 205.79
+    },
+    {
+      "no": 26,
+      "word": "traditional",
+      "meanings": [
+        "전통의",
+        "전통적인"
+      ],
+      "examples": [
+        "Traditional music"
+      ],
+      "start": 207.64,
+      "end": 213.56
+    },
+    {
+      "no": 27,
+      "word": "international",
+      "meanings": [
+        "국제의",
+        "국제적인"
+      ],
+      "examples": [
+        "An international game"
+      ],
+      "start": 214.96,
+      "end": 222.02
+    },
+    {
+      "no": 28,
+      "word": "huge",
+      "meanings": [
+        "거대한"
+      ],
+      "examples": [
+        "A huge rock"
+      ],
+      "start": 223.83,
+      "end": 228.2
+    },
+    {
+      "no": 29,
+      "word": "instead",
+      "meanings": [
+        "대신에"
+      ],
+      "examples": [
+        "If he can't go",
+        "I'll go instead"
+      ],
+      "start": 230.0,
+      "end": 235.62
+    },
+    {
+      "no": 30,
+      "word": "suddenly",
+      "meanings": [
+        "갑자기"
+      ],
+      "examples": [
+        "The bus stops suddenly"
+      ],
+      "start": 237.56,
+      "end": 242.36
+    }
+  ],
+  "source_method": "en"
+}

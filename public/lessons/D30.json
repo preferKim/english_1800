@@ -1,0 +1,392 @@
+{
+  "lesson": "D30",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D30.mp3",
+  "model": "large-v3",
+  "duration_sec": 217.73,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "climate",
+      "meanings": [
+        "기후"
+      ],
+      "examples": [
+        "A dry climate"
+      ],
+      "start": 2.15,
+      "end": 35.94
+    },
+    {
+      "no": 2,
+      "word": "degree",
+      "meanings": [
+        "온도",
+        "각도의 도",
+        "정도",
+        "학위"
+      ],
+      "examples": [
+        "A law degree"
+      ],
+      "start": 8.14,
+      "end": 35.94
+    },
+    {
+      "no": 3,
+      "word": "article",
+      "meanings": [
+        "기사",
+        "물품"
+      ],
+      "examples": [
+        "A magazine article"
+      ],
+      "start": 14.11,
+      "end": 35.94
+    },
+    {
+      "no": 4,
+      "word": "metal",
+      "meanings": [
+        "금속"
+      ],
+      "examples": [
+        "A metal pipe"
+      ],
+      "start": 24.54,
+      "end": 35.94
+    },
+    {
+      "no": 5,
+      "word": "monster",
+      "meanings": [
+        "괴물"
+      ],
+      "examples": [
+        "A monster with three heads"
+      ],
+      "start": 30.38,
+      "end": 35.94
+    },
+    {
+      "no": 6,
+      "word": "treasure",
+      "meanings": [
+        "보물"
+      ],
+      "examples": [
+        "Hidden treasure"
+      ],
+      "start": 37.92,
+      "end": 76.22
+    },
+    {
+      "no": 7,
+      "word": "symbol",
+      "meanings": [
+        "상징"
+      ],
+      "examples": [
+        "A symbol of hope"
+      ],
+      "start": 43.24,
+      "end": 76.22
+    },
+    {
+      "no": 8,
+      "word": "ceremony",
+      "meanings": [
+        "의식"
+      ],
+      "examples": [
+        "A wedding ceremony"
+      ],
+      "start": 49.69,
+      "end": 76.22
+    },
+    {
+      "no": 9,
+      "word": "congratulations",
+      "meanings": [
+        "축하"
+      ],
+      "examples": [
+        "A congratulations example"
+      ],
+      "start": 55.84,
+      "end": 76.22
+    },
+    {
+      "no": 10,
+      "word": "breath",
+      "meanings": [
+        "숨",
+        "호흡"
+      ],
+      "examples": [
+        "To take a deep breath"
+      ],
+      "start": 62.22,
+      "end": 76.22
+    },
+    {
+      "no": 11,
+      "word": "death",
+      "meanings": [
+        "죽음"
+      ],
+      "examples": [
+        "A sudden death"
+      ],
+      "start": 69.48,
+      "end": 76.22
+    },
+    {
+      "no": 12,
+      "word": "headache",
+      "meanings": [
+        "두통"
+      ],
+      "examples": [
+        "I have a headache"
+      ],
+      "start": 75.34,
+      "end": 112.12
+    },
+    {
+      "no": 13,
+      "word": "muscle",
+      "meanings": [
+        "근육"
+      ],
+      "examples": [
+        "Leg muscles"
+      ],
+      "start": 81.47,
+      "end": 112.12
+    },
+    {
+      "no": 14,
+      "word": "base",
+      "meanings": [
+        "기초",
+        "토대",
+        "기반",
+        "근거지",
+        "어디에 근거를 두다"
+      ],
+      "examples": [
+        "Base on",
+        "A strong base"
+      ],
+      "start": 87.44,
+      "end": 112.12
+    },
+    {
+      "no": 15,
+      "word": "lock",
+      "meanings": [
+        "잠그다",
+        "자물쇠"
+      ],
+      "examples": [
+        "To lock the door"
+      ],
+      "start": 100.74,
+      "end": 112.12
+    },
+    {
+      "no": 16,
+      "word": "dislike",
+      "meanings": [
+        "싫어하다",
+        "싫어함"
+      ],
+      "examples": [
+        "I dislike him"
+      ],
+      "start": 108.1,
+      "end": 149.53
+    },
+    {
+      "no": 17,
+      "word": "feed",
+      "meanings": [
+        "먹을 것을 주다",
+        "먹이다"
+      ],
+      "examples": [
+        "To feed a dog"
+      ],
+      "start": 115.79,
+      "end": 149.53
+    },
+    {
+      "no": 18,
+      "word": "lend",
+      "meanings": [
+        "빌려주다"
+      ],
+      "examples": [
+        "To lend him some money"
+      ],
+      "start": 123.54,
+      "end": 149.53
+    },
+    {
+      "no": 19,
+      "word": "suffer",
+      "meanings": [
+        "겪다"
+      ],
+      "examples": [
+        "To suffer a lot of pain"
+      ],
+      "start": 130.05,
+      "end": 149.53
+    },
+    {
+      "no": 20,
+      "word": "hang",
+      "meanings": [
+        "걸다",
+        "걸리다",
+        "목을 매달다"
+      ],
+      "examples": [
+        "Hang your jacket there"
+      ],
+      "start": 136.61,
+      "end": 149.53
+    },
+    {
+      "no": 21,
+      "word": "wrap",
+      "meanings": [
+        "싸다",
+        "포장하다"
+      ],
+      "examples": [
+        "To wrap a present"
+      ],
+      "start": 145.88,
+      "end": 188.3
+    },
+    {
+      "no": 22,
+      "word": "pleasant",
+      "meanings": [
+        "쾌적한",
+        "즐거운"
+      ],
+      "examples": [
+        "A pleasant trip"
+      ],
+      "start": 153.48,
+      "end": 188.3
+    },
+    {
+      "no": 23,
+      "word": "lonely",
+      "meanings": [
+        "외로운"
+      ],
+      "examples": [
+        "A lonely old man"
+      ],
+      "start": 160.78,
+      "end": 188.3
+    },
+    {
+      "no": 24,
+      "word": "thirsty",
+      "meanings": [
+        "목마른"
+      ],
+      "examples": [
+        "I'm thirsty"
+      ],
+      "start": 167.17,
+      "end": 188.3
+    },
+    {
+      "no": 25,
+      "word": "polite",
+      "meanings": [
+        "예의바른",
+        "공손한"
+      ],
+      "examples": [
+        "Be polite to others"
+      ],
+      "start": 173.46,
+      "end": 188.3
+    },
+    {
+      "no": 26,
+      "word": "rude",
+      "meanings": [
+        "무례한"
+      ],
+      "examples": [
+        "A rude question"
+      ],
+      "start": 181.29,
+      "end": 188.3
+    },
+    {
+      "no": 27,
+      "word": "excellent",
+      "meanings": [
+        "뛰어난",
+        "탁월한"
+      ],
+      "examples": [
+        "An excellent work"
+      ],
+      "start": 187.52,
+      "end": 194.2
+    },
+    {
+      "no": 28,
+      "word": "overweight",
+      "meanings": [
+        "과체중을",
+        "중량 초과의"
+      ],
+      "examples": [
+        "I'm ten kilos overweight"
+      ],
+      "start": 195.16,
+      "end": 216.28
+    },
+    {
+      "no": 29,
+      "word": "perhaps",
+      "meanings": [
+        "아마도"
+      ],
+      "examples": [
+        "Perhaps it will rain"
+      ],
+      "start": 203.91,
+      "end": 216.28
+    },
+    {
+      "no": 30,
+      "word": "twice",
+      "meanings": [
+        "두 번",
+        "두 배로"
+      ],
+      "examples": [
+        "To go twice a week"
+      ],
+      "start": 210.29,
+      "end": 216.28
+    }
+  ],
+  "source_method": "en"
+}

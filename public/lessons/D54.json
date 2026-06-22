@@ -1,0 +1,424 @@
+{
+  "lesson": "D54",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D54.mp3",
+  "model": "large-v3",
+  "duration_sec": 243.57,
+  "items": [
+    {
+      "no": 1,
+      "word": "conductor",
+      "meanings": [
+        "지휘자",
+        "열차 승무원"
+      ],
+      "examples": [
+        "A famous conductor"
+      ],
+      "start": 1.37,
+      "end": 10.12
+    },
+    {
+      "no": 2,
+      "word": "court",
+      "meanings": [
+        "법정",
+        "경기장",
+        "코트",
+        "공정"
+      ],
+      "examples": [
+        "A court of law"
+      ],
+      "start": 10.12,
+      "end": 20.23
+    },
+    {
+      "no": 3,
+      "word": "dictation",
+      "meanings": [
+        "받아쓰기"
+      ],
+      "examples": [
+        "To take dictation"
+      ],
+      "start": 21.03,
+      "end": 26.91
+    },
+    {
+      "no": 4,
+      "word": "jam",
+      "meanings": [
+        "잼",
+        "막힘",
+        "혼잡"
+      ],
+      "examples": [
+        "A traffic jam"
+      ],
+      "start": 26.91,
+      "end": 35.04
+    },
+    {
+      "no": 5,
+      "word": "string",
+      "meanings": [
+        "끈",
+        "줄",
+        "현"
+      ],
+      "examples": [
+        "To tie it with string"
+      ],
+      "start": 35.04,
+      "end": 43.23
+    },
+    {
+      "no": 6,
+      "word": "feather",
+      "meanings": [
+        "깃털"
+      ],
+      "examples": [
+        "Duck feathers"
+      ],
+      "start": 43.23,
+      "end": 49.16
+    },
+    {
+      "no": 7,
+      "word": "scale",
+      "meanings": [
+        "규모",
+        "등급",
+        "자울"
+      ],
+      "examples": [
+        "A large scale"
+      ],
+      "start": 49.16,
+      "end": 57.5
+    },
+    {
+      "no": 8,
+      "word": "spot",
+      "meanings": [
+        "장소",
+        "지점",
+        "반점",
+        "얼룩"
+      ],
+      "examples": [
+        "A quiet spot on the beach"
+      ],
+      "start": 57.5,
+      "end": 67.78
+    },
+    {
+      "no": 9,
+      "word": "shame",
+      "meanings": [
+        "부끄러움",
+        "수치",
+        "유감"
+      ],
+      "examples": [
+        "What a shame",
+        "what a shame"
+      ],
+      "start": 67.78,
+      "end": 76.48
+    },
+    {
+      "no": 10,
+      "word": "chemistry",
+      "meanings": [
+        "화학"
+      ],
+      "examples": [
+        "to study chemistry",
+        "To study chemistry"
+      ],
+      "start": 76.48,
+      "end": 82.69
+    },
+    {
+      "no": 11,
+      "word": "import",
+      "meanings": [
+        "수입품",
+        "수입하다"
+      ],
+      "examples": [
+        "Oil imports",
+        "oil imports"
+      ],
+      "start": 82.69,
+      "end": 90.22
+    },
+    {
+      "no": 12,
+      "word": "load",
+      "meanings": [
+        "짐",
+        "싣다"
+      ],
+      "examples": [
+        "a heavy load",
+        "A heavy load"
+      ],
+      "start": 90.76,
+      "end": 97.54
+    },
+    {
+      "no": 13,
+      "word": "suspect",
+      "meanings": [
+        "의심하다",
+        "용의자"
+      ],
+      "examples": [
+        "To arrest a suspect"
+      ],
+      "start": 97.52,
+      "end": 105.5
+    },
+    {
+      "no": 14,
+      "word": "pat",
+      "meanings": [
+        "토닥이다"
+      ],
+      "examples": [
+        "to pat a dog on the head"
+      ],
+      "start": 103.42,
+      "end": 114.35
+    },
+    {
+      "no": 15,
+      "word": "liquid",
+      "meanings": [
+        "액체"
+      ],
+      "examples": [
+        "liquid soap"
+      ],
+      "start": 115.21,
+      "end": 121.48
+    },
+    {
+      "no": 16,
+      "word": "solid",
+      "meanings": [
+        "고체"
+      ],
+      "examples": [
+        "a solid object"
+      ],
+      "start": 121.74,
+      "end": 130.73
+    },
+    {
+      "no": 17,
+      "word": "leftover",
+      "meanings": [
+        "먹다 남은 음식",
+        "먹다 남은",
+        "악한",
+        "악",
+        "소유하다",
+        "가지고 있다",
+        "기부하다",
+        "기여하다",
+        "회복되다",
+        "되찾다"
+      ],
+      "examples": [
+        "to recover from the operation",
+        "leftover bread"
+      ],
+      "start": 130.73,
+      "end": 172.9
+    },
+    {
+      "no": 18,
+      "word": "evil",
+      "meanings": [
+        "악한",
+        "악"
+      ],
+      "examples": [
+        "an evil man"
+      ],
+      "start": 140.66,
+      "end": 147.61
+    },
+    {
+      "no": 19,
+      "word": "possess",
+      "meanings": [
+        "소유하다",
+        "가지고 있다"
+      ],
+      "examples": [
+        "to possess a car"
+      ],
+      "start": 147.61,
+      "end": 155.62
+    },
+    {
+      "no": 20,
+      "word": "contribute",
+      "meanings": [
+        "기부하다",
+        "기여하다"
+      ],
+      "examples": [
+        "to contribute money to charities"
+      ],
+      "start": 155.62,
+      "end": 164.36
+    },
+    {
+      "no": 21,
+      "word": "recover",
+      "meanings": [
+        "회복되다",
+        "되찾다"
+      ],
+      "examples": [
+        "to recover from the operation"
+      ],
+      "start": 164.36,
+      "end": 172.82
+    },
+    {
+      "no": 22,
+      "word": "ignore",
+      "meanings": [
+        "무시하다"
+      ],
+      "examples": [
+        "to ignore his advice"
+      ],
+      "start": 172.82,
+      "end": 197.64
+    },
+    {
+      "no": 23,
+      "word": "diligent",
+      "meanings": [
+        "금면한",
+        "성실한"
+      ],
+      "examples": [
+        "a diligent student"
+      ],
+      "start": 179.8,
+      "end": 197.64
+    },
+    {
+      "no": 24,
+      "word": "pale",
+      "meanings": [
+        "창백한",
+        "열분"
+      ],
+      "examples": [
+        "to go pale"
+      ],
+      "start": 187.76,
+      "end": 197.64
+    },
+    {
+      "no": 25,
+      "word": "brief",
+      "meanings": [
+        "짧은",
+        "간단한"
+      ],
+      "examples": [
+        "a brief visit"
+      ],
+      "start": 195.38,
+      "end": 228.68
+    },
+    {
+      "no": 26,
+      "word": "rare",
+      "meanings": [
+        "드문",
+        "살짝 익힌",
+        "유전의",
+        "유전학의",
+        "유기농의",
+        "유기체의",
+        "신성한",
+        "성스러운",
+        "불행히도",
+        "시청해주셔서 감사합니다"
+      ],
+      "examples": [
+        "I can't do it",
+        "a rare disease"
+      ],
+      "start": 203.11,
+      "end": 242.81
+    },
+    {
+      "no": 27,
+      "word": "genetic",
+      "meanings": [
+        "유전의",
+        "유전학의"
+      ],
+      "examples": [
+        "genetic engineering"
+      ],
+      "start": 211.98,
+      "end": 228.68
+    },
+    {
+      "no": 28,
+      "word": "organic",
+      "meanings": [
+        "유기농의",
+        "유기체의"
+      ],
+      "examples": [
+        "organic food"
+      ],
+      "start": 219.78,
+      "end": 228.68
+    },
+    {
+      "no": 29,
+      "word": "holy",
+      "meanings": [
+        "신성한",
+        "성스러운"
+      ],
+      "examples": [
+        "holy water"
+      ],
+      "start": 227.72,
+      "end": 242.27
+    },
+    {
+      "no": 30,
+      "word": "unfortunately",
+      "meanings": [
+        "불행히도",
+        "시청해주셔서 감사합니다"
+      ],
+      "examples": [
+        "I can't do it"
+      ],
+      "start": 235.37,
+      "end": 242.27
+    }
+  ],
+  "item_count": 30,
+  "flags": [],
+  "source_method": "merge_en2_ko"
+}

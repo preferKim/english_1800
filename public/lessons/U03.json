@@ -1,0 +1,418 @@
+{
+  "lesson": "U03",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-U03.mp3",
+  "model": "large-v3",
+  "duration_sec": 260.39,
+  "item_count": 30,
+  "flags": [
+    {
+      "no": 8,
+      "word": "legend",
+      "issues": [
+        "no_example"
+      ]
+    },
+    {
+      "no": 20,
+      "word": "essential",
+      "issues": [
+        "no_example"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "no": 1,
+      "word": "emperor",
+      "meanings": [
+        "황제"
+      ],
+      "examples": [
+        "Roman emperors"
+      ],
+      "start": 1.85,
+      "end": 13.95
+    },
+    {
+      "no": 2,
+      "word": "automobile",
+      "meanings": [
+        "자동차"
+      ],
+      "examples": [
+        "the automobile industry"
+      ],
+      "start": 8.31,
+      "end": 13.95
+    },
+    {
+      "no": 3,
+      "word": "raft",
+      "meanings": [
+        "땜목",
+        "고무보트"
+      ],
+      "examples": [
+        "to cross a river on a raft"
+      ],
+      "start": 16.03,
+      "end": 30.92
+    },
+    {
+      "no": 4,
+      "word": "rhythm",
+      "meanings": [
+        "리듬",
+        "율동"
+      ],
+      "examples": [
+        "to dance to the rhythm of the music"
+      ],
+      "start": 23.8,
+      "end": 30.92
+    },
+    {
+      "no": 5,
+      "word": "oxygen",
+      "meanings": [
+        "센소"
+      ],
+      "examples": [
+        "the symbol for oxygen is O2"
+      ],
+      "start": 30.92,
+      "end": 52.47
+    },
+    {
+      "no": 6,
+      "word": "layer",
+      "meanings": [
+        "층",
+        "막",
+        "겹"
+      ],
+      "examples": [
+        "the ozone layer"
+      ],
+      "start": 39.58,
+      "end": 52.47
+    },
+    {
+      "no": 7,
+      "word": "discovery",
+      "meanings": [
+        "발견"
+      ],
+      "examples": [
+        "to make a discovery"
+      ],
+      "start": 47.32,
+      "end": 52.47
+    },
+    {
+      "no": 8,
+      "word": "legend",
+      "meanings": [
+        "전설"
+      ],
+      "examples": [],
+      "start": 53.78,
+      "end": 67.5
+    },
+    {
+      "no": 9,
+      "word": "budget",
+      "meanings": [
+        "예산"
+      ],
+      "examples": [
+        "a monthly budget"
+      ],
+      "start": 57.06,
+      "end": 67.5
+    },
+    {
+      "no": 10,
+      "word": "expense",
+      "meanings": [
+        "경비",
+        "지출"
+      ],
+      "examples": [
+        "living expenses"
+      ],
+      "start": 66.46,
+      "end": 87.59
+    },
+    {
+      "no": 11,
+      "word": "poverty",
+      "meanings": [
+        "가난",
+        "빈곤"
+      ],
+      "examples": [
+        "to live in poverty"
+      ],
+      "start": 74.14,
+      "end": 87.59
+    },
+    {
+      "no": 12,
+      "word": "decade",
+      "meanings": [
+        "십년"
+      ],
+      "examples": [
+        "a decade ago"
+      ],
+      "start": 82.64,
+      "end": 87.59
+    },
+    {
+      "no": 13,
+      "word": "creation",
+      "meanings": [
+        "창조",
+        "창작",
+        "창출"
+      ],
+      "examples": [
+        "job creation",
+        "a literary creation"
+      ],
+      "start": 88.92,
+      "end": 104.53
+    },
+    {
+      "no": 14,
+      "word": "resident",
+      "meanings": [
+        "거주자",
+        "주민",
+        "대표하는"
+      ],
+      "examples": [
+        "local residents"
+      ],
+      "start": 100.57,
+      "end": 117.2
+    },
+    {
+      "no": 15,
+      "word": "representative",
+      "meanings": [
+        "대표자",
+        "대표하는"
+      ],
+      "examples": [
+        "a representative of the UN"
+      ],
+      "start": 109.41,
+      "end": 117.2
+    },
+    {
+      "no": 16,
+      "word": "submarine",
+      "meanings": [
+        "잠수함",
+        "해저의",
+        "해양의"
+      ],
+      "examples": [
+        "a nuclear submarine",
+        "submarine cables"
+      ],
+      "start": 118.54,
+      "end": 138.75
+    },
+    {
+      "no": 17,
+      "word": "marine",
+      "meanings": [
+        "해양의",
+        "해병"
+      ],
+      "examples": [
+        "marine life"
+      ],
+      "start": 130.39,
+      "end": 138.75
+    },
+    {
+      "no": 18,
+      "word": "household",
+      "meanings": [
+        "가사의",
+        "가족"
+      ],
+      "examples": [
+        "household chores"
+      ],
+      "start": 137.71,
+      "end": 165.76
+    },
+    {
+      "no": 19,
+      "word": "concrete",
+      "meanings": [
+        "구체적인",
+        "콘크리트로 된",
+        "콘크리트"
+      ],
+      "examples": [
+        "concrete evidence",
+        "a concrete wall"
+      ],
+      "start": 144.1,
+      "end": 165.76
+    },
+    {
+      "no": 20,
+      "word": "essential",
+      "meanings": [
+        "필수적인",
+        "본질적인"
+      ],
+      "examples": [],
+      "start": 157.0,
+      "end": 165.76
+    },
+    {
+      "no": 21,
+      "word": "essentials",
+      "meanings": [
+        "필수적인 것"
+      ],
+      "examples": [
+        "water is essential for living things"
+      ],
+      "start": 162.27,
+      "end": 173.32
+    },
+    {
+      "no": 22,
+      "word": "expose",
+      "meanings": [
+        "드러내다",
+        "노철시키다",
+        "폭로하다"
+      ],
+      "examples": [
+        "to be exposed to dangerous chemicals"
+      ],
+      "start": 170.22,
+      "end": 206.68
+    },
+    {
+      "no": 23,
+      "word": "isolate",
+      "meanings": [
+        "고립시키다",
+        "분리하다",
+        "격리하다"
+      ],
+      "examples": [
+        "the town was isolated by the flood"
+      ],
+      "start": 180.73,
+      "end": 206.68
+    },
+    {
+      "no": 24,
+      "word": "organize",
+      "meanings": [
+        "조직하다",
+        "준비하다",
+        "체계화하다"
+      ],
+      "examples": [
+        "to organize a meeting"
+      ],
+      "start": 191.37,
+      "end": 206.68
+    },
+    {
+      "no": 25,
+      "word": "summarize",
+      "meanings": [
+        "요약하다",
+        "시작하다",
+        "진소하다",
+        "출시하다"
+      ],
+      "examples": [
+        "to summarize an article",
+        "to launch a campaign"
+      ],
+      "start": 201.1,
+      "end": 244.32
+    },
+    {
+      "no": 26,
+      "word": "reasonable",
+      "meanings": [
+        "합리적인",
+        "타당한",
+        "적정한"
+      ],
+      "examples": [
+        "reasonable doubt",
+        "a reasonable prize"
+      ],
+      "start": 217.62,
+      "end": 244.32
+    },
+    {
+      "no": 27,
+      "word": "useless",
+      "meanings": [
+        "쓸모없는"
+      ],
+      "examples": [
+        "a website full of useless information"
+      ],
+      "start": 228.73,
+      "end": 244.32
+    },
+    {
+      "no": 28,
+      "word": "touching",
+      "meanings": [
+        "감동적인"
+      ],
+      "examples": [
+        "a touching story"
+      ],
+      "start": 236.89,
+      "end": 244.32
+    },
+    {
+      "no": 29,
+      "word": "impressive",
+      "meanings": [
+        "인상적인",
+        "감명 깊은"
+      ],
+      "examples": [
+        "an impressive performance"
+      ],
+      "start": 243.24,
+      "end": 258.83
+    },
+    {
+      "no": 30,
+      "word": "energetic",
+      "meanings": [
+        "정력적인",
+        "활기찬"
+      ],
+      "examples": [
+        "an energetic president"
+      ],
+      "start": 250.88,
+      "end": 258.83
+    }
+  ],
+  "source_method": "en"
+}

@@ -1,0 +1,395 @@
+{
+  "lesson": "D53",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D53.mp3",
+  "model": "large-v3",
+  "duration_sec": 234.89,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "appetite",
+      "meanings": [
+        "식욕"
+      ],
+      "examples": [
+        "To lose your appetite"
+      ],
+      "start": 2.74,
+      "end": 7.12
+    },
+    {
+      "no": 2,
+      "word": "beast",
+      "meanings": [
+        "짐승",
+        "야소"
+      ],
+      "examples": [
+        "Beauty and the Beast"
+      ],
+      "start": 9.07,
+      "end": 17.14
+    },
+    {
+      "no": 3,
+      "word": "palm",
+      "meanings": [
+        "손바닥",
+        "야자"
+      ],
+      "examples": [
+        "In the palm of my hand"
+      ],
+      "start": 16.36,
+      "end": 22.74
+    },
+    {
+      "no": 4,
+      "word": "lab",
+      "meanings": [
+        "실험실",
+        "실습실"
+      ],
+      "examples": [
+        "The computer lab"
+      ],
+      "start": 24.4,
+      "end": 32.59
+    },
+    {
+      "no": 5,
+      "word": "horror",
+      "meanings": [
+        "공포"
+      ],
+      "examples": [
+        "The horror of war"
+      ],
+      "start": 31.81,
+      "end": 36.77
+    },
+    {
+      "no": 6,
+      "word": "chore",
+      "meanings": [
+        "정기적으로 하는 집안 잡일"
+      ],
+      "examples": [
+        "Daily chores"
+      ],
+      "start": 38.45,
+      "end": 46.65
+    },
+    {
+      "no": 7,
+      "word": "outline",
+      "meanings": [
+        "개요",
+        "윤곽"
+      ],
+      "examples": [
+        "An outline of plans"
+      ],
+      "start": 45.79,
+      "end": 51.78
+    },
+    {
+      "no": 8,
+      "word": "crosswalk",
+      "meanings": [
+        "횡단보도"
+      ],
+      "examples": [
+        "To block the crosswalk"
+      ],
+      "start": 53.47,
+      "end": 58.77
+    },
+    {
+      "no": 9,
+      "word": "rhyme",
+      "meanings": [
+        "시의 운",
+        "시의 가군"
+      ],
+      "examples": [
+        "A poem written in rhyme"
+      ],
+      "start": 60.15,
+      "end": 69.98
+    },
+    {
+      "no": 10,
+      "word": "charm",
+      "meanings": [
+        "매력",
+        "매혹하다"
+      ],
+      "examples": [
+        "A woman of great charm"
+      ],
+      "start": 69.12,
+      "end": 75.47
+    },
+    {
+      "no": 11,
+      "word": "force",
+      "meanings": [
+        "힘",
+        "무력",
+        "폭력",
+        "강요하다"
+      ],
+      "examples": [
+        "Military force"
+      ],
+      "start": 77.15,
+      "end": 90.16
+    },
+    {
+      "no": 12,
+      "word": "function",
+      "meanings": [
+        "기능",
+        "기능하다"
+      ],
+      "examples": [
+        "The functions of art"
+      ],
+      "start": 86.3,
+      "end": 95.15
+    },
+    {
+      "no": 13,
+      "word": "contrast",
+      "meanings": [
+        "대조",
+        "차이",
+        "대조하다",
+        "대비하다"
+      ],
+      "examples": [
+        "In contrast"
+      ],
+      "start": 94.15,
+      "end": 104.9
+    },
+    {
+      "no": 14,
+      "word": "assist",
+      "meanings": [
+        "돕다",
+        "도움 주기"
+      ],
+      "examples": [
+        "To assist your teacher"
+      ],
+      "start": 103.92,
+      "end": 110.79
+    },
+    {
+      "no": 15,
+      "word": "employ",
+      "meanings": [
+        "고용하다"
+      ],
+      "examples": [
+        "To employ her as a secretary"
+      ],
+      "start": 112.58,
+      "end": 117.72
+    },
+    {
+      "no": 16,
+      "word": "govern",
+      "meanings": [
+        "통치하다",
+        "지배하다"
+      ],
+      "examples": [
+        "To govern the country"
+      ],
+      "start": 119.38,
+      "end": 130.46
+    },
+    {
+      "no": 17,
+      "word": "entertain",
+      "meanings": [
+        "즐겁게 하다"
+      ],
+      "examples": [
+        "To entertain the audience"
+      ],
+      "start": 127.22,
+      "end": 135.69
+    },
+    {
+      "no": 18,
+      "word": "criticize",
+      "meanings": [
+        "비판하다",
+        "비난하다",
+        "비평하다"
+      ],
+      "examples": [
+        "To criticize the government"
+      ],
+      "start": 134.83,
+      "end": 145.42
+    },
+    {
+      "no": 19,
+      "word": "indicate",
+      "meanings": [
+        "보여주다",
+        "가리키다"
+      ],
+      "examples": [
+        "To indicate the chair"
+      ],
+      "start": 144.56,
+      "end": 151.0
+    },
+    {
+      "no": 20,
+      "word": "react",
+      "meanings": [
+        "반응하다"
+      ],
+      "examples": [
+        "To react to the news"
+      ],
+      "start": 152.88,
+      "end": 157.94
+    },
+    {
+      "no": 21,
+      "word": "dare",
+      "meanings": [
+        "감히 무엇하다"
+      ],
+      "examples": [
+        "To dare to ask for money"
+      ],
+      "start": 159.56,
+      "end": 165.24
+    },
+    {
+      "no": 22,
+      "word": "obvious",
+      "meanings": [
+        "명백한",
+        "분명한"
+      ],
+      "examples": [
+        "An obvious mistake"
+      ],
+      "start": 167.03,
+      "end": 173.12
+    },
+    {
+      "no": 23,
+      "word": "facial",
+      "meanings": [
+        "얼굴을"
+      ],
+      "examples": [
+        "A facial expression"
+      ],
+      "start": 174.76,
+      "end": 182.18
+    },
+    {
+      "no": 24,
+      "word": "confident",
+      "meanings": [
+        "자신 있는",
+        "확신하는"
+      ],
+      "examples": [
+        "A confident voice"
+      ],
+      "start": 181.34,
+      "end": 188.14
+    },
+    {
+      "no": 25,
+      "word": "proper",
+      "meanings": [
+        "적절한"
+      ],
+      "examples": [
+        "A proper way"
+      ],
+      "start": 189.95,
+      "end": 194.31
+    },
+    {
+      "no": 26,
+      "word": "typical",
+      "meanings": [
+        "전형적인"
+      ],
+      "examples": [
+        "A typical example"
+      ],
+      "start": 195.87,
+      "end": 200.78
+    },
+    {
+      "no": 27,
+      "word": "outer",
+      "meanings": [
+        "밖의",
+        "외부의"
+      ],
+      "examples": [
+        "The outer walls of a house"
+      ],
+      "start": 202.9,
+      "end": 209.16
+    },
+    {
+      "no": 28,
+      "word": "realistic",
+      "meanings": [
+        "현실적인"
+      ],
+      "examples": [
+        "A realistic goal"
+      ],
+      "start": 210.72,
+      "end": 218.36
+    },
+    {
+      "no": 29,
+      "word": "underwater",
+      "meanings": [
+        "물속을",
+        "물속으로"
+      ],
+      "examples": [
+        "An underwater camera"
+      ],
+      "start": 217.34,
+      "end": 224.16
+    },
+    {
+      "no": 30,
+      "word": "fairly",
+      "meanings": [
+        "꽤",
+        "상당히",
+        "공정하게"
+      ],
+      "examples": [
+        "A fairly easy book"
+      ],
+      "start": 226.12,
+      "end": 233.44
+    }
+  ],
+  "source_method": "en"
+}

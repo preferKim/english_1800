@@ -1,0 +1,406 @@
+{
+  "lesson": "U05",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-U05.mp3",
+  "model": "large-v3",
+  "duration_sec": 264.96,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "editor",
+      "meanings": [
+        "편집자"
+      ],
+      "examples": [
+        "To work as an editor in a publishing company"
+      ],
+      "start": 0.2,
+      "end": 5.0
+    },
+    {
+      "no": 2,
+      "word": "compass",
+      "meanings": [
+        "나침반",
+        "컴퍼스"
+      ],
+      "examples": [
+        "A map and compass"
+      ],
+      "start": 11.68,
+      "end": 17.86
+    },
+    {
+      "no": 3,
+      "word": "dipper",
+      "meanings": [
+        "곡자"
+      ],
+      "examples": [
+        "Please hand me a dipper"
+      ],
+      "start": 19.73,
+      "end": 24.19
+    },
+    {
+      "no": 4,
+      "word": "volume",
+      "meanings": [
+        "음량",
+        "볼륨",
+        "양",
+        "책"
+      ],
+      "examples": [
+        "Turn the volume up"
+      ],
+      "start": 25.76,
+      "end": 33.73
+    },
+    {
+      "no": 5,
+      "word": "rainforest",
+      "meanings": [
+        "열대오림"
+      ],
+      "examples": [
+        "The Amazon rainforest"
+      ],
+      "start": 35.23,
+      "end": 40.34
+    },
+    {
+      "no": 6,
+      "word": "wetland",
+      "meanings": [
+        "습지",
+        "습지대"
+      ],
+      "examples": [
+        "To protect wetlands"
+      ],
+      "start": 42.52,
+      "end": 48.55
+    },
+    {
+      "no": 7,
+      "word": "trait",
+      "meanings": [
+        "특성",
+        "특징"
+      ],
+      "examples": [
+        "A personality trait"
+      ],
+      "start": 50.0,
+      "end": 55.0
+    },
+    {
+      "no": 8,
+      "word": "firework",
+      "meanings": [
+        "폭죽",
+        "불꽃놀이"
+      ],
+      "examples": [
+        "To watch fireworks"
+      ],
+      "start": 50.01,
+      "end": 57.58
+    },
+    {
+      "no": 9,
+      "word": "parade",
+      "meanings": [
+        "파레이드",
+        "가도행진"
+      ],
+      "examples": [
+        "A big New Year parade"
+      ],
+      "start": 59.62,
+      "end": 65.95
+    },
+    {
+      "no": 10,
+      "word": "vocabulary",
+      "meanings": [
+        "어휘"
+      ],
+      "examples": [
+        "Reading will increase your vocabulary"
+      ],
+      "start": 67.52,
+      "end": 73.37
+    },
+    {
+      "no": 11,
+      "word": "destruction",
+      "meanings": [
+        "파괴"
+      ],
+      "examples": [
+        "The destruction of the rainforests"
+      ],
+      "start": 81.53,
+      "end": 87.35
+    },
+    {
+      "no": 12,
+      "word": "impression",
+      "meanings": [
+        "인상"
+      ],
+      "examples": [
+        "My first impression of you"
+      ],
+      "start": 88.54,
+      "end": 94.06
+    },
+    {
+      "no": 13,
+      "word": "reputation",
+      "meanings": [
+        "평판",
+        "명성"
+      ],
+      "examples": [
+        "To have a good reputation",
+        "To have a bad reputation"
+      ],
+      "start": 95.49,
+      "end": 104.96
+    },
+    {
+      "no": 14,
+      "word": "witness",
+      "meanings": [
+        "목격자",
+        "증인",
+        "목격하다"
+      ],
+      "examples": [
+        "The only witness to the accident"
+      ],
+      "start": 106.99,
+      "end": 114.97
+    },
+    {
+      "no": 15,
+      "word": "shade",
+      "meanings": [
+        "그늘",
+        "전등의 갓",
+        "그늘지게 하다"
+      ],
+      "examples": [
+        "To sit in the shade"
+      ],
+      "start": 116.68,
+      "end": 124.33
+    },
+    {
+      "no": 16,
+      "word": "interview",
+      "meanings": [
+        "면접",
+        "인터뷰",
+        "면접을 보다",
+        "인터뷰를 하다"
+      ],
+      "examples": [
+        "A job interview"
+      ],
+      "start": 123.61,
+      "end": 134.7
+    },
+    {
+      "no": 17,
+      "word": "fund",
+      "meanings": [
+        "기금",
+        "자금",
+        "자금을 대다"
+      ],
+      "examples": [
+        "To raise funds"
+      ],
+      "start": 136.76,
+      "end": 143.64
+    },
+    {
+      "no": 18,
+      "word": "download",
+      "meanings": [
+        "다운로드 하다",
+        "내려봤다",
+        "다운로드한 데이터"
+      ],
+      "examples": [
+        "To download songs from the internet"
+      ],
+      "start": 145.11,
+      "end": 154.85
+    },
+    {
+      "no": 19,
+      "word": "upload",
+      "meanings": [
+        "업로드 하다",
+        "업로드"
+      ],
+      "examples": [
+        "To upload files to the internet"
+      ],
+      "start": 156.54,
+      "end": 163.69
+    },
+    {
+      "no": 20,
+      "word": "update",
+      "meanings": [
+        "업데이트 하다",
+        "최신 정보를 알려주다",
+        "업데이트",
+        "최신 정보"
+      ],
+      "examples": [
+        "The website is updated daily"
+      ],
+      "start": 165.56,
+      "end": 178.66
+    },
+    {
+      "no": 21,
+      "word": "transport",
+      "meanings": [
+        "운송하다",
+        "운송",
+        "교통"
+      ],
+      "examples": [
+        "To transport goods"
+      ],
+      "start": 180.58,
+      "end": 190.26
+    },
+    {
+      "no": 22,
+      "word": "digest",
+      "meanings": [
+        "소화하다"
+      ],
+      "examples": [
+        "To digest food"
+      ],
+      "start": 192.0,
+      "end": 197.2
+    },
+    {
+      "no": 23,
+      "word": "disturb",
+      "meanings": [
+        "방해하다"
+      ],
+      "examples": [
+        "I'm sorry to disturb you"
+      ],
+      "start": 199.08,
+      "end": 204.32
+    },
+    {
+      "no": 24,
+      "word": "maintain",
+      "meanings": [
+        "유지하다",
+        "주장하다"
+      ],
+      "examples": [
+        "To maintain a balance"
+      ],
+      "start": 205.8,
+      "end": 212.39
+    },
+    {
+      "no": 25,
+      "word": "wag",
+      "meanings": [
+        "흔들다"
+      ],
+      "examples": [
+        "The dog",
+        "The dog wagged its tail"
+      ],
+      "start": 214.14,
+      "end": 219.34
+    },
+    {
+      "no": 26,
+      "word": "appropriate",
+      "meanings": [
+        "적절한"
+      ],
+      "examples": [
+        "An appropriate method"
+      ],
+      "start": 221.28,
+      "end": 225.96
+    },
+    {
+      "no": 27,
+      "word": "dense",
+      "meanings": [
+        "밀집한",
+        "밀도가 높은",
+        "짙은"
+      ],
+      "examples": [
+        "Areas of dense population"
+      ],
+      "start": 227.73,
+      "end": 235.76
+    },
+    {
+      "no": 28,
+      "word": "fragile",
+      "meanings": [
+        "부서지기 쉬운",
+        "취약한"
+      ],
+      "examples": [
+        "Fragile bones"
+      ],
+      "start": 237.86,
+      "end": 244.05
+    },
+    {
+      "no": 29,
+      "word": "unbelievable",
+      "meanings": [
+        "믿기 어려운"
+      ],
+      "examples": [
+        "An unbelievable story"
+      ],
+      "start": 245.79,
+      "end": 251.36
+    },
+    {
+      "no": 30,
+      "word": "dynamic",
+      "meanings": [
+        "역동적인",
+        "정력적인",
+        "활발한"
+      ],
+      "examples": [
+        "A DYNAMACITY",
+        "A dynamic personality"
+      ],
+      "start": 253.11,
+      "end": 264.37
+    }
+  ],
+  "source_method": "en"
+}

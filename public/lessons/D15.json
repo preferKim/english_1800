@@ -1,0 +1,408 @@
+{
+  "lesson": "D15",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D15.mp3",
+  "model": "large-v3",
+  "duration_sec": 237.4,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "library",
+      "meanings": [
+        "도서관"
+      ],
+      "examples": [
+        "A school library"
+      ],
+      "start": 2.13,
+      "end": 7.13
+    },
+    {
+      "no": 2,
+      "word": "museum",
+      "meanings": [
+        "박물관",
+        "미술관"
+      ],
+      "examples": [
+        "An art museum"
+      ],
+      "start": 9.17,
+      "end": 17.2
+    },
+    {
+      "no": 3,
+      "word": "ocean",
+      "meanings": [
+        "대양",
+        "바다"
+      ],
+      "examples": [
+        "The Pacific Ocean"
+      ],
+      "start": 16.3,
+      "end": 22.23
+    },
+    {
+      "no": 4,
+      "word": "bone",
+      "meanings": [
+        "뼈"
+      ],
+      "examples": [
+        "A broken bone"
+      ],
+      "start": 24.07,
+      "end": 28.04
+    },
+    {
+      "no": 5,
+      "word": "bath",
+      "meanings": [
+        "목욕"
+      ],
+      "examples": [
+        "To take a bath"
+      ],
+      "start": 29.77,
+      "end": 33.9
+    },
+    {
+      "no": 6,
+      "word": "pity",
+      "meanings": [
+        "유감",
+        "안 된 일",
+        "동정"
+      ],
+      "examples": [
+        "What a pity"
+      ],
+      "start": 33.9,
+      "end": 47.32
+    },
+    {
+      "no": 7,
+      "word": "proverb",
+      "meanings": [
+        "격언",
+        "속담"
+      ],
+      "examples": [
+        "My favorite proverb"
+      ],
+      "start": 43.65,
+      "end": 54.88
+    },
+    {
+      "no": 8,
+      "word": "product",
+      "meanings": [
+        "생산물",
+        "제품"
+      ],
+      "examples": [
+        "To sell products"
+      ],
+      "start": 51.1,
+      "end": 62.74
+    },
+    {
+      "no": 9,
+      "word": "invention",
+      "meanings": [
+        "발명",
+        "발명품"
+      ],
+      "examples": [
+        "The invention of the computer"
+      ],
+      "start": 58.81,
+      "end": 70.08
+    },
+    {
+      "no": 10,
+      "word": "technology",
+      "meanings": [
+        "테크놀로지",
+        "과학기술"
+      ],
+      "examples": [
+        "Modern technology"
+      ],
+      "start": 67.15,
+      "end": 73.59
+    },
+    {
+      "no": 11,
+      "word": "trash",
+      "meanings": [
+        "쓰레기"
+      ],
+      "examples": [
+        "To take out the trash"
+      ],
+      "start": 75.76,
+      "end": 80.03
+    },
+    {
+      "no": 12,
+      "word": "moment",
+      "meanings": [
+        "때",
+        "순간",
+        "잠시"
+      ],
+      "examples": [
+        "For a moment"
+      ],
+      "start": 81.43,
+      "end": 92.94
+    },
+    {
+      "no": 13,
+      "word": "date",
+      "meanings": [
+        "날짜",
+        "데이트"
+      ],
+      "examples": [
+        "What's today's date"
+      ],
+      "start": 89.34,
+      "end": 99.87
+    },
+    {
+      "no": 14,
+      "word": "taste",
+      "meanings": [
+        "맛",
+        "취향",
+        "맛이 나다",
+        "맛보다"
+      ],
+      "examples": [
+        "The sense of taste"
+      ],
+      "start": 96.6,
+      "end": 106.98
+    },
+    {
+      "no": 15,
+      "word": "balance",
+      "meanings": [
+        "균형",
+        "균형을 잡다"
+      ],
+      "examples": [
+        "To lose your balance"
+      ],
+      "start": 106.14,
+      "end": 112.49
+    },
+    {
+      "no": 16,
+      "word": "ring",
+      "meanings": [
+        "반지",
+        "고리",
+        "종소리",
+        "올리다"
+      ],
+      "examples": [
+        "A diamond ring"
+      ],
+      "start": 114.26,
+      "end": 128.78
+    },
+    {
+      "no": 17,
+      "word": "share",
+      "meanings": [
+        "공유하다",
+        "함께 쓰다",
+        "나누다",
+        "목"
+      ],
+      "examples": [
+        "To share a room"
+      ],
+      "start": 123.4,
+      "end": 138.29
+    },
+    {
+      "no": 18,
+      "word": "return",
+      "meanings": [
+        "되돌아가다",
+        "오다",
+        "돌려주다",
+        "귀환",
+        "반환"
+      ],
+      "examples": [
+        "To return home"
+      ],
+      "start": 133.07,
+      "end": 145.12
+    },
+    {
+      "no": 19,
+      "word": "lift",
+      "meanings": [
+        "들어 올리다",
+        "태우기",
+        "올리기"
+      ],
+      "examples": [
+        "To lift a box"
+      ],
+      "start": 144.28,
+      "end": 157.89
+    },
+    {
+      "no": 20,
+      "word": "raise",
+      "meanings": [
+        "올리다",
+        "모금하다",
+        "기르다"
+      ],
+      "examples": [
+        "Raise your hand"
+      ],
+      "start": 152.84,
+      "end": 164.23
+    },
+    {
+      "no": 21,
+      "word": "explain",
+      "meanings": [
+        "설명하다"
+      ],
+      "examples": [
+        "To explain the rules"
+      ],
+      "start": 161.4,
+      "end": 171.1
+    },
+    {
+      "no": 22,
+      "word": "marry",
+      "meanings": [
+        "누구와 결혼하다"
+      ],
+      "examples": [
+        "To marry him"
+      ],
+      "start": 168.16,
+      "end": 175.58
+    },
+    {
+      "no": 23,
+      "word": "exciting",
+      "meanings": [
+        "흥분시키는",
+        "흥미진진한"
+      ],
+      "examples": [
+        "An exciting story"
+      ],
+      "start": 174.74,
+      "end": 181.46
+    },
+    {
+      "no": 24,
+      "word": "common",
+      "meanings": [
+        "흔한",
+        "공통의",
+        "보통의"
+      ],
+      "examples": [
+        "The most common word"
+      ],
+      "start": 183.33,
+      "end": 192.82
+    },
+    {
+      "no": 25,
+      "word": "global",
+      "meanings": [
+        "세계의",
+        "지구의"
+      ],
+      "examples": [
+        "Global climate change"
+      ],
+      "start": 191.86,
+      "end": 198.38
+    },
+    {
+      "no": 26,
+      "word": "regular",
+      "meanings": [
+        "규칙적인",
+        "보통의"
+      ],
+      "examples": [
+        "Regular exercise"
+      ],
+      "start": 200.21,
+      "end": 206.01
+    },
+    {
+      "no": 27,
+      "word": "serious",
+      "meanings": [
+        "진지한",
+        "심각한",
+        "중대한"
+      ],
+      "examples": [
+        "A serious problem"
+      ],
+      "start": 207.74,
+      "end": 215.51
+    },
+    {
+      "no": 28,
+      "word": "fresh",
+      "meanings": [
+        "신선한",
+        "새로운"
+      ],
+      "examples": [
+        "Fresh air"
+      ],
+      "start": 217.45,
+      "end": 223.06
+    },
+    {
+      "no": 29,
+      "word": "probably",
+      "meanings": [
+        "아마"
+      ],
+      "examples": [
+        "It'll probably be okay"
+      ],
+      "start": 224.46,
+      "end": 229.61
+    },
+    {
+      "no": 30,
+      "word": "else",
+      "meanings": [
+        "그 밖을"
+      ],
+      "examples": [
+        "What else did he say"
+      ],
+      "start": 231.41,
+      "end": 236.73
+    }
+  ],
+  "source_method": "en"
+}

@@ -1,0 +1,403 @@
+{
+  "lesson": "U09",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-U09.mp3",
+  "model": "large-v3",
+  "duration_sec": 247.61,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "upgrading",
+      "meanings": [
+        "낙천주의자",
+        "낙관혼자"
+      ],
+      "examples": [
+        "He's an optimist"
+      ],
+      "start": 0.27,
+      "end": 9.39
+    },
+    {
+      "no": 2,
+      "word": "loaf",
+      "meanings": [
+        "빵 한 덩이"
+      ],
+      "examples": [
+        "A loaf of bread"
+      ],
+      "start": 10.71,
+      "end": 15.44
+    },
+    {
+      "no": 3,
+      "word": "spice",
+      "meanings": [
+        "양념",
+        "향신료"
+      ],
+      "examples": [
+        "A spice jar"
+      ],
+      "start": 17.02,
+      "end": 22.83
+    },
+    {
+      "no": 4,
+      "word": "mural",
+      "meanings": [
+        "벽화"
+      ],
+      "examples": [
+        "An ancient tomb mural"
+      ],
+      "start": 24.57,
+      "end": 29.3
+    },
+    {
+      "no": 5,
+      "word": "makeup",
+      "meanings": [
+        "화장품",
+        "구성"
+      ],
+      "examples": [
+        "To put on your makeup"
+      ],
+      "start": 30.81,
+      "end": 36.94
+    },
+    {
+      "no": 6,
+      "word": "electronics",
+      "meanings": [
+        "전자공학",
+        "전자기기"
+      ],
+      "examples": [
+        "The electronics industry",
+        "Consumer electronics"
+      ],
+      "start": 38.37,
+      "end": 47.48
+    },
+    {
+      "no": 7,
+      "word": "obstacle",
+      "meanings": [
+        "장애",
+        "장애물"
+      ],
+      "examples": [
+        "To overcome an obstacle"
+      ],
+      "start": 49.64,
+      "end": 55.41
+    },
+    {
+      "no": 8,
+      "word": "architecture",
+      "meanings": [
+        "건축학",
+        "건충양식"
+      ],
+      "examples": [
+        "Modern architecture"
+      ],
+      "start": 57.19,
+      "end": 63.41
+    },
+    {
+      "no": 9,
+      "word": "status",
+      "meanings": [
+        "지위",
+        "신분"
+      ],
+      "examples": [
+        "Social status"
+      ],
+      "start": 65.46,
+      "end": 70.69
+    },
+    {
+      "no": 10,
+      "word": "farewell",
+      "meanings": [
+        "작별",
+        "작별인사"
+      ],
+      "examples": [
+        "A farewell party"
+      ],
+      "start": 72.1,
+      "end": 78.52
+    },
+    {
+      "no": 11,
+      "word": "investment",
+      "meanings": [
+        "투자"
+      ],
+      "examples": [
+        "Investment income"
+      ],
+      "start": 80.28,
+      "end": 84.7
+    },
+    {
+      "no": 12,
+      "word": "dialect",
+      "meanings": [
+        "사토리",
+        "방언"
+      ],
+      "examples": [
+        "A local dialect"
+      ],
+      "start": 86.91,
+      "end": 92.31
+    },
+    {
+      "no": 13,
+      "word": "delivery",
+      "meanings": [
+        "배달"
+      ],
+      "examples": [
+        "The quick delivery service"
+      ],
+      "start": 94.3,
+      "end": 98.83
+    },
+    {
+      "no": 14,
+      "word": "fame",
+      "meanings": [
+        "명성"
+      ],
+      "examples": [
+        "To win fame"
+      ],
+      "start": 100.68,
+      "end": 104.98
+    },
+    {
+      "no": 15,
+      "word": "whistle",
+      "meanings": [
+        "호각소리",
+        "휘파람 소리",
+        "휘파람을 불다",
+        "호각을 불다"
+      ],
+      "examples": [
+        "To blow a whistle"
+      ],
+      "start": 106.78,
+      "end": 116.56
+    },
+    {
+      "no": 16,
+      "word": "thrill",
+      "meanings": [
+        "황홀감",
+        "흥분",
+        "전율",
+        "열광시키다"
+      ],
+      "examples": [
+        "The thrill of discovery"
+      ],
+      "start": 117.96,
+      "end": 126.64
+    },
+    {
+      "no": 17,
+      "word": "highlight",
+      "meanings": [
+        "하이라이트",
+        "주요 부분",
+        "강조하다"
+      ],
+      "examples": [
+        "The highlights of the match"
+      ],
+      "start": 128.34,
+      "end": 136.68
+    },
+    {
+      "no": 18,
+      "word": "glow",
+      "meanings": [
+        "불빛",
+        "빛나다"
+      ],
+      "examples": [
+        "A dim glow"
+      ],
+      "start": 138.48,
+      "end": 143.76
+    },
+    {
+      "no": 19,
+      "word": "junk",
+      "meanings": [
+        "폐물",
+        "쓰레기",
+        "내버리다"
+      ],
+      "examples": [
+        "A pile of old junk"
+      ],
+      "start": 145.31,
+      "end": 152.55
+    },
+    {
+      "no": 20,
+      "word": "code",
+      "meanings": [
+        "암호",
+        "규칙",
+        "암호화하다"
+      ],
+      "examples": [
+        "To break a code",
+        "A dress code"
+      ],
+      "start": 154.28,
+      "end": 162.94
+    },
+    {
+      "no": 21,
+      "word": "sacrifice",
+      "meanings": [
+        "희생",
+        "재물",
+        "희생하다"
+      ],
+      "examples": [
+        "She sacrificed everything for her children"
+      ],
+      "start": 164.76,
+      "end": 173.5
+    },
+    {
+      "no": 22,
+      "word": "sparkle",
+      "meanings": [
+        "반짝이다",
+        "반짝임",
+        "광채"
+      ],
+      "examples": [
+        "The sea sparkled in the sunlight"
+      ],
+      "start": 175.22,
+      "end": 183.19
+    },
+    {
+      "no": 23,
+      "word": "dispose",
+      "meanings": [
+        "처리하다"
+      ],
+      "examples": [
+        "Dispose of",
+        "To dispose of nuclear waste"
+      ],
+      "start": 185.11,
+      "end": 191.74
+    },
+    {
+      "no": 24,
+      "word": "drag",
+      "meanings": [
+        "끌다",
+        "끌고 가다"
+      ],
+      "examples": [
+        "To drag the chair over to the window"
+      ],
+      "start": 193.44,
+      "end": 200.14
+    },
+    {
+      "no": 25,
+      "word": "overhear",
+      "meanings": [
+        "우연히 듣다"
+      ],
+      "examples": [
+        "To overhear their conversation"
+      ],
+      "start": 198.92,
+      "end": 207.4
+    },
+    {
+      "no": 26,
+      "word": "slap",
+      "meanings": [
+        "손바닥으로 철썩 때리다"
+      ],
+      "examples": [
+        "To slap him on the"
+      ],
+      "start": 209.21,
+      "end": 215.56
+    },
+    {
+      "no": 27,
+      "word": "unforgettable",
+      "meanings": [
+        "잊지 못할",
+        "잊을 수 없는"
+      ],
+      "examples": [
+        "An unforgettable experience"
+      ],
+      "start": 215.58,
+      "end": 224.43
+    },
+    {
+      "no": 28,
+      "word": "rusty",
+      "meanings": [
+        "녹슨"
+      ],
+      "examples": [
+        "A rusty nail"
+      ],
+      "start": 226.81,
+      "end": 230.96
+    },
+    {
+      "no": 29,
+      "word": "durable",
+      "meanings": [
+        "오래가는",
+        "내구성이 있는"
+      ],
+      "examples": [
+        "Durable plastics"
+      ],
+      "start": 232.76,
+      "end": 239.07
+    },
+    {
+      "no": 30,
+      "word": "pregnant",
+      "meanings": [
+        "임신엔"
+      ],
+      "examples": [
+        "She's six months pregnant"
+      ],
+      "start": 241.22,
+      "end": 245.94
+    }
+  ],
+  "source_method": "en"
+}

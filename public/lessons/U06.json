@@ -1,0 +1,402 @@
+{
+  "lesson": "U06",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-U06.mp3",
+  "model": "large-v3",
+  "duration_sec": 248.84,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "referee",
+      "meanings": [
+        "심판"
+      ],
+      "examples": [
+        "A soccer referee"
+      ],
+      "start": 1.52,
+      "end": 7.62
+    },
+    {
+      "no": 2,
+      "word": "tribe",
+      "meanings": [
+        "부족",
+        "종족"
+      ],
+      "examples": [
+        "Native American tribes"
+      ],
+      "start": 7.62,
+      "end": 14.97
+    },
+    {
+      "no": 3,
+      "word": "republic",
+      "meanings": [
+        "공화국"
+      ],
+      "examples": [
+        "The Republic of Ireland"
+      ],
+      "start": 14.97,
+      "end": 21.51
+    },
+    {
+      "no": 4,
+      "word": "journal",
+      "meanings": [
+        "전문 잡지",
+        "일기"
+      ],
+      "examples": [
+        "A scientific journal",
+        "To keep a journal"
+      ],
+      "start": 21.51,
+      "end": 31.69
+    },
+    {
+      "no": 5,
+      "word": "copper",
+      "meanings": [
+        "구리",
+        "동"
+      ],
+      "examples": [
+        "Copper wire"
+      ],
+      "start": 31.69,
+      "end": 38.33
+    },
+    {
+      "no": 6,
+      "word": "windmill",
+      "meanings": [
+        "풍차"
+      ],
+      "examples": [
+        "The Netherlands is famous for windmills"
+      ],
+      "start": 38.33,
+      "end": 46.08
+    },
+    {
+      "no": 7,
+      "word": "tide",
+      "meanings": [
+        "조수",
+        "조류",
+        "흐름"
+      ],
+      "examples": [
+        "The tide is in"
+      ],
+      "start": 47.52,
+      "end": 54.42
+    },
+    {
+      "no": 8,
+      "word": "fantasy",
+      "meanings": [
+        "공상",
+        "환상",
+        "공상소설",
+        "공상영화"
+      ],
+      "examples": [
+        "To live in a fantasy world"
+      ],
+      "start": 55.78,
+      "end": 65.57
+    },
+    {
+      "no": 9,
+      "word": "drought",
+      "meanings": [
+        "가뭄"
+      ],
+      "examples": [
+        "Drought damage"
+      ],
+      "start": 67.19,
+      "end": 71.4
+    },
+    {
+      "no": 10,
+      "word": "horn",
+      "meanings": [
+        "뿔",
+        "경적"
+      ],
+      "examples": [
+        "A mature cow has horns"
+      ],
+      "start": 71.4,
+      "end": 79.01
+    },
+    {
+      "no": 11,
+      "word": "robbery",
+      "meanings": [
+        "강도",
+        "강도질"
+      ],
+      "examples": [
+        "A bank robbery"
+      ],
+      "start": 80.74,
+      "end": 86.25
+    },
+    {
+      "no": 12,
+      "word": "teamwork",
+      "meanings": [
+        "팀워크",
+        "협동작업"
+      ],
+      "examples": [
+        "The importance of good teamwork"
+      ],
+      "start": 86.25,
+      "end": 94.88
+    },
+    {
+      "no": 13,
+      "word": "physics",
+      "meanings": [
+        "물리학"
+      ],
+      "examples": [
+        "The laws of physics"
+      ],
+      "start": 96.3,
+      "end": 101.31
+    },
+    {
+      "no": 14,
+      "word": "consideration",
+      "meanings": [
+        "고려",
+        "숙고"
+      ],
+      "examples": [
+        "A consideration example"
+      ],
+      "start": 103.46,
+      "end": 106.92
+    },
+    {
+      "no": 15,
+      "word": "together",
+      "meanings": [
+        "함께"
+      ],
+      "examples": [
+        "Give serious consideration to the matter"
+      ],
+      "start": 106.92,
+      "end": 110.53
+    },
+    {
+      "no": 16,
+      "word": "trap",
+      "meanings": [
+        "덧",
+        "가두다",
+        "덫으로 잡다"
+      ],
+      "examples": [
+        "To set a trap"
+      ],
+      "start": 112.01,
+      "end": 119.01
+    },
+    {
+      "no": 17,
+      "word": "ease",
+      "meanings": [
+        "쉬움",
+        "편안함",
+        "덜어주다",
+        "편하게 하다"
+      ],
+      "examples": [
+        "With ease",
+        "To ease the pain"
+      ],
+      "start": 119.01,
+      "end": 131.1
+    },
+    {
+      "no": 18,
+      "word": "vacuum",
+      "meanings": [
+        "진공",
+        "진공청소기로 청소하다"
+      ],
+      "examples": [
+        "A vacuum cleaner"
+      ],
+      "start": 131.97,
+      "end": 139.89
+    },
+    {
+      "no": 19,
+      "word": "mine",
+      "meanings": [
+        "광산",
+        "채굴하다"
+      ],
+      "examples": [
+        "A gold mine"
+      ],
+      "start": 139.89,
+      "end": 147.19
+    },
+    {
+      "no": 20,
+      "word": "dust",
+      "meanings": [
+        "먼지",
+        "먼지를 탈다"
+      ],
+      "examples": [
+        "To be covered in dust"
+      ],
+      "start": 147.19,
+      "end": 155.35
+    },
+    {
+      "no": 21,
+      "word": "seal",
+      "meanings": [
+        "밀봉하다",
+        "도장",
+        "바다표범",
+        "물개"
+      ],
+      "examples": [
+        "Seal the box with tape"
+      ],
+      "start": 155.35,
+      "end": 166.0
+    },
+    {
+      "no": 22,
+      "word": "insult",
+      "meanings": [
+        "모욕하다",
+        "모욕"
+      ],
+      "examples": [
+        "Don't insult me"
+      ],
+      "start": 166.9,
+      "end": 176.08
+    },
+    {
+      "no": 23,
+      "word": "exhibit",
+      "meanings": [
+        "전시하다",
+        "보이다",
+        "전시품",
+        "전시회"
+      ],
+      "examples": [
+        "To exhibit paintings at a gallery"
+      ],
+      "start": 176.85,
+      "end": 187.2
+    },
+    {
+      "no": 24,
+      "word": "chop",
+      "meanings": [
+        "썰다"
+      ],
+      "examples": [
+        "Chop the carrots up into small pieces"
+      ],
+      "start": 187.2,
+      "end": 194.37
+    },
+    {
+      "no": 25,
+      "word": "crawl",
+      "meanings": [
+        "기다"
+      ],
+      "examples": [
+        "To crawl across the floor"
+      ],
+      "start": 195.24,
+      "end": 200.86
+    },
+    {
+      "no": 26,
+      "word": "transform",
+      "meanings": [
+        "변형시키다",
+        "완전히 바꾸다"
+      ],
+      "examples": [
+        "To transform an old factory into an art gallery"
+      ],
+      "start": 200.86,
+      "end": 211.57
+    },
+    {
+      "no": 27,
+      "word": "symbolize",
+      "meanings": [
+        "상징하다"
+      ],
+      "examples": [
+        "The lion symbolizes courage"
+      ],
+      "start": 212.44,
+      "end": 219.15
+    },
+    {
+      "no": 28,
+      "word": "deadly",
+      "meanings": [
+        "치명적인"
+      ],
+      "examples": [
+        "A deadly disease"
+      ],
+      "start": 219.15,
+      "end": 225.99
+    },
+    {
+      "no": 29,
+      "word": "vivid",
+      "meanings": [
+        "생생한",
+        "선명한"
+      ],
+      "examples": [
+        "A vivid memory"
+      ],
+      "start": 225.99,
+      "end": 233.64
+    },
+    {
+      "no": 30,
+      "word": "ambitious",
+      "meanings": [
+        "야심찬"
+      ],
+      "examples": [
+        "An ambitious boy"
+      ],
+      "start": 231.59,
+      "end": 240.26
+    }
+  ],
+  "source_method": "en"
+}

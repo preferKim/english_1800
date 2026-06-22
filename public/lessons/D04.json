@@ -1,0 +1,411 @@
+{
+  "lesson": "D04",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D04.mp3",
+  "model": "large-v3",
+  "duration_sec": 234.63,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "clothes",
+      "meanings": [
+        "옷",
+        "의복"
+      ],
+      "examples": [
+        "New clothes"
+      ],
+      "start": 2.02,
+      "end": 6.85
+    },
+    {
+      "no": 2,
+      "word": "poem",
+      "meanings": [
+        "시"
+      ],
+      "examples": [
+        "To write a poem"
+      ],
+      "start": 8.41,
+      "end": 12.84
+    },
+    {
+      "no": 3,
+      "word": "nature",
+      "meanings": [
+        "자연",
+        "천성"
+      ],
+      "examples": [
+        "To save nature"
+      ],
+      "start": 14.65,
+      "end": 20.12
+    },
+    {
+      "no": 4,
+      "word": "forest",
+      "meanings": [
+        "숲"
+      ],
+      "examples": [
+        "To live in a forest"
+      ],
+      "start": 22.1,
+      "end": 26.32
+    },
+    {
+      "no": 5,
+      "word": "island",
+      "meanings": [
+        "섬"
+      ],
+      "examples": [
+        "A beautiful island"
+      ],
+      "start": 28.06,
+      "end": 32.4
+    },
+    {
+      "no": 6,
+      "word": "village",
+      "meanings": [
+        "마을"
+      ],
+      "examples": [
+        "A fishing village"
+      ],
+      "start": 32.4,
+      "end": 38.3
+    },
+    {
+      "no": 7,
+      "word": "state",
+      "meanings": [
+        "국가",
+        "미국의 조",
+        "상패"
+      ],
+      "examples": [
+        "The state of California"
+      ],
+      "start": 40.09,
+      "end": 53.38
+    },
+    {
+      "no": 8,
+      "word": "habit",
+      "meanings": [
+        "습관"
+      ],
+      "examples": [
+        "A good habit"
+      ],
+      "start": 48.96,
+      "end": 53.38
+    },
+    {
+      "no": 9,
+      "word": "history",
+      "meanings": [
+        "역사"
+      ],
+      "examples": [
+        "Korean history"
+      ],
+      "start": 55.16,
+      "end": 59.38
+    },
+    {
+      "no": 10,
+      "word": "dialogue",
+      "meanings": [
+        "대화"
+      ],
+      "examples": [
+        "A short dialogue"
+      ],
+      "start": 61.16,
+      "end": 65.45
+    },
+    {
+      "no": 11,
+      "word": "newspaper",
+      "meanings": [
+        "신문"
+      ],
+      "examples": [
+        "A newspaper reporter"
+      ],
+      "start": 67.25,
+      "end": 72.32
+    },
+    {
+      "no": 12,
+      "word": "vacation",
+      "meanings": [
+        "휴가",
+        "방학"
+      ],
+      "examples": [
+        "Plans for vacation"
+      ],
+      "start": 74.04,
+      "end": 79.46
+    },
+    {
+      "no": 13,
+      "word": "store",
+      "meanings": [
+        "가게",
+        "상점",
+        "비축하다",
+        "저장하다"
+      ],
+      "examples": [
+        "A clothing store"
+      ],
+      "start": 81.44,
+      "end": 96.78
+    },
+    {
+      "no": 14,
+      "word": "sound",
+      "meanings": [
+        "소리",
+        "무엇처럼 들리다",
+        "소리를 내다"
+      ],
+      "examples": [
+        "The sounds of nature"
+      ],
+      "start": 90.92,
+      "end": 105.44
+    },
+    {
+      "no": 15,
+      "word": "point",
+      "meanings": [
+        "요점",
+        "의견",
+        "점수",
+        "가리키다"
+      ],
+      "examples": [
+        "An important point"
+      ],
+      "start": 100.42,
+      "end": 108.94
+    },
+    {
+      "no": 16,
+      "word": "land",
+      "meanings": [
+        "땅",
+        "육지",
+        "나라",
+        "착륙하다"
+      ],
+      "examples": [
+        "Land prices"
+      ],
+      "start": 110.36,
+      "end": 123.47
+    },
+    {
+      "no": 17,
+      "word": "fall",
+      "meanings": [
+        "떨어지다",
+        "넘어지다",
+        "되다",
+        "해당되다",
+        "가을",
+        "떨어짐",
+        "폭포"
+      ],
+      "examples": [
+        "To fall out of the bed"
+      ],
+      "start": 119.49,
+      "end": 138.17
+    },
+    {
+      "no": 18,
+      "word": "fly",
+      "meanings": [
+        "날다",
+        "비행기로 가다",
+        "파리"
+      ],
+      "examples": [
+        "To fly high"
+      ],
+      "start": 133.1,
+      "end": 140.08
+    },
+    {
+      "no": 19,
+      "word": "visit",
+      "meanings": [
+        "방문하다",
+        "방문"
+      ],
+      "examples": [
+        "To visit Korea"
+      ],
+      "start": 141.44,
+      "end": 151.56
+    },
+    {
+      "no": 20,
+      "word": "begin",
+      "meanings": [
+        "시작하다"
+      ],
+      "examples": [
+        "To begin a new life"
+      ],
+      "start": 148.82,
+      "end": 160.82
+    },
+    {
+      "no": 21,
+      "word": "grow",
+      "meanings": [
+        "자라다",
+        "기르다",
+        "무엇해지다"
+      ],
+      "examples": [
+        "To grow slowly"
+      ],
+      "start": 155.55,
+      "end": 166.9
+    },
+    {
+      "no": 22,
+      "word": "believe",
+      "meanings": [
+        "믿다"
+      ],
+      "examples": [
+        "I can't believe it"
+      ],
+      "start": 164.37,
+      "end": 175.74
+    },
+    {
+      "no": 23,
+      "word": "save",
+      "meanings": [
+        "구하다",
+        "저축하다",
+        "절약하다"
+      ],
+      "examples": [
+        "To save her",
+        "Her life"
+      ],
+      "start": 170.61,
+      "end": 180.67
+    },
+    {
+      "no": 24,
+      "word": "participate",
+      "meanings": [
+        "참가하다",
+        "참여하다"
+      ],
+      "examples": [
+        "To participate in a contest"
+      ],
+      "start": 179.79,
+      "end": 188.93
+    },
+    {
+      "no": 25,
+      "word": "please",
+      "meanings": [
+        "제발",
+        "기쁘게 하다"
+      ],
+      "examples": [
+        "To please him"
+      ],
+      "start": 188.05,
+      "end": 194.0
+    },
+    {
+      "no": 26,
+      "word": "easy",
+      "meanings": [
+        "쉬운",
+        "편한"
+      ],
+      "examples": [
+        "An easy way"
+      ],
+      "start": 195.66,
+      "end": 201.04
+    },
+    {
+      "no": 27,
+      "word": "poor",
+      "meanings": [
+        "가난한",
+        "불쌍한",
+        "잘 못하는"
+      ],
+      "examples": [
+        "Poor people"
+      ],
+      "start": 202.7,
+      "end": 214.02
+    },
+    {
+      "no": 28,
+      "word": "such",
+      "meanings": [
+        "그러한",
+        "그렇게",
+        "너무나"
+      ],
+      "examples": [
+        "Such a thing"
+      ],
+      "start": 211.42,
+      "end": 218.29
+    },
+    {
+      "no": 29,
+      "word": "just",
+      "meanings": [
+        "막",
+        "꼭",
+        "단지"
+      ],
+      "examples": [
+        "Just a little"
+      ],
+      "start": 219.86,
+      "end": 225.72
+    },
+    {
+      "no": 30,
+      "word": "always",
+      "meanings": [
+        "늘",
+        "언제나"
+      ],
+      "examples": [
+        "He is always kind"
+      ],
+      "start": 225.3,
+      "end": 233.15
+    }
+  ],
+  "source_method": "en"
+}

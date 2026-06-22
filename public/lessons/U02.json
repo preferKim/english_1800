@@ -1,0 +1,426 @@
+{
+  "lesson": "U02",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-U02.mp3",
+  "model": "large-v3",
+  "duration_sec": 256.84,
+  "items": [
+    {
+      "no": 1,
+      "word": "conclusion",
+      "meanings": [
+        "결론"
+      ],
+      "examples": [
+        "To reach a conclusion",
+        "The globe",
+        "We export our goods all over the globe"
+      ],
+      "start": 2.07,
+      "end": 17.77
+    },
+    {
+      "no": 2,
+      "word": "globe",
+      "meanings": [
+        "지구",
+        "세계"
+      ],
+      "examples": [
+        "The globe",
+        "We export our goods all over the globe"
+      ],
+      "start": 9.25,
+      "end": 17.73
+    },
+    {
+      "no": 3,
+      "word": "youth",
+      "meanings": [
+        "젊음",
+        "청년"
+      ],
+      "examples": [
+        "The youth of today"
+      ],
+      "start": 17.77,
+      "end": 27.86
+    },
+    {
+      "no": 4,
+      "word": "staff",
+      "meanings": [
+        "직원",
+        "스태프"
+      ],
+      "examples": [
+        "A sales staff"
+      ],
+      "start": 27.86,
+      "end": 33.97
+    },
+    {
+      "no": 5,
+      "word": "closet",
+      "meanings": [
+        "벽장"
+      ],
+      "examples": [
+        "a closet full of new clothes"
+      ],
+      "start": 33.97,
+      "end": 40.95
+    },
+    {
+      "no": 6,
+      "word": "drawer",
+      "meanings": [
+        "서랍"
+      ],
+      "examples": [
+        "in the top drawer of the desk"
+      ],
+      "start": 38.27,
+      "end": 47.54
+    },
+    {
+      "no": 7,
+      "word": "faucet",
+      "meanings": [
+        "수돗꼭지",
+        "의상",
+        "장식",
+        "장식품",
+        "질병"
+      ],
+      "examples": [
+        "turn on the faucet",
+        "a serious sickness"
+      ],
+      "start": 48.47,
+      "end": 75.91
+    },
+    {
+      "no": 8,
+      "word": "costume",
+      "meanings": [
+        "의상"
+      ],
+      "examples": [
+        "children in their Halloween costumes"
+      ],
+      "start": 55.33,
+      "end": 61.4
+    },
+    {
+      "no": 9,
+      "word": "decoration",
+      "meanings": [
+        "장식",
+        "장식품"
+      ],
+      "examples": [
+        "Christmas decorations"
+      ],
+      "start": 61.4,
+      "end": 68.77
+    },
+    {
+      "no": 10,
+      "word": "sickness",
+      "meanings": [
+        "질병"
+      ],
+      "examples": [
+        "a serious sickness"
+      ],
+      "start": 69.81,
+      "end": 101.54
+    },
+    {
+      "no": 11,
+      "word": "channel",
+      "meanings": [
+        "채널",
+        "경로",
+        "수로",
+        "해협"
+      ],
+      "examples": [
+        "to change channels"
+      ],
+      "start": 75.91,
+      "end": 101.54
+    },
+    {
+      "no": 12,
+      "word": "expectation",
+      "meanings": [
+        "기대",
+        "예상"
+      ],
+      "examples": [
+        "parents with high expectations of their children"
+      ],
+      "start": 85.67,
+      "end": 101.54
+    },
+    {
+      "no": 13,
+      "word": "agreement",
+      "meanings": [
+        "협정",
+        "합의",
+        "동의"
+      ],
+      "examples": [
+        "a peace agreement"
+      ],
+      "start": 95.21,
+      "end": 103.74
+    },
+    {
+      "no": 14,
+      "word": "presentation",
+      "meanings": [
+        "제출",
+        "수여",
+        "발표"
+      ],
+      "examples": [
+        "The presentation of prizes",
+        "To give a presentation",
+        "the presentation of prizes",
+        "to give a presentation"
+      ],
+      "start": 103.64,
+      "end": 115.77
+    },
+    {
+      "no": 15,
+      "word": "celebration",
+      "meanings": [
+        "축하",
+        "축하행사"
+      ],
+      "examples": [
+        "a birthday celebration",
+        "A birthday celebration"
+      ],
+      "start": 115.77,
+      "end": 124.02
+    },
+    {
+      "no": 16,
+      "word": "delete",
+      "meanings": [
+        "지우다",
+        "삭제하다"
+      ],
+      "examples": [
+        "I deleted the file by mistake"
+      ],
+      "start": 124.6,
+      "end": 133.17
+    },
+    {
+      "no": 17,
+      "word": "invade",
+      "meanings": [
+        "침략하다",
+        "침해하다"
+      ],
+      "examples": [
+        "to invade your privacy",
+        "To invade your privacy"
+      ],
+      "start": 126.99,
+      "end": 164.06
+    },
+    {
+      "no": 18,
+      "word": "discourage",
+      "meanings": [
+        "좌절시키다",
+        "막다"
+      ],
+      "examples": [
+        "Don't be discouraged by a failure",
+        "don't be discouraged by a failure"
+      ],
+      "start": 142.45,
+      "end": 164.06
+    },
+    {
+      "no": 19,
+      "word": "sprinkle",
+      "meanings": [
+        "뿌리다"
+      ],
+      "examples": [
+        "to sprinkle sugar on top of the cake",
+        "To sprinkle sugar on top of the cake"
+      ],
+      "start": 152.0,
+      "end": 164.06
+    },
+    {
+      "no": 20,
+      "word": "inspire",
+      "meanings": [
+        "고무하다",
+        "영감을 주다"
+      ],
+      "examples": [
+        "Her courage has inspired us"
+      ],
+      "start": 159.57,
+      "end": 167.4
+    },
+    {
+      "no": 21,
+      "word": "messy",
+      "meanings": [
+        "지저분한",
+        "엉망인"
+      ],
+      "examples": [
+        "a very messy room",
+        "A very messy room"
+      ],
+      "start": 168.78,
+      "end": 175.32
+    },
+    {
+      "no": 22,
+      "word": "environmental",
+      "meanings": [
+        "환경의",
+        "환경을"
+      ],
+      "examples": [
+        "environmental pollution"
+      ],
+      "start": 176.16,
+      "end": 182.37
+    },
+    {
+      "no": 23,
+      "word": "inner",
+      "meanings": [
+        "안쪽의",
+        "안쪽을"
+      ],
+      "examples": [
+        "an inner pocket"
+      ],
+      "start": 182.35,
+      "end": 188.89
+    },
+    {
+      "no": 24,
+      "word": "meaningful",
+      "meanings": [
+        "의미 있는"
+      ],
+      "examples": [
+        "a meaningful conversation"
+      ],
+      "start": 188.89,
+      "end": 195.98
+    },
+    {
+      "no": 25,
+      "word": "monthly",
+      "meanings": [
+        "매월의",
+        "한 달에 한 번의"
+      ],
+      "examples": [
+        "A monthly meeting",
+        "a monthly meeting"
+      ],
+      "start": 195.96,
+      "end": 204.44
+    },
+    {
+      "no": 26,
+      "word": "overnight",
+      "meanings": [
+        "하룻밤 동안",
+        "하룻밤 사이에",
+        "하룻밤 동안의",
+        "하룻밤 사이의",
+        "중간의",
+        "중간에",
+        "위쪽으로",
+        "위쪽을 향한",
+        "아래쪽으로",
+        "아래쪽으로 내려가는",
+        "뒤쪽으로",
+        "거꾸로",
+        "뒷쪽을"
+      ],
+      "examples": [
+        "To become famous overnight"
+      ],
+      "start": 204.44,
+      "end": 252.89
+    },
+    {
+      "no": 27,
+      "word": "halfway",
+      "meanings": [
+        "중간의",
+        "중간에"
+      ],
+      "examples": [
+        "He stopped halfway up the stairs"
+      ],
+      "start": 219.64,
+      "end": 228.55
+    },
+    {
+      "no": 28,
+      "word": "upward",
+      "meanings": [
+        "위쪽으로",
+        "위쪽을 향한"
+      ],
+      "examples": [
+        "She pointed upward"
+      ],
+      "start": 227.73,
+      "end": 236.79
+    },
+    {
+      "no": 29,
+      "word": "downward",
+      "meanings": [
+        "아래쪽으로",
+        "아래쪽으로 내려가는"
+      ],
+      "examples": [
+        "Water flows downward"
+      ],
+      "start": 236.79,
+      "end": 245.93
+    },
+    {
+      "no": 30,
+      "word": "backward",
+      "meanings": [
+        "뒤쪽으로",
+        "거꾸로",
+        "뒤쪽을"
+      ],
+      "examples": [
+        "To take a step backward"
+      ],
+      "start": 245.93,
+      "end": 255.28
+    }
+  ],
+  "item_count": 30,
+  "flags": [],
+  "source_method": "merge_en2_ko"
+}

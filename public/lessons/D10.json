@@ -1,0 +1,448 @@
+{
+  "lesson": "D10",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D10.mp3",
+  "model": "large-v3",
+  "duration_sec": 241.53,
+  "items": [
+    {
+      "no": 1,
+      "word": "teenager",
+      "meanings": [
+        "10대",
+        "소년",
+        "소녀",
+        "팔"
+      ],
+      "examples": [
+        "Books for teenagers"
+      ],
+      "start": 1.43,
+      "end": 3.81
+    },
+    {
+      "no": 2,
+      "word": "arm",
+      "meanings": [
+        "팔",
+        "무기"
+      ],
+      "examples": [
+        "A broken arm"
+      ],
+      "start": 9.76,
+      "end": 18.68
+    },
+    {
+      "no": 3,
+      "word": "skill",
+      "meanings": [
+        "기술",
+        "기능"
+      ],
+      "examples": [
+        "Reading skills"
+      ],
+      "start": 18.68,
+      "end": 27.7
+    },
+    {
+      "no": 4,
+      "word": "factory",
+      "meanings": [
+        "공장"
+      ],
+      "examples": [
+        "A car factory"
+      ],
+      "start": 25.38,
+      "end": 32.08
+    },
+    {
+      "no": 5,
+      "word": "prize",
+      "meanings": [
+        "상",
+        "상품",
+        "기회",
+        "가능성",
+        "모양",
+        "상태",
+        "차이",
+        "벽",
+        "경연",
+        "대회",
+        "겨루다",
+        "경주",
+        "인종",
+        "경주하다",
+        "냄새",
+        "냄새나다",
+        "냄새를 맡다",
+        "관심",
+        "흥미",
+        "이익",
+        "관심을 끌다",
+        "흥미를 끌다"
+      ],
+      "examples": [
+        "a wall painting"
+      ],
+      "start": 32.08,
+      "end": 104.66
+    },
+    {
+      "no": 6,
+      "word": "chance",
+      "meanings": [
+        "기회",
+        "가망",
+        "가능성"
+      ],
+      "examples": [
+        "Another chance"
+      ],
+      "start": 40.59,
+      "end": 47.26
+    },
+    {
+      "no": 7,
+      "word": "shape",
+      "meanings": [
+        "모양",
+        "상태"
+      ],
+      "examples": [
+        "The shape of a heart"
+      ],
+      "start": 49.26,
+      "end": 54.85
+    },
+    {
+      "no": 8,
+      "word": "difference",
+      "meanings": [
+        "다름",
+        "차이"
+      ],
+      "examples": [
+        "A difference of opinion"
+      ],
+      "start": 56.3,
+      "end": 61.97
+    },
+    {
+      "no": 9,
+      "word": "wall",
+      "meanings": [
+        "벽",
+        "담"
+      ],
+      "examples": [
+        "A wall painting"
+      ],
+      "start": 63.89,
+      "end": 68.57
+    },
+    {
+      "no": 10,
+      "word": "contest",
+      "meanings": [
+        "경연",
+        "대회"
+      ],
+      "examples": [
+        "A piano contest"
+      ],
+      "start": 70.45,
+      "end": 77.1
+    },
+    {
+      "no": 11,
+      "word": "race",
+      "meanings": [
+        "경주",
+        "인종",
+        "경주하다",
+        "냄새"
+      ],
+      "examples": [
+        "A car race"
+      ],
+      "start": 78.95,
+      "end": 85.7
+    },
+    {
+      "no": 12,
+      "word": "smell",
+      "meanings": [
+        "냄새나다",
+        "냄새를 맡다",
+        "관심"
+      ],
+      "examples": [
+        "The smell of flowers"
+      ],
+      "start": 87.63,
+      "end": 94.68
+    },
+    {
+      "no": 13,
+      "word": "interest",
+      "meanings": [
+        "흥미",
+        "이익",
+        "관심을 끌다",
+        "흥미를 끌다"
+      ],
+      "examples": [
+        "To have an interest"
+      ],
+      "start": 96.36,
+      "end": 106.55
+    },
+    {
+      "no": 14,
+      "word": "judge",
+      "meanings": [
+        "재판관 판단하다 재판하다",
+        "원인 일으키다 원인이 되다",
+        "덮다 다루다 덮게 표지",
+        "여행하다 이동하다 여행",
+        "재판관",
+        "판단하다",
+        "재판하다"
+      ],
+      "examples": [
+        "a wise judge cause",
+        "cause and effect cover",
+        "snow covered the ground travel",
+        "to travel around the world",
+        "a wise judge"
+      ],
+      "start": 104.91,
+      "end": 143.62
+    },
+    {
+      "no": 15,
+      "word": "cause",
+      "meanings": [
+        "원인",
+        "일으키다",
+        "원인이 되다"
+      ],
+      "examples": [
+        "cause and effect"
+      ],
+      "start": 115.67,
+      "end": 124.48
+    },
+    {
+      "no": 16,
+      "word": "cover",
+      "meanings": [
+        "덮다",
+        "다루다",
+        "덮게",
+        "표지"
+      ],
+      "examples": [
+        "snow covered the ground"
+      ],
+      "start": 124.48,
+      "end": 134.36
+    },
+    {
+      "no": 17,
+      "word": "travel",
+      "meanings": [
+        "여행하다",
+        "이동하다",
+        "여행"
+      ],
+      "examples": [
+        "to travel around the world"
+      ],
+      "start": 134.36,
+      "end": 143.58
+    },
+    {
+      "no": 18,
+      "word": "guess",
+      "meanings": [
+        "추측하다",
+        "알아맞히다",
+        "추측"
+      ],
+      "examples": [
+        "let me guess"
+      ],
+      "start": 143.58,
+      "end": 151.95
+    },
+    {
+      "no": 19,
+      "word": "finish",
+      "meanings": [
+        "끝내다",
+        "끝나다"
+      ],
+      "examples": [
+        "to finish your work"
+      ],
+      "start": 151.95,
+      "end": 159.47
+    },
+    {
+      "no": 20,
+      "word": "wash",
+      "meanings": [
+        "씻다"
+      ],
+      "examples": [
+        "wash your face"
+      ],
+      "start": 159.47,
+      "end": 165.25
+    },
+    {
+      "no": 21,
+      "word": "introduce",
+      "meanings": [
+        "소개하다"
+      ],
+      "examples": [
+        "to introduce her to him"
+      ],
+      "start": 165.23,
+      "end": 172.33
+    },
+    {
+      "no": 22,
+      "word": "hurt",
+      "meanings": [
+        "다치게 하다",
+        "아프다",
+        "다친",
+        "상처",
+        "피곤한",
+        "실증난",
+        "자랑스러운",
+        "더러운",
+        "화난",
+        "성난",
+        "현대의",
+        "오늘 현대적인 유용한 쓸모있는 곧 빨리 한번 과거 언젠가 일단 무엇하면"
+      ],
+      "examples": [
+        "He was badly hurt"
+      ],
+      "start": 172.33,
+      "end": 238.54
+    },
+    {
+      "no": 23,
+      "word": "tired",
+      "meanings": [
+        "피곤한",
+        "실증난"
+      ],
+      "examples": [
+        "I'm tired"
+      ],
+      "start": 182.46,
+      "end": 189.54
+    },
+    {
+      "no": 24,
+      "word": "proud",
+      "meanings": [
+        "자랑스러운"
+      ],
+      "examples": [
+        "I'm proud of you"
+      ],
+      "start": 189.54,
+      "end": 196.05
+    },
+    {
+      "no": 25,
+      "word": "dirty",
+      "meanings": [
+        "더러운"
+      ],
+      "examples": [
+        "dirty socks"
+      ],
+      "start": 196.05,
+      "end": 201.73
+    },
+    {
+      "no": 26,
+      "word": "angry",
+      "meanings": [
+        "화난",
+        "성난"
+      ],
+      "examples": [
+        "His angry face"
+      ],
+      "start": 201.73,
+      "end": 209.24
+    },
+    {
+      "no": 27,
+      "word": "modern",
+      "meanings": [
+        "현대의",
+        "오늘 현대적인 유용한 쓸모있는 곧 빨리 한번 과거 언젠가 일단 무엇하면"
+      ],
+      "examples": [
+        "modern life"
+      ],
+      "start": 209.24,
+      "end": 216.41
+    },
+    {
+      "no": 28,
+      "word": "useful",
+      "meanings": [
+        "유용한",
+        "쓸모있는"
+      ],
+      "examples": [
+        "useful information"
+      ],
+      "start": 216.64,
+      "end": 222.16
+    },
+    {
+      "no": 29,
+      "word": "soon",
+      "meanings": [
+        "곧",
+        "빨리"
+      ],
+      "examples": [
+        "see you soon"
+      ],
+      "start": 224.39,
+      "end": 230.94
+    },
+    {
+      "no": 30,
+      "word": "once",
+      "meanings": [
+        "한 번",
+        "일단 ~하면"
+      ],
+      "examples": [
+        "once a week"
+      ],
+      "start": 230.94,
+      "end": 238.76
+    }
+  ],
+  "item_count": 30,
+  "flags": [],
+  "source_method": "merge_en2_ko"
+}

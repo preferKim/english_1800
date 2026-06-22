@@ -1,0 +1,381 @@
+{
+  "lesson": "D19",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D19.mp3",
+  "model": "large-v3",
+  "duration_sec": 253.52,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "net",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A net example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 2,
+      "word": "custom",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A custom example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 3,
+      "word": "culture",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A culture example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 4,
+      "word": "heritage",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A heritage example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 5,
+      "word": "symbol",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A symbol example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 6,
+      "word": "century",
+      "meanings": [
+        "세기",
+        "100년"
+      ],
+      "examples": [
+        "A century example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 7,
+      "word": "modern",
+      "meanings": [
+        "현대의",
+        "근대의"
+      ],
+      "examples": [
+        "A modern example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 8,
+      "word": "official",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A official example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 9,
+      "word": "local",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A local example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 10,
+      "word": "foreign",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A foreign example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 11,
+      "word": "national",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A national example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 12,
+      "word": "international",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A international example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 13,
+      "word": "general",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A general example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 14,
+      "word": "common",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A common example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 15,
+      "word": "popular",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A popular example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 16,
+      "word": "public",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A public example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 17,
+      "word": "private",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A private example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 18,
+      "word": "social",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A social example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 19,
+      "word": "folk",
+      "meanings": [
+        "사람들",
+        "민속의"
+      ],
+      "examples": [
+        "A folk example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 20,
+      "word": "traditional",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A traditional example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 21,
+      "word": "western",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A western example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 22,
+      "word": "expressive",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A expressive example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 23,
+      "word": "grocer",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A grocer example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 24,
+      "word": "grocery",
+      "meanings": [
+        "식료품 재파"
+      ],
+      "examples": [
+        "A grocery store"
+      ],
+      "start": 15.21,
+      "end": 16.89
+    },
+    {
+      "no": 25,
+      "word": "manner",
+      "meanings": [
+        "방식",
+        "태도"
+      ],
+      "examples": [
+        "A manner example"
+      ],
+      "start": 35.55,
+      "end": 40.45
+    },
+    {
+      "no": 26,
+      "word": "pain",
+      "meanings": [
+        "고통"
+      ],
+      "examples": [
+        "A pain example"
+      ],
+      "start": 55.26,
+      "end": 58.82
+    },
+    {
+      "no": 27,
+      "word": "note",
+      "meanings": [
+        "메모",
+        "쪽지"
+      ],
+      "examples": [
+        "A note example"
+      ],
+      "start": 90.13,
+      "end": 95.16
+    },
+    {
+      "no": 28,
+      "word": "bait",
+      "meanings": [
+        "굽다"
+      ],
+      "examples": [
+        "To bake cookies"
+      ],
+      "start": 141.56,
+      "end": 142.44
+    },
+    {
+      "no": 29,
+      "word": "bake",
+      "meanings": [
+        "굽다"
+      ],
+      "examples": [
+        "To bake cookies"
+      ],
+      "start": 143.27,
+      "end": 147.68
+    },
+    {
+      "no": 30,
+      "word": "round",
+      "meanings": [
+        "둥근",
+        "왕복의",
+        "회전",
+        "주의하다",
+        "주의해",
+        "돌아서"
+      ],
+      "examples": [
+        "Around table"
+      ],
+      "start": 208.54,
+      "end": 220.89
+    }
+  ],
+  "source_method": "en"
+}

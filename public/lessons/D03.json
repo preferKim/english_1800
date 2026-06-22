@@ -1,0 +1,422 @@
+{
+  "lesson": "D03",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D03.mp3",
+  "model": "large-v3",
+  "duration_sec": 252.81,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "restaurant",
+      "meanings": [
+        "레스토랑",
+        "식당"
+      ],
+      "examples": [
+        "A Korean restaurant"
+      ],
+      "start": 2.1,
+      "end": 8.11
+    },
+    {
+      "no": 2,
+      "word": "street",
+      "meanings": [
+        "거리",
+        "도로"
+      ],
+      "examples": [
+        "A one-way street"
+      ],
+      "start": 10.11,
+      "end": 15.09
+    },
+    {
+      "no": 3,
+      "word": "side",
+      "meanings": [
+        "측",
+        "쪽",
+        "측면",
+        "옆"
+      ],
+      "examples": [
+        "The left side"
+      ],
+      "start": 16.64,
+      "end": 23.54
+    },
+    {
+      "no": 4,
+      "word": "space",
+      "meanings": [
+        "공간",
+        "우주"
+      ],
+      "examples": [
+        "Time and space"
+      ],
+      "start": 25.3,
+      "end": 30.31
+    },
+    {
+      "no": 5,
+      "word": "art",
+      "meanings": [
+        "미술",
+        "예술",
+        "기술"
+      ],
+      "examples": [
+        "The arts",
+        "A work of art"
+      ],
+      "start": 32.18,
+      "end": 40.78
+    },
+    {
+      "no": 6,
+      "word": "culture",
+      "meanings": [
+        "문화"
+      ],
+      "examples": [
+        "Korean culture"
+      ],
+      "start": 41.94,
+      "end": 46.41
+    },
+    {
+      "no": 7,
+      "word": "activity",
+      "meanings": [
+        "활동"
+      ],
+      "examples": [
+        "Club activities"
+      ],
+      "start": 47.97,
+      "end": 52.5
+    },
+    {
+      "no": 8,
+      "word": "weekend",
+      "meanings": [
+        "주말"
+      ],
+      "examples": [
+        "This weekend"
+      ],
+      "start": 54.67,
+      "end": 58.5
+    },
+    {
+      "no": 9,
+      "word": "information",
+      "meanings": [
+        "정보"
+      ],
+      "examples": [
+        "Personal information"
+      ],
+      "start": 60.29,
+      "end": 64.75
+    },
+    {
+      "no": 10,
+      "word": "face",
+      "meanings": [
+        "얼굴",
+        "측면하다",
+        "향하다"
+      ],
+      "examples": [
+        "To face the problem"
+      ],
+      "start": 66.78,
+      "end": 73.78
+    },
+    {
+      "no": 11,
+      "word": "mind",
+      "meanings": [
+        "마음",
+        "언제나 하다"
+      ],
+      "examples": [
+        "Peace of mind"
+      ],
+      "start": 75.06,
+      "end": 81.24
+    },
+    {
+      "no": 12,
+      "word": "work",
+      "meanings": [
+        "일하다",
+        "공부하다",
+        "작동하다",
+        "작용하다",
+        "일",
+        "일터",
+        "공부",
+        "작품"
+      ],
+      "examples": [
+        "To work hard"
+      ],
+      "start": 83.02,
+      "end": 95.84
+    },
+    {
+      "no": 13,
+      "word": "watch",
+      "meanings": [
+        "지켜보다",
+        "시계"
+      ],
+      "examples": [
+        "To watch TV"
+      ],
+      "start": 97.58,
+      "end": 103.04
+    },
+    {
+      "no": 14,
+      "word": "worry",
+      "meanings": [
+        "걱정시키다",
+        "걱정하다",
+        "걱정"
+      ],
+      "examples": [
+        "Don't worry"
+      ],
+      "start": 105.0,
+      "end": 111.98
+    },
+    {
+      "no": 15,
+      "word": "change",
+      "meanings": [
+        "바꾸다",
+        "변화하다",
+        "변화",
+        "거스름돈"
+      ],
+      "examples": [
+        "To change the world"
+      ],
+      "start": 113.43,
+      "end": 122.15
+    },
+    {
+      "no": 16,
+      "word": "light",
+      "meanings": [
+        "빛",
+        "불",
+        "밝은",
+        "가벼운"
+      ],
+      "examples": [
+        "To turn off the light"
+      ],
+      "start": 123.86,
+      "end": 131.43
+    },
+    {
+      "no": 17,
+      "word": "present",
+      "meanings": [
+        "선물",
+        "현재",
+        "출석한",
+        "현재의",
+        "주다",
+        "제시하다",
+        "발표하다"
+      ],
+      "examples": [
+        "A birthday present"
+      ],
+      "start": 133.15,
+      "end": 147.28
+    },
+    {
+      "no": 18,
+      "word": "middle",
+      "meanings": [
+        "한가운데",
+        "한가운데의"
+      ],
+      "examples": [
+        "In the middle of the room"
+      ],
+      "start": 149.08,
+      "end": 155.47
+    },
+    {
+      "no": 19,
+      "word": "favorite",
+      "meanings": [
+        "가장 좋아하는",
+        "가장 좋아하는 것",
+        "가장 좋아하는 사람"
+      ],
+      "examples": [
+        "My favorite song"
+      ],
+      "start": 156.99,
+      "end": 166.31
+    },
+    {
+      "no": 20,
+      "word": "enjoy",
+      "meanings": [
+        "즐기다"
+      ],
+      "examples": [
+        "Enjoy your trip"
+      ],
+      "start": 168.16,
+      "end": 172.61
+    },
+    {
+      "no": 21,
+      "word": "win",
+      "meanings": [
+        "이기다",
+        "따다",
+        "얻다"
+      ],
+      "examples": [
+        "To win",
+        "In the game"
+      ],
+      "start": 174.27,
+      "end": 180.59
+    },
+    {
+      "no": 22,
+      "word": "understand",
+      "meanings": [
+        "이해하다"
+      ],
+      "examples": [
+        "I don't understand"
+      ],
+      "start": 182.39,
+      "end": 186.89
+    },
+    {
+      "no": 23,
+      "word": "warm",
+      "meanings": [
+        "따뜻한",
+        "따뜻하게 하다",
+        "데우다"
+      ],
+      "examples": [
+        "The warm weather"
+      ],
+      "start": 188.86,
+      "end": 196.11
+    },
+    {
+      "no": 24,
+      "word": "clean",
+      "meanings": [
+        "깨끗한",
+        "청소하다"
+      ],
+      "examples": [
+        "Clean towels"
+      ],
+      "start": 197.89,
+      "end": 203.54
+    },
+    {
+      "no": 25,
+      "word": "own",
+      "meanings": [
+        "자신을",
+        "자신의 것",
+        "소유하다"
+      ],
+      "examples": [
+        "Your own problem"
+      ],
+      "start": 205.35,
+      "end": 212.64
+    },
+    {
+      "no": 26,
+      "word": "interesting",
+      "meanings": [
+        "재미있는"
+      ],
+      "examples": [
+        "An interesting story"
+      ],
+      "start": 214.43,
+      "end": 219.7
+    },
+    {
+      "no": 27,
+      "word": "famous",
+      "meanings": [
+        "유명한"
+      ],
+      "examples": [
+        "A famous singer"
+      ],
+      "start": 221.26,
+      "end": 225.94
+    },
+    {
+      "no": 28,
+      "word": "special",
+      "meanings": [
+        "특별한",
+        "특수한",
+        "전문의"
+      ],
+      "examples": [
+        "A special plan"
+      ],
+      "start": 227.77,
+      "end": 234.85
+    },
+    {
+      "no": 29,
+      "word": "fast",
+      "meanings": [
+        "빨리",
+        "단단히",
+        "빠른"
+      ],
+      "examples": [
+        "To run fast"
+      ],
+      "start": 236.85,
+      "end": 243.24
+    },
+    {
+      "no": 30,
+      "word": "only",
+      "meanings": [
+        "단지",
+        "오직",
+        "유일한"
+      ],
+      "examples": [
+        "Only once"
+      ],
+      "start": 245.03,
+      "end": 251.21
+    }
+  ],
+  "source_method": "en"
+}

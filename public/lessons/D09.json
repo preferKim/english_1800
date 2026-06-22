@@ -1,0 +1,427 @@
+{
+  "lesson": "D09",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D09.mp3",
+  "model": "large-v3",
+  "duration_sec": 259.71,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "president",
+      "meanings": [
+        "대통령",
+        "장"
+      ],
+      "examples": [
+        "The President of Korea"
+      ],
+      "start": 2.11,
+      "end": 8.38
+    },
+    {
+      "no": 2,
+      "word": "diary",
+      "meanings": [
+        "일기",
+        "일기장"
+      ],
+      "examples": [
+        "To keep a diary"
+      ],
+      "start": 10.64,
+      "end": 15.64
+    },
+    {
+      "no": 3,
+      "word": "cartoon",
+      "meanings": [
+        "만화",
+        "만화영화"
+      ],
+      "examples": [
+        "To draw a cartoon"
+      ],
+      "start": 17.94,
+      "end": 23.1
+    },
+    {
+      "no": 4,
+      "word": "meal",
+      "meanings": [
+        "식사"
+      ],
+      "examples": [
+        "To have a meal"
+      ],
+      "start": 25.04,
+      "end": 29.13
+    },
+    {
+      "no": 5,
+      "word": "character",
+      "meanings": [
+        "성격",
+        "특성",
+        "등장인물",
+        "글자"
+      ],
+      "examples": [
+        "Characters in the play"
+      ],
+      "start": 30.88,
+      "end": 39.26
+    },
+    {
+      "no": 6,
+      "word": "reason",
+      "meanings": [
+        "이유",
+        "이성"
+      ],
+      "examples": [
+        "Several reasons"
+      ],
+      "start": 41.06,
+      "end": 46.1
+    },
+    {
+      "no": 7,
+      "word": "ground",
+      "meanings": [
+        "땅",
+        "운동장"
+      ],
+      "examples": [
+        "To sit on the ground"
+      ],
+      "start": 48.04,
+      "end": 53.65
+    },
+    {
+      "no": 8,
+      "word": "community",
+      "meanings": [
+        "공동체",
+        "주민사회",
+        "지역사회"
+      ],
+      "examples": [
+        "Community service"
+      ],
+      "start": 55.0,
+      "end": 62.61
+    },
+    {
+      "no": 9,
+      "word": "glasses",
+      "meanings": [
+        "안경"
+      ],
+      "examples": [
+        "A glass bottle"
+      ],
+      "start": 69.32,
+      "end": 73.17
+    },
+    {
+      "no": 10,
+      "word": "weight",
+      "meanings": [
+        "무게",
+        "몸무게",
+        "체중"
+      ],
+      "examples": [
+        "To lose weight"
+      ],
+      "start": 74.86,
+      "end": 83.02
+    },
+    {
+      "no": 11,
+      "word": "control",
+      "meanings": [
+        "지배",
+        "통제",
+        "지배하다",
+        "통제하다",
+        "조절하다"
+      ],
+      "examples": [
+        "To control the weight"
+      ],
+      "start": 82.3,
+      "end": 92.08
+    },
+    {
+      "no": 12,
+      "word": "step",
+      "meanings": [
+        "걸음",
+        "단계",
+        "계단",
+        "걸음을 옮기다",
+        "밟다"
+      ],
+      "examples": [
+        "To take a step"
+      ],
+      "start": 93.83,
+      "end": 106.51
+    },
+    {
+      "no": 13,
+      "word": "matter",
+      "meanings": [
+        "문제",
+        "일",
+        "물질",
+        "중요하다"
+      ],
+      "examples": [
+        "What's the matter"
+      ],
+      "start": 104.2,
+      "end": 112.16
+    },
+    {
+      "no": 14,
+      "word": "match",
+      "meanings": [
+        "시합",
+        "성량",
+        "어울리다",
+        "연결시키다"
+      ],
+      "examples": [
+        "A football match"
+      ],
+      "start": 113.58,
+      "end": 122.04
+    },
+    {
+      "no": 15,
+      "word": "set",
+      "meanings": [
+        "두다",
+        "놓다",
+        "세우다",
+        "해가지다",
+        "세트"
+      ],
+      "examples": [
+        "To set a goal"
+      ],
+      "start": 123.86,
+      "end": 132.71
+    },
+    {
+      "no": 16,
+      "word": "catch",
+      "meanings": [
+        "붙잡다",
+        "잡다",
+        "병에 걸리다"
+      ],
+      "examples": [
+        "To catch a ball"
+      ],
+      "start": 134.38,
+      "end": 141.29
+    },
+    {
+      "no": 17,
+      "word": "hold",
+      "meanings": [
+        "잡고 있다",
+        "열다",
+        "개최하다"
+      ],
+      "examples": [
+        "To hold hands"
+      ],
+      "start": 142.95,
+      "end": 150.0
+    },
+    {
+      "no": 18,
+      "word": "pick",
+      "meanings": [
+        "고르다",
+        "따다",
+        "뽑다"
+      ],
+      "examples": [
+        "To pick the fruit"
+      ],
+      "start": 151.68,
+      "end": 158.02
+    },
+    {
+      "no": 19,
+      "word": "teach",
+      "meanings": [
+        "가르치다"
+      ],
+      "examples": [
+        "To teach math"
+      ],
+      "start": 159.76,
+      "end": 163.97
+    },
+    {
+      "no": 20,
+      "word": "agree",
+      "meanings": [
+        "동의하다",
+        "의견이 일치하다"
+      ],
+      "examples": [
+        "I agree with you"
+      ],
+      "start": 165.82,
+      "end": 172.17
+    },
+    {
+      "no": 21,
+      "word": "invent",
+      "meanings": [
+        "발명하다"
+      ],
+      "examples": [
+        "To invent something new"
+      ],
+      "start": 170.87,
+      "end": 178.83
+    },
+    {
+      "no": 22,
+      "word": "welcome",
+      "meanings": [
+        "환영하다",
+        "환영",
+        "환영받는"
+      ],
+      "examples": [
+        "To welcome them"
+      ],
+      "start": 180.06,
+      "end": 187.68
+    },
+    {
+      "no": 23,
+      "word": "bright",
+      "meanings": [
+        "빛나는",
+        "밝은",
+        "똑똑한"
+      ],
+      "examples": [
+        "The bright lights"
+      ],
+      "start": 189.38,
+      "end": 196.24
+    },
+    {
+      "no": 24,
+      "word": "smart",
+      "meanings": [
+        "영리한",
+        "똑똑한"
+      ],
+      "examples": [
+        "A smart kid"
+      ],
+      "start": 197.98,
+      "end": 203.5
+    },
+    {
+      "no": 25,
+      "word": "wise",
+      "meanings": [
+        "지혜로운",
+        "현명한"
+      ],
+      "examples": [
+        "A wise old man"
+      ],
+      "start": 205.21,
+      "end": 211.24
+    },
+    {
+      "no": 26,
+      "word": "hungry",
+      "meanings": [
+        "배고픈"
+      ],
+      "examples": [
+        "I'm hungry"
+      ],
+      "start": 212.93,
+      "end": 216.97
+    },
+    {
+      "no": 27,
+      "word": "fine",
+      "meanings": [
+        "좋은",
+        "훌륭한",
+        "잘",
+        "훌륭히"
+      ],
+      "examples": [
+        "Find clothes"
+      ],
+      "start": 218.43,
+      "end": 226.47
+    },
+    {
+      "no": 28,
+      "word": "pretty",
+      "meanings": [
+        "예쁜",
+        "귀여운",
+        "꽤",
+        "아주",
+        "매우"
+      ],
+      "examples": [
+        "A pretty girl"
+      ],
+      "start": 228.2,
+      "end": 236.73
+    },
+    {
+      "no": 29,
+      "word": "still",
+      "meanings": [
+        "아직도",
+        "그럼에도 불구하고",
+        "훨씬",
+        "가만히 있는"
+      ],
+      "examples": [
+        "He is still there"
+      ],
+      "start": 238.44,
+      "end": 247.39
+    },
+    {
+      "no": 30,
+      "word": "later",
+      "meanings": [
+        "나중에",
+        "후에",
+        "더 뒤",
+        "나중"
+      ],
+      "examples": [
+        "See you later"
+      ],
+      "start": 249.17,
+      "end": 258.96
+    }
+  ],
+  "source_method": "en"
+}

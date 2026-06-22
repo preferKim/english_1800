@@ -1,0 +1,381 @@
+{
+  "lesson": "D11",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D11.mp3",
+  "model": "large-v3",
+  "duration_sec": 233.87,
+  "items": [
+    {
+      "no": 1,
+      "word": "earth",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A earth example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 2,
+      "word": "nature",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A nature example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 3,
+      "word": "cliff",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A cliff example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 4,
+      "word": "swamp",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A swamp example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 5,
+      "word": "plant",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A plant example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 6,
+      "word": "recycle",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A recycle example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 7,
+      "word": "protect",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A protect example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 8,
+      "word": "destroy",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A destroy example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 9,
+      "word": "survive",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A survive example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 10,
+      "word": "waste",
+      "meanings": [
+        "낭비",
+        "쓰레기",
+        "낭비하다"
+      ],
+      "examples": [
+        "A waste example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 11,
+      "word": "pollute",
+      "meanings": [
+        "오염시키다"
+      ],
+      "examples": [
+        "A pollute example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 12,
+      "word": "dirty",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A dirty example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 13,
+      "word": "natural",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A natural example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 14,
+      "word": "wild",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A wild example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 15,
+      "word": "global",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A global example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 16,
+      "word": "public",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A public example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 17,
+      "word": "together",
+      "meanings": [
+        "함께"
+      ],
+      "examples": [
+        "A together example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 18,
+      "word": "away",
+      "meanings": [
+        "떨어져",
+        "멀리"
+      ],
+      "examples": [
+        "A away example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 19,
+      "word": "however",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A however example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 20,
+      "word": "this",
+      "meanings": [
+        "이것"
+      ],
+      "examples": [
+        "A this example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 21,
+      "word": "instead",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A instead example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 22,
+      "word": "almost",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A almost example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 23,
+      "word": "mainly",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A mainly example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 24,
+      "word": "perhaps",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A perhaps example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 25,
+      "word": "environment",
+      "meanings": [
+        "환경"
+      ],
+      "examples": [
+        "A clean environment"
+      ],
+      "start": 1.13,
+      "end": 6.85
+    },
+    {
+      "no": 26,
+      "word": "pollution",
+      "meanings": [
+        "오염",
+        "호수"
+      ],
+      "examples": [
+        "Air pollution Lake",
+        "A beautiful lake",
+        "Air pollution"
+      ],
+      "start": 6.83,
+      "end": 18.78
+    },
+    {
+      "no": 27,
+      "word": "lake",
+      "meanings": [
+        "호수"
+      ],
+      "examples": [
+        "A beautiful lake"
+      ],
+      "start": 12.75,
+      "end": 18.78
+    },
+    {
+      "no": 28,
+      "word": "desert",
+      "meanings": [
+        "사막"
+      ],
+      "examples": [
+        "The Sahara Desert"
+      ],
+      "start": 18.78,
+      "end": 24.6
+    },
+    {
+      "no": 29,
+      "word": "insect",
+      "meanings": [
+        "곤충",
+        "권총"
+      ],
+      "examples": [
+        "Flying insects"
+      ],
+      "start": 24.6,
+      "end": 30.95
+    },
+    {
+      "no": 30,
+      "word": "accident",
+      "meanings": [
+        "사고",
+        "대학",
+        "시험",
+        "조언"
+      ],
+      "examples": [
+        "A car accident"
+      ],
+      "start": 30.93,
+      "end": 53.14
+    }
+  ],
+  "item_count": 30,
+  "flags": [],
+  "source_method": "merge_en_ko"
+}

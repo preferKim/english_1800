@@ -1,0 +1,397 @@
+{
+  "lesson": "D52",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D52.mp3",
+  "model": "large-v3",
+  "duration_sec": 240.8,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "counselor",
+      "meanings": [
+        "상담원"
+      ],
+      "examples": [
+        "A marriage counselor"
+      ],
+      "start": 1.38,
+      "end": 8.91
+    },
+    {
+      "no": 2,
+      "word": "opportunity",
+      "meanings": [
+        "기회"
+      ],
+      "examples": [
+        "A once-in-a-lifetime opportunity"
+      ],
+      "start": 9.68,
+      "end": 15.97
+    },
+    {
+      "no": 3,
+      "word": "literature",
+      "meanings": [
+        "문학"
+      ],
+      "examples": [
+        "American literature"
+      ],
+      "start": 15.97,
+      "end": 22.21
+    },
+    {
+      "no": 4,
+      "word": "illusion",
+      "meanings": [
+        "환상",
+        "착각"
+      ],
+      "examples": [
+        "He's under illusion"
+      ],
+      "start": 22.21,
+      "end": 29.94
+    },
+    {
+      "no": 5,
+      "word": "leisure",
+      "meanings": [
+        "여가",
+        "레저"
+      ],
+      "examples": [
+        "Enough leisure time"
+      ],
+      "start": 29.94,
+      "end": 37.48
+    },
+    {
+      "no": 6,
+      "word": "shuttle",
+      "meanings": [
+        "전기왕복 비행기",
+        "전기왕복 버스",
+        "우주왕복선"
+      ],
+      "examples": [
+        "A space shuttle"
+      ],
+      "start": 37.48,
+      "end": 48.1
+    },
+    {
+      "no": 7,
+      "word": "location",
+      "meanings": [
+        "장소",
+        "위치"
+      ],
+      "examples": [
+        "A secret location"
+      ],
+      "start": 48.9,
+      "end": 55.39
+    },
+    {
+      "no": 8,
+      "word": "laundry",
+      "meanings": [
+        "세탁",
+        "세탁물",
+        "세탁소"
+      ],
+      "examples": [
+        "To do the laundry"
+      ],
+      "start": 55.39,
+      "end": 64.72
+    },
+    {
+      "no": 9,
+      "word": "witch",
+      "meanings": [
+        "마녀"
+      ],
+      "examples": [
+        "Witch is flying on bird"
+      ],
+      "start": 64.72,
+      "end": 71.12
+    },
+    {
+      "no": 10,
+      "word": "broomsticks",
+      "meanings": [
+        "길이"
+      ],
+      "examples": [
+        "The length of her hair"
+      ],
+      "start": 71.14,
+      "end": 71.52
+    },
+    {
+      "no": 11,
+      "word": "relation",
+      "meanings": [
+        "관계"
+      ],
+      "examples": [
+        "To improve relations"
+      ],
+      "start": 78.76,
+      "end": 84.18
+    },
+    {
+      "no": 12,
+      "word": "popularity",
+      "meanings": [
+        "인기"
+      ],
+      "examples": [
+        "The increasing popularity of K-pop"
+      ],
+      "start": 85.07,
+      "end": 92.38
+    },
+    {
+      "no": 13,
+      "word": "sort",
+      "meanings": [
+        "종료",
+        "분류하다"
+      ],
+      "examples": [
+        "All sorts of music"
+      ],
+      "start": 92.38,
+      "end": 99.83
+    },
+    {
+      "no": 14,
+      "word": "rent",
+      "meanings": [
+        "빌리다",
+        "빌려주다",
+        "임차하다",
+        "임대하다",
+        "집세",
+        "임차료"
+      ],
+      "examples": [
+        "To rent an apartment"
+      ],
+      "start": 99.83,
+      "end": 112.95
+    },
+    {
+      "no": 15,
+      "word": "commercial",
+      "meanings": [
+        "상업을",
+        "광고방송"
+      ],
+      "examples": [
+        "A TV commercial"
+      ],
+      "start": 112.95,
+      "end": 121.14
+    },
+    {
+      "no": 16,
+      "word": "ideal",
+      "meanings": [
+        "이상적인",
+        "이상"
+      ],
+      "examples": [
+        "An ideal place for a picnic"
+      ],
+      "start": 121.14,
+      "end": 130.03
+    },
+    {
+      "no": 17,
+      "word": "complex",
+      "meanings": [
+        "복잡한",
+        "단지",
+        "강박관념"
+      ],
+      "examples": [
+        "An apartment complex"
+      ],
+      "start": 130.03,
+      "end": 141.07
+    },
+    {
+      "no": 18,
+      "word": "junior",
+      "meanings": [
+        "학업을",
+        "연하",
+        "고교",
+        "대학",
+        "졸업 전 학년생"
+      ],
+      "examples": [
+        "He's ten years my junior"
+      ],
+      "start": 141.07,
+      "end": 153.52
+    },
+    {
+      "no": 19,
+      "word": "shut",
+      "meanings": [
+        "닫다"
+      ],
+      "examples": [
+        "Shut the window"
+      ],
+      "start": 153.52,
+      "end": 159.46
+    },
+    {
+      "no": 20,
+      "word": "bore",
+      "meanings": [
+        "지루하게 하다"
+      ],
+      "examples": [
+        "To get bored"
+      ],
+      "start": 159.46,
+      "end": 165.94
+    },
+    {
+      "no": 21,
+      "word": "compose",
+      "meanings": [
+        "구성하다",
+        "작곡하다"
+      ],
+      "examples": [
+        "To compose music"
+      ],
+      "start": 166.77,
+      "end": 174.08
+    },
+    {
+      "no": 22,
+      "word": "mend",
+      "meanings": [
+        "수선하다",
+        "수리하다"
+      ],
+      "examples": [
+        "To mend shoes"
+      ],
+      "start": 174.08,
+      "end": 181.68
+    },
+    {
+      "no": 23,
+      "word": "inform",
+      "meanings": [
+        "알리다",
+        "통제하다"
+      ],
+      "examples": [
+        "To inform the police"
+      ],
+      "start": 181.68,
+      "end": 189.77
+    },
+    {
+      "no": 24,
+      "word": "calculate",
+      "meanings": [
+        "계산하다"
+      ],
+      "examples": [
+        "To calculate the cost"
+      ],
+      "start": 190.67,
+      "end": 196.68
+    },
+    {
+      "no": 25,
+      "word": "ordinary",
+      "meanings": [
+        "보통을"
+      ],
+      "examples": [
+        "Ordinary people"
+      ],
+      "start": 197.48,
+      "end": 202.97
+    },
+    {
+      "no": 26,
+      "word": "selfish",
+      "meanings": [
+        "이기적인"
+      ],
+      "examples": [
+        "A selfish attitude"
+      ],
+      "start": 203.87,
+      "end": 209.61
+    },
+    {
+      "no": 27,
+      "word": "strict",
+      "meanings": [
+        "엄한",
+        "엄격한"
+      ],
+      "examples": [
+        "Strict rules"
+      ],
+      "start": 209.61,
+      "end": 217.05
+    },
+    {
+      "no": 28,
+      "word": "sour",
+      "meanings": [
+        "마시신"
+      ],
+      "examples": [
+        "Sour grapes"
+      ],
+      "start": 218.37,
+      "end": 223.37
+    },
+    {
+      "no": 29,
+      "word": "solar",
+      "meanings": [
+        "태양을"
+      ],
+      "examples": [
+        "The solar system"
+      ],
+      "start": 223.37,
+      "end": 229.92
+    },
+    {
+      "no": 30,
+      "word": "neither",
+      "meanings": [
+        "무엇도 아니다",
+        "둘 중 어느 것도 아니다"
+      ],
+      "examples": [
+        "Neither of them can cook"
+      ],
+      "start": 229.92,
+      "end": 239.35
+    }
+  ],
+  "source_method": "en"
+}

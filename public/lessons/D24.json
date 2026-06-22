@@ -1,0 +1,394 @@
+{
+  "lesson": "D24",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D24.mp3",
+  "model": "large-v3",
+  "duration_sec": 228.08,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "god",
+      "meanings": [
+        "신",
+        "조물조"
+      ],
+      "examples": [
+        "To believe in God"
+      ],
+      "start": 2.23,
+      "end": 36.46
+    },
+    {
+      "no": 2,
+      "word": "guest",
+      "meanings": [
+        "손님"
+      ],
+      "examples": [
+        "A dinner guest"
+      ],
+      "start": 9.72,
+      "end": 36.46
+    },
+    {
+      "no": 3,
+      "word": "diver",
+      "meanings": [
+        "잠수부"
+      ],
+      "examples": [
+        "A scuba diver"
+      ],
+      "start": 15.66,
+      "end": 36.46
+    },
+    {
+      "no": 4,
+      "word": "blood",
+      "meanings": [
+        "피",
+        "혈액"
+      ],
+      "examples": [
+        "To give blood"
+      ],
+      "start": 21.88,
+      "end": 36.46
+    },
+    {
+      "no": 5,
+      "word": "pool",
+      "meanings": [
+        "수영장",
+        "웅덩이"
+      ],
+      "examples": [
+        "A swimming pool"
+      ],
+      "start": 28.36,
+      "end": 36.46
+    },
+    {
+      "no": 6,
+      "word": "temple",
+      "meanings": [
+        "사원",
+        "절"
+      ],
+      "examples": [
+        "An old temple"
+      ],
+      "start": 35.6,
+      "end": 71.79
+    },
+    {
+      "no": 7,
+      "word": "thought",
+      "meanings": [
+        "생각",
+        "사고"
+      ],
+      "examples": [
+        "To express your thoughts"
+      ],
+      "start": 42.96,
+      "end": 71.79
+    },
+    {
+      "no": 8,
+      "word": "crop",
+      "meanings": [
+        "농작물",
+        "수확량"
+      ],
+      "examples": [
+        "To grow crops"
+      ],
+      "start": 50.46,
+      "end": 71.79
+    },
+    {
+      "no": 9,
+      "word": "sheet",
+      "meanings": [
+        "침대시태",
+        "한 장"
+      ],
+      "examples": [
+        "A sheet of paper"
+      ],
+      "start": 58.16,
+      "end": 71.79
+    },
+    {
+      "no": 10,
+      "word": "quarter",
+      "meanings": [
+        "사분의 일"
+      ],
+      "examples": [
+        "Three quarters"
+      ],
+      "start": 65.59,
+      "end": 71.79
+    },
+    {
+      "no": 11,
+      "word": "crowd",
+      "meanings": [
+        "중",
+        "꽉 채우다"
+      ],
+      "examples": [
+        "A crowd of 30"
+      ],
+      "start": 70.89,
+      "end": 109.14
+    },
+    {
+      "no": 12,
+      "word": "care",
+      "meanings": [
+        "돌봄",
+        "주의",
+        "관심을 갖다",
+        "돌보다"
+      ],
+      "examples": [
+        "Care for",
+        "To take care of a baby"
+      ],
+      "start": 80.07,
+      "end": 109.14
+    },
+    {
+      "no": 13,
+      "word": "strike",
+      "meanings": [
+        "치다",
+        "부딪히다",
+        "갑자기 떠오르다",
+        "치기"
+      ],
+      "examples": [
+        "To strike a ball"
+      ],
+      "start": 92.82,
+      "end": 109.14
+    },
+    {
+      "no": 14,
+      "word": "relative",
+      "meanings": [
+        "친척",
+        "상대적인"
+      ],
+      "examples": [
+        "A close relative"
+      ],
+      "start": 103.29,
+      "end": 109.14
+    },
+    {
+      "no": 15,
+      "word": "patient",
+      "meanings": [
+        "인내심 있는",
+        "환자"
+      ],
+      "examples": [
+        "Be patient and wait"
+      ],
+      "start": 110.57,
+      "end": 142.36
+    },
+    {
+      "no": 16,
+      "word": "gain",
+      "meanings": [
+        "얻다",
+        "늘다"
+      ],
+      "examples": [
+        "To gain experience"
+      ],
+      "start": 118.8,
+      "end": 142.36
+    },
+    {
+      "no": 17,
+      "word": "provide",
+      "meanings": [
+        "제공하다",
+        "공급하다"
+      ],
+      "examples": [
+        "To provide a service"
+      ],
+      "start": 126.58,
+      "end": 142.36
+    },
+    {
+      "no": 18,
+      "word": "dig",
+      "meanings": [
+        "파다",
+        "캐다"
+      ],
+      "examples": [
+        "To dig a hole"
+      ],
+      "start": 134.31,
+      "end": 142.36
+    },
+    {
+      "no": 19,
+      "word": "explore",
+      "meanings": [
+        "경고하다"
+      ],
+      "examples": [
+        "To explore space"
+      ],
+      "start": 141.48,
+      "end": 142.36
+    },
+    {
+      "no": 20,
+      "word": "warn",
+      "meanings": [
+        "경고하다"
+      ],
+      "examples": [
+        "To warn him to be quiet"
+      ],
+      "start": 150.9,
+      "end": 183.96
+    },
+    {
+      "no": 21,
+      "word": "recognize",
+      "meanings": [
+        "알아보다"
+      ],
+      "examples": [
+        "To recognize him"
+      ],
+      "start": 158.55,
+      "end": 183.96
+    },
+    {
+      "no": 22,
+      "word": "celebrate",
+      "meanings": [
+        "축하하다",
+        "기념하다"
+      ],
+      "examples": [
+        "To celebrate your birthday"
+      ],
+      "start": 165.1,
+      "end": 183.96
+    },
+    {
+      "no": 23,
+      "word": "stupid",
+      "meanings": [
+        "어리석은",
+        "멍청한"
+      ],
+      "examples": [
+        "A stupid idea"
+      ],
+      "start": 173.28,
+      "end": 183.96
+    },
+    {
+      "no": 24,
+      "word": "helpful",
+      "meanings": [
+        "도움이 되는"
+      ],
+      "examples": [
+        "Helpful information"
+      ],
+      "start": 181.23,
+      "end": 220.38
+    },
+    {
+      "no": 25,
+      "word": "convenient",
+      "meanings": [
+        "편리한"
+      ],
+      "examples": [
+        "At a convenient time"
+      ],
+      "start": 188.15,
+      "end": 220.38
+    },
+    {
+      "no": 26,
+      "word": "impossible",
+      "meanings": [
+        "불가능한"
+      ],
+      "examples": [
+        "That's impossible"
+      ],
+      "start": 194.61,
+      "end": 220.38
+    },
+    {
+      "no": 27,
+      "word": "medical",
+      "meanings": [
+        "의약을",
+        "의료의"
+      ],
+      "examples": [
+        "A medical student"
+      ],
+      "start": 201.55,
+      "end": 220.38
+    },
+    {
+      "no": 28,
+      "word": "outdoor",
+      "meanings": [
+        "야외의"
+      ],
+      "examples": [
+        "Outdoor activities"
+      ],
+      "start": 209.0,
+      "end": 220.38
+    },
+    {
+      "no": 29,
+      "word": "forever",
+      "meanings": [
+        "영원히"
+      ],
+      "examples": [
+        "To last forever"
+      ],
+      "start": 215.56,
+      "end": 220.38
+    },
+    {
+      "no": 30,
+      "word": "indeed",
+      "meanings": [
+        "정말"
+      ],
+      "examples": [
+        "A indeed example"
+      ],
+      "start": 222.18,
+      "end": 225.4
+    }
+  ],
+  "source_method": "en"
+}

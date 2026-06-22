@@ -1,0 +1,400 @@
+{
+  "lesson": "D40",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D40.mp3",
+  "model": "large-v3",
+  "duration_sec": 236.59,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "happiness",
+      "meanings": [
+        "행복"
+      ],
+      "examples": [
+        "True happiness"
+      ],
+      "start": 1.26,
+      "end": 6.62
+    },
+    {
+      "no": 2,
+      "word": "freedom",
+      "meanings": [
+        "자유"
+      ],
+      "examples": [
+        "Freedom of choice"
+      ],
+      "start": 6.62,
+      "end": 13.02
+    },
+    {
+      "no": 3,
+      "word": "independence",
+      "meanings": [
+        "독립"
+      ],
+      "examples": [
+        "To win independence"
+      ],
+      "start": 13.02,
+      "end": 19.24
+    },
+    {
+      "no": 4,
+      "word": "imagination",
+      "meanings": [
+        "상상",
+        "상상력"
+      ],
+      "examples": [
+        "Use your imagination"
+      ],
+      "start": 20.76,
+      "end": 27.69
+    },
+    {
+      "no": 5,
+      "word": "importance",
+      "meanings": [
+        "중요",
+        "중요성"
+      ],
+      "examples": [
+        "The importance of the matter"
+      ],
+      "start": 27.69,
+      "end": 36.21
+    },
+    {
+      "no": 6,
+      "word": "speech",
+      "meanings": [
+        "연설"
+      ],
+      "examples": [
+        "To make a speech"
+      ],
+      "start": 37.14,
+      "end": 42.19
+    },
+    {
+      "no": 7,
+      "word": "silence",
+      "meanings": [
+        "침묵"
+      ],
+      "examples": [
+        "To sit in silence"
+      ],
+      "start": 42.19,
+      "end": 48.78
+    },
+    {
+      "no": 8,
+      "word": "invitation",
+      "meanings": [
+        "초대"
+      ],
+      "examples": [
+        "An invitation to dinner"
+      ],
+      "start": 47.96,
+      "end": 55.68
+    },
+    {
+      "no": 9,
+      "word": "exhibition",
+      "meanings": [
+        "전시",
+        "전시회"
+      ],
+      "examples": [
+        "An art exhibition"
+      ],
+      "start": 56.54,
+      "end": 63.4
+    },
+    {
+      "no": 10,
+      "word": "sculpture",
+      "meanings": [
+        "조각",
+        "조각품"
+      ],
+      "examples": [
+        "An exhibition of modern sculpture"
+      ],
+      "start": 63.4,
+      "end": 71.96
+    },
+    {
+      "no": 11,
+      "word": "region",
+      "meanings": [
+        "지역"
+      ],
+      "examples": [
+        "A mountain region"
+      ],
+      "start": 71.96,
+      "end": 78.15
+    },
+    {
+      "no": 12,
+      "word": "position",
+      "meanings": [
+        "위치",
+        "자세",
+        "지위"
+      ],
+      "examples": [
+        "A comfortable position"
+      ],
+      "start": 78.15,
+      "end": 86.42
+    },
+    {
+      "no": 13,
+      "word": "research",
+      "meanings": [
+        "연구",
+        "연구하다"
+      ],
+      "examples": [
+        "Medical research"
+      ],
+      "start": 86.42,
+      "end": 94.43
+    },
+    {
+      "no": 14,
+      "word": "aim",
+      "meanings": [
+        "목표",
+        "목적",
+        "목표하다",
+        "견우다"
+      ],
+      "examples": [
+        "To achieve your aim"
+      ],
+      "start": 94.43,
+      "end": 104.59
+    },
+    {
+      "no": 15,
+      "word": "moral",
+      "meanings": [
+        "도덕을"
+      ],
+      "examples": [
+        "A moral example"
+      ],
+      "start": 105.42,
+      "end": 108.72
+    },
+    {
+      "no": 16,
+      "word": "extra",
+      "meanings": [
+        "추가을",
+        "엑스트라",
+        "단역배우"
+      ],
+      "examples": [
+        "Extra work"
+      ],
+      "start": 115.47,
+      "end": 124.2
+    },
+    {
+      "no": 17,
+      "word": "arrange",
+      "meanings": [
+        "준비하다",
+        "배열하다"
+      ],
+      "examples": [
+        "To arrange a meeting"
+      ],
+      "start": 125.04,
+      "end": 132.08
+    },
+    {
+      "no": 18,
+      "word": "advise",
+      "meanings": [
+        "조언하다",
+        "충고하다"
+      ],
+      "examples": [
+        "To advise you to think carefully"
+      ],
+      "start": 131.52,
+      "end": 141.05
+    },
+    {
+      "no": 19,
+      "word": "recommend",
+      "meanings": [
+        "추천하다",
+        "권고하다"
+      ],
+      "examples": [
+        "To recommend a good book"
+      ],
+      "start": 141.88,
+      "end": 149.56
+    },
+    {
+      "no": 20,
+      "word": "declare",
+      "meanings": [
+        "선언하다",
+        "선포하다",
+        "신고하다"
+      ],
+      "examples": [
+        "To declare war"
+      ],
+      "start": 150.45,
+      "end": 158.95
+    },
+    {
+      "no": 21,
+      "word": "prove",
+      "meanings": [
+        "증명하다",
+        "판명되다"
+      ],
+      "examples": [
+        "To prove your point"
+      ],
+      "start": 158.95,
+      "end": 166.97
+    },
+    {
+      "no": 22,
+      "word": "injure",
+      "meanings": [
+        "다치게 하다"
+      ],
+      "examples": [
+        "To be badly injured"
+      ],
+      "start": 167.8,
+      "end": 173.97
+    },
+    {
+      "no": 23,
+      "word": "connect",
+      "meanings": [
+        "연결하다",
+        "접속하다"
+      ],
+      "examples": [
+        "Connect the point",
+        "The printer to the computer"
+      ],
+      "start": 173.97,
+      "end": 182.77
+    },
+    {
+      "no": 24,
+      "word": "hug",
+      "meanings": [
+        "껴안다",
+        "포옹하다"
+      ],
+      "examples": [
+        "To hug each other"
+      ],
+      "start": 182.77,
+      "end": 190.49
+    },
+    {
+      "no": 25,
+      "word": "foggy",
+      "meanings": [
+        "안개가 낀"
+      ],
+      "examples": [
+        "A foggy day"
+      ],
+      "start": 190.49,
+      "end": 197.02
+    },
+    {
+      "no": 26,
+      "word": "neat",
+      "meanings": [
+        "깔끔한"
+      ],
+      "examples": [
+        "Neat handwriting"
+      ],
+      "start": 197.02,
+      "end": 203.0
+    },
+    {
+      "no": 27,
+      "word": "loose",
+      "meanings": [
+        "풀린",
+        "헐렁한"
+      ],
+      "examples": [
+        "Loose pants"
+      ],
+      "start": 203.0,
+      "end": 210.16
+    },
+    {
+      "no": 28,
+      "word": "endangered",
+      "meanings": [
+        "위기의 처한"
+      ],
+      "examples": [
+        "Endangered animals"
+      ],
+      "start": 210.93,
+      "end": 217.12
+    },
+    {
+      "no": 29,
+      "word": "bad",
+      "meanings": [
+        "꼭 무엇 할 것 같은",
+        "무엇 해야 하는",
+        "무엇 행을"
+      ],
+      "examples": [
+        "A plane bound for Seoul"
+      ],
+      "start": 217.12,
+      "end": 228.52
+    },
+    {
+      "no": 30,
+      "word": "recently",
+      "meanings": [
+        "최근에"
+      ],
+      "examples": [
+        "Until quite recently",
+        "A pilot avani",
+        "A plane bound for Seoul",
+        "As a result",
+        "the plane which flew a long distance",
+        "Just a small amount of the weight"
+      ],
+      "start": 229.35,
+      "end": 235.9
+    }
+  ],
+  "source_method": "en"
+}

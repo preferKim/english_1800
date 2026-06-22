@@ -1,0 +1,451 @@
+{
+  "lesson": "D23",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D23.mp3",
+  "model": "large-v3",
+  "duration_sec": 239.8,
+  "items": [
+    {
+      "no": 1,
+      "word": "host",
+      "meanings": [
+        "주인",
+        "주체자",
+        "진행자"
+      ],
+      "examples": [
+        "A game show host"
+      ],
+      "start": 1.51,
+      "end": 9.88
+    },
+    {
+      "no": 2,
+      "word": "audience",
+      "meanings": [
+        "청중",
+        "관객",
+        "시청자",
+        "독자"
+      ],
+      "examples": [
+        "An audience of 10"
+      ],
+      "start": 7.56,
+      "end": 20.26
+    },
+    {
+      "no": 3,
+      "word": "athlete",
+      "meanings": [
+        "운동선수"
+      ],
+      "examples": [
+        "A professional athlete"
+      ],
+      "start": 21.16,
+      "end": 27.02
+    },
+    {
+      "no": 4,
+      "word": "cell",
+      "meanings": [
+        "세포"
+      ],
+      "examples": [
+        "Brain cells"
+      ],
+      "start": 27.02,
+      "end": 32.81
+    },
+    {
+      "no": 5,
+      "word": "wing",
+      "meanings": [
+        "날개"
+      ],
+      "examples": [
+        "a bird's wing"
+      ],
+      "start": 32.81,
+      "end": 57.5
+    },
+    {
+      "no": 6,
+      "word": "tail",
+      "meanings": [
+        "꼬리"
+      ],
+      "examples": [
+        "a long tail"
+      ],
+      "start": 38.69,
+      "end": 57.5
+    },
+    {
+      "no": 7,
+      "word": "bowl",
+      "meanings": [
+        "사발",
+        "공기"
+      ],
+      "examples": [
+        "a bowl of rice"
+      ],
+      "start": 44.49,
+      "end": 57.5
+    },
+    {
+      "no": 8,
+      "word": "brick",
+      "meanings": [
+        "벽돌"
+      ],
+      "examples": [
+        "a brick wall"
+      ],
+      "start": 51.7,
+      "end": 57.5
+    },
+    {
+      "no": 9,
+      "word": "temperature",
+      "meanings": [
+        "온도",
+        "기온",
+        "체온",
+        "운송",
+        "교통수단",
+        "장소",
+        "현장",
+        "웹사이트",
+        "결정",
+        "소설",
+        "허구",
+        "무섭게 하다",
+        "겁주다",
+        "미끄러지다",
+        "녹다",
+        "녹이다",
+        "오염시키다",
+        "영향을 미치다",
+        "의존하다",
+        "믿다",
+        "달려있다",
+        "경영하다",
+        "관리하다",
+        "해내다",
+        "맞다",
+        "맞추다",
+        "건강한",
+        "알맞은",
+        "맞는",
+        "올바른",
+        "바로잡다",
+        "고치다",
+        "놀라운",
+        "활동적인",
+        "적극적인",
+        "다채로운",
+        "화려한"
+      ],
+      "examples": [
+        "high temperature",
+        "low temperature",
+        "A colorful tie"
+      ],
+      "start": 57.5,
+      "end": 204.91
+    },
+    {
+      "no": 10,
+      "word": "transportation",
+      "meanings": [
+        "운송",
+        "교통수단"
+      ],
+      "examples": [
+        "a means of transportation"
+      ],
+      "start": 68.21,
+      "end": 76.47
+    },
+    {
+      "no": 11,
+      "word": "site",
+      "meanings": [
+        "장소",
+        "현장",
+        "웹사이트"
+      ],
+      "examples": [
+        "a camping site"
+      ],
+      "start": 76.47,
+      "end": 85.4
+    },
+    {
+      "no": 12,
+      "word": "decision",
+      "meanings": [
+        "결정"
+      ],
+      "examples": [
+        "to make a decision"
+      ],
+      "start": 85.4,
+      "end": 91.59
+    },
+    {
+      "no": 13,
+      "word": "fiction",
+      "meanings": [
+        "소설",
+        "허구",
+        "무섭게 하다",
+        "겁주다",
+        "미끄러지다",
+        "녹다",
+        "녹이다"
+      ],
+      "examples": [
+        "The story frightened me",
+        "You scared me",
+        "To slip on the ice",
+        "To melt the butter"
+      ],
+      "start": 91.59,
+      "end": 129.12
+    },
+    {
+      "no": 14,
+      "word": "frighten",
+      "meanings": [
+        "겁주다",
+        "놀라게 하다"
+      ],
+      "examples": [
+        "The story frightened me"
+      ],
+      "start": 100.0,
+      "end": 105.0
+    },
+    {
+      "no": 15,
+      "word": "scare",
+      "meanings": [
+        "겁주다",
+        "놀라게 하다"
+      ],
+      "examples": [
+        "You scared me"
+      ],
+      "start": 105.0,
+      "end": 110.0
+    },
+    {
+      "no": 16,
+      "word": "slip",
+      "meanings": [
+        "미끄러지다"
+      ],
+      "examples": [
+        "To slip on the ice"
+      ],
+      "start": 110.0,
+      "end": 115.0
+    },
+    {
+      "no": 17,
+      "word": "melt",
+      "meanings": [
+        "녹다",
+        "녹이다"
+      ],
+      "examples": [
+        "To melt the butter"
+      ],
+      "start": 115.0,
+      "end": 120.0
+    },
+    {
+      "no": 18,
+      "word": "pollute",
+      "meanings": [
+        "오염시키다"
+      ],
+      "examples": [
+        "to pollute the river"
+      ],
+      "start": 130.8,
+      "end": 135.57
+    },
+    {
+      "no": 19,
+      "word": "affect",
+      "meanings": [
+        "영향을 미치다"
+      ],
+      "examples": [
+        "to affect our lives"
+      ],
+      "start": 135.57,
+      "end": 142.58
+    },
+    {
+      "no": 20,
+      "word": "depend",
+      "meanings": [
+        "의존하다",
+        "믿다",
+        "달려있다"
+      ],
+      "examples": [
+        "depend on",
+        "much depends on you"
+      ],
+      "start": 142.58,
+      "end": 153.24
+    },
+    {
+      "no": 21,
+      "word": "manage",
+      "meanings": [
+        "경영하다",
+        "관리하다",
+        "해내다"
+      ],
+      "examples": [
+        "to manage your time"
+      ],
+      "start": 153.24,
+      "end": 162.26
+    },
+    {
+      "no": 22,
+      "word": "fit",
+      "meanings": [
+        "맞다",
+        "맞추다",
+        "건강한",
+        "알맞은"
+      ],
+      "examples": [
+        "Clothes to fit me"
+      ],
+      "start": 162.26,
+      "end": 172.4
+    },
+    {
+      "no": 23,
+      "word": "correct",
+      "meanings": [
+        "맞는",
+        "올바른",
+        "바로잡다",
+        "고치다"
+      ],
+      "examples": [
+        "The correct answer"
+      ],
+      "start": 174.06,
+      "end": 182.29
+    },
+    {
+      "no": 24,
+      "word": "surprising",
+      "meanings": [
+        "놀라운"
+      ],
+      "examples": [
+        "Surprising news"
+      ],
+      "start": 184.08,
+      "end": 189.05
+    },
+    {
+      "no": 25,
+      "word": "active",
+      "meanings": [
+        "활동적인",
+        "적극적인"
+      ],
+      "examples": [
+        "An active life"
+      ],
+      "start": 190.78,
+      "end": 197.18
+    },
+    {
+      "no": 26,
+      "word": "colorful",
+      "meanings": [
+        "다채로운",
+        "화려한"
+      ],
+      "examples": [
+        "A colorful tie"
+      ],
+      "start": 199.08,
+      "end": 235.82
+    },
+    {
+      "no": 27,
+      "word": "wet",
+      "meanings": [
+        "젖은",
+        "비오는"
+      ],
+      "examples": [
+        "Wet grass"
+      ],
+      "start": 204.91,
+      "end": 235.82
+    },
+    {
+      "no": 28,
+      "word": "lively",
+      "meanings": [
+        "활기찬",
+        "활발한"
+      ],
+      "examples": [
+        "Lively children"
+      ],
+      "start": 212.07,
+      "end": 235.82
+    },
+    {
+      "no": 29,
+      "word": "daily",
+      "meanings": [
+        "매일의",
+        "일상을",
+        "매일",
+        "일상의"
+      ],
+      "examples": [
+        "My daily life"
+      ],
+      "start": 219.8,
+      "end": 235.82
+    },
+    {
+      "no": 30,
+      "word": "straight",
+      "meanings": [
+        "똑바로",
+        "곧장",
+        "곧은",
+        "똑바른"
+      ],
+      "examples": [
+        "Walk Straight"
+      ],
+      "start": 228.72,
+      "end": 238.2
+    }
+  ],
+  "item_count": 30,
+  "flags": [],
+  "source_method": "merge_en2_ko"
+}

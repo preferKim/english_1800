@@ -1,0 +1,414 @@
+{
+  "lesson": "D07",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D07.mp3",
+  "model": "large-v3",
+  "duration_sec": 250.28,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "health",
+      "meanings": [
+        "건강"
+      ],
+      "examples": [
+        "Good health"
+      ],
+      "start": 1.9,
+      "end": 20.24
+    },
+    {
+      "no": 2,
+      "word": "holiday",
+      "meanings": [
+        "공휴일"
+      ],
+      "examples": [
+        "To enjoy the holiday"
+      ],
+      "start": 7.79,
+      "end": 20.24
+    },
+    {
+      "no": 3,
+      "word": "gift",
+      "meanings": [
+        "선물",
+        "재능"
+      ],
+      "examples": [
+        "A birthday gift"
+      ],
+      "start": 14.26,
+      "end": 20.24
+    },
+    {
+      "no": 4,
+      "word": "goal",
+      "meanings": [
+        "목표",
+        "골"
+      ],
+      "examples": [
+        "The goal of my life"
+      ],
+      "start": 21.04,
+      "end": 50.1
+    },
+    {
+      "no": 5,
+      "word": "effect",
+      "meanings": [
+        "효과",
+        "영향"
+      ],
+      "examples": [
+        "A side effect"
+      ],
+      "start": 31.62,
+      "end": 50.1
+    },
+    {
+      "no": 6,
+      "word": "field",
+      "meanings": [
+        "들판",
+        "경기장",
+        "분야"
+      ],
+      "examples": [
+        "A large field"
+      ],
+      "start": 39.56,
+      "end": 50.1
+    },
+    {
+      "no": 7,
+      "word": "magazine",
+      "meanings": [
+        "잡지"
+      ],
+      "examples": [
+        "A fashion magazine"
+      ],
+      "start": 49.04,
+      "end": 54.51
+    },
+    {
+      "no": 8,
+      "word": "sign",
+      "meanings": [
+        "표지판",
+        "표시",
+        "신호",
+        "서명하다",
+        "신호하다"
+      ],
+      "examples": [
+        "Road signs"
+      ],
+      "start": 56.76,
+      "end": 73.42
+    },
+    {
+      "no": 9,
+      "word": "report",
+      "meanings": [
+        "보고",
+        "보도",
+        "보고하다",
+        "보도하다"
+      ],
+      "examples": [
+        "A news report"
+      ],
+      "start": 67.27,
+      "end": 85.68
+    },
+    {
+      "no": 10,
+      "word": "order",
+      "meanings": [
+        "순서",
+        "질서",
+        "명령",
+        "주문",
+        "명령하다",
+        "주문하다"
+      ],
+      "examples": [
+        "In order"
+      ],
+      "start": 76.81,
+      "end": 89.82
+    },
+    {
+      "no": 11,
+      "word": "experience",
+      "meanings": [
+        "경험",
+        "경험하다"
+      ],
+      "examples": [
+        "To know from experience"
+      ],
+      "start": 88.94,
+      "end": 95.38
+    },
+    {
+      "no": 12,
+      "word": "result",
+      "meanings": [
+        "결과",
+        "결과로 생기다"
+      ],
+      "examples": [
+        "Result from",
+        "The result of the game"
+      ],
+      "start": 97.77,
+      "end": 105.97
+    },
+    {
+      "no": 13,
+      "word": "ride",
+      "meanings": [
+        "타다",
+        "타기",
+        "탈 것"
+      ],
+      "examples": [
+        "To ride a bicycle"
+      ],
+      "start": 107.75,
+      "end": 113.84
+    },
+    {
+      "no": 14,
+      "word": "wish",
+      "meanings": [
+        "바라다",
+        "빌다",
+        "소원",
+        "소망"
+      ],
+      "examples": [
+        "I wish you well"
+      ],
+      "start": 115.39,
+      "end": 125.72
+    },
+    {
+      "no": 15,
+      "word": "human",
+      "meanings": [
+        "인간의",
+        "인간다운",
+        "인간",
+        "사람"
+      ],
+      "examples": [
+        "The human body"
+      ],
+      "start": 125.02,
+      "end": 135.42
+    },
+    {
+      "no": 16,
+      "word": "past",
+      "meanings": [
+        "지나간",
+        "과거의",
+        "과거",
+        "지나서"
+      ],
+      "examples": [
+        "The past",
+        "His past experience"
+      ],
+      "start": 134.64,
+      "end": 145.44
+    },
+    {
+      "no": 17,
+      "word": "carry",
+      "meanings": [
+        "가지고 있다",
+        "다니다",
+        "나르다"
+      ],
+      "examples": [
+        "To carry a bag"
+      ],
+      "start": 147.43,
+      "end": 160.54
+    },
+    {
+      "no": 18,
+      "word": "draw",
+      "meanings": [
+        "그리다",
+        "끌어당기다",
+        "뽑다"
+      ],
+      "examples": [
+        "To draw a bag"
+      ],
+      "start": 155.5,
+      "end": 162.55
+    },
+    {
+      "no": 19,
+      "word": "picture",
+      "meanings": [
+        "쓰다"
+      ],
+      "examples": [
+        "To spend time there"
+      ],
+      "start": 162.57,
+      "end": 169.05
+    },
+    {
+      "no": 20,
+      "word": "wait",
+      "meanings": [
+        "기다리다"
+      ],
+      "examples": [
+        "To wait for him"
+      ],
+      "start": 170.55,
+      "end": 175.03
+    },
+    {
+      "no": 21,
+      "word": "decide",
+      "meanings": [
+        "결정하다"
+      ],
+      "examples": [
+        "Decide for yourself"
+      ],
+      "start": 176.69,
+      "end": 181.52
+    },
+    {
+      "no": 22,
+      "word": "choose",
+      "meanings": [
+        "고르다",
+        "선택하다",
+        "선정하다"
+      ],
+      "examples": [
+        "To choose the winner"
+      ],
+      "start": 183.49,
+      "end": 197.44
+    },
+    {
+      "no": 23,
+      "word": "true",
+      "meanings": [
+        "사실인",
+        "진짜의",
+        "참된"
+      ],
+      "examples": [
+        "A true story"
+      ],
+      "start": 192.17,
+      "end": 199.52
+    },
+    {
+      "no": 24,
+      "word": "popular",
+      "meanings": [
+        "인기 있는",
+        "대중의"
+      ],
+      "examples": [
+        "Popular culture"
+      ],
+      "start": 201.71,
+      "end": 207.22
+    },
+    {
+      "no": 25,
+      "word": "difficult",
+      "meanings": [
+        "어려운"
+      ],
+      "examples": [
+        "A difficult question"
+      ],
+      "start": 209.66,
+      "end": 213.63
+    },
+    {
+      "no": 26,
+      "word": "foreign",
+      "meanings": [
+        "외국의"
+      ],
+      "examples": [
+        "Foreign students"
+      ],
+      "start": 215.59,
+      "end": 219.76
+    },
+    {
+      "no": 27,
+      "word": "able",
+      "meanings": [
+        "무엇 할 수 있는"
+      ],
+      "examples": [
+        "To be able to swim"
+      ],
+      "start": 221.95,
+      "end": 226.89
+    },
+    {
+      "no": 28,
+      "word": "full",
+      "meanings": [
+        "가득찬"
+      ],
+      "examples": [
+        "A garden full of flowers"
+      ],
+      "start": 228.76,
+      "end": 233.48
+    },
+    {
+      "no": 29,
+      "word": "usually",
+      "meanings": [
+        "보통",
+        "일반적으로"
+      ],
+      "examples": [
+        "I usually walk to school"
+      ],
+      "start": 235.0,
+      "end": 241.63
+    },
+    {
+      "no": 30,
+      "word": "never",
+      "meanings": [
+        "결코",
+        "무엇 하지 않다"
+      ],
+      "examples": [
+        "Never stop learning"
+      ],
+      "start": 243.37,
+      "end": 248.84
+    }
+  ],
+  "source_method": "en"
+}

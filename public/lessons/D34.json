@@ -1,0 +1,476 @@
+{
+  "lesson": "D34",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D34.mp3",
+  "model": "large-v3",
+  "duration_sec": 250.8,
+  "items": [
+    {
+      "word": "birth",
+      "meanings": [
+        "출생"
+      ],
+      "examples": [
+        "The date of birth",
+        "the date of birth"
+      ],
+      "start": 1.39,
+      "end": 26.95,
+      "no": 1
+    },
+    {
+      "word": "childhood",
+      "meanings": [
+        "어린 시절"
+      ],
+      "examples": [
+        "A happy childhood",
+        "a happy childhood"
+      ],
+      "start": 8.1,
+      "end": 26.95,
+      "no": 2
+    },
+    {
+      "word": "education",
+      "meanings": [
+        "교육"
+      ],
+      "examples": [
+        "A college education",
+        "a college education"
+      ],
+      "start": 13.73,
+      "end": 26.95,
+      "no": 3
+    },
+    {
+      "word": "emotion",
+      "meanings": [
+        "감정"
+      ],
+      "examples": [
+        "To control your emotion",
+        "to control your emotion"
+      ],
+      "start": 20.16,
+      "end": 26.97,
+      "no": 4
+    },
+    {
+      "word": "attitude",
+      "meanings": [
+        "태도",
+        "자세"
+      ],
+      "examples": [
+        "an attitude to life",
+        "An attitude to life"
+      ],
+      "start": 26.95,
+      "end": 34.78,
+      "no": 5
+    },
+    {
+      "word": "courage",
+      "meanings": [
+        "용기",
+        "상태",
+        "환경",
+        "조건",
+        "열",
+        "열병",
+        "대화",
+        "모험",
+        "삼각형",
+        "트라이앵글",
+        "정구",
+        "구근",
+        "공격",
+        "폭행",
+        "발작",
+        "공격하다",
+        "폭행하다",
+        "기침하다",
+        "기침"
+      ],
+      "examples": [
+        "to show great courage",
+        "to cough all day"
+      ],
+      "start": 34.78,
+      "end": 109.2,
+      "no": 6
+    },
+    {
+      "word": "condition",
+      "meanings": [],
+      "examples": [
+        "to be in good condition"
+      ],
+      "start": 41.25,
+      "end": 52.37,
+      "no": 7
+    },
+    {
+      "word": "fever",
+      "meanings": [],
+      "examples": [
+        "to have a fever"
+      ],
+      "start": 52.37,
+      "end": 59.57,
+      "no": 8
+    },
+    {
+      "word": "conversation",
+      "meanings": [
+        "대화"
+      ],
+      "examples": [
+        "The main topic of conversation"
+      ],
+      "start": 59.57,
+      "end": 66.75,
+      "no": 9
+    },
+    {
+      "word": "adventure",
+      "meanings": [
+        "모험"
+      ],
+      "examples": [
+        "An exciting adventure"
+      ],
+      "start": 68.8,
+      "end": 73.29,
+      "no": 10
+    },
+    {
+      "word": "triangle",
+      "meanings": [
+        "삼각형"
+      ],
+      "examples": [
+        "A right triangle"
+      ],
+      "start": 75.09,
+      "end": 81.24,
+      "no": 11
+    },
+    {
+      "word": "bulb",
+      "meanings": [
+        "전구",
+        "알뿌리",
+        "구근"
+      ],
+      "examples": [
+        "A 30-watt bulb"
+      ],
+      "start": 83.35,
+      "end": 90.22,
+      "no": 12
+    },
+    {
+      "word": "attack",
+      "meanings": [],
+      "examples": [
+        "To be under attack"
+      ],
+      "start": 87.95,
+      "end": 101.29,
+      "no": 13
+    },
+    {
+      "word": "cough",
+      "meanings": [],
+      "examples": [
+        "To cough all day"
+      ],
+      "start": 101.29,
+      "end": 109.12,
+      "no": 14
+    },
+    {
+      "word": "flow",
+      "meanings": [
+        "흐르다",
+        "흐름"
+      ],
+      "examples": [
+        "The river flows to the ocean",
+        "the river flows to the ocean"
+      ],
+      "start": 109.12,
+      "end": 117.28,
+      "no": 15
+    },
+    {
+      "word": "search",
+      "meanings": [
+        "찾다",
+        "수색하다",
+        "검색하다",
+        "수색",
+        "검색"
+      ],
+      "examples": [
+        "The search for survivors",
+        "the search for survivors"
+      ],
+      "start": 117.28,
+      "end": 128.79,
+      "no": 16
+    },
+    {
+      "word": "original",
+      "meanings": [
+        "원래의",
+        "독창적인",
+        "원작의",
+        "원작"
+      ],
+      "examples": [
+        "its original shape",
+        "Its original shape"
+      ],
+      "start": 128.79,
+      "end": 139.3,
+      "no": 17
+    },
+    {
+      "word": "opposite",
+      "meanings": [
+        "반대의",
+        "맞은편의"
+      ],
+      "examples": [
+        "On the opposite side of the road"
+      ],
+      "start": 139.3,
+      "end": 150.38,
+      "no": 18
+    },
+    {
+      "word": "jog",
+      "meanings": [
+        "조깅하다"
+      ],
+      "examples": [
+        "To jog every morning"
+      ],
+      "start": 150.3,
+      "end": 157.05,
+      "no": 19
+    },
+    {
+      "word": "jogging",
+      "meanings": [],
+      "examples": [
+        "to jog every morning"
+      ],
+      "start": 152.56,
+      "end": 157.05,
+      "no": 20
+    },
+    {
+      "word": "scan",
+      "meanings": [
+        "살피다",
+        "훑어보다",
+        "스캔하다"
+      ],
+      "examples": [
+        "to scan a picture",
+        "To scan a picture"
+      ],
+      "start": 157.05,
+      "end": 166.26,
+      "no": 21
+    },
+    {
+      "word": "describe",
+      "meanings": [
+        "묘사하다",
+        "기술하다"
+      ],
+      "examples": [
+        "to describe the scenery",
+        "To describe the scenery"
+      ],
+      "start": 166.26,
+      "end": 174.39,
+      "no": 22
+    },
+    {
+      "word": "freeze",
+      "meanings": [
+        "얼다",
+        "얼리다",
+        "제거하다",
+        "없애다",
+        "치우다",
+        "단 하나의",
+        "독신의",
+        "인용의",
+        "긍정적인",
+        "못생긴",
+        "추한",
+        "북쪽의",
+        "가까운",
+        "가까이에",
+        "거꾸로",
+        "뒤집혀",
+        "거꾸로 된",
+        "뒤집힌",
+        "시내에",
+        "시내의",
+        "도심지의",
+        "고맙습니다"
+      ],
+      "examples": [
+        "to freeze to death"
+      ],
+      "start": 174.37,
+      "end": 249.48,
+      "no": 23
+    },
+    {
+      "word": "remove",
+      "meanings": [
+        "제거하다",
+        "없애다",
+        "치우다"
+      ],
+      "examples": [
+        "to remove problems"
+      ],
+      "start": 181.81,
+      "end": 190.86,
+      "no": 24
+    },
+    {
+      "word": "single",
+      "meanings": [
+        "단 하나의",
+        "독신의",
+        "일인용의"
+      ],
+      "examples": [
+        "a single night"
+      ],
+      "start": 190.86,
+      "end": 200.26,
+      "no": 25
+    },
+    {
+      "word": "positive",
+      "meanings": [
+        "긍정적인"
+      ],
+      "examples": [
+        "positive thinking"
+      ],
+      "start": 200.26,
+      "end": 206.73,
+      "no": 26
+    },
+    {
+      "word": "ugly",
+      "meanings": [
+        "못생긴",
+        "추한"
+      ],
+      "examples": [
+        "an ugly building"
+      ],
+      "start": 206.73,
+      "end": 214.31,
+      "no": 27
+    },
+    {
+      "word": "northern",
+      "meanings": [
+        "북쪽의"
+      ],
+      "examples": [
+        "The northern area"
+      ],
+      "start": 214.31,
+      "end": 220.76,
+      "no": 28
+    },
+    {
+      "word": "nearby",
+      "meanings": [
+        "가까운",
+        "가까이에",
+        "거꾸로",
+        "뒤집혀",
+        "거꾸로 된",
+        "뒤집힌"
+      ],
+      "examples": [
+        "Do you live nearby",
+        "Upside down",
+        "An upside-down image"
+      ],
+      "start": 222.81,
+      "end": 239.72,
+      "no": 29
+    },
+    {
+      "word": "downtown",
+      "meanings": [
+        "시내에",
+        "시내의",
+        "도심지의"
+      ],
+      "examples": [
+        "To go downtown"
+      ],
+      "start": 226.63,
+      "end": 248.96,
+      "no": 30
+    }
+  ],
+  "item_count": 30,
+  "flags": [
+    {
+      "no": 7,
+      "word": "condition",
+      "issues": [
+        "no_meaning"
+      ]
+    },
+    {
+      "no": 8,
+      "word": "fever",
+      "issues": [
+        "no_meaning"
+      ]
+    },
+    {
+      "no": 13,
+      "word": "attack",
+      "issues": [
+        "no_meaning"
+      ]
+    },
+    {
+      "no": 14,
+      "word": "cough",
+      "issues": [
+        "no_meaning"
+      ]
+    },
+    {
+      "no": 20,
+      "word": "jogging",
+      "issues": [
+        "no_meaning"
+      ]
+    }
+  ],
+  "source_method": "merge_en2_ko"
+}

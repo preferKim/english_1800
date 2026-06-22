@@ -1,0 +1,404 @@
+{
+  "lesson": "D38",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D38.mp3",
+  "model": "large-v3",
+  "duration_sec": 234.11,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "architect",
+      "meanings": [
+        "건축가"
+      ],
+      "examples": [
+        "A famous architect"
+      ],
+      "start": 1.36,
+      "end": 7.28
+    },
+    {
+      "no": 2,
+      "word": "narrator",
+      "meanings": [
+        "해설자"
+      ],
+      "examples": [
+        "The narrator of the story"
+      ],
+      "start": 7.28,
+      "end": 15.66
+    },
+    {
+      "no": 3,
+      "word": "enemy",
+      "meanings": [
+        "적"
+      ],
+      "examples": [
+        "To attack an enemy"
+      ],
+      "start": 15.66,
+      "end": 21.38
+    },
+    {
+      "no": 4,
+      "word": "throat",
+      "meanings": [
+        "목",
+        "목구멍"
+      ],
+      "examples": [
+        "My throat hurts"
+      ],
+      "start": 21.38,
+      "end": 28.44
+    },
+    {
+      "no": 5,
+      "word": "illness",
+      "meanings": [
+        "병"
+      ],
+      "examples": [
+        "Mental illness"
+      ],
+      "start": 28.44,
+      "end": 34.26
+    },
+    {
+      "no": 6,
+      "word": "weed",
+      "meanings": [
+        "잡초"
+      ],
+      "examples": [
+        "To pull up weeds"
+      ],
+      "start": 34.26,
+      "end": 40.46
+    },
+    {
+      "no": 7,
+      "word": "humor",
+      "meanings": [
+        "유머"
+      ],
+      "examples": [
+        "Humor and jokes"
+      ],
+      "start": 40.46,
+      "end": 46.6
+    },
+    {
+      "no": 8,
+      "word": "volcano",
+      "meanings": [
+        "화산"
+      ],
+      "examples": [
+        "An active volcano"
+      ],
+      "start": 46.6,
+      "end": 53.02
+    },
+    {
+      "no": 9,
+      "word": "kingdom",
+      "meanings": [
+        "왕국",
+        "개"
+      ],
+      "examples": [
+        "The animal kingdom"
+      ],
+      "start": 53.02,
+      "end": 60.12
+    },
+    {
+      "no": 10,
+      "word": "attempt",
+      "meanings": [
+        "시도",
+        "시도하다"
+      ],
+      "examples": [
+        "To make an attempt"
+      ],
+      "start": 60.12,
+      "end": 67.74
+    },
+    {
+      "no": 11,
+      "word": "award",
+      "meanings": [
+        "상",
+        "수여하다"
+      ],
+      "examples": [
+        "To make an attempt",
+        "To win an award"
+      ],
+      "start": 67.74,
+      "end": 75.14
+    },
+    {
+      "no": 12,
+      "word": "broadcast",
+      "meanings": [
+        "방송",
+        "방송하다"
+      ],
+      "examples": [
+        "A news broadcast"
+      ],
+      "start": 76.03,
+      "end": 82.91
+    },
+    {
+      "no": 13,
+      "word": "aid",
+      "meanings": [
+        "원조",
+        "도움",
+        "돕다"
+      ],
+      "examples": [
+        "Foreign aid"
+      ],
+      "start": 80.74,
+      "end": 91.34
+    },
+    {
+      "no": 14,
+      "word": "nod",
+      "meanings": [
+        "고개를 끄덕이다",
+        "끄덕임"
+      ],
+      "examples": [
+        "To nod your head"
+      ],
+      "start": 91.34,
+      "end": 99.33
+    },
+    {
+      "no": 15,
+      "word": "escape",
+      "meanings": [
+        "달아나다",
+        "탈출하다",
+        "탈출",
+        "도피"
+      ],
+      "examples": [
+        "To escape from prison"
+      ],
+      "start": 99.33,
+      "end": 109.29
+    },
+    {
+      "no": 16,
+      "word": "envy",
+      "meanings": [
+        "부러워하다",
+        "부러움"
+      ],
+      "examples": [
+        "I envy you"
+      ],
+      "start": 109.29,
+      "end": 117.2
+    },
+    {
+      "no": 17,
+      "word": "measure",
+      "meanings": [
+        "재다",
+        "측정하다",
+        "수량이 얼마이다",
+        "조치"
+      ],
+      "examples": [
+        "To measure the distance"
+      ],
+      "start": 117.2,
+      "end": 127.77
+    },
+    {
+      "no": 18,
+      "word": "chief",
+      "meanings": [
+        "장",
+        "추장",
+        "주된"
+      ],
+      "examples": [
+        "A police chief"
+      ],
+      "start": 127.77,
+      "end": 136.03
+    },
+    {
+      "no": 19,
+      "word": "total",
+      "meanings": [
+        "총",
+        "전체의",
+        "완전한",
+        "총개",
+        "합계"
+      ],
+      "examples": [
+        "The total population"
+      ],
+      "start": 136.03,
+      "end": 147.0
+    },
+    {
+      "no": 20,
+      "word": "worth",
+      "meanings": [
+        "가치가 있는",
+        "가치"
+      ],
+      "examples": [
+        "It's worth a try"
+      ],
+      "start": 147.0,
+      "end": 154.87
+    },
+    {
+      "no": 21,
+      "word": "embarrass",
+      "meanings": [
+        "당황하게 하다"
+      ],
+      "examples": [
+        "He was embarrassed"
+      ],
+      "start": 155.7,
+      "end": 161.46
+    },
+    {
+      "no": 22,
+      "word": "erupt",
+      "meanings": [
+        "분출하다",
+        "폭발하다",
+        "터지다",
+        "발발하다"
+      ],
+      "examples": [
+        "The volcano erupted"
+      ],
+      "start": 162.82,
+      "end": 172.47
+    },
+    {
+      "no": 23,
+      "word": "perform",
+      "meanings": [
+        "공연하다",
+        "연주하다",
+        "수행하다"
+      ],
+      "examples": [
+        "To perform a play"
+      ],
+      "start": 172.47,
+      "end": 181.72
+    },
+    {
+      "no": 24,
+      "word": "publish",
+      "meanings": [
+        "출판하다",
+        "발행하다",
+        "발표하다"
+      ],
+      "examples": [
+        "To publish books"
+      ],
+      "start": 182.59,
+      "end": 191.0
+    },
+    {
+      "no": 25,
+      "word": "silent",
+      "meanings": [
+        "침묵하는",
+        "조용한"
+      ],
+      "examples": [
+        "To keep silent"
+      ],
+      "start": 191.0,
+      "end": 198.48
+    },
+    {
+      "no": 26,
+      "word": "silly",
+      "meanings": [
+        "어리석은"
+      ],
+      "examples": [
+        "Don't be silly"
+      ],
+      "start": 198.48,
+      "end": 204.97
+    },
+    {
+      "no": 27,
+      "word": "scary",
+      "meanings": [
+        "무서운"
+      ],
+      "examples": [
+        "A scary monster"
+      ],
+      "start": 204.97,
+      "end": 211.3
+    },
+    {
+      "no": 28,
+      "word": "sore",
+      "meanings": [
+        "아픈",
+        "수신은"
+      ],
+      "examples": [
+        "To have a sore throat"
+      ],
+      "start": 211.3,
+      "end": 219.17
+    },
+    {
+      "no": 29,
+      "word": "bitter",
+      "meanings": [
+        "쓴",
+        "쓰라린"
+      ],
+      "examples": [
+        "A bitter taste"
+      ],
+      "start": 219.17,
+      "end": 226.37
+    },
+    {
+      "no": 30,
+      "word": "lately",
+      "meanings": [
+        "최근에"
+      ],
+      "examples": [
+        "Have you seen her lately"
+      ],
+      "start": 226.37,
+      "end": 232.64
+    }
+  ],
+  "source_method": "en"
+}

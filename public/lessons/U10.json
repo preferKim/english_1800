@@ -1,0 +1,416 @@
+{
+  "lesson": "U10",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-U10.mp3",
+  "model": "large-v3",
+  "duration_sec": 269.82,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "dew",
+      "meanings": [
+        "이슬"
+      ],
+      "examples": [
+        "a morning dew"
+      ],
+      "start": 0.1,
+      "end": 5.0
+    },
+    {
+      "no": 2,
+      "word": "masterpiece",
+      "meanings": [
+        "걸작",
+        "명작"
+      ],
+      "examples": [
+        "a literary masterpiece"
+      ],
+      "start": 8.57,
+      "end": 32.43
+    },
+    {
+      "no": 3,
+      "word": "tag",
+      "meanings": [
+        "꼬리표",
+        "태그"
+      ],
+      "examples": [
+        "a price tag"
+      ],
+      "start": 16.18,
+      "end": 32.43
+    },
+    {
+      "no": 4,
+      "word": "column",
+      "meanings": [
+        "칼럼",
+        "기둥",
+        "원주"
+      ],
+      "examples": [
+        "a sports column",
+        "marble columns"
+      ],
+      "start": 23.3,
+      "end": 32.43
+    },
+    {
+      "no": 5,
+      "word": "section",
+      "meanings": [
+        "부분",
+        "구역",
+        "신문의 절"
+      ],
+      "examples": [
+        "A non-smoking section",
+        "a sports section"
+      ],
+      "start": 32.43,
+      "end": 66.02
+    },
+    {
+      "no": 6,
+      "word": "context",
+      "meanings": [
+        "맥락",
+        "문맥"
+      ],
+      "examples": [
+        "The historical context"
+      ],
+      "start": 45.39,
+      "end": 66.02
+    },
+    {
+      "no": 7,
+      "word": "nutrition",
+      "meanings": [
+        "영양 섭취"
+      ],
+      "examples": [
+        "Adequate nutrition"
+      ],
+      "start": 52.89,
+      "end": 66.02
+    },
+    {
+      "no": 8,
+      "word": "thirst",
+      "meanings": [
+        "목마름",
+        "발증"
+      ],
+      "examples": [
+        "To wake up with a thirst"
+      ],
+      "start": 59.57,
+      "end": 66.02
+    },
+    {
+      "no": 9,
+      "word": "incident",
+      "meanings": [
+        "생명",
+        "사건"
+      ],
+      "examples": [
+        "a shooting incident"
+      ],
+      "start": 67.36,
+      "end": 95.37
+    },
+    {
+      "no": 10,
+      "word": "consequence",
+      "meanings": [
+        "결과"
+      ],
+      "examples": [
+        "To take the consequences of your actions"
+      ],
+      "start": 73.98,
+      "end": 95.37
+    },
+    {
+      "no": 11,
+      "word": "meantime",
+      "meanings": [
+        "그동안"
+      ],
+      "examples": [
+        "In the meantime",
+        "try and relax"
+      ],
+      "start": 81.16,
+      "end": 95.37
+    },
+    {
+      "no": 12,
+      "word": "attendance",
+      "meanings": [
+        "출석",
+        "참석"
+      ],
+      "examples": [
+        "The teacher takes attendance every day"
+      ],
+      "start": 88.67,
+      "end": 95.37
+    },
+    {
+      "no": 13,
+      "word": "photography",
+      "meanings": [
+        "사진촬영",
+        "사진술"
+      ],
+      "examples": [
+        "Landscape photography"
+      ],
+      "start": 96.95,
+      "end": 106.14
+    },
+    {
+      "no": 14,
+      "word": "disadvantage",
+      "meanings": [
+        "불리한 점",
+        "약점"
+      ],
+      "examples": [
+        "Everything has its advantages and disadvantages"
+      ],
+      "start": 105.36,
+      "end": 113.04
+    },
+    {
+      "no": 15,
+      "word": "prey",
+      "meanings": [
+        "먹잇감",
+        "잡아먹다"
+      ],
+      "examples": [
+        "Prey on",
+        "The bird circled above looking for prey"
+      ],
+      "start": 115.32,
+      "end": 124.5
+    },
+    {
+      "no": 16,
+      "word": "lecture",
+      "meanings": [
+        "강의",
+        "강연",
+        "강의하다",
+        "강연하다"
+      ],
+      "examples": [
+        "A lecture on Korean modern history"
+      ],
+      "start": 126.46,
+      "end": 135.69
+    },
+    {
+      "no": 17,
+      "word": "hook",
+      "meanings": [
+        "고리",
+        "낚시바늘",
+        "걸다",
+        "낚다"
+      ],
+      "examples": [
+        "Hang your towel on the hook"
+      ],
+      "start": 136.98,
+      "end": 145.74
+    },
+    {
+      "no": 18,
+      "word": "strip",
+      "meanings": [
+        "길고 가는 조각",
+        "옷을 벗다",
+        "옷을 벗기다"
+      ],
+      "examples": [
+        "A strip of cloth"
+      ],
+      "start": 147.23,
+      "end": 155.24
+    },
+    {
+      "no": 19,
+      "word": "tease",
+      "meanings": [
+        "놀리다",
+        "놀림"
+      ],
+      "examples": [
+        "He teased me about my name"
+      ],
+      "start": 157.41,
+      "end": 163.35
+    },
+    {
+      "no": 20,
+      "word": "transfer",
+      "meanings": [
+        "이동하다",
+        "전학하다",
+        "갈아타다",
+        "이동",
+        "환승"
+      ],
+      "examples": [
+        "Transfer to a new school"
+      ],
+      "start": 164.88,
+      "end": 178.07
+    },
+    {
+      "no": 21,
+      "word": "trail",
+      "meanings": [
+        "끌다",
+        "끌리다",
+        "뒤쫓다",
+        "오솔길",
+        "자국",
+        "흔적"
+      ],
+      "examples": [
+        "Her skirt trailed in the mud"
+      ],
+      "start": 179.54,
+      "end": 191.01
+    },
+    {
+      "no": 22,
+      "word": "uncover",
+      "meanings": [
+        "덮개를 벗기다",
+        "뚜껑을 열다",
+        "밝히다",
+        "적발하다"
+      ],
+      "examples": [
+        "Uncover the pot"
+      ],
+      "start": 192.52,
+      "end": 202.11
+    },
+    {
+      "no": 23,
+      "word": "migrate",
+      "meanings": [
+        "이주하다",
+        "이동하다"
+      ],
+      "examples": [
+        "Swallows migrate south in Wade"
+      ],
+      "start": 203.83,
+      "end": 210.83
+    },
+    {
+      "no": 24,
+      "word": "vibrate",
+      "meanings": [
+        "진동하다"
+      ],
+      "examples": [
+        "My phone vibrated"
+      ],
+      "start": 212.53,
+      "end": 217.78
+    },
+    {
+      "no": 25,
+      "word": "snore",
+      "meanings": [
+        "코를 골다"
+      ],
+      "examples": [
+        "He snores so"
+      ],
+      "start": 219.58,
+      "end": 224.18
+    },
+    {
+      "no": 26,
+      "word": "generate",
+      "meanings": [
+        "발생시키다",
+        "만들어내다"
+      ],
+      "examples": [
+        "To generate electricity"
+      ],
+      "start": 226.26,
+      "end": 233.0
+    },
+    {
+      "no": 27,
+      "word": "worn",
+      "meanings": [
+        "다른",
+        "낡은",
+        "지친"
+      ],
+      "examples": [
+        "A worn example"
+      ],
+      "start": 234.97,
+      "end": 240.72
+    },
+    {
+      "no": 28,
+      "word": "unpleasant",
+      "meanings": [
+        "불쾌한",
+        "불친절한"
+      ],
+      "examples": [
+        "An unpleasant"
+      ],
+      "start": 244.59,
+      "end": 250.15
+    },
+    {
+      "no": 29,
+      "word": "thoughtful",
+      "meanings": [
+        "남을 배려하는",
+        "사려깊은",
+        "생각에 잠긴"
+      ],
+      "examples": [
+        "She is a thoughtful person"
+      ],
+      "start": 252.61,
+      "end": 261.62
+    },
+    {
+      "no": 30,
+      "word": "stale",
+      "meanings": [
+        "신선하지 않은"
+      ],
+      "examples": [
+        "Stale bread"
+      ],
+      "start": 263.64,
+      "end": 268.21
+    }
+  ],
+  "source_method": "en"
+}

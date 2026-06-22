@@ -1,0 +1,389 @@
+{
+  "lesson": "D50",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D50.mp3",
+  "model": "large-v3",
+  "duration_sec": 229.22,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "author",
+      "meanings": [
+        "저자"
+      ],
+      "examples": [
+        "The author of this book"
+      ],
+      "start": 1.12,
+      "end": 7.26
+    },
+    {
+      "no": 2,
+      "word": "secretary",
+      "meanings": [
+        "비서"
+      ],
+      "examples": [
+        "To hire a secretary"
+      ],
+      "start": 7.26,
+      "end": 13.7
+    },
+    {
+      "no": 3,
+      "word": "beggar",
+      "meanings": [
+        "거지"
+      ],
+      "examples": [
+        "The beggars on the streets"
+      ],
+      "start": 13.7,
+      "end": 20.34
+    },
+    {
+      "no": 4,
+      "word": "shepherd",
+      "meanings": [
+        "양치기"
+      ],
+      "examples": [
+        "A shepherd boy"
+      ],
+      "start": 20.34,
+      "end": 26.5
+    },
+    {
+      "no": 5,
+      "word": "fable",
+      "meanings": [
+        "우화"
+      ],
+      "examples": [
+        "Aesop's fables"
+      ],
+      "start": 26.5,
+      "end": 32.78
+    },
+    {
+      "no": 6,
+      "word": "tongue",
+      "meanings": [
+        "혀",
+        "언어"
+      ],
+      "examples": [
+        "To bite your tongue"
+      ],
+      "start": 33.71,
+      "end": 39.94
+    },
+    {
+      "no": 7,
+      "word": "departure",
+      "meanings": [
+        "출발"
+      ],
+      "examples": [
+        "To delay your departure"
+      ],
+      "start": 40.8,
+      "end": 46.8
+    },
+    {
+      "no": 8,
+      "word": "entrance",
+      "meanings": [
+        "입구",
+        "입장",
+        "입학"
+      ],
+      "examples": [
+        "Entrance examinations"
+      ],
+      "start": 46.8,
+      "end": 55.83
+    },
+    {
+      "no": 9,
+      "word": "method",
+      "meanings": [
+        "방법"
+      ],
+      "examples": [
+        "New teaching methods"
+      ],
+      "start": 55.83,
+      "end": 61.92
+    },
+    {
+      "no": 10,
+      "word": "aptitude",
+      "meanings": [
+        "적성"
+      ],
+      "examples": [
+        "An aptitude test"
+      ],
+      "start": 61.92,
+      "end": 68.75
+    },
+    {
+      "no": 11,
+      "word": "victory",
+      "meanings": [
+        "승리"
+      ],
+      "examples": [
+        "To win a victory"
+      ],
+      "start": 68.75,
+      "end": 75.1
+    },
+    {
+      "no": 12,
+      "word": "chain",
+      "meanings": [
+        "사슬",
+        "쇠줄",
+        "연쇄점"
+      ],
+      "examples": [
+        "A watch chain"
+      ],
+      "start": 75.1,
+      "end": 85.18
+    },
+    {
+      "no": 13,
+      "word": "billion",
+      "meanings": [
+        "시벅"
+      ],
+      "examples": [
+        "Two billion years ago"
+      ],
+      "start": 86.02,
+      "end": 91.72
+    },
+    {
+      "no": 14,
+      "word": "blossom",
+      "meanings": [
+        "꽃",
+        "꽃이 피다"
+      ],
+      "examples": [
+        "Cherry blossoms"
+      ],
+      "start": 91.72,
+      "end": 98.64
+    },
+    {
+      "no": 15,
+      "word": "praise",
+      "meanings": [
+        "칭찬",
+        "칭찬하다"
+      ],
+      "examples": [
+        "To receive praise"
+      ],
+      "start": 98.64,
+      "end": 106.72
+    },
+    {
+      "no": 16,
+      "word": "wind",
+      "meanings": [
+        "감다",
+        "돌리다",
+        "바람"
+      ],
+      "examples": [
+        "To wind a bandage"
+      ],
+      "start": 106.72,
+      "end": 117.84
+    },
+    {
+      "no": 17,
+      "word": "require",
+      "meanings": [
+        "요구하다",
+        "필요하다"
+      ],
+      "examples": [
+        "To require a lot of care"
+      ],
+      "start": 118.67,
+      "end": 126.08
+    },
+    {
+      "no": 18,
+      "word": "tremble",
+      "meanings": [
+        "떨다",
+        "흔들리다"
+      ],
+      "examples": [
+        "Leaves trembling in the breeze"
+      ],
+      "start": 126.08,
+      "end": 134.38
+    },
+    {
+      "no": 19,
+      "word": "starve",
+      "meanings": [
+        "굶주리다",
+        "굶어죽다"
+      ],
+      "examples": [
+        "To starve to death"
+      ],
+      "start": 134.38,
+      "end": 142.53
+    },
+    {
+      "no": 20,
+      "word": "quit",
+      "meanings": [
+        "그만도다"
+      ],
+      "examples": [
+        "To quit smoking"
+      ],
+      "start": 142.53,
+      "end": 148.55
+    },
+    {
+      "no": 21,
+      "word": "spoil",
+      "meanings": [
+        "망치다"
+      ],
+      "examples": [
+        "To spoil your plans"
+      ],
+      "start": 149.99,
+      "end": 155.41
+    },
+    {
+      "no": 22,
+      "word": "punish",
+      "meanings": [
+        "벌주다",
+        "처벌하다"
+      ],
+      "examples": [
+        "To punish him for lying"
+      ],
+      "start": 156.24,
+      "end": 163.41
+    },
+    {
+      "no": 23,
+      "word": "translate",
+      "meanings": [
+        "번역하다",
+        "통역하다"
+      ],
+      "examples": [
+        "Translate the letter into English"
+      ],
+      "start": 164.31,
+      "end": 172.36
+    },
+    {
+      "no": 24,
+      "word": "wealthy",
+      "meanings": [
+        "보유한"
+      ],
+      "examples": [
+        "A wealthy businessman"
+      ],
+      "start": 173.23,
+      "end": 178.75
+    },
+    {
+      "no": 25,
+      "word": "independent",
+      "meanings": [
+        "독립된"
+      ],
+      "examples": [
+        "An independent country"
+      ],
+      "start": 178.75,
+      "end": 185.68
+    },
+    {
+      "no": 26,
+      "word": "mild",
+      "meanings": [
+        "온화한",
+        "순한"
+      ],
+      "examples": [
+        "A mild climate"
+      ],
+      "start": 186.96,
+      "end": 193.33
+    },
+    {
+      "no": 27,
+      "word": "harsh",
+      "meanings": [
+        "가혹한",
+        "혹독한"
+      ],
+      "examples": [
+        "The harsh realities of life"
+      ],
+      "start": 193.33,
+      "end": 201.83
+    },
+    {
+      "no": 28,
+      "word": "informal",
+      "meanings": [
+        "격식을 차리지 않는",
+        "비공식의"
+      ],
+      "examples": [
+        "An informal expression"
+      ],
+      "start": 202.6,
+      "end": 210.72
+    },
+    {
+      "no": 29,
+      "word": "lunar",
+      "meanings": [
+        "다르"
+      ],
+      "examples": [
+        "The lunar surface"
+      ],
+      "start": 210.72,
+      "end": 217.12
+    },
+    {
+      "no": 30,
+      "word": "overseas",
+      "meanings": [
+        "해외로",
+        "해외에"
+      ],
+      "examples": [
+        "To go overseas"
+      ],
+      "start": 217.95,
+      "end": 228.56
+    }
+  ],
+  "source_method": "en"
+}

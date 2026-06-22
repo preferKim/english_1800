@@ -1,0 +1,434 @@
+{
+  "lesson": "D45",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D45.mp3",
+  "model": "large-v3",
+  "duration_sec": 239.65,
+  "items": [
+    {
+      "no": 1,
+      "word": "lung",
+      "meanings": [
+        "폐",
+        "허파"
+      ],
+      "examples": [
+        "Lung cancer"
+      ],
+      "start": 1.41,
+      "end": 7.77
+    },
+    {
+      "no": 2,
+      "word": "passport",
+      "meanings": [
+        "여권"
+      ],
+      "examples": [
+        "A false passport"
+      ],
+      "start": 8.6,
+      "end": 16.43
+    },
+    {
+      "no": 3,
+      "word": "photo",
+      "meanings": [
+        "사진"
+      ],
+      "examples": [
+        "A photo album"
+      ],
+      "start": 14.14,
+      "end": 20.33
+    },
+    {
+      "no": 4,
+      "word": "envelope",
+      "meanings": [
+        "봉투"
+      ],
+      "examples": [
+        "Envelopes and stamps"
+      ],
+      "start": 20.33,
+      "end": 29.44
+    },
+    {
+      "no": 5,
+      "word": "attendant",
+      "meanings": [
+        "안내원",
+        "수행원"
+      ],
+      "examples": [
+        "A flight attendant"
+      ],
+      "start": 27.7,
+      "end": 34.48
+    },
+    {
+      "no": 6,
+      "word": "appointment",
+      "meanings": [
+        "약속",
+        "임명",
+        "지명"
+      ],
+      "examples": [
+        "to make an appointment",
+        "To make an appointment"
+      ],
+      "start": 32.52,
+      "end": 43.57
+    },
+    {
+      "no": 7,
+      "word": "midnight",
+      "meanings": [
+        "자정"
+      ],
+      "examples": [
+        "at midnight",
+        "At midnight"
+      ],
+      "start": 43.57,
+      "end": 49.46
+    },
+    {
+      "no": 8,
+      "word": "personality",
+      "meanings": [
+        "성격",
+        "개성"
+      ],
+      "examples": [
+        "a strong personality",
+        "A strong personality"
+      ],
+      "start": 49.46,
+      "end": 57.18
+    },
+    {
+      "no": 9,
+      "word": "chimney",
+      "meanings": [
+        "굴뚝"
+      ],
+      "examples": [
+        "white chimney smoke",
+        "White chimney smoke"
+      ],
+      "start": 57.18,
+      "end": 63.62
+    },
+    {
+      "no": 10,
+      "word": "fence",
+      "meanings": [
+        "울타리"
+      ],
+      "examples": [
+        "the garden fence",
+        "The garden fence"
+      ],
+      "start": 63.62,
+      "end": 69.64
+    },
+    {
+      "no": 11,
+      "word": "evidence",
+      "meanings": [
+        "증거"
+      ],
+      "examples": [
+        "scientific evidence",
+        "Scientific evidence"
+      ],
+      "start": 69.64,
+      "end": 76.18
+    },
+    {
+      "no": 12,
+      "word": "feature",
+      "meanings": [
+        "특징"
+      ],
+      "examples": [
+        "the main feature",
+        "The main feature"
+      ],
+      "start": 76.18,
+      "end": 82.52
+    },
+    {
+      "no": 13,
+      "word": "flavor",
+      "meanings": [
+        "맛",
+        "맛을 내다"
+      ],
+      "examples": [
+        "flavors of ice cream",
+        "Flavors of ice cream"
+      ],
+      "start": 82.52,
+      "end": 90.12
+    },
+    {
+      "no": 14,
+      "word": "leap",
+      "meanings": [
+        "뛰어오르다",
+        "도약"
+      ],
+      "examples": [
+        "to leap into the air",
+        "To leap into the air"
+      ],
+      "start": 90.12,
+      "end": 97.67
+    },
+    {
+      "no": 15,
+      "word": "leak",
+      "meanings": [
+        "새다",
+        "노출"
+      ],
+      "examples": [
+        "a gas leak",
+        "A gas leak"
+      ],
+      "start": 97.67,
+      "end": 104.64
+    },
+    {
+      "no": 16,
+      "word": "scream",
+      "meanings": [
+        "비명을 지르다",
+        "소리치다"
+      ],
+      "examples": [
+        "to scream in pain",
+        "To scream in pain"
+      ],
+      "start": 104.64,
+      "end": 112.73
+    },
+    {
+      "no": 17,
+      "word": "refresh",
+      "meanings": [
+        "생기를 되찾게 하다",
+        "상쾌하게 하다"
+      ],
+      "examples": [
+        "sleep refreshes the body",
+        "Sleep refreshes the body"
+      ],
+      "start": 112.73,
+      "end": 122.41
+    },
+    {
+      "no": 18,
+      "word": "occur",
+      "meanings": [
+        "일어나다",
+        "발생하다",
+        "떠오르다"
+      ],
+      "examples": [
+        "an accident occurred",
+        "An accident occurred"
+      ],
+      "start": 122.41,
+      "end": 131.64
+    },
+    {
+      "no": 19,
+      "word": "obtain",
+      "meanings": [
+        "얻다"
+      ],
+      "examples": [
+        "to obtain information",
+        "To obtain information"
+      ],
+      "start": 131.64,
+      "end": 138.08
+    },
+    {
+      "no": 20,
+      "word": "intend",
+      "meanings": [
+        "의도하다",
+        "작정하다",
+        "낮추다",
+        "내리다",
+        "아래의",
+        "기울다",
+        "숙이다",
+        "기대다",
+        "호리호리한",
+        "동일한",
+        "동등한",
+        "같다"
+      ],
+      "examples": [
+        "equal rights",
+        "To intend to go to England"
+      ],
+      "start": 138.08,
+      "end": 174.33
+    },
+    {
+      "no": 21,
+      "word": "lower",
+      "meanings": [
+        "낮추다",
+        "내리다",
+        "아래의"
+      ],
+      "examples": [
+        "To lower prices"
+      ],
+      "start": 148.01,
+      "end": 155.07
+    },
+    {
+      "no": 22,
+      "word": "lean",
+      "meanings": [
+        "기울다",
+        "숙이다",
+        "기대다",
+        "호리호리한"
+      ],
+      "examples": [
+        "To lean forward"
+      ],
+      "start": 157.06,
+      "end": 165.41
+    },
+    {
+      "no": 23,
+      "word": "equal",
+      "meanings": [
+        "동일한",
+        "동등한",
+        "같다"
+      ],
+      "examples": [
+        "Equal rights"
+      ],
+      "start": 167.24,
+      "end": 174.33
+    },
+    {
+      "no": 24,
+      "word": "separate",
+      "meanings": [
+        "분리된",
+        "별개의",
+        "분리되다",
+        "나누다"
+      ],
+      "examples": [
+        "two separate buildings",
+        "Two separate buildings"
+      ],
+      "start": 174.33,
+      "end": 187.15
+    },
+    {
+      "no": 25,
+      "word": "spare",
+      "meanings": [
+        "여분의",
+        "여가의",
+        "할애하다",
+        "내주다"
+      ],
+      "examples": [
+        "a spare key",
+        "A spare key"
+      ],
+      "start": 187.15,
+      "end": 197.15
+    },
+    {
+      "no": 26,
+      "word": "hardworking",
+      "meanings": [
+        "열심히 일하는",
+        "근면한"
+      ],
+      "examples": [
+        "hardworking people",
+        "Hardworking people"
+      ],
+      "start": 197.98,
+      "end": 205.63
+    },
+    {
+      "no": 27,
+      "word": "hopeless",
+      "meanings": [
+        "가망 없는",
+        "절망적인",
+        "날것의",
+        "가공되지 않은",
+        "휴대용의",
+        "드물게",
+        "좀처럼 무어 닿는"
+      ],
+      "examples": [
+        "A hopeless situation"
+      ],
+      "start": 205.63,
+      "end": 235.2
+    },
+    {
+      "no": 28,
+      "word": "raw",
+      "meanings": [
+        "낡아서",
+        "가공되지 않은"
+      ],
+      "examples": [
+        "Raw fish"
+      ],
+      "start": 215.83,
+      "end": 222.0
+    },
+    {
+      "no": 29,
+      "word": "portable",
+      "meanings": [
+        "휴대용의"
+      ],
+      "examples": [
+        "A portable TV"
+      ],
+      "start": 223.58,
+      "end": 228.58
+    },
+    {
+      "no": 30,
+      "word": "rarely",
+      "meanings": [
+        "드물게",
+        "좀처럼 무엇 않는"
+      ],
+      "examples": [
+        "A miracle rarely happens"
+      ],
+      "start": 230.76,
+      "end": 238.08
+    }
+  ],
+  "item_count": 30,
+  "flags": [],
+  "source_method": "merge_en_ko"
+}

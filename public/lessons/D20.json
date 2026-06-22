@@ -1,0 +1,387 @@
+{
+  "lesson": "D20",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D20.mp3",
+  "model": "large-v3",
+  "duration_sec": 261.22,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "rule",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A rule example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 2,
+      "word": "law",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A law example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 3,
+      "word": "area",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A area example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 4,
+      "word": "trust",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A trust example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 5,
+      "word": "average",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A average example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 6,
+      "word": "government",
+      "meanings": [
+        "정부"
+      ],
+      "examples": [
+        "A government example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 7,
+      "word": "total",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A total example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 8,
+      "word": "however",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A however example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 9,
+      "word": "indeed",
+      "meanings": [
+        "정말",
+        "참으로"
+      ],
+      "examples": [
+        "A indeed example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 10,
+      "word": "moreover",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A moreover example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 11,
+      "word": "otherwise",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A otherwise example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 12,
+      "word": "besides",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A besides example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 13,
+      "word": "strange",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A strange example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 14,
+      "word": "directions_dup",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A directions_dup example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 15,
+      "word": "rules_dup",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A rules_dup example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 16,
+      "word": "laws_dup",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A laws_dup example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 17,
+      "word": "capitals_dup",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A capitals_dup example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 18,
+      "word": "areas_dup",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A areas_dup example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 19,
+      "word": "behaviors_dup",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A behaviors_dup example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 20,
+      "word": "objects_dup",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A objects_dup example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 21,
+      "word": "honors_dup",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A honors_dup example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 22,
+      "word": "capital",
+      "meanings": [
+        "수도",
+        "대문자",
+        "자본"
+      ],
+      "examples": [
+        "The capital of Korea"
+      ],
+      "start": 31.54,
+      "end": 42.74
+    },
+    {
+      "no": 23,
+      "word": "direction",
+      "meanings": [
+        "방향"
+      ],
+      "examples": [
+        "A direction example"
+      ],
+      "start": 49.67,
+      "end": 53.61
+    },
+    {
+      "no": 24,
+      "word": "behavior",
+      "meanings": [
+        "행동"
+      ],
+      "examples": [
+        "A behavior example"
+      ],
+      "start": 65.83,
+      "end": 68.19
+    },
+    {
+      "no": 25,
+      "word": "strong",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "Strange behaviors"
+      ],
+      "start": 69.29,
+      "end": 73.29
+    },
+    {
+      "no": 26,
+      "word": "object",
+      "meanings": [
+        "물건",
+        "물체",
+        "목적",
+        "목표",
+        "대상",
+        "반대하다"
+      ],
+      "examples": [
+        "Object to",
+        "A moving object"
+      ],
+      "start": 79.24,
+      "end": 92.51
+    },
+    {
+      "no": 27,
+      "word": "tier",
+      "meanings": [
+        "눈물"
+      ],
+      "examples": [
+        "A tier example"
+      ],
+      "start": 104.44,
+      "end": 105.28
+    },
+    {
+      "no": 28,
+      "word": "tears",
+      "meanings": [
+        "눈물",
+        "짖다",
+        "찢어지다"
+      ],
+      "examples": [
+        "Tears of joy"
+      ],
+      "start": 105.42,
+      "end": 113.67
+    },
+    {
+      "no": 29,
+      "word": "honor",
+      "meanings": [
+        "존경",
+        "영광",
+        "명예",
+        "존경하다",
+        "경의를 표하다"
+      ],
+      "examples": [
+        "It's a great honor"
+      ],
+      "start": 115.38,
+      "end": 131.34
+    },
+    {
+      "no": 30,
+      "word": "therefore",
+      "meanings": [
+        "그러므로"
+      ],
+      "examples": [
+        "I think",
+        "I am"
+      ],
+      "start": 246.11,
+      "end": 252.6
+    }
+  ],
+  "source_method": "en"
+}

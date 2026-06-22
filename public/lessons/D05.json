@@ -1,0 +1,416 @@
+{
+  "lesson": "D05",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D05.mp3",
+  "model": "large-v3",
+  "duration_sec": 239.88,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "war",
+      "meanings": [
+        "전쟁"
+      ],
+      "examples": [
+        "The Second World War"
+      ],
+      "start": 1.6,
+      "end": 27.18
+    },
+    {
+      "no": 2,
+      "word": "soldier",
+      "meanings": [
+        "군인",
+        "병사"
+      ],
+      "examples": [
+        "Young soldiers"
+      ],
+      "start": 8.92,
+      "end": 27.18
+    },
+    {
+      "no": 3,
+      "word": "vegetable",
+      "meanings": [
+        "채소",
+        "야채"
+      ],
+      "examples": [
+        "To grow vegetables"
+      ],
+      "start": 16.07,
+      "end": 27.18
+    },
+    {
+      "no": 4,
+      "word": "leaf",
+      "meanings": [
+        "잎"
+      ],
+      "examples": [
+        "New leaves"
+      ],
+      "start": 23.08,
+      "end": 27.18
+    },
+    {
+      "no": 5,
+      "word": "bottle",
+      "meanings": [
+        "병"
+      ],
+      "examples": [
+        "A milk bottle"
+      ],
+      "start": 27.18,
+      "end": 52.92
+    },
+    {
+      "no": 6,
+      "word": "machine",
+      "meanings": [
+        "기계"
+      ],
+      "examples": [
+        "A washing machine"
+      ],
+      "start": 34.12,
+      "end": 52.92
+    },
+    {
+      "no": 7,
+      "word": "area",
+      "meanings": [
+        "지역",
+        "분야",
+        "면적"
+      ],
+      "examples": [
+        "A no-smoking area"
+      ],
+      "start": 36.78,
+      "end": 52.92
+    },
+    {
+      "no": 8,
+      "word": "grade",
+      "meanings": [
+        "성적",
+        "등급",
+        "학년"
+      ],
+      "examples": [
+        "To get a good grade"
+      ],
+      "start": 48.27,
+      "end": 62.64
+    },
+    {
+      "no": 9,
+      "word": "advertisement",
+      "meanings": [
+        "광고"
+      ],
+      "examples": [
+        "A television advertisement"
+      ],
+      "start": 54.57,
+      "end": 62.64
+    },
+    {
+      "no": 10,
+      "word": "spring",
+      "meanings": [
+        "봄",
+        "용수철",
+        "샘",
+        "튀다"
+      ],
+      "examples": [
+        "Spring flowers"
+      ],
+      "start": 62.64,
+      "end": 80.77
+    },
+    {
+      "no": 11,
+      "word": "rock",
+      "meanings": [
+        "바위",
+        "로그막",
+        "흔들다"
+      ],
+      "examples": [
+        "A big rock"
+      ],
+      "start": 73.64,
+      "end": 80.77
+    },
+    {
+      "no": 12,
+      "word": "line",
+      "meanings": [
+        "선",
+        "줄",
+        "줄을 서다"
+      ],
+      "examples": [
+        "A straight line"
+      ],
+      "start": 82.04,
+      "end": 97.02
+    },
+    {
+      "no": 13,
+      "word": "exercise",
+      "meanings": [
+        "운동",
+        "연습",
+        "운동하다",
+        "연습하다"
+      ],
+      "examples": [
+        "Light exercise"
+      ],
+      "start": 90.27,
+      "end": 113.49
+    },
+    {
+      "no": 14,
+      "word": "cook",
+      "meanings": [
+        "요리하다",
+        "요리사"
+      ],
+      "examples": [
+        "To cook dinner"
+      ],
+      "start": 100.69,
+      "end": 113.49
+    },
+    {
+      "no": 15,
+      "word": "stay",
+      "meanings": [
+        "머무르다",
+        "그대로 있다",
+        "머무름"
+      ],
+      "examples": [
+        "To stay home"
+      ],
+      "start": 108.04,
+      "end": 132.44
+    },
+    {
+      "no": 16,
+      "word": "break",
+      "meanings": [
+        "깨뜨리다",
+        "고장내다",
+        "어기다",
+        "휴식",
+        "쉬는 시간"
+      ],
+      "examples": [
+        "To break a window"
+      ],
+      "start": 116.87,
+      "end": 132.44
+    },
+    {
+      "no": 17,
+      "word": "front",
+      "meanings": [
+        "앞",
+        "앞쪽",
+        "앞쪽을"
+      ],
+      "examples": [
+        "Front of",
+        "Out of the line"
+      ],
+      "start": 128.13,
+      "end": 168.05
+    },
+    {
+      "no": 18,
+      "word": "second",
+      "meanings": [
+        "제",
+        "의",
+        "시간 단위",
+        "초",
+        "잠깐"
+      ],
+      "examples": [
+        "His second son"
+      ],
+      "start": 135.88,
+      "end": 168.05
+    },
+    {
+      "no": 19,
+      "word": "cold",
+      "meanings": [
+        "추운",
+        "차가운",
+        "감기",
+        "추위"
+      ],
+      "examples": [
+        "Cold water"
+      ],
+      "start": 146.06,
+      "end": 168.05
+    },
+    {
+      "no": 20,
+      "word": "happen",
+      "meanings": [
+        "일어나다",
+        "우연히 무엇하다"
+      ],
+      "examples": [
+        "What happened"
+      ],
+      "start": 155.04,
+      "end": 168.05
+    },
+    {
+      "no": 21,
+      "word": "leave",
+      "meanings": [
+        "떠나다",
+        "내버려두다",
+        "남기다"
+      ],
+      "examples": [
+        "To leave",
+        "For Busan"
+      ],
+      "start": 162.68,
+      "end": 204.82
+    },
+    {
+      "no": 22,
+      "word": "remember",
+      "meanings": [
+        "기억하다"
+      ],
+      "examples": [
+        "To remember his name"
+      ],
+      "start": 171.69,
+      "end": 204.82
+    },
+    {
+      "no": 23,
+      "word": "where",
+      "meanings": [
+        "입고 있다",
+        "신고 있다",
+        "쓰고 있다",
+        "닳다"
+      ],
+      "examples": [
+        "To wear a uniform"
+      ],
+      "start": 178.25,
+      "end": 204.82
+    },
+    {
+      "no": 24,
+      "word": "move",
+      "meanings": [
+        "움직이다",
+        "이사하다",
+        "감동시키다"
+      ],
+      "examples": [
+        "To move slowly"
+      ],
+      "start": 188.86,
+      "end": 204.82
+    },
+    {
+      "no": 25,
+      "word": "send",
+      "meanings": [
+        "보내다"
+      ],
+      "examples": [
+        "To send a letter"
+      ],
+      "start": 198.01,
+      "end": 204.82
+    },
+    {
+      "no": 26,
+      "word": "large",
+      "meanings": [
+        "넓은"
+      ],
+      "examples": [
+        "A large city"
+      ],
+      "start": 204.02,
+      "end": 238.42
+    },
+    {
+      "no": 27,
+      "word": "amazing",
+      "meanings": [
+        "놀라운"
+      ],
+      "examples": [
+        "An amazing story"
+      ],
+      "start": 207.66,
+      "end": 238.42
+    },
+    {
+      "no": 28,
+      "word": "early",
+      "meanings": [
+        "초기울",
+        "이른",
+        "일찍"
+      ],
+      "examples": [
+        "To come early"
+      ],
+      "start": 217.3,
+      "end": 238.42
+    },
+    {
+      "no": 29,
+      "word": "often",
+      "meanings": [
+        "자주",
+        "흔히"
+      ],
+      "examples": [
+        "I often play tennis"
+      ],
+      "start": 225.44,
+      "end": 238.42
+    },
+    {
+      "no": 30,
+      "word": "sometimes",
+      "meanings": [
+        "때때로"
+      ],
+      "examples": [
+        "I sometimes take a taxi"
+      ],
+      "start": 232.92,
+      "end": 238.42
+    }
+  ],
+  "source_method": "en"
+}

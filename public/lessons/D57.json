@@ -1,0 +1,396 @@
+{
+  "lesson": "D57",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D57.mp3",
+  "model": "large-v3",
+  "duration_sec": 237.06,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "democracy",
+      "meanings": [
+        "민주주의"
+      ],
+      "examples": [
+        "To defend democracy"
+      ],
+      "start": 2.49,
+      "end": 7.96
+    },
+    {
+      "no": 2,
+      "word": "justice",
+      "meanings": [
+        "정의"
+      ],
+      "examples": [
+        "Liberty and justice"
+      ],
+      "start": 9.97,
+      "end": 16.87
+    },
+    {
+      "no": 3,
+      "word": "faith",
+      "meanings": [
+        "신뢰",
+        "신앙"
+      ],
+      "examples": [
+        "To have faith in him"
+      ],
+      "start": 15.99,
+      "end": 22.24
+    },
+    {
+      "no": 4,
+      "word": "glory",
+      "meanings": [
+        "영광"
+      ],
+      "examples": [
+        "The moment of glory"
+      ],
+      "start": 23.95,
+      "end": 28.52
+    },
+    {
+      "no": 5,
+      "word": "apology",
+      "meanings": [
+        "사과"
+      ],
+      "examples": [
+        "To accept an apology"
+      ],
+      "start": 30.57,
+      "end": 35.24
+    },
+    {
+      "no": 6,
+      "word": "crisis",
+      "meanings": [
+        "위기"
+      ],
+      "examples": [
+        "A political crisis"
+      ],
+      "start": 35.24,
+      "end": 41.58
+    },
+    {
+      "no": 7,
+      "word": "debt",
+      "meanings": [
+        "빚",
+        "부채"
+      ],
+      "examples": [
+        "To pay off your debt"
+      ],
+      "start": 43.32,
+      "end": 48.84
+    },
+    {
+      "no": 8,
+      "word": "gap",
+      "meanings": [
+        "틈",
+        "격차"
+      ],
+      "examples": [
+        "The gap between rich and poor"
+      ],
+      "start": 50.66,
+      "end": 56.52
+    },
+    {
+      "no": 9,
+      "word": "angle",
+      "meanings": [
+        "박도"
+      ],
+      "examples": [
+        "An angle of 45 degrees"
+      ],
+      "start": 58.31,
+      "end": 63.36
+    },
+    {
+      "no": 10,
+      "word": "theory",
+      "meanings": [
+        "이론",
+        "학살"
+      ],
+      "examples": [
+        "Theory and practice"
+      ],
+      "start": 65.26,
+      "end": 70.9
+    },
+    {
+      "no": 11,
+      "word": "nest",
+      "meanings": [
+        "둥지"
+      ],
+      "examples": [
+        "A bird's nest"
+      ],
+      "start": 72.53,
+      "end": 76.99
+    },
+    {
+      "no": 12,
+      "word": "cycle",
+      "meanings": [
+        "순환",
+        "주기",
+        "자전거",
+        "순환하다",
+        "자전거를 타다"
+      ],
+      "examples": [
+        "The cycle of the seasons"
+      ],
+      "start": 78.87,
+      "end": 89.31
+    },
+    {
+      "no": 13,
+      "word": "remark",
+      "meanings": [
+        "발언",
+        "언급하다"
+      ],
+      "examples": [
+        "His rude remark"
+      ],
+      "start": 90.85,
+      "end": 96.67
+    },
+    {
+      "no": 14,
+      "word": "comfort",
+      "meanings": [
+        "편안",
+        "위로",
+        "위로하다"
+      ],
+      "examples": [
+        "A few words of comfort"
+      ],
+      "start": 98.56,
+      "end": 105.72
+    },
+    {
+      "no": 15,
+      "word": "approach",
+      "meanings": [
+        "다가오다",
+        "접근하다",
+        "접근"
+      ],
+      "examples": [
+        "Winter is approaching"
+      ],
+      "start": 103.74,
+      "end": 118.96
+    },
+    {
+      "no": 16,
+      "word": "struggle",
+      "meanings": [
+        "투쟁하다",
+        "투쟁"
+      ],
+      "examples": [
+        "To struggle for survival"
+      ],
+      "start": 118.08,
+      "end": 124.7
+    },
+    {
+      "no": 17,
+      "word": "content",
+      "meanings": [
+        "내용",
+        "만족하는"
+      ],
+      "examples": [
+        "The content of the email"
+      ],
+      "start": 126.8,
+      "end": 140.73
+    },
+    {
+      "no": 18,
+      "word": "acid",
+      "meanings": [
+        "산",
+        "산성을"
+      ],
+      "examples": [
+        "Acid rain"
+      ],
+      "start": 137.19,
+      "end": 145.15
+    },
+    {
+      "no": 19,
+      "word": "differ",
+      "meanings": [
+        "다르다"
+      ],
+      "examples": [
+        "To differ from each other"
+      ],
+      "start": 144.27,
+      "end": 149.61
+    },
+    {
+      "no": 20,
+      "word": "deserve",
+      "meanings": [
+        "받을만하다"
+      ],
+      "examples": [
+        "To deserve praise"
+      ],
+      "start": 151.07,
+      "end": 156.08
+    },
+    {
+      "no": 21,
+      "word": "permit",
+      "meanings": [
+        "허용하다",
+        "허락하다"
+      ],
+      "examples": [
+        "Smoking is not permitted here"
+      ],
+      "start": 157.85,
+      "end": 165.01
+    },
+    {
+      "no": 22,
+      "word": "forbid",
+      "meanings": [
+        "금지하다"
+      ],
+      "examples": [
+        "To forbid hunting"
+      ],
+      "start": 166.39,
+      "end": 171.28
+    },
+    {
+      "no": 23,
+      "word": "reject",
+      "meanings": [
+        "거부하다",
+        "거절하다"
+      ],
+      "examples": [
+        "To reject an offer"
+      ],
+      "start": 173.0,
+      "end": 181.65
+    },
+    {
+      "no": 24,
+      "word": "pure",
+      "meanings": [
+        "순수한",
+        "깨끗한"
+      ],
+      "examples": [
+        "100% pure cotton"
+      ],
+      "start": 180.95,
+      "end": 188.2
+    },
+    {
+      "no": 25,
+      "word": "innocent",
+      "meanings": [
+        "무죄의",
+        "무고한",
+        "순진한"
+      ],
+      "examples": [
+        "To find him innocent"
+      ],
+      "start": 189.78,
+      "end": 197.46
+    },
+    {
+      "no": 26,
+      "word": "slight",
+      "meanings": [
+        "약간의"
+      ],
+      "examples": [
+        "A slight difference"
+      ],
+      "start": 199.31,
+      "end": 203.66
+    },
+    {
+      "no": 27,
+      "word": "particular",
+      "meanings": [
+        "특정한",
+        "특별한"
+      ],
+      "examples": [
+        "A particular type of food"
+      ],
+      "start": 205.27,
+      "end": 212.5
+    },
+    {
+      "no": 28,
+      "word": "financial",
+      "meanings": [
+        "재정의",
+        "금융의"
+      ],
+      "examples": [
+        "Financial difficulties"
+      ],
+      "start": 214.17,
+      "end": 220.6
+    },
+    {
+      "no": 29,
+      "word": "unexpected",
+      "meanings": [
+        "예기치 않은"
+      ],
+      "examples": [
+        "An unexpected result"
+      ],
+      "start": 222.22,
+      "end": 227.74
+    },
+    {
+      "no": 30,
+      "word": "aboard",
+      "meanings": [
+        "배",
+        "비행기",
+        "열차에 타고"
+      ],
+      "examples": [
+        "To go abroad"
+      ],
+      "start": 229.7,
+      "end": 236.16
+    }
+  ],
+  "source_method": "en"
+}

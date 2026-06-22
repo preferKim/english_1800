@@ -1,0 +1,411 @@
+{
+  "lesson": "D39",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D39.mp3",
+  "model": "large-v3",
+  "duration_sec": 244.51,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "landscape",
+      "meanings": [
+        "풍경",
+        "풍경화"
+      ],
+      "examples": [
+        "The island's landscape"
+      ],
+      "start": 2.6,
+      "end": 8.69
+    },
+    {
+      "no": 2,
+      "word": "construction",
+      "meanings": [
+        "건설",
+        "공사"
+      ],
+      "examples": [
+        "Under construction"
+      ],
+      "start": 10.52,
+      "end": 15.89
+    },
+    {
+      "no": 3,
+      "word": "mood",
+      "meanings": [
+        "기분",
+        "분위기"
+      ],
+      "examples": [
+        "To be in a good mood"
+      ],
+      "start": 17.96,
+      "end": 23.6
+    },
+    {
+      "no": 4,
+      "word": "excitement",
+      "meanings": [
+        "흥분"
+      ],
+      "examples": [
+        "To cause great excitement"
+      ],
+      "start": 25.14,
+      "end": 30.23
+    },
+    {
+      "no": 5,
+      "word": "complaint",
+      "meanings": [
+        "불평",
+        "항의"
+      ],
+      "examples": [
+        "Customer complaint"
+      ],
+      "start": 31.86,
+      "end": 37.53
+    },
+    {
+      "no": 6,
+      "word": "confidence",
+      "meanings": [
+        "신뢰",
+        "자신",
+        "자신감"
+      ],
+      "examples": [
+        "To lose confidence"
+      ],
+      "start": 39.6,
+      "end": 46.34
+    },
+    {
+      "no": 7,
+      "word": "invasion",
+      "meanings": [
+        "침략",
+        "침해"
+      ],
+      "examples": [
+        "The Roman invasion of Britain"
+      ],
+      "start": 48.41,
+      "end": 54.6
+    },
+    {
+      "no": 8,
+      "word": "container",
+      "meanings": [
+        "용기",
+        "그릇",
+        "컨테이너"
+      ],
+      "examples": [
+        "A plastic container"
+      ],
+      "start": 56.19,
+      "end": 63.0
+    },
+    {
+      "no": 9,
+      "word": "ash",
+      "meanings": [
+        "재"
+      ],
+      "examples": [
+        "Cigarette ash"
+      ],
+      "start": 61.57,
+      "end": 68.92
+    },
+    {
+      "no": 10,
+      "word": "bar",
+      "meanings": [
+        "막대",
+        "술집"
+      ],
+      "examples": [
+        "A chocolate bar"
+      ],
+      "start": 70.57,
+      "end": 76.02
+    },
+    {
+      "no": 11,
+      "word": "contact",
+      "meanings": [
+        "연락",
+        "접촉",
+        "연락하다"
+      ],
+      "examples": [
+        "To be in contact by email"
+      ],
+      "start": 77.8,
+      "end": 85.24
+    },
+    {
+      "no": 12,
+      "word": "benefit",
+      "meanings": [
+        "혜택",
+        "이득",
+        "이득을 주다",
+        "얻다"
+      ],
+      "examples": [
+        "To get the greatest benefit"
+      ],
+      "start": 83.6,
+      "end": 95.18
+    },
+    {
+      "no": 13,
+      "word": "damage",
+      "meanings": [
+        "손상",
+        "피해",
+        "손상시키다"
+      ],
+      "examples": [
+        "Serious damage"
+      ],
+      "start": 97.48,
+      "end": 106.76
+    },
+    {
+      "no": 14,
+      "word": "supply",
+      "meanings": [
+        "공급",
+        "공급어",
+        "공급량",
+        "공급하다",
+        "제공하다"
+      ],
+      "examples": [
+        "The food supply"
+      ],
+      "start": 105.92,
+      "end": 114.32
+    },
+    {
+      "no": 15,
+      "word": "demand",
+      "meanings": [
+        "요구",
+        "수요",
+        "요구하다"
+      ],
+      "examples": [
+        "The demand for housing"
+      ],
+      "start": 114.32,
+      "end": 123.18
+    },
+    {
+      "no": 16,
+      "word": "lack",
+      "meanings": [
+        "부족",
+        "결핍",
+        "부족하다"
+      ],
+      "examples": [
+        "A lack of food"
+      ],
+      "start": 124.02,
+      "end": 131.29
+    },
+    {
+      "no": 17,
+      "word": "conflict",
+      "meanings": [
+        "갈등",
+        "충돌",
+        "상충하다"
+      ],
+      "examples": [
+        "Conflict with your parents"
+      ],
+      "start": 132.15,
+      "end": 140.62
+    },
+    {
+      "no": 18,
+      "word": "spin",
+      "meanings": [
+        "돌다",
+        "돌리다"
+      ],
+      "examples": [
+        "To spin the wheel"
+      ],
+      "start": 140.62,
+      "end": 148.02
+    },
+    {
+      "no": 19,
+      "word": "scratch",
+      "meanings": [
+        "극다",
+        "핥히다"
+      ],
+      "examples": [
+        "Try not to scratch"
+      ],
+      "start": 148.02,
+      "end": 155.62
+    },
+    {
+      "no": 20,
+      "word": "suppose",
+      "meanings": [
+        "생각하다",
+        "추정하다",
+        "가정하다"
+      ],
+      "examples": [
+        "I suppose you're right"
+      ],
+      "start": 155.62,
+      "end": 165.26
+    },
+    {
+      "no": 21,
+      "word": "refer",
+      "meanings": [
+        "언급하다",
+        "부르다",
+        "가리키다",
+        "참고하다"
+      ],
+      "examples": [
+        "refer to",
+        "To refer to the matter"
+      ],
+      "start": 165.26,
+      "end": 177.21
+    },
+    {
+      "no": 22,
+      "word": "ruin",
+      "meanings": [
+        "망치다"
+      ],
+      "examples": [
+        "To ruin your life"
+      ],
+      "start": 177.21,
+      "end": 183.59
+    },
+    {
+      "no": 23,
+      "word": "rid",
+      "meanings": [
+        "없애다",
+        "제거하다"
+      ],
+      "examples": [
+        "To get rid of bad habits"
+      ],
+      "start": 183.59,
+      "end": 191.69
+    },
+    {
+      "no": 24,
+      "word": "tight",
+      "meanings": [
+        "꽉 끼는",
+        "단단한"
+      ],
+      "examples": [
+        "Tight jeans"
+      ],
+      "start": 191.69,
+      "end": 198.94
+    },
+    {
+      "no": 25,
+      "word": "brilliant",
+      "meanings": [
+        "눈부신",
+        "뛰어난",
+        "멋진"
+      ],
+      "examples": [
+        "The brilliant light"
+      ],
+      "start": 198.94,
+      "end": 207.91
+    },
+    {
+      "no": 26,
+      "word": "specific",
+      "meanings": [
+        "특정한",
+        "구체적인"
+      ],
+      "examples": [
+        "Specific age groups"
+      ],
+      "start": 208.87,
+      "end": 216.12
+    },
+    {
+      "no": 27,
+      "word": "unusual",
+      "meanings": [
+        "특이한"
+      ],
+      "examples": [
+        "Unusual behavior"
+      ],
+      "start": 216.92,
+      "end": 222.66
+    },
+    {
+      "no": 28,
+      "word": "negative",
+      "meanings": [
+        "부정적인"
+      ],
+      "examples": [
+        "A negative effect"
+      ],
+      "start": 222.66,
+      "end": 229.35
+    },
+    {
+      "no": 29,
+      "word": "royal",
+      "meanings": [
+        "왕의"
+      ],
+      "examples": [
+        "The royal palace"
+      ],
+      "start": 229.35,
+      "end": 235.65
+    },
+    {
+      "no": 30,
+      "word": "partly",
+      "meanings": [
+        "부분적으로"
+      ],
+      "examples": [
+        "You're partly responsible for it"
+      ],
+      "start": 236.54,
+      "end": 243.22
+    }
+  ],
+  "source_method": "en"
+}

@@ -1,0 +1,426 @@
+{
+  "lesson": "D01",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D01.mp3",
+  "model": "large-v3",
+  "duration_sec": 261.88,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "life",
+      "meanings": [
+        "인생",
+        "생활",
+        "생명"
+      ],
+      "examples": [
+        "My school life"
+      ],
+      "start": 5.41,
+      "end": 14.7
+    },
+    {
+      "no": 2,
+      "word": "person",
+      "meanings": [
+        "사람"
+      ],
+      "examples": [
+        "A kind person"
+      ],
+      "start": 14.7,
+      "end": 20.7
+    },
+    {
+      "no": 3,
+      "word": "job",
+      "meanings": [
+        "일",
+        "일자리"
+      ],
+      "examples": [
+        "A part-time job"
+      ],
+      "start": 20.7,
+      "end": 27.91
+    },
+    {
+      "no": 4,
+      "word": "earth",
+      "meanings": [
+        "지구",
+        "땅"
+      ],
+      "examples": [
+        "Life on Earth"
+      ],
+      "start": 27.91,
+      "end": 34.65
+    },
+    {
+      "no": 5,
+      "word": "country",
+      "meanings": [
+        "나라",
+        "시골"
+      ],
+      "examples": [
+        "The country",
+        "A foreign country"
+      ],
+      "start": 34.65,
+      "end": 44.04
+    },
+    {
+      "no": 6,
+      "word": "way",
+      "meanings": [
+        "방법",
+        "방식",
+        "길"
+      ],
+      "examples": [
+        "A way of life"
+      ],
+      "start": 44.04,
+      "end": 51.96
+    },
+    {
+      "no": 7,
+      "word": "story",
+      "meanings": [
+        "이야기",
+        "층"
+      ],
+      "examples": [
+        "A love story"
+      ],
+      "start": 51.96,
+      "end": 58.74
+    },
+    {
+      "no": 8,
+      "word": "movie",
+      "meanings": [
+        "영화",
+        "영화관"
+      ],
+      "examples": [
+        "The movies",
+        "To see a movie"
+      ],
+      "start": 58.74,
+      "end": 68.21
+    },
+    {
+      "no": 9,
+      "word": "problem",
+      "meanings": [
+        "문제"
+      ],
+      "examples": [
+        "Big problem"
+      ],
+      "start": 68.21,
+      "end": 74.12
+    },
+    {
+      "no": 10,
+      "word": "lot",
+      "meanings": [
+        "많은"
+      ],
+      "examples": [
+        "A lot of time"
+      ],
+      "start": 74.12,
+      "end": 80.07
+    },
+    {
+      "no": 11,
+      "word": "hand",
+      "meanings": [
+        "손",
+        "시계바늘",
+        "건네주다"
+      ],
+      "examples": [
+        "The left hand"
+      ],
+      "start": 80.07,
+      "end": 88.65
+    },
+    {
+      "no": 12,
+      "word": "place",
+      "meanings": [
+        "장소",
+        "두다",
+        "놓다"
+      ],
+      "examples": [
+        "A meeting place"
+      ],
+      "start": 88.65,
+      "end": 96.61
+    },
+    {
+      "no": 13,
+      "word": "call",
+      "meanings": [
+        "전화하다",
+        "부르다",
+        "통화",
+        "부름"
+      ],
+      "examples": [
+        "Call me anytime"
+      ],
+      "start": 96.61,
+      "end": 106.16
+    },
+    {
+      "no": 14,
+      "word": "start",
+      "meanings": [
+        "시작하다",
+        "출발하다",
+        "시작",
+        "출발"
+      ],
+      "examples": [
+        "Let's start"
+      ],
+      "start": 106.16,
+      "end": 116.15
+    },
+    {
+      "no": 15,
+      "word": "try",
+      "meanings": [
+        "노력하다",
+        "무엇 해보다",
+        "시도"
+      ],
+      "examples": [
+        "To try again"
+      ],
+      "start": 116.15,
+      "end": 124.84
+    },
+    {
+      "no": 16,
+      "word": "use",
+      "meanings": [
+        "사용하다",
+        "이용하다",
+        "사용",
+        "이용"
+      ],
+      "examples": [
+        "To use a computer"
+      ],
+      "start": 124.84,
+      "end": 137.02
+    },
+    {
+      "no": 17,
+      "word": "kind",
+      "meanings": [
+        "종류",
+        "친절한"
+      ],
+      "examples": [
+        "All kinds of music"
+      ],
+      "start": 137.02,
+      "end": 144.69
+    },
+    {
+      "no": 18,
+      "word": "fun",
+      "meanings": [
+        "재미",
+        "장난",
+        "재미있는"
+      ],
+      "examples": [
+        "Just for fun"
+      ],
+      "start": 144.69,
+      "end": 153.31
+    },
+    {
+      "no": 19,
+      "word": "future",
+      "meanings": [
+        "미래",
+        "장래",
+        "미래의"
+      ],
+      "examples": [
+        "In the future"
+      ],
+      "start": 153.31,
+      "end": 161.6
+    },
+    {
+      "no": 20,
+      "word": "have",
+      "meanings": [
+        "가지고 있다",
+        "먹다",
+        "무엇하게 하다",
+        "당하다"
+      ],
+      "examples": [
+        "To have a car"
+      ],
+      "start": 161.6,
+      "end": 171.98
+    },
+    {
+      "no": 21,
+      "word": "make",
+      "meanings": [
+        "만들다",
+        "무엇하게 하다",
+        "시키다"
+      ],
+      "examples": [
+        "To make a robot"
+      ],
+      "start": 171.98,
+      "end": 181.04
+    },
+    {
+      "no": 22,
+      "word": "let",
+      "meanings": [
+        "무엇하게 하다",
+        "허락하다"
+      ],
+      "examples": [
+        "Let me go"
+      ],
+      "start": 181.04,
+      "end": 188.76
+    },
+    {
+      "no": 23,
+      "word": "get",
+      "meanings": [
+        "얻다",
+        "이르다",
+        "되다"
+      ],
+      "examples": [
+        "To get a job"
+      ],
+      "start": 188.76,
+      "end": 196.91
+    },
+    {
+      "no": 24,
+      "word": "take",
+      "meanings": [
+        "데려가다",
+        "가져가다",
+        "필요로 하다",
+        "받다",
+        "잡다"
+      ],
+      "examples": [
+        "To take him there"
+      ],
+      "start": 196.91,
+      "end": 208.36
+    },
+    {
+      "no": 25,
+      "word": "different",
+      "meanings": [
+        "다른"
+      ],
+      "examples": [
+        "A different idea"
+      ],
+      "start": 208.36,
+      "end": 214.3
+    },
+    {
+      "no": 26,
+      "word": "important",
+      "meanings": [
+        "중요한"
+      ],
+      "examples": [
+        "Important questions"
+      ],
+      "start": 214.3,
+      "end": 220.92
+    },
+    {
+      "no": 27,
+      "word": "right",
+      "meanings": [
+        "오른",
+        "오른쪽을",
+        "바로",
+        "오른쪽으로",
+        "오른쪽",
+        "관리"
+      ],
+      "examples": [
+        "The right answer"
+      ],
+      "start": 220.92,
+      "end": 232.94
+    },
+    {
+      "no": 28,
+      "word": "sure",
+      "meanings": [
+        "확실하는",
+        "확실한",
+        "물론",
+        "확실히"
+      ],
+      "examples": [
+        "Are you sure"
+      ],
+      "start": 232.94,
+      "end": 242.58
+    },
+    {
+      "no": 29,
+      "word": "well",
+      "meanings": [
+        "잘",
+        "건강한"
+      ],
+      "examples": [
+        "To sing well"
+      ],
+      "start": 244.02,
+      "end": 250.72
+    },
+    {
+      "no": 30,
+      "word": "hard",
+      "meanings": [
+        "열심히",
+        "세게",
+        "단단한",
+        "어려운"
+      ],
+      "examples": [
+        "To study hard"
+      ],
+      "start": 250.72,
+      "end": 260.36
+    }
+  ],
+  "source_method": "en"
+}

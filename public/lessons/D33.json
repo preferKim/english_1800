@@ -1,0 +1,404 @@
+{
+  "lesson": "D33",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D33.mp3",
+  "model": "large-v3",
+  "duration_sec": 238.39,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "ancestor",
+      "meanings": [
+        "조상",
+        "선조"
+      ],
+      "examples": [
+        "Portraits of his ancestors"
+      ],
+      "start": 2.34,
+      "end": 33.92
+    },
+    {
+      "no": 2,
+      "word": "director",
+      "meanings": [
+        "감독",
+        "책임자",
+        "임원"
+      ],
+      "examples": [
+        "A movie director"
+      ],
+      "start": 10.28,
+      "end": 33.92
+    },
+    {
+      "no": 3,
+      "word": "customer",
+      "meanings": [
+        "고객"
+      ],
+      "examples": [
+        "Customer service"
+      ],
+      "start": 18.54,
+      "end": 33.92
+    },
+    {
+      "no": 4,
+      "word": "astronaut",
+      "meanings": [
+        "우주비행사"
+      ],
+      "examples": [
+        "The first astronaut"
+      ],
+      "start": 24.6,
+      "end": 33.92
+    },
+    {
+      "no": 5,
+      "word": "dynasty",
+      "meanings": [
+        "왕조"
+      ],
+      "examples": [
+        "The chosen dynasty"
+      ],
+      "start": 31.29,
+      "end": 69.87
+    },
+    {
+      "no": 6,
+      "word": "furniture",
+      "meanings": [
+        "가구"
+      ],
+      "examples": [
+        "A piece of furniture"
+      ],
+      "start": 37.96,
+      "end": 69.87
+    },
+    {
+      "no": 7,
+      "word": "drug",
+      "meanings": [
+        "약"
+      ],
+      "examples": [
+        "A new anti-cancer drug"
+      ],
+      "start": 44.07,
+      "end": 69.87
+    },
+    {
+      "no": 8,
+      "word": "greenhouse",
+      "meanings": [
+        "온실"
+      ],
+      "examples": [
+        "Greenhouse gas"
+      ],
+      "start": 50.62,
+      "end": 69.87
+    },
+    {
+      "no": 9,
+      "word": "harmony",
+      "meanings": [
+        "조화"
+      ],
+      "examples": [
+        "To live in harmony"
+      ],
+      "start": 56.85,
+      "end": 69.87
+    },
+    {
+      "no": 10,
+      "word": "dirt",
+      "meanings": [
+        "먼지",
+        "때",
+        "흙"
+      ],
+      "examples": [
+        "The floor covered with dirt"
+      ],
+      "start": 63.01,
+      "end": 69.87
+    },
+    {
+      "no": 11,
+      "word": "shot",
+      "meanings": [
+        "발사",
+        "구기의 슛",
+        "주사",
+        "사진",
+        "장면"
+      ],
+      "examples": [
+        "Good shot"
+      ],
+      "start": 71.18,
+      "end": 105.62
+    },
+    {
+      "no": 12,
+      "word": "curve",
+      "meanings": [
+        "곡선",
+        "커보",
+        "곡선을 이루다"
+      ],
+      "examples": [
+        "Straight lines and curves"
+      ],
+      "start": 81.94,
+      "end": 105.62
+    },
+    {
+      "no": 13,
+      "word": "stuff",
+      "meanings": [
+        "것들",
+        "채우다",
+        "쑤셔넣다"
+      ],
+      "examples": [
+        "Good stuff"
+      ],
+      "start": 91.07,
+      "end": 105.62
+    },
+    {
+      "no": 14,
+      "word": "pack",
+      "meanings": [
+        "짐을 싸다",
+        "꾸러미",
+        "묶음"
+      ],
+      "examples": [
+        "To pack a",
+        "A bag"
+      ],
+      "start": 99.62,
+      "end": 107.6
+    },
+    {
+      "no": 15,
+      "word": "spill",
+      "meanings": [
+        "엎지르다",
+        "흘리다",
+        "쏟다",
+        "유출"
+      ],
+      "examples": [
+        "To spill water"
+      ],
+      "start": 109.32,
+      "end": 117.42
+    },
+    {
+      "no": 16,
+      "word": "debate",
+      "meanings": [
+        "토론하다",
+        "논의하다",
+        "토론",
+        "논의"
+      ],
+      "examples": [
+        "To have a debate"
+      ],
+      "start": 119.32,
+      "end": 127.36
+    },
+    {
+      "no": 17,
+      "word": "whisper",
+      "meanings": [
+        "속삭이다",
+        "속삭임"
+      ],
+      "examples": [
+        "To ask in a whisper"
+      ],
+      "start": 129.04,
+      "end": 135.63
+    },
+    {
+      "no": 18,
+      "word": "lay",
+      "meanings": [
+        "놓다",
+        "높이다",
+        "놨다"
+      ],
+      "examples": [
+        "A hand on my shoulder"
+      ],
+      "start": 137.37,
+      "end": 144.69
+    },
+    {
+      "no": 19,
+      "word": "pardon",
+      "meanings": [
+        "용서하다",
+        "뭐라고요",
+        "죄송합니다"
+      ],
+      "examples": [
+        "Pardon me"
+      ],
+      "start": 146.47,
+      "end": 153.58
+    },
+    {
+      "no": 20,
+      "word": "beg",
+      "meanings": [
+        "간청하다",
+        "구걸하다"
+      ],
+      "examples": [
+        "To beg him for help"
+      ],
+      "start": 155.62,
+      "end": 161.69
+    },
+    {
+      "no": 21,
+      "word": "relate",
+      "meanings": [
+        "관련시키다"
+      ],
+      "examples": [
+        "A smoking-related illness"
+      ],
+      "start": 163.2,
+      "end": 168.5
+    },
+    {
+      "no": 22,
+      "word": "intelligent",
+      "meanings": [
+        "청명한",
+        "똑똑한"
+      ],
+      "examples": [
+        "Intelligent students"
+      ],
+      "start": 170.34,
+      "end": 176.32
+    },
+    {
+      "no": 23,
+      "word": "eager",
+      "meanings": [
+        "열망하다",
+        "청하는"
+      ],
+      "examples": [
+        "I'm eager to see you"
+      ],
+      "start": 178.18,
+      "end": 183.54
+    },
+    {
+      "no": 24,
+      "word": "disabled",
+      "meanings": [
+        "장애가 있는"
+      ],
+      "examples": [
+        "Disabled people"
+      ],
+      "start": 185.06,
+      "end": 190.11
+    },
+    {
+      "no": 25,
+      "word": "homeless",
+      "meanings": [
+        "집 없는"
+      ],
+      "examples": [
+        "Homeless people"
+      ],
+      "start": 191.8,
+      "end": 196.27
+    },
+    {
+      "no": 26,
+      "word": "harmful",
+      "meanings": [
+        "해로운"
+      ],
+      "examples": [
+        "The harmful effects of smoking"
+      ],
+      "start": 198.02,
+      "end": 203.34
+    },
+    {
+      "no": 27,
+      "word": "lifelong",
+      "meanings": [
+        "평생을"
+      ],
+      "examples": [
+        "A lifelong friend"
+      ],
+      "start": 205.13,
+      "end": 210.14
+    },
+    {
+      "no": 28,
+      "word": "nervous",
+      "meanings": [
+        "초조한",
+        "신경을"
+      ],
+      "examples": [
+        "Don't be nervous"
+      ],
+      "start": 211.83,
+      "end": 217.82
+    },
+    {
+      "no": 29,
+      "word": "seldom",
+      "meanings": [
+        "좀처럼 무엇하지 않는",
+        "거의 무엇하지 않는"
+      ],
+      "examples": [
+        "He seldom reads books"
+      ],
+      "start": 218.93,
+      "end": 228.48
+    },
+    {
+      "no": 30,
+      "word": "somewhere",
+      "meanings": [
+        "어딘가에",
+        "어딘가에로"
+      ],
+      "examples": [
+        "To live somewhere in Seoul"
+      ],
+      "start": 230.34,
+      "end": 236.96
+    }
+  ],
+  "source_method": "en"
+}

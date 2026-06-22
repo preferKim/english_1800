@@ -1,0 +1,403 @@
+{
+  "lesson": "D32",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D32.mp3",
+  "model": "large-v3",
+  "duration_sec": 233.56,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "generation",
+      "meanings": [
+        "세대"
+      ],
+      "examples": [
+        "Future generations"
+      ],
+      "start": 1.29,
+      "end": 7.52
+    },
+    {
+      "no": 2,
+      "word": "self",
+      "meanings": [
+        "자신",
+        "자아"
+      ],
+      "examples": [
+        "A sense of self"
+      ],
+      "start": 7.52,
+      "end": 14.94
+    },
+    {
+      "no": 3,
+      "word": "visitor",
+      "meanings": [
+        "방문객"
+      ],
+      "examples": [
+        "To welcome your visitor"
+      ],
+      "start": 14.94,
+      "end": 21.36
+    },
+    {
+      "no": 4,
+      "word": "boss",
+      "meanings": [
+        "상사",
+        "상관"
+      ],
+      "examples": [
+        "She's my boss"
+      ],
+      "start": 21.36,
+      "end": 28.78
+    },
+    {
+      "no": 5,
+      "word": "portrait",
+      "meanings": [
+        "초상화"
+      ],
+      "examples": [
+        "A portrait painter"
+      ],
+      "start": 28.78,
+      "end": 34.93
+    },
+    {
+      "no": 6,
+      "word": "darkness",
+      "meanings": [
+        "어둠"
+      ],
+      "examples": [
+        "In the darkness"
+      ],
+      "start": 34.93,
+      "end": 41.04
+    },
+    {
+      "no": 7,
+      "word": "earthquake",
+      "meanings": [
+        "지진"
+      ],
+      "examples": [
+        "An earthquake zone"
+      ],
+      "start": 41.04,
+      "end": 47.49
+    },
+    {
+      "no": 8,
+      "word": "weapon",
+      "meanings": [
+        "무기"
+      ],
+      "examples": [
+        "To develop new weapons"
+      ],
+      "start": 48.32,
+      "end": 53.96
+    },
+    {
+      "no": 9,
+      "word": "charity",
+      "meanings": [
+        "자선",
+        "자선단체"
+      ],
+      "examples": [
+        "A charity event"
+      ],
+      "start": 53.96,
+      "end": 61.69
+    },
+    {
+      "no": 10,
+      "word": "saying",
+      "meanings": [
+        "속담",
+        "격언"
+      ],
+      "examples": [
+        "My favorite saying"
+      ],
+      "start": 61.69,
+      "end": 69.33
+    },
+    {
+      "no": 11,
+      "word": "issue",
+      "meanings": [
+        "쟁점",
+        "문제",
+        "인재",
+        "호",
+        "발표하다",
+        "발급하다",
+        "발행하다"
+      ],
+      "examples": [
+        "A social issue"
+      ],
+      "start": 69.33,
+      "end": 81.86
+    },
+    {
+      "no": 12,
+      "word": "signal",
+      "meanings": [
+        "신호",
+        "신호를 보내다"
+      ],
+      "examples": [
+        "Traffic signals"
+      ],
+      "start": 81.86,
+      "end": 89.59
+    },
+    {
+      "no": 13,
+      "word": "exchange",
+      "meanings": [
+        "교환",
+        "교환하다",
+        "주고받다"
+      ],
+      "examples": [
+        "An exchange of information"
+      ],
+      "start": 89.59,
+      "end": 98.73
+    },
+    {
+      "no": 14,
+      "word": "swallow",
+      "meanings": [
+        "삼키다",
+        "제비"
+      ],
+      "examples": [
+        "To swallow food"
+      ],
+      "start": 99.25,
+      "end": 106.5
+    },
+    {
+      "no": 15,
+      "word": "average",
+      "meanings": [
+        "평소에",
+        "평균",
+        "평균을"
+      ],
+      "examples": [
+        "An average age"
+      ],
+      "start": 106.5,
+      "end": 114.14
+    },
+    {
+      "no": 16,
+      "word": "official",
+      "meanings": [
+        "공식을",
+        "관리",
+        "임원"
+      ],
+      "examples": [
+        "An official decision"
+      ],
+      "start": 114.14,
+      "end": 122.78
+    },
+    {
+      "no": 17,
+      "word": "gray",
+      "meanings": [
+        "회색을",
+        "반백을",
+        "회색"
+      ],
+      "examples": [
+        "A gray suit"
+      ],
+      "start": 122.78,
+      "end": 131.21
+    },
+    {
+      "no": 18,
+      "word": "prefer",
+      "meanings": [
+        "더 좋아하다",
+        "선호하다"
+      ],
+      "examples": [
+        "To prefer jazz to rock music"
+      ],
+      "start": 131.21,
+      "end": 140.63
+    },
+    {
+      "no": 19,
+      "word": "relax",
+      "meanings": [
+        "쉬다",
+        "긴장을 풀자",
+        "줄다"
+      ],
+      "examples": [
+        "Sit down and relax"
+      ],
+      "start": 140.63,
+      "end": 148.89
+    },
+    {
+      "no": 20,
+      "word": "reduce",
+      "meanings": [
+        "줄다",
+        "줄이다"
+      ],
+      "examples": [
+        "To reduce speed"
+      ],
+      "start": 148.89,
+      "end": 156.27
+    },
+    {
+      "no": 21,
+      "word": "bury",
+      "meanings": [
+        "못다",
+        "매장하다"
+      ],
+      "examples": [
+        "To be buried under snow"
+      ],
+      "start": 156.27,
+      "end": 164.18
+    },
+    {
+      "no": 22,
+      "word": "shoot",
+      "meanings": [
+        "쏘다",
+        "촬영하다",
+        "스포츠",
+        "하다"
+      ],
+      "examples": [
+        "To shoot a gun"
+      ],
+      "start": 164.18,
+      "end": 174.07
+    },
+    {
+      "no": 23,
+      "word": "yell",
+      "meanings": [
+        "외치다",
+        "소리치다"
+      ],
+      "examples": [
+        "To yell out in pain"
+      ],
+      "start": 174.07,
+      "end": 181.65
+    },
+    {
+      "no": 24,
+      "word": "powerful",
+      "meanings": [
+        "강력한"
+      ],
+      "examples": [
+        "A powerful weapon"
+      ],
+      "start": 182.51,
+      "end": 188.09
+    },
+    {
+      "no": 25,
+      "word": "faithful",
+      "meanings": [
+        "충실한",
+        "믿음직한"
+      ],
+      "examples": [
+        "His faithful dog"
+      ],
+      "start": 189.05,
+      "end": 196.24
+    },
+    {
+      "no": 26,
+      "word": "creative",
+      "meanings": [
+        "창조적인"
+      ],
+      "examples": [
+        "Creative talents"
+      ],
+      "start": 196.24,
+      "end": 202.92
+    },
+    {
+      "no": 27,
+      "word": "deaf",
+      "meanings": [
+        "청각장애가 있는",
+        "귀먹은"
+      ],
+      "examples": [
+        "To become deaf"
+      ],
+      "start": 202.92,
+      "end": 211.2
+    },
+    {
+      "no": 28,
+      "word": "electronic",
+      "meanings": [
+        "전자올"
+      ],
+      "examples": [
+        "Electronic music"
+      ],
+      "start": 211.2,
+      "end": 217.88
+    },
+    {
+      "no": 29,
+      "word": "nearby",
+      "meanings": [
+        "거의"
+      ],
+      "examples": [
+        "For nearly two years"
+      ],
+      "start": 217.88,
+      "end": 219.28
+    },
+    {
+      "no": 30,
+      "word": "happily",
+      "meanings": [
+        "행복하게",
+        "다행히"
+      ],
+      "examples": [
+        "To laugh happily"
+      ],
+      "start": 225.35,
+      "end": 231.98
+    }
+  ],
+  "source_method": "en"
+}

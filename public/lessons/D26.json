@@ -1,0 +1,410 @@
+{
+  "lesson": "D26",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D26.mp3",
+  "model": "large-v3",
+  "duration_sec": 246.44,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "lawyer",
+      "meanings": [
+        "변호사"
+      ],
+      "examples": [
+        "A young lawyer"
+      ],
+      "start": 2.41,
+      "end": 7.06
+    },
+    {
+      "no": 2,
+      "word": "officer",
+      "meanings": [
+        "장교",
+        "관리",
+        "임원",
+        "경찰관"
+      ],
+      "examples": [
+        "An army officer"
+      ],
+      "start": 8.75,
+      "end": 18.96
+    },
+    {
+      "no": 3,
+      "word": "university",
+      "meanings": [
+        "대학"
+      ],
+      "examples": [
+        "A national university"
+      ],
+      "start": 17.98,
+      "end": 22.85
+    },
+    {
+      "no": 4,
+      "word": "level",
+      "meanings": [
+        "수준",
+        "높이"
+      ],
+      "examples": [
+        "A high level"
+      ],
+      "start": 24.8,
+      "end": 32.3
+    },
+    {
+      "no": 5,
+      "word": "growth",
+      "meanings": [
+        "성장",
+        "증가"
+      ],
+      "examples": [
+        "Her child's growth"
+      ],
+      "start": 31.36,
+      "end": 37.63
+    },
+    {
+      "no": 6,
+      "word": "journey",
+      "meanings": [
+        "여행"
+      ],
+      "examples": [
+        "A long car journey"
+      ],
+      "start": 39.41,
+      "end": 43.97
+    },
+    {
+      "no": 7,
+      "word": "gun",
+      "meanings": [
+        "총",
+        "대포"
+      ],
+      "examples": [
+        "To carry a gun"
+      ],
+      "start": 45.4,
+      "end": 51.0
+    },
+    {
+      "no": 8,
+      "word": "emergency",
+      "meanings": [
+        "비상",
+        "응급"
+      ],
+      "examples": [
+        "An emergency room"
+      ],
+      "start": 52.8,
+      "end": 58.34
+    },
+    {
+      "no": 9,
+      "word": "case",
+      "meanings": [
+        "경호",
+        "사건",
+        "케이스",
+        "용기"
+      ],
+      "examples": [
+        "In this case"
+      ],
+      "start": 60.06,
+      "end": 67.72
+    },
+    {
+      "no": 10,
+      "word": "difficulty",
+      "meanings": [
+        "어려움",
+        "공경"
+      ],
+      "examples": [
+        "To have difficulty"
+      ],
+      "start": 70.23,
+      "end": 79.78
+    },
+    {
+      "no": 11,
+      "word": "addition",
+      "meanings": [
+        "더하기"
+      ],
+      "examples": [
+        "In addition to his talent"
+      ],
+      "start": 77.3,
+      "end": 84.96
+    },
+    {
+      "no": 12,
+      "word": "credit",
+      "meanings": [
+        "신용거래"
+      ],
+      "examples": [
+        "A credit card"
+      ],
+      "start": 84.18,
+      "end": 88.84
+    },
+    {
+      "no": 13,
+      "word": "fool",
+      "meanings": [
+        "바보",
+        "속이다"
+      ],
+      "examples": [
+        "You can't fool me"
+      ],
+      "start": 90.7,
+      "end": 98.7
+    },
+    {
+      "no": 14,
+      "word": "harvest",
+      "meanings": [
+        "수확",
+        "수확량",
+        "수확하다"
+      ],
+      "examples": [
+        "A good harvest"
+      ],
+      "start": 97.84,
+      "end": 105.0
+    },
+    {
+      "no": 15,
+      "word": "figure",
+      "meanings": [
+        "수치",
+        "인물",
+        "모습",
+        "도표",
+        "이해하다",
+        "알아내다"
+      ],
+      "examples": [
+        "Figure out",
+        "Sales figures"
+      ],
+      "start": 106.58,
+      "end": 121.65
+    },
+    {
+      "no": 16,
+      "word": "tie",
+      "meanings": [
+        "묶다",
+        "매다",
+        "동점이 되다",
+        "넥타이",
+        "동점",
+        "유대"
+      ],
+      "examples": [
+        "Tie your shoelaces"
+      ],
+      "start": 120.95,
+      "end": 134.26
+    },
+    {
+      "no": 17,
+      "word": "boil",
+      "meanings": [
+        "끓다",
+        "끓이다",
+        "삶다"
+      ],
+      "examples": [
+        "To boil an egg"
+      ],
+      "start": 133.38,
+      "end": 140.72
+    },
+    {
+      "no": 18,
+      "word": "borrow",
+      "meanings": [
+        "빌리다"
+      ],
+      "examples": [
+        "To borrow a book"
+      ],
+      "start": 142.06,
+      "end": 147.13
+    },
+    {
+      "no": 19,
+      "word": "belong",
+      "meanings": [
+        "무엇에 속하다",
+        "누구 소유이다",
+        "어디 소속이다"
+      ],
+      "examples": [
+        "Belong to",
+        "It belongs to me"
+      ],
+      "start": 148.52,
+      "end": 159.12
+    },
+    {
+      "no": 20,
+      "word": "communicate",
+      "meanings": [
+        "소통하다",
+        "연락하다"
+      ],
+      "examples": [
+        "To communicate by email"
+      ],
+      "start": 160.62,
+      "end": 167.78
+    },
+    {
+      "no": 21,
+      "word": "confuse",
+      "meanings": [
+        "혼란시키다",
+        "혼동하다"
+      ],
+      "examples": [
+        "To confuse him"
+      ],
+      "start": 169.46,
+      "end": 176.04
+    },
+    {
+      "no": 22,
+      "word": "survive",
+      "meanings": [
+        "살아남다",
+        "누구보다 오래 살다"
+      ],
+      "examples": [
+        "Only two survived"
+      ],
+      "start": 177.4,
+      "end": 185.2
+    },
+    {
+      "no": 23,
+      "word": "handsome",
+      "meanings": [
+        "잘생긴"
+      ],
+      "examples": [
+        "A handsome boy"
+      ],
+      "start": 187.26,
+      "end": 191.76
+    },
+    {
+      "no": 24,
+      "word": "gentle",
+      "meanings": [
+        "온화한"
+      ],
+      "examples": [
+        "A gentle smile"
+      ],
+      "start": 193.48,
+      "end": 198.02
+    },
+    {
+      "no": 25,
+      "word": "mad",
+      "meanings": [
+        "화난",
+        "열광적인",
+        "미친"
+      ],
+      "examples": [
+        "To get mad"
+      ],
+      "start": 199.83,
+      "end": 206.71
+    },
+    {
+      "no": 26,
+      "word": "merry",
+      "meanings": [
+        "즐거운",
+        "명랑한"
+      ],
+      "examples": [
+        "Merry Christmas"
+      ],
+      "start": 208.44,
+      "end": 214.3
+    },
+    {
+      "no": 27,
+      "word": "noisy",
+      "meanings": [
+        "시끄러운"
+      ],
+      "examples": [
+        "A noisy crowd"
+      ],
+      "start": 215.72,
+      "end": 220.98
+    },
+    {
+      "no": 28,
+      "word": "scientific",
+      "meanings": [
+        "과학의",
+        "과학적인"
+      ],
+      "examples": [
+        "A scientific fact"
+      ],
+      "start": 222.89,
+      "end": 229.3
+    },
+    {
+      "no": 29,
+      "word": "mostly",
+      "meanings": [
+        "주로"
+      ],
+      "examples": [
+        "They are mostly teenagers"
+      ],
+      "start": 231.07,
+      "end": 235.81
+    },
+    {
+      "no": 30,
+      "word": "anywhere",
+      "meanings": [
+        "어디든",
+        "아무데서도",
+        "어딘가"
+      ],
+      "examples": [
+        "Sit anywhere"
+      ],
+      "start": 237.84,
+      "end": 244.8
+    }
+  ],
+  "source_method": "en"
+}

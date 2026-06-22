@@ -1,0 +1,396 @@
+{
+  "lesson": "D55",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D55.mp3",
+  "model": "large-v3",
+  "duration_sec": 233.82,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "anniversary",
+      "meanings": [
+        "기념일"
+      ],
+      "examples": [
+        "Your wedding anniversary"
+      ],
+      "start": 2.33,
+      "end": 7.36
+    },
+    {
+      "no": 2,
+      "word": "nutrient",
+      "meanings": [
+        "영양소",
+        "영양분"
+      ],
+      "examples": [
+        "Food rich in nutrient"
+      ],
+      "start": 9.27,
+      "end": 17.94
+    },
+    {
+      "no": 3,
+      "word": "grain",
+      "meanings": [
+        "곡물"
+      ],
+      "examples": [
+        "Last year's grain harvest"
+      ],
+      "start": 17.06,
+      "end": 22.28
+    },
+    {
+      "no": 4,
+      "word": "document",
+      "meanings": [
+        "문서"
+      ],
+      "examples": [
+        "An official document"
+      ],
+      "start": 24.19,
+      "end": 28.47
+    },
+    {
+      "no": 5,
+      "word": "license",
+      "meanings": [
+        "면허",
+        "면허증"
+      ],
+      "examples": [
+        "A driver's license"
+      ],
+      "start": 30.67,
+      "end": 38.59
+    },
+    {
+      "no": 6,
+      "word": "department",
+      "meanings": [
+        "부서",
+        "학과"
+      ],
+      "examples": [
+        "The sales department"
+      ],
+      "start": 37.55,
+      "end": 43.5
+    },
+    {
+      "no": 7,
+      "word": "fortune",
+      "meanings": [
+        "운",
+        "큰돈",
+        "재산"
+      ],
+      "examples": [
+        "Good fortune"
+      ],
+      "start": 45.51,
+      "end": 55.82
+    },
+    {
+      "no": 8,
+      "word": "resource",
+      "meanings": [
+        "자원"
+      ],
+      "examples": [
+        "Natural resources"
+      ],
+      "start": 53.58,
+      "end": 60.23
+    },
+    {
+      "no": 9,
+      "word": "hunger",
+      "meanings": [
+        "굶주림",
+        "배고픔"
+      ],
+      "examples": [
+        "To die of hunger"
+      ],
+      "start": 62.06,
+      "end": 70.42
+    },
+    {
+      "no": 10,
+      "word": "error",
+      "meanings": [
+        "실수",
+        "오류"
+      ],
+      "examples": [
+        "A computer error"
+      ],
+      "start": 69.3,
+      "end": 75.39
+    },
+    {
+      "no": 11,
+      "word": "jail",
+      "meanings": [
+        "감옥",
+        "교도소"
+      ],
+      "examples": [
+        "To go to jail"
+      ],
+      "start": 77.09,
+      "end": 84.74
+    },
+    {
+      "no": 12,
+      "word": "request",
+      "meanings": [
+        "요청",
+        "요청하다"
+      ],
+      "examples": [
+        "To refuse a request"
+      ],
+      "start": 83.82,
+      "end": 90.12
+    },
+    {
+      "no": 13,
+      "word": "bomb",
+      "meanings": [
+        "폭탄",
+        "폭파하다",
+        "폭격하다"
+      ],
+      "examples": [
+        "A bomb exploded"
+      ],
+      "start": 91.82,
+      "end": 99.36
+    },
+    {
+      "no": 14,
+      "word": "poison",
+      "meanings": [
+        "독",
+        "독살하다"
+      ],
+      "examples": [
+        "Poison gas"
+      ],
+      "start": 100.83,
+      "end": 106.57
+    },
+    {
+      "no": 15,
+      "word": "wound",
+      "meanings": [
+        "상처",
+        "상처를 입히다"
+      ],
+      "examples": [
+        "To be badly wounded"
+      ],
+      "start": 108.2,
+      "end": 117.12
+    },
+    {
+      "no": 16,
+      "word": "chase",
+      "meanings": [
+        "뒷쫓다",
+        "추구하다",
+        "추적"
+      ],
+      "examples": [
+        "A cat chasing a mouse"
+      ],
+      "start": 116.3,
+      "end": 128.46
+    },
+    {
+      "no": 17,
+      "word": "amaze",
+      "meanings": [
+        "놀라게 하다"
+      ],
+      "examples": [
+        "To amaze everyone"
+      ],
+      "start": 121.71,
+      "end": 136.26
+    },
+    {
+      "no": 18,
+      "word": "relieve",
+      "meanings": [
+        "덜어주다",
+        "완화하다"
+      ],
+      "examples": [
+        "To relieve stress"
+      ],
+      "start": 132.26,
+      "end": 143.31
+    },
+    {
+      "no": 19,
+      "word": "motivate",
+      "meanings": [
+        "동기를 부여하다"
+      ],
+      "examples": [
+        "To motivate students"
+      ],
+      "start": 140.14,
+      "end": 147.9
+    },
+    {
+      "no": 20,
+      "word": "afford",
+      "meanings": [
+        "여유가 되다",
+        "형편이 되다"
+      ],
+      "examples": [
+        "He couldn't afford a house"
+      ],
+      "start": 147.9,
+      "end": 154.73
+    },
+    {
+      "no": 21,
+      "word": "absorb",
+      "meanings": [
+        "빨아들이다",
+        "흡수하다"
+      ],
+      "examples": [
+        "To absorb water"
+      ],
+      "start": 154.05,
+      "end": 164.97
+    },
+    {
+      "no": 22,
+      "word": "attach",
+      "meanings": [
+        "붙이다",
+        "첨부하다"
+      ],
+      "examples": [
+        "An attached file"
+      ],
+      "start": 164.05,
+      "end": 170.16
+    },
+    {
+      "no": 23,
+      "word": "cooperate",
+      "meanings": [
+        "협력하다",
+        "협동하다"
+      ],
+      "examples": [
+        "To cooperate with each other"
+      ],
+      "start": 171.86,
+      "end": 179.06
+    },
+    {
+      "no": 24,
+      "word": "defend",
+      "meanings": [
+        "방어하다",
+        "수비하다",
+        "옹호하다"
+      ],
+      "examples": [
+        "To defend the borders"
+      ],
+      "start": 180.88,
+      "end": 192.58
+    },
+    {
+      "no": 25,
+      "word": "aware",
+      "meanings": [
+        "알고 있는"
+      ],
+      "examples": [
+        "To be aware of the risk"
+      ],
+      "start": 189.86,
+      "end": 202.48
+    },
+    {
+      "no": 26,
+      "word": "precious",
+      "meanings": [
+        "귀중한",
+        "소중한",
+        "값비싼"
+      ],
+      "examples": [
+        "Precious memories"
+      ],
+      "start": 197.04,
+      "end": 213.38
+    },
+    {
+      "no": 27,
+      "word": "political",
+      "meanings": [
+        "정치의"
+      ],
+      "examples": [
+        "A political leader"
+      ],
+      "start": 206.02,
+      "end": 213.38
+    },
+    {
+      "no": 28,
+      "word": "nuclear",
+      "meanings": [
+        "원자력의",
+        "핵의"
+      ],
+      "examples": [
+        "Nuclear weapons"
+      ],
+      "start": 212.64,
+      "end": 219.02
+    },
+    {
+      "no": 29,
+      "word": "indoor",
+      "meanings": [
+        "신뢰의"
+      ],
+      "examples": [
+        "An indoor swimming pool"
+      ],
+      "start": 220.58,
+      "end": 225.97
+    },
+    {
+      "no": 30,
+      "word": "allowed",
+      "meanings": [
+        "소리네요"
+      ],
+      "examples": [
+        "To laugh aloud"
+      ],
+      "start": 227.4,
+      "end": 232.12
+    }
+  ],
+  "source_method": "en"
+}

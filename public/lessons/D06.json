@@ -1,0 +1,417 @@
+{
+  "lesson": "D06",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D06.mp3",
+  "model": "large-v3",
+  "duration_sec": 244.32,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "peace",
+      "meanings": [
+        "평화"
+      ],
+      "examples": [
+        "War and peace"
+      ],
+      "start": 2.02,
+      "end": 6.31
+    },
+    {
+      "no": 2,
+      "word": "neighbor",
+      "meanings": [
+        "이웃",
+        "이웃사람",
+        "이웃나라"
+      ],
+      "examples": [
+        "My neighbors"
+      ],
+      "start": 8.2,
+      "end": 14.55
+    },
+    {
+      "no": 3,
+      "word": "pet",
+      "meanings": [
+        "애완동물"
+      ],
+      "examples": [
+        "A pet dog"
+      ],
+      "start": 16.2,
+      "end": 20.46
+    },
+    {
+      "no": 4,
+      "word": "brain",
+      "meanings": [
+        "두뇌"
+      ],
+      "examples": [
+        "Brain activity"
+      ],
+      "start": 22.25,
+      "end": 26.04
+    },
+    {
+      "no": 5,
+      "word": "age",
+      "meanings": [
+        "나이",
+        "시대"
+      ],
+      "examples": [
+        "At the age of 10"
+      ],
+      "start": 28.01,
+      "end": 33.3
+    },
+    {
+      "no": 6,
+      "word": "subject",
+      "meanings": [
+        "과목",
+        "주제"
+      ],
+      "examples": [
+        "My favorite subject"
+      ],
+      "start": 35.15,
+      "end": 40.54
+    },
+    {
+      "no": 7,
+      "word": "fact",
+      "meanings": [
+        "사실"
+      ],
+      "examples": [
+        "An interesting fact"
+      ],
+      "start": 42.43,
+      "end": 47.09
+    },
+    {
+      "no": 8,
+      "word": "price",
+      "meanings": [
+        "값",
+        "가격"
+      ],
+      "examples": [
+        "A low price"
+      ],
+      "start": 48.91,
+      "end": 53.53
+    },
+    {
+      "no": 9,
+      "word": "custom",
+      "meanings": [
+        "관습",
+        "풍습"
+      ],
+      "examples": [
+        "Different customs"
+      ],
+      "start": 54.88,
+      "end": 60.43
+    },
+    {
+      "no": 10,
+      "word": "office",
+      "meanings": [
+        "사무실",
+        "관청"
+      ],
+      "examples": [
+        "An office building"
+      ],
+      "start": 62.34,
+      "end": 68.19
+    },
+    {
+      "no": 11,
+      "word": "park",
+      "meanings": [
+        "공원",
+        "주차하다"
+      ],
+      "examples": [
+        "A national park"
+      ],
+      "start": 69.89,
+      "end": 75.4
+    },
+    {
+      "no": 12,
+      "word": "rule",
+      "meanings": [
+        "규칙",
+        "지배",
+        "지배하다"
+      ],
+      "examples": [
+        "To follow the rules"
+      ],
+      "start": 77.14,
+      "end": 83.81
+    },
+    {
+      "no": 13,
+      "word": "respect",
+      "meanings": [
+        "존경",
+        "존중",
+        "존경하다",
+        "존중하다"
+      ],
+      "examples": [
+        "To respect him"
+      ],
+      "start": 85.6,
+      "end": 94.23
+    },
+    {
+      "no": 14,
+      "word": "check",
+      "meanings": [
+        "점검하다",
+        "확인하다",
+        "표시하다",
+        "점검",
+        "확인",
+        "수표"
+      ],
+      "examples": [
+        "To check the facts"
+      ],
+      "start": 95.87,
+      "end": 106.56
+    },
+    {
+      "no": 15,
+      "word": "bring",
+      "meanings": [
+        "가져오다",
+        "데려오다"
+      ],
+      "examples": [
+        "To bring a friend home"
+      ],
+      "start": 106.56,
+      "end": 114.44
+    },
+    {
+      "no": 16,
+      "word": "build",
+      "meanings": [
+        "짓다",
+        "건축하다",
+        "건설하다"
+      ],
+      "examples": [
+        "To build a house"
+      ],
+      "start": 116.27,
+      "end": 123.24
+    },
+    {
+      "no": 17,
+      "word": "join",
+      "meanings": [
+        "가입하다",
+        "함께하다",
+        "연결하다"
+      ],
+      "examples": [
+        "To join a club"
+      ],
+      "start": 125.07,
+      "end": 132.25
+    },
+    {
+      "no": 18,
+      "word": "lose",
+      "meanings": [
+        "일타",
+        "지다"
+      ],
+      "examples": [
+        "To lose a watch"
+      ],
+      "start": 134.11,
+      "end": 139.25
+    },
+    {
+      "no": 19,
+      "word": "die",
+      "meanings": [
+        "죽다"
+      ],
+      "examples": [
+        "To die young"
+      ],
+      "start": 141.08,
+      "end": 145.1
+    },
+    {
+      "no": 20,
+      "word": "half",
+      "meanings": [
+        "절반",
+        "절반의",
+        "반쯤"
+      ],
+      "examples": [
+        "For half an hour"
+      ],
+      "start": 146.62,
+      "end": 153.84
+    },
+    {
+      "no": 21,
+      "word": "few",
+      "meanings": [
+        "소수",
+        "소수의",
+        "몇몇"
+      ],
+      "examples": [
+        "A few",
+        "For a few minutes"
+      ],
+      "start": 155.55,
+      "end": 164.59
+    },
+    {
+      "no": 22,
+      "word": "both",
+      "meanings": [
+        "양쪽",
+        "둘다",
+        "양쪽의"
+      ],
+      "examples": [
+        "Both arms"
+      ],
+      "start": 166.48,
+      "end": 172.9
+    },
+    {
+      "no": 23,
+      "word": "sick",
+      "meanings": [
+        "병든",
+        "아픈"
+      ],
+      "examples": [
+        "To get sick"
+      ],
+      "start": 174.78,
+      "end": 179.8
+    },
+    {
+      "no": 24,
+      "word": "busy",
+      "meanings": [
+        "바쁜",
+        "번화한",
+        "통화종의"
+      ],
+      "examples": [
+        "A busy mother"
+      ],
+      "start": 181.38,
+      "end": 188.31
+    },
+    {
+      "no": 25,
+      "word": "real",
+      "meanings": [
+        "진짜의",
+        "한실의"
+      ],
+      "examples": [
+        "The real world"
+      ],
+      "start": 190.14,
+      "end": 196.06
+    },
+    {
+      "no": 26,
+      "word": "wrong",
+      "meanings": [
+        "틀린",
+        "잘못된",
+        "틀리게",
+        "잘못되게"
+      ],
+      "examples": [
+        "What's wrong with it"
+      ],
+      "start": 197.77,
+      "end": 206.29
+    },
+    {
+      "no": 27,
+      "word": "most",
+      "meanings": [
+        "대부분",
+        "대부분의",
+        "가장 많은",
+        "가장 많은 것",
+        "가장",
+        "매우"
+      ],
+      "examples": [
+        "Most people"
+      ],
+      "start": 207.6,
+      "end": 218.8
+    },
+    {
+      "no": 28,
+      "word": "late",
+      "meanings": [
+        "늦은",
+        "늦게"
+      ],
+      "examples": [
+        "Sorry I'm late"
+      ],
+      "start": 220.21,
+      "end": 225.94
+    },
+    {
+      "no": 29,
+      "word": "fortunately",
+      "meanings": [
+        "온족해도",
+        "다행히"
+      ],
+      "examples": [
+        "nobody was injured"
+      ],
+      "start": 227.43,
+      "end": 234.88
+    },
+    {
+      "no": 30,
+      "word": "even",
+      "meanings": [
+        "무엇조차",
+        "훨씬"
+      ],
+      "examples": [
+        "Even a child can do it"
+      ],
+      "start": 236.61,
+      "end": 242.98
+    }
+  ],
+  "source_method": "en"
+}

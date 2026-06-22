@@ -1,0 +1,392 @@
+{
+  "lesson": "D48",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D48.mp3",
+  "model": "large-v3",
+  "duration_sec": 228.21,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "universe",
+      "meanings": [
+        "우주"
+      ],
+      "examples": [
+        "Everything in the universe"
+      ],
+      "start": 2.33,
+      "end": 7.74
+    },
+    {
+      "no": 2,
+      "word": "laughter",
+      "meanings": [
+        "웃음소리"
+      ],
+      "examples": [
+        "To burst into laughter"
+      ],
+      "start": 9.64,
+      "end": 14.53
+    },
+    {
+      "no": 3,
+      "word": "knee",
+      "meanings": [
+        "무릎"
+      ],
+      "examples": [
+        "To be on your knees"
+      ],
+      "start": 16.14,
+      "end": 20.64
+    },
+    {
+      "no": 4,
+      "word": "gym",
+      "meanings": [
+        "체육관"
+      ],
+      "examples": [
+        "To go to the gym"
+      ],
+      "start": 22.35,
+      "end": 27.08
+    },
+    {
+      "no": 5,
+      "word": "equipment",
+      "meanings": [
+        "장비"
+      ],
+      "examples": [
+        "Camping equipment"
+      ],
+      "start": 28.72,
+      "end": 33.13
+    },
+    {
+      "no": 6,
+      "word": "rope",
+      "meanings": [
+        "로프",
+        "밧줄"
+      ],
+      "examples": [
+        "To tie a rope"
+      ],
+      "start": 33.13,
+      "end": 40.61
+    },
+    {
+      "no": 7,
+      "word": "refrigerator",
+      "meanings": [
+        "냉장고"
+      ],
+      "examples": [
+        "To keep in the refrigerator"
+      ],
+      "start": 42.26,
+      "end": 47.48
+    },
+    {
+      "no": 8,
+      "word": "production",
+      "meanings": [
+        "생산"
+      ],
+      "examples": [
+        "Food production"
+      ],
+      "start": 49.28,
+      "end": 53.97
+    },
+    {
+      "no": 9,
+      "word": "tradition",
+      "meanings": [
+        "전통"
+      ],
+      "examples": [
+        "A long tradition"
+      ],
+      "start": 56.14,
+      "end": 60.44
+    },
+    {
+      "no": 10,
+      "word": "religion",
+      "meanings": [
+        "종교"
+      ],
+      "examples": [
+        "Freedom of religion"
+      ],
+      "start": 62.45,
+      "end": 67.06
+    },
+    {
+      "no": 11,
+      "word": "semester",
+      "meanings": [
+        "학기"
+      ],
+      "examples": [
+        "The spring semester"
+      ],
+      "start": 68.76,
+      "end": 73.5
+    },
+    {
+      "no": 12,
+      "word": "shadow",
+      "meanings": [
+        "그림자",
+        "그늘"
+      ],
+      "examples": [
+        "To cast a shadow"
+      ],
+      "start": 75.48,
+      "end": 81.2
+    },
+    {
+      "no": 13,
+      "word": "flea",
+      "meanings": [
+        "벼룩"
+      ],
+      "examples": [
+        "The flea market"
+      ],
+      "start": 83.17,
+      "end": 87.14
+    },
+    {
+      "no": 14,
+      "word": "plug",
+      "meanings": [
+        "플러그",
+        "막에",
+        "막다"
+      ],
+      "examples": [
+        "To pull a plug"
+      ],
+      "start": 88.95,
+      "end": 95.82
+    },
+    {
+      "no": 15,
+      "word": "ack",
+      "meanings": [
+        "아프다",
+        "아픔",
+        "통증"
+      ],
+      "examples": [
+        "My arms ached"
+      ],
+      "start": 95.38,
+      "end": 109.93
+    },
+    {
+      "no": 16,
+      "word": "handle",
+      "meanings": [
+        "다루다",
+        "처리하다",
+        "만지다",
+        "손잡이"
+      ],
+      "examples": [
+        "Handle with care"
+      ],
+      "start": 105.96,
+      "end": 115.07
+    },
+    {
+      "no": 17,
+      "word": "pause",
+      "meanings": [
+        "잠시 멈추다",
+        "멈춤",
+        "일시정지"
+      ],
+      "examples": [
+        "A pause button"
+      ],
+      "start": 116.87,
+      "end": 130.32
+    },
+    {
+      "no": 18,
+      "word": "admire",
+      "meanings": [
+        "존경하다",
+        "감탄하다"
+      ],
+      "examples": [
+        "To admire the view"
+      ],
+      "start": 123.37,
+      "end": 137.44
+    },
+    {
+      "no": 19,
+      "word": "apologize",
+      "meanings": [
+        "사과하다"
+      ],
+      "examples": [
+        "To apologize in public"
+      ],
+      "start": 134.73,
+      "end": 145.97
+    },
+    {
+      "no": 20,
+      "word": "threaten",
+      "meanings": [
+        "위협하다",
+        "협박하다"
+      ],
+      "examples": [
+        "To threaten you with a gun"
+      ],
+      "start": 141.75,
+      "end": 151.22
+    },
+    {
+      "no": 21,
+      "word": "arrest",
+      "meanings": [
+        "체포하다",
+        "체포"
+      ],
+      "examples": [
+        "To be arrested for robbery"
+      ],
+      "start": 148.44,
+      "end": 155.93
+    },
+    {
+      "no": 22,
+      "word": "select",
+      "meanings": [
+        "선발하다",
+        "선정하다",
+        "선택하다"
+      ],
+      "examples": [
+        "To select the winner"
+      ],
+      "start": 157.86,
+      "end": 165.86
+    },
+    {
+      "no": 23,
+      "word": "narrow",
+      "meanings": [
+        "좁은"
+      ],
+      "examples": [
+        "A narrow street"
+      ],
+      "start": 167.38,
+      "end": 176.23
+    },
+    {
+      "no": 24,
+      "word": "attractive",
+      "meanings": [
+        "매력적인"
+      ],
+      "examples": [
+        "An attractive woman"
+      ],
+      "start": 170.68,
+      "end": 180.81
+    },
+    {
+      "no": 25,
+      "word": "awful",
+      "meanings": [
+        "끔찍한",
+        "지독한"
+      ],
+      "examples": [
+        "An awful smell"
+      ],
+      "start": 180.13,
+      "end": 186.42
+    },
+    {
+      "no": 26,
+      "word": "casual",
+      "meanings": [
+        "평상시의"
+      ],
+      "examples": [
+        "Casual clothes"
+      ],
+      "start": 188.31,
+      "end": 192.96
+    },
+    {
+      "no": 27,
+      "word": "capable",
+      "meanings": [
+        "무엇을 할 수 있는"
+      ],
+      "examples": [
+        "Capable of",
+        "To be capable of handling it"
+      ],
+      "start": 194.99,
+      "end": 202.7
+    },
+    {
+      "no": 28,
+      "word": "absent",
+      "meanings": [
+        "결석한",
+        "없는"
+      ],
+      "examples": [
+        "To be absent from school"
+      ],
+      "start": 204.14,
+      "end": 210.62
+    },
+    {
+      "no": 29,
+      "word": "alike",
+      "meanings": [
+        "비슷한",
+        "똑같이"
+      ],
+      "examples": [
+        "We are so alike"
+      ],
+      "start": 212.22,
+      "end": 218.38
+    },
+    {
+      "no": 30,
+      "word": "otherwise",
+      "meanings": [
+        "그렇지 않으면"
+      ],
+      "examples": [
+        "Work hard",
+        "Otherwise you'll fail"
+      ],
+      "start": 220.01,
+      "end": 226.78
+    }
+  ],
+  "source_method": "en"
+}

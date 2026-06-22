@@ -1,0 +1,419 @@
+{
+  "lesson": "D27",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D27.mp3",
+  "model": "large-v3",
+  "duration_sec": 262.03,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "captain",
+      "meanings": [
+        "선장",
+        "기장",
+        "주장"
+      ],
+      "examples": [
+        "The captain of the ship"
+      ],
+      "start": 2.4,
+      "end": 12.4
+    },
+    {
+      "no": 2,
+      "word": "stranger",
+      "meanings": [
+        "낯선 사람",
+        "처음인 사람"
+      ],
+      "examples": [
+        "Don't talk to strangers"
+      ],
+      "start": 11.62,
+      "end": 21.36
+    },
+    {
+      "no": 3,
+      "word": "statue",
+      "meanings": [
+        "조각상"
+      ],
+      "examples": [
+        "The statue of liberty"
+      ],
+      "start": 20.48,
+      "end": 25.52
+    },
+    {
+      "no": 4,
+      "word": "spirit",
+      "meanings": [
+        "정신",
+        "영혼",
+        "기분",
+        "기백"
+      ],
+      "examples": [
+        "Strong fighting spirit"
+      ],
+      "start": 27.4,
+      "end": 37.84
+    },
+    {
+      "no": 5,
+      "word": "scenery",
+      "meanings": [
+        "경치",
+        "풍경"
+      ],
+      "examples": [
+        "To enjoy the scenery"
+      ],
+      "start": 36.94,
+      "end": 42.99
+    },
+    {
+      "no": 6,
+      "word": "gesture",
+      "meanings": [
+        "제스처",
+        "몸짓"
+      ],
+      "examples": [
+        "To make a gesture"
+      ],
+      "start": 44.64,
+      "end": 50.47
+    },
+    {
+      "no": 7,
+      "word": "pole",
+      "meanings": [
+        "막대기",
+        "지구 자석의 극"
+      ],
+      "examples": [
+        "The north pole",
+        "The south pole"
+      ],
+      "start": 51.96,
+      "end": 60.71
+    },
+    {
+      "no": 8,
+      "word": "rubber",
+      "meanings": [
+        "고무"
+      ],
+      "examples": [
+        "A rubber tree"
+      ],
+      "start": 62.59,
+      "end": 66.38
+    },
+    {
+      "no": 9,
+      "word": "structure",
+      "meanings": [
+        "구조",
+        "구조물",
+        "건축물"
+      ],
+      "examples": [
+        "The structure of the brain"
+      ],
+      "start": 68.02,
+      "end": 75.59
+    },
+    {
+      "no": 10,
+      "word": "root",
+      "meanings": [
+        "뿌리",
+        "응원하다"
+      ],
+      "examples": [
+        "Root for",
+        "Tree roots"
+      ],
+      "start": 77.12,
+      "end": 90.27
+    },
+    {
+      "no": 11,
+      "word": "schedule",
+      "meanings": [
+        "일정",
+        "시간표",
+        "예정이다"
+      ],
+      "examples": [
+        "Be scheduled",
+        "On schedule"
+      ],
+      "start": 86.38,
+      "end": 99.84
+    },
+    {
+      "no": 12,
+      "word": "tour",
+      "meanings": [
+        "여행",
+        "관광",
+        "순회",
+        "관광하다",
+        "순회하다"
+      ],
+      "examples": [
+        "A fourteen-day tour of Egypt"
+      ],
+      "start": 97.22,
+      "end": 108.11
+    },
+    {
+      "no": 13,
+      "word": "charge",
+      "meanings": [
+        "요금",
+        "외상",
+        "책임",
+        "청구하다",
+        "충전하다"
+      ],
+      "examples": [
+        "Cash or charge"
+      ],
+      "start": 109.65,
+      "end": 119.22
+    },
+    {
+      "no": 14,
+      "word": "decrease",
+      "meanings": [
+        "줄다",
+        "줄이다",
+        "감소하다",
+        "하락하다",
+        "감소",
+        "하락"
+      ],
+      "examples": [
+        "A decrease in the price"
+      ],
+      "start": 121.54,
+      "end": 134.03
+    },
+    {
+      "no": 15,
+      "word": "review",
+      "meanings": [
+        "복습하다",
+        "검토하다",
+        "논평하다",
+        "검토",
+        "논평"
+      ],
+      "examples": [
+        "A book review"
+      ],
+      "start": 133.27,
+      "end": 143.27
+    },
+    {
+      "no": 16,
+      "word": "vote",
+      "meanings": [
+        "투표하다",
+        "선출하다",
+        "투표"
+      ],
+      "examples": [
+        "To take a vote"
+      ],
+      "start": 145.11,
+      "end": 154.11
+    },
+    {
+      "no": 17,
+      "word": "attend",
+      "meanings": [
+        "참석하다",
+        "다내다"
+      ],
+      "examples": [
+        "To attend the same school"
+      ],
+      "start": 151.52,
+      "end": 160.05
+    },
+    {
+      "no": 18,
+      "word": "discuss",
+      "meanings": [
+        "토론하다",
+        "논의하다"
+      ],
+      "examples": [
+        "To discuss the problem"
+      ],
+      "start": 161.56,
+      "end": 170.4
+    },
+    {
+      "no": 19,
+      "word": "settle",
+      "meanings": [
+        "해결하다",
+        "정착하다"
+      ],
+      "examples": [
+        "To settle a matter"
+      ],
+      "start": 169.6,
+      "end": 176.07
+    },
+    {
+      "no": 20,
+      "word": "elect",
+      "meanings": [
+        "선출하다"
+      ],
+      "examples": [
+        "To elect him president"
+      ],
+      "start": 177.24,
+      "end": 182.82
+    },
+    {
+      "no": 21,
+      "word": "achieve",
+      "meanings": [
+        "이루다",
+        "성취하다"
+      ],
+      "examples": [
+        "To achieve good results"
+      ],
+      "start": 184.52,
+      "end": 190.94
+    },
+    {
+      "no": 22,
+      "word": "appreciate",
+      "meanings": [
+        "감사하다",
+        "진가를 알아보다"
+      ],
+      "examples": [
+        "I appreciate your help"
+      ],
+      "start": 192.86,
+      "end": 200.02
+    },
+    {
+      "no": 23,
+      "word": "brave",
+      "meanings": [
+        "용감한"
+      ],
+      "examples": [
+        "Brave soldiers"
+      ],
+      "start": 201.68,
+      "end": 205.92
+    },
+    {
+      "no": 24,
+      "word": "cheap",
+      "meanings": [
+        "싼"
+      ],
+      "examples": [
+        "A cheap store"
+      ],
+      "start": 207.89,
+      "end": 211.72
+    },
+    {
+      "no": 25,
+      "word": "classical",
+      "meanings": [
+        "고전의",
+        "고전적인"
+      ],
+      "examples": [
+        "Classical music"
+      ],
+      "start": 212.59,
+      "end": 221.83
+    },
+    {
+      "no": 26,
+      "word": "familiar",
+      "meanings": [
+        "잘 아는",
+        "친숙한",
+        "익숙한"
+      ],
+      "examples": [
+        "A familiar voice"
+      ],
+      "start": 220.87,
+      "end": 230.96
+    },
+    {
+      "no": 27,
+      "word": "unknown",
+      "meanings": [
+        "알려지지 않은",
+        "미지의",
+        "무명의"
+      ],
+      "examples": [
+        "An unknown world"
+      ],
+      "start": 230.02,
+      "end": 240.63
+    },
+    {
+      "no": 28,
+      "word": "uncomfortable",
+      "meanings": [
+        "불편한"
+      ],
+      "examples": [
+        "An uncomfortable sofa"
+      ],
+      "start": 239.59,
+      "end": 245.06
+    },
+    {
+      "no": 29,
+      "word": "simply",
+      "meanings": [
+        "그저",
+        "단지",
+        "간단히"
+      ],
+      "examples": [
+        "He simply smiled at me"
+      ],
+      "start": 246.43,
+      "end": 254.26
+    },
+    {
+      "no": 30,
+      "word": "anyway",
+      "meanings": [
+        "어쨌든"
+      ],
+      "examples": [
+        "I'll win anyway"
+      ],
+      "start": 255.62,
+      "end": 260.34
+    }
+  ],
+  "source_method": "en"
+}

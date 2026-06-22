@@ -1,0 +1,395 @@
+{
+  "lesson": "D42",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D42.mp3",
+  "model": "large-v3",
+  "duration_sec": 234.84,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "peer",
+      "meanings": [
+        "또래"
+      ],
+      "examples": [
+        "a peer group"
+      ],
+      "start": 1.76,
+      "end": 34.33
+    },
+    {
+      "no": 2,
+      "word": "pressure",
+      "meanings": [
+        "압력"
+      ],
+      "examples": [
+        "pressure for change"
+      ],
+      "start": 7.84,
+      "end": 34.33
+    },
+    {
+      "no": 3,
+      "word": "loss",
+      "meanings": [
+        "손실",
+        "분실",
+        "상실",
+        "감소"
+      ],
+      "examples": [
+        "weight loss"
+      ],
+      "start": 13.98,
+      "end": 34.33
+    },
+    {
+      "no": 4,
+      "word": "playground",
+      "meanings": [
+        "운동장",
+        "놀이터"
+      ],
+      "examples": [
+        "to play in the playground"
+      ],
+      "start": 23.47,
+      "end": 34.33
+    },
+    {
+      "no": 5,
+      "word": "pond",
+      "meanings": [
+        "연못"
+      ],
+      "examples": [
+        "a small pond"
+      ],
+      "start": 31.56,
+      "end": 71.61
+    },
+    {
+      "no": 6,
+      "word": "harbor",
+      "meanings": [
+        "항구"
+      ],
+      "examples": [
+        "a beautiful harbor"
+      ],
+      "start": 36.61,
+      "end": 71.61
+    },
+    {
+      "no": 7,
+      "word": "frame",
+      "meanings": [
+        "틀"
+      ],
+      "examples": [
+        "a picture frame"
+      ],
+      "start": 43.79,
+      "end": 71.61
+    },
+    {
+      "no": 8,
+      "word": "hammer",
+      "meanings": [
+        "망치"
+      ],
+      "examples": [
+        "the heavy hammerhead"
+      ],
+      "start": 49.61,
+      "end": 71.61
+    },
+    {
+      "no": 9,
+      "word": "expression",
+      "meanings": [
+        "표현",
+        "표정"
+      ],
+      "examples": [
+        "freedom of expression"
+      ],
+      "start": 56.21,
+      "end": 71.61
+    },
+    {
+      "no": 10,
+      "word": "quality",
+      "meanings": [
+        "질"
+      ],
+      "examples": [
+        "high quality goods"
+      ],
+      "start": 63.2,
+      "end": 71.61
+    },
+    {
+      "no": 11,
+      "word": "movement",
+      "meanings": [
+        "운동"
+      ],
+      "examples": [
+        "the movement of our body"
+      ],
+      "start": 70.49,
+      "end": 107.96
+    },
+    {
+      "no": 12,
+      "word": "package",
+      "meanings": [
+        "소포",
+        "꾸러미",
+        "포장용기",
+        "포장하다"
+      ],
+      "examples": [
+        "a large package"
+      ],
+      "start": 77.64,
+      "end": 107.96
+    },
+    {
+      "no": 13,
+      "word": "survey",
+      "meanings": [
+        "조사",
+        "조사하다"
+      ],
+      "examples": [
+        "a public opinion survey"
+      ],
+      "start": 88.96,
+      "end": 107.96
+    },
+    {
+      "no": 14,
+      "word": "panic",
+      "meanings": [
+        "극심한 공포",
+        "공황",
+        "공황상태에 빠지다"
+      ],
+      "examples": [
+        "a state of panic"
+      ],
+      "start": 99.33,
+      "end": 107.96
+    },
+    {
+      "no": 15,
+      "word": "sigh",
+      "meanings": [
+        "한숨을 쉬다",
+        "한숨"
+      ],
+      "examples": [
+        "to sigh deeply"
+      ],
+      "start": 109.75,
+      "end": 142.93
+    },
+    {
+      "no": 16,
+      "word": "rinse",
+      "meanings": [
+        "씻어내다",
+        "헹고다",
+        "헹구기"
+      ],
+      "examples": [
+        "to rinse off the soap"
+      ],
+      "start": 116.9,
+      "end": 142.93
+    },
+    {
+      "no": 17,
+      "word": "appeal",
+      "meanings": [
+        "호소하다",
+        "호소"
+      ],
+      "examples": [
+        "to appeal to the public"
+      ],
+      "start": 127.4,
+      "end": 142.93
+    },
+    {
+      "no": 18,
+      "word": "sweep",
+      "meanings": [
+        "쓸다",
+        "청소하다",
+        "휩쓸다"
+      ],
+      "examples": [
+        "to sweep the floor"
+      ],
+      "start": 135.29,
+      "end": 142.93
+    },
+    {
+      "no": 19,
+      "word": "consist",
+      "meanings": [
+        "무엇으로 이루어져 있다"
+      ],
+      "examples": [
+        "consist of",
+        "to consist of two parts"
+      ],
+      "start": 144.09,
+      "end": 152.35
+    },
+    {
+      "no": 20,
+      "word": "unify",
+      "meanings": [
+        "통일하다",
+        "통합하다"
+      ],
+      "examples": [
+        "to unify the nation"
+      ],
+      "start": 154.35,
+      "end": 160.61
+    },
+    {
+      "no": 21,
+      "word": "depress",
+      "meanings": [
+        "우울하게 하다"
+      ],
+      "examples": [
+        "the news depressed him"
+      ],
+      "start": 162.42,
+      "end": 167.75
+    },
+    {
+      "no": 22,
+      "word": "blame",
+      "meanings": [
+        "탓하다"
+      ],
+      "examples": [
+        "don't blame me"
+      ],
+      "start": 169.41,
+      "end": 173.96
+    },
+    {
+      "no": 23,
+      "word": "smooth",
+      "meanings": [
+        "매끄러운",
+        "부드러운"
+      ],
+      "examples": [
+        "her smooth skin"
+      ],
+      "start": 175.75,
+      "end": 181.75
+    },
+    {
+      "no": 24,
+      "word": "wooden",
+      "meanings": [
+        "나무로 된"
+      ],
+      "examples": [
+        "a wooden bench"
+      ],
+      "start": 183.19,
+      "end": 188.33
+    },
+    {
+      "no": 25,
+      "word": "helpless",
+      "meanings": [
+        "무력한",
+        "속수무책의"
+      ],
+      "examples": [
+        "the helpless"
+      ],
+      "start": 190.05,
+      "end": 196.13
+    },
+    {
+      "no": 26,
+      "word": "incredible",
+      "meanings": [
+        "믿을 수 없는"
+      ],
+      "examples": [
+        "that's incredible"
+      ],
+      "start": 198.0,
+      "end": 202.76
+    },
+    {
+      "no": 27,
+      "word": "available",
+      "meanings": [
+        "이용할 수 있는",
+        "구할 수 있는"
+      ],
+      "examples": [
+        "available rooms"
+      ],
+      "start": 204.8,
+      "end": 211.47
+    },
+    {
+      "no": 28,
+      "word": "ancient",
+      "meanings": [
+        "고대의",
+        "옛날의"
+      ],
+      "examples": [
+        "ancient times"
+      ],
+      "start": 213.23,
+      "end": 218.74
+    },
+    {
+      "no": 29,
+      "word": "recent",
+      "meanings": [
+        "최근의"
+      ],
+      "examples": [
+        "recent studies"
+      ],
+      "start": 220.1,
+      "end": 225.16
+    },
+    {
+      "no": 30,
+      "word": "thus",
+      "meanings": [
+        "따라서",
+        "그러므로"
+      ],
+      "examples": [
+        "you should study hard"
+      ],
+      "start": 226.99,
+      "end": 234.17
+    }
+  ],
+  "source_method": "en"
+}

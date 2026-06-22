@@ -1,0 +1,457 @@
+{
+  "lesson": "D35",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D35.mp3",
+  "model": "large-v3",
+  "duration_sec": 247.59,
+  "items": [
+    {
+      "no": 1,
+      "word": "thief",
+      "meanings": [
+        "도둑"
+      ],
+      "examples": [
+        "A car thief",
+        "a car thief"
+      ],
+      "start": 1.34,
+      "end": 25.36
+    },
+    {
+      "no": 2,
+      "word": "lifetime",
+      "meanings": [
+        "일생",
+        "평생"
+      ],
+      "examples": [
+        "During your lifetime",
+        "during your lifetime"
+      ],
+      "start": 7.42,
+      "end": 25.36
+    },
+    {
+      "no": 3,
+      "word": "career",
+      "meanings": [
+        "직업",
+        "경력"
+      ],
+      "examples": [
+        "A teaching career",
+        "a teaching career"
+      ],
+      "start": 14.31,
+      "end": 25.36
+    },
+    {
+      "no": 4,
+      "word": "economy",
+      "meanings": [
+        "경제"
+      ],
+      "examples": [
+        "The global economy",
+        "the global economy"
+      ],
+      "start": 21.24,
+      "end": 54.22
+    },
+    {
+      "no": 5,
+      "word": "fur",
+      "meanings": [
+        "모피",
+        "동물의 털",
+        "엔진",
+        "기관차",
+        "시",
+        "국경",
+        "경계",
+        "재난",
+        "재해",
+        "필터",
+        "여과장치",
+        "여과하다",
+        "예보하다",
+        "거르다",
+        "예보",
+        "다툼",
+        "언쟁",
+        "다투다",
+        "피해",
+        "손해",
+        "해체다",
+        "안보 인사",
+        "여기다",
+        "재채기를 하다",
+        "재채기",
+        "가라앉다",
+        "싱크대",
+        "개수대",
+        "특징",
+        "특유의",
+        "직업의 전문적인 전문직 종사자 전문가",
+        "용기를 북돋우다",
+        "격려하다",
+        "비추다",
+        "반사하다",
+        "반영하다"
+      ],
+      "examples": [
+        "A fur coat",
+        "your face reflected in the mirror",
+        "a fur coat"
+      ],
+      "start": 27.66,
+      "end": 164.76
+    },
+    {
+      "no": 6,
+      "word": "engine",
+      "meanings": [
+        "기관차"
+      ],
+      "examples": [
+        "a diesel engine"
+      ],
+      "start": 36.43,
+      "end": 54.22
+    },
+    {
+      "no": 7,
+      "word": "poetry",
+      "meanings": [
+        "시"
+      ],
+      "examples": [
+        "modern poetry"
+      ],
+      "start": 44.14,
+      "end": 54.22
+    },
+    {
+      "no": 8,
+      "word": "border",
+      "meanings": [
+        "국경",
+        "경계"
+      ],
+      "examples": [
+        "the border between two countries"
+      ],
+      "start": 50.25,
+      "end": 62.63
+    },
+    {
+      "no": 9,
+      "word": "disaster",
+      "meanings": [
+        "재난",
+        "재해"
+      ],
+      "examples": [
+        "a natural disaster"
+      ],
+      "start": 58.61,
+      "end": 80.51
+    },
+    {
+      "no": 10,
+      "word": "filter",
+      "meanings": [
+        "여과장치",
+        "여과하다",
+        "거르다"
+      ],
+      "examples": [
+        "to filter water"
+      ],
+      "start": 65.3,
+      "end": 80.51
+    },
+    {
+      "no": 11,
+      "word": "forecast",
+      "meanings": [
+        "예보",
+        "예보하다"
+      ],
+      "examples": [
+        "the weather forecast"
+      ],
+      "start": 76.55,
+      "end": 97.72
+    },
+    {
+      "no": 12,
+      "word": "quarrel",
+      "meanings": [
+        "다툼",
+        "언쟁",
+        "다투다"
+      ],
+      "examples": [
+        "to quarrel with him"
+      ],
+      "start": 84.2,
+      "end": 97.72
+    },
+    {
+      "no": 13,
+      "word": "harm",
+      "meanings": [
+        "피해",
+        "손해",
+        "해체다"
+      ],
+      "examples": [
+        "To do harm"
+      ],
+      "start": 92.82,
+      "end": 99.67
+    },
+    {
+      "no": 14,
+      "word": "regard",
+      "meanings": [
+        "안보 인사",
+        "여기다"
+      ],
+      "examples": [
+        "Give my regards to your family"
+      ],
+      "start": 99.67,
+      "end": 109.45
+    },
+    {
+      "no": 15,
+      "word": "sneeze",
+      "meanings": [
+        "재채기를 하다",
+        "재채기"
+      ],
+      "examples": [
+        "To cough and sneeze"
+      ],
+      "start": 109.45,
+      "end": 117.51
+    },
+    {
+      "no": 16,
+      "word": "sink",
+      "meanings": [
+        "가라앉다",
+        "싱크대",
+        "개수대"
+      ],
+      "examples": [
+        "To sink to the bottom"
+      ],
+      "start": 117.51,
+      "end": 126.64
+    },
+    {
+      "no": 17,
+      "word": "characteristic",
+      "meanings": [
+        "특징",
+        "특유의"
+      ],
+      "examples": [
+        "Different characteristics"
+      ],
+      "start": 127.53,
+      "end": 133.91
+    },
+    {
+      "no": 18,
+      "word": "professional",
+      "meanings": [
+        "직업의 전문적인 전문직 종사자 전문가"
+      ],
+      "examples": [
+        "Professional advice"
+      ],
+      "start": 133.93,
+      "end": 145.22
+    },
+    {
+      "no": 19,
+      "word": "encourage",
+      "meanings": [
+        "용기를 북돋우다",
+        "격려하다"
+      ],
+      "examples": [
+        "We encouraged each other"
+      ],
+      "start": 145.5,
+      "end": 154.64
+    },
+    {
+      "no": 20,
+      "word": "reflect",
+      "meanings": [
+        "비추다",
+        "반사하다",
+        "반영하다"
+      ],
+      "examples": [
+        "Your face reflected in the mirror"
+      ],
+      "start": 155.54,
+      "end": 164.7
+    },
+    {
+      "no": 21,
+      "word": "slide",
+      "meanings": [
+        "미끄러지다"
+      ],
+      "examples": [
+        "To slide across the ice",
+        "to slide across the ice"
+      ],
+      "start": 164.7,
+      "end": 171.68
+    },
+    {
+      "no": 22,
+      "word": "stretch",
+      "meanings": [
+        "늘리다",
+        "당기다",
+        "펴다",
+        "뻗다"
+      ],
+      "examples": [
+        "To stretch your muscles",
+        "to stretch your muscles"
+      ],
+      "start": 171.64,
+      "end": 181.46
+    },
+    {
+      "no": 23,
+      "word": "steal",
+      "meanings": [
+        "훔치다"
+      ],
+      "examples": [
+        "To steal a watch",
+        "to steal a watch"
+      ],
+      "start": 181.44,
+      "end": 188.1
+    },
+    {
+      "no": 24,
+      "word": "comic",
+      "meanings": [
+        "희극을 웃기는",
+        "걱정하는",
+        "열망하는",
+        "잠든",
+        "효과적인",
+        "무엇 때문인",
+        "예정인",
+        "집을 기한이 된",
+        "실제로"
+      ],
+      "examples": [
+        "A comic actor",
+        "A comic actress",
+        "a comic actor",
+        "a comic actress",
+        "due to heavy rain",
+        "So what actually happened"
+      ],
+      "start": 187.96,
+      "end": 236.86
+    },
+    {
+      "no": 25,
+      "word": "anxious",
+      "meanings": [
+        "걱정하는",
+        "열망하는"
+      ],
+      "examples": [
+        "Are you anxious about something"
+      ],
+      "start": 190.16,
+      "end": 205.4
+    },
+    {
+      "no": 26,
+      "word": "asleep",
+      "meanings": [
+        "잠든"
+      ],
+      "examples": [
+        "To fall asleep"
+      ],
+      "start": 195.38,
+      "end": 211.48
+    },
+    {
+      "no": 27,
+      "word": "effective",
+      "meanings": [
+        "효과적인"
+      ],
+      "examples": [
+        "Effective time management"
+      ],
+      "start": 212.35,
+      "end": 218.53
+    },
+    {
+      "no": 28,
+      "word": "due",
+      "meanings": [
+        "무엇 때문인",
+        "예정인",
+        "집을 기한이 된"
+      ],
+      "examples": [
+        "Due to",
+        "Due to heavy rain"
+      ],
+      "start": 218.53,
+      "end": 229.65
+    },
+    {
+      "no": 29,
+      "word": "actually",
+      "meanings": [
+        "실제로"
+      ],
+      "examples": [
+        "So what actually happened"
+      ],
+      "start": 229.65,
+      "end": 236.84
+    },
+    {
+      "no": 30,
+      "word": "rather",
+      "meanings": [
+        "꽤",
+        "약간",
+        "좀",
+        "오히려"
+      ],
+      "examples": [
+        "a rather hot day"
+      ],
+      "start": 238.33,
+      "end": 246.1
+    }
+  ],
+  "item_count": 30,
+  "flags": [],
+  "source_method": "merge_en_ko"
+}

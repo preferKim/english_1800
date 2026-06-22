@@ -1,0 +1,439 @@
+{
+  "lesson": "D36",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D36.mp3",
+  "model": "large-v3",
+  "duration_sec": 238.6,
+  "items": [
+    {
+      "no": 1,
+      "word": "manager",
+      "meanings": [
+        "경영자",
+        "관리자",
+        "매니저",
+        "지배인"
+      ],
+      "examples": [
+        "A hotel manager"
+      ],
+      "start": 1.25,
+      "end": 10.83
+    },
+    {
+      "no": 2,
+      "word": "shore",
+      "meanings": [
+        "물가",
+        "해안",
+        "호수가"
+      ],
+      "examples": [
+        "To swim to the shore"
+      ],
+      "start": 10.83,
+      "end": 19.51
+    },
+    {
+      "no": 3,
+      "word": "sunrise",
+      "meanings": [
+        "해돋이",
+        "일출"
+      ],
+      "examples": [
+        "A beautiful sunrise"
+      ],
+      "start": 20.41,
+      "end": 26.91
+    },
+    {
+      "no": 4,
+      "word": "lighting",
+      "meanings": [
+        "조명"
+      ],
+      "examples": [
+        "Natural lighting"
+      ],
+      "start": 28.3,
+      "end": 33.33
+    },
+    {
+      "no": 5,
+      "word": "wire",
+      "meanings": [
+        "철사",
+        "전선"
+      ],
+      "examples": [
+        "a telephone wire",
+        "A telephone wire"
+      ],
+      "start": 33.03,
+      "end": 40.64
+    },
+    {
+      "no": 6,
+      "word": "stage",
+      "meanings": [
+        "무대",
+        "단계"
+      ],
+      "examples": [
+        "the first stage",
+        "The first stage"
+      ],
+      "start": 40.64,
+      "end": 47.78
+    },
+    {
+      "no": 7,
+      "word": "zone",
+      "meanings": [
+        "지역",
+        "구역"
+      ],
+      "examples": [
+        "a no parking zone",
+        "A no parking zone"
+      ],
+      "start": 47.78,
+      "end": 54.77
+    },
+    {
+      "no": 8,
+      "word": "height",
+      "meanings": [
+        "높이",
+        "키"
+      ],
+      "examples": [
+        "the height of the mountain",
+        "The height of the mountain"
+      ],
+      "start": 54.77,
+      "end": 63.22
+    },
+    {
+      "no": 9,
+      "word": "prediction",
+      "meanings": [
+        "예측",
+        "예견",
+        "결혼",
+        "기간",
+        "시대",
+        "마침표",
+        "주장",
+        "청구",
+        "주장하다",
+        "거래",
+        "다루다",
+        "대하다",
+        "거래하다",
+        "한계",
+        "제한",
+        "제한하다",
+        "한정하다",
+        "톡톡 두드리다",
+        "수도꼭지",
+        "뿌리다",
+        "뿌려지다",
+        "물보라",
+        "분무기"
+      ],
+      "examples": [
+        "To make a prediction"
+      ],
+      "start": 63.22,
+      "end": 132.57
+    },
+    {
+      "no": 10,
+      "word": "marriage",
+      "meanings": [
+        "결혼"
+      ],
+      "examples": [
+        "A happy marriage"
+      ],
+      "start": 72.54,
+      "end": 76.53
+    },
+    {
+      "no": 11,
+      "word": "period",
+      "meanings": [
+        "기간",
+        "시기",
+        "시대",
+        "마침표"
+      ],
+      "examples": [
+        "A very short period of time"
+      ],
+      "start": 78.32,
+      "end": 87.14
+    },
+    {
+      "no": 12,
+      "word": "claim",
+      "meanings": [
+        "주장",
+        "청구",
+        "주장하다"
+      ],
+      "examples": [
+        "A false claim"
+      ],
+      "start": 88.85,
+      "end": 95.52
+    },
+    {
+      "no": 13,
+      "word": "deal",
+      "meanings": [
+        "거래",
+        "다루다",
+        "대하다",
+        "거래하다"
+      ],
+      "examples": [
+        "Deal with",
+        "To make a deal"
+      ],
+      "start": 97.37,
+      "end": 107.35
+    },
+    {
+      "no": 14,
+      "word": "limit",
+      "meanings": [
+        "한계",
+        "제한",
+        "제한하다",
+        "한정하다"
+      ],
+      "examples": [
+        "A time limit"
+      ],
+      "start": 108.81,
+      "end": 116.92
+    },
+    {
+      "no": 15,
+      "word": "tap",
+      "meanings": [
+        "톡톡 두드리다",
+        "수도꼭지"
+      ],
+      "examples": [
+        "To tap at the door"
+      ],
+      "start": 118.58,
+      "end": 125.08
+    },
+    {
+      "no": 16,
+      "word": "spray",
+      "meanings": [
+        "뿌리다",
+        "뿌려지다",
+        "물보라",
+        "분무기"
+      ],
+      "examples": [
+        "To spray water"
+      ],
+      "start": 126.56,
+      "end": 134.64
+    },
+    {
+      "no": 17,
+      "word": "weigh",
+      "meanings": [
+        "무게가 얼마이다",
+        "무게를 달다"
+      ],
+      "examples": [
+        "to weigh 5 kilos",
+        "To weigh 5 kilos"
+      ],
+      "start": 134.76,
+      "end": 143.54
+    },
+    {
+      "no": 18,
+      "word": "pray",
+      "meanings": [
+        "기도하다"
+      ],
+      "examples": [
+        "to pray for peace"
+      ],
+      "start": 143.54,
+      "end": 151.26
+    },
+    {
+      "no": 19,
+      "word": "greet",
+      "meanings": [
+        "인사하다"
+      ],
+      "examples": [
+        "to greet the guests"
+      ],
+      "start": 151.24,
+      "end": 157.6
+    },
+    {
+      "no": 20,
+      "word": "chew",
+      "meanings": [
+        "씹다"
+      ],
+      "examples": [
+        "to chew gum"
+      ],
+      "start": 157.58,
+      "end": 163.63
+    },
+    {
+      "no": 21,
+      "word": "attract",
+      "meanings": [
+        "끌다",
+        "매혹하다"
+      ],
+      "examples": [
+        "to attract a lot of interest"
+      ],
+      "start": 163.63,
+      "end": 170.35
+    },
+    {
+      "no": 22,
+      "word": "overcome",
+      "meanings": [
+        "극복하다"
+      ],
+      "examples": [
+        "to overcome difficulties"
+      ],
+      "start": 170.31,
+      "end": 177.36
+    },
+    {
+      "no": 23,
+      "word": "salty",
+      "meanings": [
+        "짠"
+      ],
+      "examples": [
+        "a slightly salty taste",
+        "A slightly salty taste"
+      ],
+      "start": 177.36,
+      "end": 184.09
+    },
+    {
+      "no": 24,
+      "word": "southern",
+      "meanings": [
+        "남쪽의"
+      ],
+      "examples": [
+        "The southern states of USA",
+        "the southern states of USA"
+      ],
+      "start": 184.07,
+      "end": 190.96
+    },
+    {
+      "no": 25,
+      "word": "curious",
+      "meanings": [
+        "호기심이 많은",
+        "궁금한"
+      ],
+      "examples": [
+        "A curious look",
+        "a curious look"
+      ],
+      "start": 190.92,
+      "end": 199.17
+    },
+    {
+      "no": 26,
+      "word": "humorous",
+      "meanings": [
+        "유머러스한",
+        "재미있는"
+      ],
+      "examples": [
+        "Humorous stories",
+        "humorous stories"
+      ],
+      "start": 199.15,
+      "end": 207.24
+    },
+    {
+      "no": 27,
+      "word": "foolish",
+      "meanings": [
+        "어리석은"
+      ],
+      "examples": [
+        "A foolish mistake",
+        "a foolish mistake"
+      ],
+      "start": 207.02,
+      "end": 213.58
+    },
+    {
+      "no": 28,
+      "word": "greedy",
+      "meanings": [
+        "탐욕스러운",
+        "욕심 많은"
+      ],
+      "examples": [
+        "Don't be so greedy",
+        "don't be so greedy"
+      ],
+      "start": 213.54,
+      "end": 221.8
+    },
+    {
+      "no": 29,
+      "word": "valuable",
+      "meanings": [
+        "귀중한",
+        "값비싼"
+      ],
+      "examples": [
+        "Valuable time",
+        "valuable time"
+      ],
+      "start": 221.7,
+      "end": 229.48
+    },
+    {
+      "no": 30,
+      "word": "certainly",
+      "meanings": [
+        "확실히",
+        "물론"
+      ],
+      "examples": [
+        "It's certainly true",
+        "it's certainly true"
+      ],
+      "start": 229.48,
+      "end": 237.0
+    }
+  ],
+  "item_count": 30,
+  "flags": [],
+  "source_method": "merge_en2_ko"
+}

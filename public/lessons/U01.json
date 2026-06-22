@@ -1,0 +1,416 @@
+{
+  "lesson": "U01",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-U01.mp3",
+  "model": "large-v3",
+  "duration_sec": 243.04,
+  "items": [
+    {
+      "no": 1,
+      "word": "species",
+      "meanings": [
+        "생물의 종"
+      ],
+      "examples": [
+        "Endangered Species",
+        "Endangered species"
+      ],
+      "start": 1.46,
+      "end": 8.27
+    },
+    {
+      "no": 2,
+      "word": "expert",
+      "meanings": [
+        "전문가"
+      ],
+      "examples": [
+        "A computer expert"
+      ],
+      "start": 7.93,
+      "end": 14.62
+    },
+    {
+      "no": 3,
+      "word": "victim",
+      "meanings": [
+        "희생자",
+        "피해자"
+      ],
+      "examples": [
+        "Accident victims"
+      ],
+      "start": 14.6,
+      "end": 22.25
+    },
+    {
+      "no": 4,
+      "word": "pillow",
+      "meanings": [
+        "배개"
+      ],
+      "examples": [
+        "A pillow fight"
+      ],
+      "start": 22.23,
+      "end": 28.16
+    },
+    {
+      "no": 5,
+      "word": "fountain",
+      "meanings": [
+        "분수",
+        "원천",
+        "향기",
+        "말다툼",
+        "논쟁",
+        "주장",
+        "토론",
+        "논의",
+        "경향",
+        "추세",
+        "유행",
+        "모토",
+        "자우명"
+      ],
+      "examples": [
+        "The Trevi Fountain in Rome",
+        "A school motto"
+      ],
+      "start": 28.14,
+      "end": 76.07
+    },
+    {
+      "no": 6,
+      "word": "scent",
+      "meanings": [
+        "향기"
+      ],
+      "examples": [
+        "The scent of flowers"
+      ],
+      "start": 36.37,
+      "end": 42.49
+    },
+    {
+      "no": 7,
+      "word": "argument",
+      "meanings": [
+        "말다툼",
+        "논쟁",
+        "주장"
+      ],
+      "examples": [
+        "He had an argument with her"
+      ],
+      "start": 43.32,
+      "end": 51.92
+    },
+    {
+      "no": 8,
+      "word": "discussion",
+      "meanings": [
+        "토론",
+        "논의"
+      ],
+      "examples": [
+        "A topic for discussion"
+      ],
+      "start": 52.72,
+      "end": 59.2
+    },
+    {
+      "no": 9,
+      "word": "trend",
+      "meanings": [
+        "경향",
+        "추세",
+        "유행"
+      ],
+      "examples": [
+        "The latest trend in advertising"
+      ],
+      "start": 59.2,
+      "end": 68.49
+    },
+    {
+      "no": 10,
+      "word": "motto",
+      "meanings": [
+        "모토",
+        "좌우명"
+      ],
+      "examples": [
+        "A school motto"
+      ],
+      "start": 68.49,
+      "end": 75.99
+    },
+    {
+      "no": 11,
+      "word": "series",
+      "meanings": [
+        "연속",
+        "연속물",
+        "시리즈"
+      ],
+      "examples": [
+        "A hit television series"
+      ],
+      "start": 75.99,
+      "end": 85.46
+    },
+    {
+      "no": 12,
+      "word": "reaction",
+      "meanings": [
+        "반응"
+      ],
+      "examples": [
+        "What was his reaction to the news"
+      ],
+      "start": 85.44,
+      "end": 92.78
+    },
+    {
+      "no": 13,
+      "word": "graduation",
+      "meanings": [
+        "졸업",
+        "졸업식"
+      ],
+      "examples": [
+        "To celebrate her graduation"
+      ],
+      "start": 94.12,
+      "end": 100.62
+    },
+    {
+      "no": 14,
+      "word": "sadness",
+      "meanings": [
+        "슬픔"
+      ],
+      "examples": [
+        "To feel a deep sadness"
+      ],
+      "start": 100.62,
+      "end": 107.81
+    },
+    {
+      "no": 15,
+      "word": "unplug",
+      "meanings": [
+        "플러그를 뽑다"
+      ],
+      "examples": [
+        "To unplug the TV"
+      ],
+      "start": 108.59,
+      "end": 114.92
+    },
+    {
+      "no": 16,
+      "word": "unpack",
+      "meanings": [
+        "꺼내다",
+        "풀다"
+      ],
+      "examples": [
+        "She unpacked her suitcase"
+      ],
+      "start": 115.82,
+      "end": 122.96
+    },
+    {
+      "no": 17,
+      "word": "disagree",
+      "meanings": [
+        "의견이 다르다",
+        "일치하지 않다"
+      ],
+      "examples": [
+        "He disagreed with his parents"
+      ],
+      "start": 122.94,
+      "end": 132.45
+    },
+    {
+      "no": 18,
+      "word": "interpret",
+      "meanings": [
+        "해석하다",
+        "통역하다"
+      ],
+      "examples": [
+        "We asked our guide to interpret for us"
+      ],
+      "start": 132.43,
+      "end": 142.07
+    },
+    {
+      "no": 19,
+      "word": "paralyze",
+      "meanings": [
+        "마비시키다"
+      ],
+      "examples": [
+        "His legs were paralyzed in the crash"
+      ],
+      "start": 142.83,
+      "end": 149.7
+    },
+    {
+      "no": 20,
+      "word": "actual",
+      "meanings": [
+        "실제의"
+      ],
+      "examples": [
+        "The movie based on the actual events"
+      ],
+      "start": 149.7,
+      "end": 157.61
+    },
+    {
+      "no": 21,
+      "word": "sincere",
+      "meanings": [
+        "진실한",
+        "진심의"
+      ],
+      "examples": [
+        "A sincere apology"
+      ],
+      "start": 157.61,
+      "end": 165.65
+    },
+    {
+      "no": 22,
+      "word": "weekly",
+      "meanings": [
+        "매주의",
+        "주일회의",
+        "주간의"
+      ],
+      "examples": [
+        "A weekly magazine"
+      ],
+      "start": 165.59,
+      "end": 175.13
+    },
+    {
+      "no": 23,
+      "word": "graceful",
+      "meanings": [
+        "우아한"
+      ],
+      "examples": [
+        "the dancer's graceful movements",
+        "The dancer's graceful movements"
+      ],
+      "start": 176.57,
+      "end": 184.5
+    },
+    {
+      "no": 24,
+      "word": "polar",
+      "meanings": [
+        "극지의",
+        "남극의",
+        "북극의"
+      ],
+      "examples": [
+        "A polar bear",
+        "a polar bear"
+      ],
+      "start": 184.48,
+      "end": 193.53
+    },
+    {
+      "no": 25,
+      "word": "moreover",
+      "meanings": [
+        "천천히",
+        "차츰",
+        "우연히",
+        "어떻게든",
+        "왠지",
+        "솔직히 말하면",
+        "언제든지"
+      ],
+      "examples": [
+        "He is smart and",
+        "he is kind",
+        "he is smart and moreover he is kind",
+        "Call me anytime"
+      ],
+      "start": 193.53,
+      "end": 241.4
+    },
+    {
+      "no": 26,
+      "word": "gradually",
+      "meanings": [
+        "점차",
+        "차츰"
+      ],
+      "examples": [
+        "The weather gradually improved"
+      ],
+      "start": 204.25,
+      "end": 211.68
+    },
+    {
+      "no": 27,
+      "word": "accidentally",
+      "meanings": [
+        "우연히"
+      ],
+      "examples": [
+        "It happened accidentally"
+      ],
+      "start": 211.68,
+      "end": 218.44
+    },
+    {
+      "no": 28,
+      "word": "somehow",
+      "meanings": [
+        "어떻게든",
+        "왠지"
+      ],
+      "examples": [
+        "You look different somehow"
+      ],
+      "start": 218.44,
+      "end": 226.69
+    },
+    {
+      "no": 29,
+      "word": "frankly",
+      "meanings": [
+        "솔직히 말하면"
+      ],
+      "examples": [
+        "He talks very frankly about himself"
+      ],
+      "start": 226.69,
+      "end": 234.62
+    },
+    {
+      "no": 30,
+      "word": "anytime",
+      "meanings": [
+        "언제든지"
+      ],
+      "examples": [
+        "Call me anytime"
+      ],
+      "start": 234.62,
+      "end": 241.3
+    }
+  ],
+  "item_count": 30,
+  "flags": [],
+  "source_method": "merge_en_ko"
+}

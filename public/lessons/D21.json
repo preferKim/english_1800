@@ -1,0 +1,412 @@
+{
+  "lesson": "D21",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D21.mp3",
+  "model": "large-v3",
+  "duration_sec": 252.73,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "action",
+      "meanings": [
+        "행동",
+        "조치"
+      ],
+      "examples": [
+        "to take action"
+      ],
+      "start": 1.63,
+      "end": 36.48
+    },
+    {
+      "no": 2,
+      "word": "talent",
+      "meanings": [
+        "재능",
+        "재능 있는 사람"
+      ],
+      "examples": [
+        "a natural talent"
+      ],
+      "start": 8.43,
+      "end": 36.48
+    },
+    {
+      "no": 3,
+      "word": "choice",
+      "meanings": [
+        "선택"
+      ],
+      "examples": [
+        "to make a choice"
+      ],
+      "start": 17.25,
+      "end": 36.48
+    },
+    {
+      "no": 4,
+      "word": "slave",
+      "meanings": [
+        "노예"
+      ],
+      "examples": [
+        "to free slaves"
+      ],
+      "start": 23.54,
+      "end": 36.48
+    },
+    {
+      "no": 5,
+      "word": "situation",
+      "meanings": [
+        "상황"
+      ],
+      "examples": [
+        "a difficult situation"
+      ],
+      "start": 29.76,
+      "end": 36.48
+    },
+    {
+      "no": 6,
+      "word": "pride",
+      "meanings": [
+        "자랑스러움",
+        "자부심"
+      ],
+      "examples": [
+        "take pride in your work"
+      ],
+      "start": 35.64,
+      "end": 74.24
+    },
+    {
+      "no": 7,
+      "word": "tip",
+      "meanings": [
+        "뾰족한 끝",
+        "봉사료",
+        "조언"
+      ],
+      "examples": [
+        "the tip of her nose"
+      ],
+      "start": 43.98,
+      "end": 74.24
+    },
+    {
+      "no": 8,
+      "word": "stair",
+      "meanings": [
+        "계단"
+      ],
+      "examples": [
+        "to run up the stairs"
+      ],
+      "start": 53.68,
+      "end": 74.24
+    },
+    {
+      "no": 9,
+      "word": "soil",
+      "meanings": [
+        "흙",
+        "토양"
+      ],
+      "examples": [
+        "soil pollution"
+      ],
+      "start": 61.02,
+      "end": 74.24
+    },
+    {
+      "no": 10,
+      "word": "master",
+      "meanings": [
+        "달인",
+        "대가",
+        "주인",
+        "석사",
+        "숙달하다"
+      ],
+      "examples": [
+        "be your own master"
+      ],
+      "start": 67.93,
+      "end": 108.85
+    },
+    {
+      "no": 11,
+      "word": "suit",
+      "meanings": [
+        "정장",
+        "옷",
+        "맞다",
+        "어울리다"
+      ],
+      "examples": [
+        "a black suit"
+      ],
+      "start": 78.52,
+      "end": 108.85
+    },
+    {
+      "no": 12,
+      "word": "notice",
+      "meanings": [
+        "알아차리다",
+        "주목",
+        "안내문",
+        "알림"
+      ],
+      "examples": [
+        "to notice a smell of gas"
+      ],
+      "start": 88.68,
+      "end": 108.85
+    },
+    {
+      "no": 13,
+      "word": "bow",
+      "meanings": [
+        "절하다",
+        "숙이다",
+        "절",
+        "활",
+        "나비 매듭"
+      ],
+      "examples": [
+        "to bow your head"
+      ],
+      "start": 98.48,
+      "end": 143.4
+    },
+    {
+      "no": 14,
+      "word": "rush",
+      "meanings": [
+        "서두르다",
+        "급히 움직이다",
+        "돌진",
+        "바쁨"
+      ],
+      "examples": [
+        "there's no need to rush"
+      ],
+      "start": 112.17,
+      "end": 143.4
+    },
+    {
+      "no": 15,
+      "word": "adult",
+      "meanings": [
+        "성인",
+        "어른",
+        "성인을",
+        "어른스러운"
+      ],
+      "examples": [
+        "to become an adult"
+      ],
+      "start": 123.35,
+      "end": 143.4
+    },
+    {
+      "no": 16,
+      "word": "principal",
+      "meanings": [
+        "교장",
+        "장",
+        "주요한"
+      ],
+      "examples": [
+        "a new principal"
+      ],
+      "start": 133.85,
+      "end": 143.4
+    },
+    {
+      "no": 17,
+      "word": "folk",
+      "meanings": [
+        "가족",
+        "민속의"
+      ],
+      "examples": [
+        "a folk village"
+      ],
+      "start": 142.46,
+      "end": 143.4
+    },
+    {
+      "no": 18,
+      "word": "material",
+      "meanings": [
+        "재료",
+        "자료",
+        "물재료의"
+      ],
+      "examples": [
+        "building materials"
+      ],
+      "start": 152.88,
+      "end": 179.5
+    },
+    {
+      "no": 19,
+      "word": "standard",
+      "meanings": [
+        "수준",
+        "기준",
+        "일반적인",
+        "표준의"
+      ],
+      "examples": [
+        "high standards"
+      ],
+      "start": 161.58,
+      "end": 179.5
+    },
+    {
+      "no": 20,
+      "word": "surf",
+      "meanings": [
+        "파도타기를 하다",
+        "인터넷을 검색하다"
+      ],
+      "examples": [
+        "to surf the internet"
+      ],
+      "start": 171.7,
+      "end": 179.5
+    },
+    {
+      "no": 21,
+      "word": "accept",
+      "meanings": [
+        "받아들이다",
+        "인정하다"
+      ],
+      "examples": [
+        "to accept an invitation"
+      ],
+      "start": 181.47,
+      "end": 216.87
+    },
+    {
+      "no": 22,
+      "word": "obey",
+      "meanings": [
+        "따르다",
+        "순종하다"
+      ],
+      "examples": [
+        "to obey an order"
+      ],
+      "start": 188.18,
+      "end": 216.87
+    },
+    {
+      "no": 23,
+      "word": "hide",
+      "meanings": [
+        "숨기다",
+        "숨다"
+      ],
+      "examples": [
+        "to hide under the bed"
+      ],
+      "start": 197.37,
+      "end": 216.87
+    },
+    {
+      "no": 24,
+      "word": "basic",
+      "meanings": [
+        "기본의",
+        "기초의"
+      ],
+      "examples": [
+        "the basic idea"
+      ],
+      "start": 205.12,
+      "end": 216.87
+    },
+    {
+      "no": 25,
+      "word": "local",
+      "meanings": [
+        "지역의",
+        "지방의"
+      ],
+      "examples": [
+        "a local newspaper"
+      ],
+      "start": 212.7,
+      "end": 251.06
+    },
+    {
+      "no": 26,
+      "word": "boring",
+      "meanings": [
+        "지루한"
+      ],
+      "examples": [
+        "a boring book"
+      ],
+      "start": 219.53,
+      "end": 251.06
+    },
+    {
+      "no": 27,
+      "word": "weak",
+      "meanings": [
+        "약한"
+      ],
+      "examples": [
+        "a weak old man"
+      ],
+      "start": 226.9,
+      "end": 251.06
+    },
+    {
+      "no": 28,
+      "word": "quick",
+      "meanings": [
+        "빠른"
+      ],
+      "examples": [
+        "quick steps"
+      ],
+      "start": 232.93,
+      "end": 251.06
+    },
+    {
+      "no": 29,
+      "word": "easily",
+      "meanings": [
+        "쉽게"
+      ],
+      "examples": [
+        "they won easily"
+      ],
+      "start": 238.55,
+      "end": 251.06
+    },
+    {
+      "no": 30,
+      "word": "abroad",
+      "meanings": [
+        "외국에",
+        "외국으로"
+      ],
+      "examples": [
+        "to live abroad"
+      ],
+      "start": 244.98,
+      "end": 251.06
+    }
+  ],
+  "source_method": "en"
+}

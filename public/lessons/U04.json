@@ -1,0 +1,410 @@
+{
+  "lesson": "U04",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-U04.mp3",
+  "model": "large-v3",
+  "duration_sec": 267.91,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "celebrity",
+      "meanings": [
+        "유명인사"
+      ],
+      "examples": [
+        "Many celebrities at the party"
+      ],
+      "start": 2.81,
+      "end": 26.04
+    },
+    {
+      "no": 2,
+      "word": "idol",
+      "meanings": [
+        "우상"
+      ],
+      "examples": [
+        "The idol of countless teenagers"
+      ],
+      "start": 9.9,
+      "end": 26.04
+    },
+    {
+      "no": 3,
+      "word": "heel",
+      "meanings": [
+        "발뒤꿈치",
+        "굽"
+      ],
+      "examples": [
+        "A heel example"
+      ],
+      "start": 16.66,
+      "end": 26.04
+    },
+    {
+      "no": 4,
+      "word": "destiny",
+      "meanings": [
+        "운명"
+      ],
+      "examples": [
+        "To control your own destiny"
+      ],
+      "start": 26.04,
+      "end": 63.25
+    },
+    {
+      "no": 5,
+      "word": "spacecraft",
+      "meanings": [
+        "우주산"
+      ],
+      "examples": [
+        "To launch a spacecraft"
+      ],
+      "start": 34.82,
+      "end": 63.25
+    },
+    {
+      "no": 6,
+      "word": "facility",
+      "meanings": [
+        "시설"
+      ],
+      "examples": [
+        "Leisure facilities"
+      ],
+      "start": 41.6,
+      "end": 63.25
+    },
+    {
+      "no": 7,
+      "word": "data",
+      "meanings": [
+        "자료",
+        "정보",
+        "데이터"
+      ],
+      "examples": [
+        "Historical data"
+      ],
+      "start": 47.89,
+      "end": 63.25
+    },
+    {
+      "no": 8,
+      "word": "origin",
+      "meanings": [
+        "기원",
+        "출신"
+      ],
+      "examples": [
+        "The origins of life on earth"
+      ],
+      "start": 55.29,
+      "end": 63.25
+    },
+    {
+      "no": 9,
+      "word": "introduction",
+      "meanings": [
+        "도입",
+        "소개",
+        "서론"
+      ],
+      "examples": [
+        "The introduction of new technology"
+      ],
+      "start": 64.49,
+      "end": 99.48
+    },
+    {
+      "no": 10,
+      "word": "belief",
+      "meanings": [
+        "믿음",
+        "신념"
+      ],
+      "examples": [
+        "A strong belief in democracy"
+      ],
+      "start": 74.16,
+      "end": 99.48
+    },
+    {
+      "no": 11,
+      "word": "possibility",
+      "meanings": [
+        "가능성",
+        "성공"
+      ],
+      "examples": [
+        "The possibility of success",
+        "The possibility of failure"
+      ],
+      "start": 82.49,
+      "end": 99.48
+    },
+    {
+      "no": 12,
+      "word": "protection",
+      "meanings": [
+        "보호"
+      ],
+      "examples": [
+        "The protection of the environment"
+      ],
+      "start": 94.02,
+      "end": 99.48
+    },
+    {
+      "no": 13,
+      "word": "vision",
+      "meanings": [
+        "시력",
+        "시야",
+        "비전",
+        "전망"
+      ],
+      "examples": [
+        "To have good vision"
+      ],
+      "start": 99.74,
+      "end": 128.67
+    },
+    {
+      "no": 14,
+      "word": "pose",
+      "meanings": [
+        "자세",
+        "자세를 취하다",
+        "직위하다"
+      ],
+      "examples": [
+        "Hold that pose"
+      ],
+      "start": 110.8,
+      "end": 128.67
+    },
+    {
+      "no": 15,
+      "word": "pedal",
+      "meanings": [
+        "페달",
+        "페달을 밟다"
+      ],
+      "examples": [
+        "A bike's pedal",
+        "To pedal a bike"
+      ],
+      "start": 120.25,
+      "end": 128.67
+    },
+    {
+      "no": 16,
+      "word": "sled",
+      "meanings": [
+        "썰매",
+        "썰매를 타다"
+      ],
+      "examples": [
+        "To go down",
+        "Down a hill on a sled"
+      ],
+      "start": 129.92,
+      "end": 171.02
+    },
+    {
+      "no": 17,
+      "word": "guard",
+      "meanings": [
+        "경비원",
+        "경호원",
+        "지키다"
+      ],
+      "examples": [
+        "A security guard"
+      ],
+      "start": 138.72,
+      "end": 171.02
+    },
+    {
+      "no": 18,
+      "word": "track",
+      "meanings": [
+        "길",
+        "선로",
+        "경주로"
+      ],
+      "examples": [
+        "A track example"
+      ],
+      "start": 147.46,
+      "end": 171.02
+    },
+    {
+      "no": 19,
+      "word": "peel",
+      "meanings": [
+        "껍질을 벗기다",
+        "껍질"
+      ],
+      "examples": [
+        "To peel an orange"
+      ],
+      "start": 162.5,
+      "end": 171.02
+    },
+    {
+      "no": 20,
+      "word": "bump",
+      "meanings": [
+        "세다",
+        "혹",
+        "도로의 턱"
+      ],
+      "examples": [
+        "To bump into a chair"
+      ],
+      "start": 170.34,
+      "end": 206.48
+    },
+    {
+      "no": 21,
+      "word": "die",
+      "meanings": [
+        "염색하다",
+        "염료",
+        "염색제"
+      ],
+      "examples": [
+        "She dyed her hair red"
+      ],
+      "start": 178.91,
+      "end": 206.48
+    },
+    {
+      "no": 22,
+      "word": "stir",
+      "meanings": [
+        "졌다",
+        "움직이다",
+        "불러일으키다",
+        "자극하다"
+      ],
+      "examples": [
+        "She stirred her coffee"
+      ],
+      "start": 188.1,
+      "end": 206.48
+    },
+    {
+      "no": 23,
+      "word": "tickle",
+      "meanings": [
+        "간지럽히다"
+      ],
+      "examples": [
+        "Stop tickling"
+      ],
+      "start": 199.17,
+      "end": 206.48
+    },
+    {
+      "no": 24,
+      "word": "applaud",
+      "meanings": [
+        "박수갈채를 보내다"
+      ],
+      "examples": [
+        "The audience applauded loudly"
+      ],
+      "start": 205.68,
+      "end": 242.07
+    },
+    {
+      "no": 25,
+      "word": "dedicate",
+      "meanings": [
+        "바치다",
+        "전념하다",
+        "헌신하다"
+      ],
+      "examples": [
+        "She dedicates herself to her work"
+      ],
+      "start": 213.41,
+      "end": 242.07
+    },
+    {
+      "no": 26,
+      "word": "swift",
+      "meanings": [
+        "빠른",
+        "신속한"
+      ],
+      "examples": [
+        "A swift reply"
+      ],
+      "start": 224.08,
+      "end": 242.07
+    },
+    {
+      "no": 27,
+      "word": "artistic",
+      "meanings": [
+        "예술의",
+        "예술적인"
+      ],
+      "examples": [
+        "Artistic talent"
+      ],
+      "start": 227.94,
+      "end": 242.07
+    },
+    {
+      "no": 28,
+      "word": "sticky",
+      "meanings": [
+        "끈적거리는"
+      ],
+      "examples": [
+        "Sticky fingers covered in jam"
+      ],
+      "start": 239.15,
+      "end": 266.48
+    },
+    {
+      "no": 29,
+      "word": "bold",
+      "meanings": [
+        "대담한",
+        "선명한",
+        "굵은",
+        "볼 듯 채의"
+      ],
+      "examples": [
+        "A bold attempt",
+        "In bold type"
+      ],
+      "start": 246.76,
+      "end": 266.48
+    },
+    {
+      "no": 30,
+      "word": "exhausted",
+      "meanings": [
+        "탈진한",
+        "고갈된"
+      ],
+      "examples": [
+        "I was exhausted by the journey"
+      ],
+      "start": 259.48,
+      "end": 266.48
+    }
+  ],
+  "source_method": "en"
+}

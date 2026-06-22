@@ -1,0 +1,396 @@
+{
+  "lesson": "D43",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D43.mp3",
+  "model": "large-v3",
+  "duration_sec": 233.25,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "wildlife",
+      "meanings": [
+        "야생생물"
+      ],
+      "examples": [
+        "To protect wildlife"
+      ],
+      "start": 1.44,
+      "end": 7.73
+    },
+    {
+      "no": 2,
+      "word": "sunset",
+      "meanings": [
+        "해넘이",
+        "일물"
+      ],
+      "examples": [
+        "To watch a sunset"
+      ],
+      "start": 9.2,
+      "end": 15.34
+    },
+    {
+      "no": 3,
+      "word": "horizon",
+      "meanings": [
+        "수평선",
+        "지평선"
+      ],
+      "examples": [
+        "The horizon",
+        "A ship on the horizon"
+      ],
+      "start": 15.34,
+      "end": 25.05
+    },
+    {
+      "no": 4,
+      "word": "steam",
+      "meanings": [
+        "증기"
+      ],
+      "examples": [
+        "A steam engine"
+      ],
+      "start": 25.05,
+      "end": 31.28
+    },
+    {
+      "no": 5,
+      "word": "warmth",
+      "meanings": [
+        "따뜻함"
+      ],
+      "examples": [
+        "The warmth of the sun"
+      ],
+      "start": 32.2,
+      "end": 37.83
+    },
+    {
+      "no": 6,
+      "word": "statement",
+      "meanings": [
+        "성명",
+        "진술"
+      ],
+      "examples": [
+        "An official statement"
+      ],
+      "start": 38.82,
+      "end": 45.54
+    },
+    {
+      "no": 7,
+      "word": "response",
+      "meanings": [
+        "반응",
+        "대답"
+      ],
+      "examples": [
+        "A positive response"
+      ],
+      "start": 45.54,
+      "end": 53.06
+    },
+    {
+      "no": 8,
+      "word": "task",
+      "meanings": [
+        "과업",
+        "과제"
+      ],
+      "examples": [
+        "To perform a task"
+      ],
+      "start": 53.06,
+      "end": 60.55
+    },
+    {
+      "no": 9,
+      "word": "security",
+      "meanings": [
+        "보안",
+        "안보"
+      ],
+      "examples": [
+        "National security"
+      ],
+      "start": 60.55,
+      "end": 68.13
+    },
+    {
+      "no": 10,
+      "word": "needle",
+      "meanings": [
+        "바늘"
+      ],
+      "examples": [
+        "The eye of a needle"
+      ],
+      "start": 68.13,
+      "end": 74.48
+    },
+    {
+      "no": 11,
+      "word": "branch",
+      "meanings": [
+        "나뭇가지",
+        "지사",
+        "지점"
+      ],
+      "examples": [
+        "Don't break off the branches"
+      ],
+      "start": 74.48,
+      "end": 83.61
+    },
+    {
+      "no": 12,
+      "word": "thread",
+      "meanings": [
+        "실",
+        "실을 꿰다"
+      ],
+      "examples": [
+        "A needle and thread"
+      ],
+      "start": 83.61,
+      "end": 91.37
+    },
+    {
+      "no": 13,
+      "word": "row",
+      "meanings": [
+        "줄",
+        "열",
+        "배를 젖다",
+        "노를 젖다"
+      ],
+      "examples": [
+        "The front row",
+        "The back row"
+      ],
+      "start": 91.37,
+      "end": 102.58
+    },
+    {
+      "no": 14,
+      "word": "yawn",
+      "meanings": [
+        "하품하다",
+        "하품"
+      ],
+      "examples": [
+        "I can't stop yawning"
+      ],
+      "start": 103.45,
+      "end": 110.55
+    },
+    {
+      "no": 15,
+      "word": "rub",
+      "meanings": [
+        "문지르다"
+      ],
+      "examples": [
+        "To rub your nose"
+      ],
+      "start": 110.55,
+      "end": 116.98
+    },
+    {
+      "no": 16,
+      "word": "wipe",
+      "meanings": [
+        "닦다"
+      ],
+      "examples": [
+        "To wipe a table"
+      ],
+      "start": 117.84,
+      "end": 123.0
+    },
+    {
+      "no": 17,
+      "word": "operate",
+      "meanings": [
+        "작동하다",
+        "운용하다",
+        "수술하다"
+      ],
+      "examples": [
+        "To operate on his knee"
+      ],
+      "start": 123.8,
+      "end": 132.8
+    },
+    {
+      "no": 18,
+      "word": "contain",
+      "meanings": [
+        "포함하다",
+        "함유하다"
+      ],
+      "examples": [
+        "To contain fat"
+      ],
+      "start": 132.8,
+      "end": 140.88
+    },
+    {
+      "no": 19,
+      "word": "preserve",
+      "meanings": [
+        "보존하다",
+        "보호하다"
+      ],
+      "examples": [
+        "To preserve the forest"
+      ],
+      "start": 140.88,
+      "end": 149.32
+    },
+    {
+      "no": 20,
+      "word": "refuse",
+      "meanings": [
+        "거절하다",
+        "거부하다"
+      ],
+      "examples": [
+        "To refuse to lie"
+      ],
+      "start": 149.32,
+      "end": 157.66
+    },
+    {
+      "no": 21,
+      "word": "remind",
+      "meanings": [
+        "상기시키다"
+      ],
+      "examples": [
+        "Remind me to bring it"
+      ],
+      "start": 158.5,
+      "end": 164.95
+    },
+    {
+      "no": 22,
+      "word": "bother",
+      "meanings": [
+        "괴롭히다",
+        "귀찮게 하다",
+        "신경쓰다"
+      ],
+      "examples": [
+        "Don't bother me"
+      ],
+      "start": 164.95,
+      "end": 174.38
+    },
+    {
+      "no": 23,
+      "word": "tiny",
+      "meanings": [
+        "아주 작은"
+      ],
+      "examples": [
+        "Tiny insects"
+      ],
+      "start": 174.38,
+      "end": 180.84
+    },
+    {
+      "no": 24,
+      "word": "curly",
+      "meanings": [
+        "곱슬곱슬한"
+      ],
+      "examples": [
+        "Curly hair"
+      ],
+      "start": 180.84,
+      "end": 187.45
+    },
+    {
+      "no": 25,
+      "word": "rapid",
+      "meanings": [
+        "빠른"
+      ],
+      "examples": [
+        "Rapid growth"
+      ],
+      "start": 187.45,
+      "end": 193.64
+    },
+    {
+      "no": 26,
+      "word": "shy",
+      "meanings": [
+        "수줍어하는"
+      ],
+      "examples": [
+        "Don't be shy"
+      ],
+      "start": 193.64,
+      "end": 200.2
+    },
+    {
+      "no": 27,
+      "word": "eastern",
+      "meanings": [
+        "동쪽의"
+      ],
+      "examples": [
+        "The eastern part of the country"
+      ],
+      "start": 200.2,
+      "end": 207.51
+    },
+    {
+      "no": 28,
+      "word": "violent",
+      "meanings": [
+        "폭력적인"
+      ],
+      "examples": [
+        "A violent movie"
+      ],
+      "start": 208.4,
+      "end": 214.1
+    },
+    {
+      "no": 29,
+      "word": "worldwide",
+      "meanings": [
+        "전세계적인",
+        "전세계적으로"
+      ],
+      "examples": [
+        "A worldwide TV audience"
+      ],
+      "start": 215.03,
+      "end": 223.9
+    },
+    {
+      "no": 30,
+      "word": "highly",
+      "meanings": [
+        "대단히",
+        "고도로",
+        "대단히 고도로"
+      ],
+      "examples": [
+        "A highly skilled worker"
+      ],
+      "start": 223.9,
+      "end": 232.56
+    }
+  ],
+  "source_method": "en"
+}

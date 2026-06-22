@@ -1,0 +1,436 @@
+{
+  "lesson": "D28",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D28.mp3",
+  "model": "large-v3",
+  "duration_sec": 234.32,
+  "items": [
+    {
+      "no": 1,
+      "word": "population",
+      "meanings": [
+        "인구"
+      ],
+      "examples": [
+        "The population of Korea"
+      ],
+      "start": 1.58,
+      "end": 7.78
+    },
+    {
+      "no": 2,
+      "word": "coast",
+      "meanings": [
+        "해안"
+      ],
+      "examples": [
+        "The west coast of Africa"
+      ],
+      "start": 7.76,
+      "end": 14.51
+    },
+    {
+      "no": 3,
+      "word": "bucket",
+      "meanings": [
+        "양동이"
+      ],
+      "examples": [
+        "A bucket of water"
+      ],
+      "start": 15.44,
+      "end": 20.56
+    },
+    {
+      "no": 4,
+      "word": "cart",
+      "meanings": [
+        "마차 카트 손수레",
+        "마차",
+        "카트",
+        "손수레"
+      ],
+      "examples": [
+        "To push a cart"
+      ],
+      "start": 20.54,
+      "end": 28.84
+    },
+    {
+      "no": 5,
+      "word": "cage",
+      "meanings": [
+        "세장 오리",
+        "세장",
+        "오리",
+        "화면",
+        "컴퓨터 스크린",
+        "연",
+        "가을",
+        "산달바람",
+        "미풍",
+        "엉망",
+        "쓰레기"
+      ],
+      "examples": [
+        "Animals in cages",
+        "to pick up litter"
+      ],
+      "start": 28.82,
+      "end": 75.23
+    },
+    {
+      "no": 6,
+      "word": "screen",
+      "meanings": [
+        "화면 스크린"
+      ],
+      "examples": [
+        "A computer screen"
+      ],
+      "start": 36.11,
+      "end": 43.75
+    },
+    {
+      "no": 7,
+      "word": "kite",
+      "meanings": [
+        "연"
+      ],
+      "examples": [
+        "To fly kites"
+      ],
+      "start": 43.75,
+      "end": 49.66
+    },
+    {
+      "no": 8,
+      "word": "autumn",
+      "meanings": [
+        "가을"
+      ],
+      "examples": [
+        "In early autumn"
+      ],
+      "start": 49.66,
+      "end": 55.6
+    },
+    {
+      "no": 9,
+      "word": "breeze",
+      "meanings": [
+        "산들바람 미풍"
+      ],
+      "examples": [
+        "A warm breeze"
+      ],
+      "start": 56.56,
+      "end": 63.11
+    },
+    {
+      "no": 10,
+      "word": "mess",
+      "meanings": [
+        "엉망"
+      ],
+      "examples": [
+        "What a mess"
+      ],
+      "start": 63.11,
+      "end": 68.96
+    },
+    {
+      "no": 11,
+      "word": "litter",
+      "meanings": [
+        "쓰레기"
+      ],
+      "examples": [
+        "To pick up litter"
+      ],
+      "start": 68.96,
+      "end": 74.99
+    },
+    {
+      "no": 12,
+      "word": "joke",
+      "meanings": [
+        "농담 농담하다",
+        "농담",
+        "농담하다"
+      ],
+      "examples": [
+        "To tell a joke",
+        "to tell a joke"
+      ],
+      "start": 74.99,
+      "end": 82.69
+    },
+    {
+      "no": 13,
+      "word": "hike",
+      "meanings": [
+        "도보 여행",
+        "도보여행"
+      ],
+      "examples": [
+        "A hike example"
+      ],
+      "start": 82.65,
+      "end": 89.84
+    },
+    {
+      "no": 14,
+      "word": "fear",
+      "meanings": [
+        "두려움",
+        "공포",
+        "두려워하다"
+      ],
+      "examples": [
+        "a fear of snakes"
+      ],
+      "start": 91.67,
+      "end": 100.6
+    },
+    {
+      "no": 15,
+      "word": "offer",
+      "meanings": [
+        "제의하다",
+        "제공하다",
+        "제의"
+      ],
+      "examples": [
+        "to offer some advice"
+      ],
+      "start": 100.1,
+      "end": 110.98
+    },
+    {
+      "no": 16,
+      "word": "remain",
+      "meanings": [
+        "계속 무엇이다",
+        "남다",
+        "나머지",
+        "유적",
+        "계속 무엇이다 남다",
+        "나머지 유적"
+      ],
+      "examples": [
+        "to remain silent",
+        "To remain silent"
+      ],
+      "start": 110.98,
+      "end": 123.55
+    },
+    {
+      "no": 17,
+      "word": "repair",
+      "meanings": [
+        "고체다",
+        "수리하다",
+        "수리",
+        "고체다 수리하다 수리",
+        "빈칸 빈"
+      ],
+      "examples": [
+        "to repair a roof",
+        "To repair a roof Blank",
+        "Fill in the blanks"
+      ],
+      "start": 123.51,
+      "end": 140.15
+    },
+    {
+      "no": 18,
+      "word": "bend",
+      "meanings": [
+        "구부리다",
+        "굽히다"
+      ],
+      "examples": [
+        "Bend your knees"
+      ],
+      "start": 125.0,
+      "end": 130.0
+    },
+    {
+      "no": 19,
+      "word": "blank",
+      "meanings": [
+        "빈칸",
+        "빈"
+      ],
+      "examples": [
+        "fill in the blanks"
+      ],
+      "start": 132.53,
+      "end": 140.15
+    },
+    {
+      "no": 20,
+      "word": "final",
+      "meanings": [
+        "마지막의",
+        "최후의",
+        "결승전",
+        "기말시험",
+        "대중의",
+        "공공의",
+        "대중",
+        "구부리다",
+        "뜨다",
+        "띄우다",
+        "떠다니다",
+        "마지막의 최후의 결승전"
+      ],
+      "examples": [
+        "The final stages"
+      ],
+      "start": 141.14,
+      "end": 171.71
+    },
+    {
+      "no": 21,
+      "word": "public",
+      "meanings": [
+        "대중의 공공의 대중",
+        "구부리다"
+      ],
+      "examples": [
+        "Public transportation Bend",
+        "Bend your knees"
+      ],
+      "start": 150.37,
+      "end": 165.57
+    },
+    {
+      "no": 22,
+      "word": "float",
+      "meanings": [
+        "뜨다 띄우다 떠다니다",
+        "짚다"
+      ],
+      "examples": [
+        "Oil floats on water Bark",
+        "The dog barked loudly"
+      ],
+      "start": 165.57,
+      "end": 181.03
+    },
+    {
+      "no": 23,
+      "word": "bark",
+      "meanings": [
+        "짖다",
+        "나무껍질"
+      ],
+      "examples": [
+        "the dog barked loudly"
+      ],
+      "start": 174.04,
+      "end": 181.07
+    },
+    {
+      "no": 24,
+      "word": "concentrate",
+      "meanings": [
+        "집중하다"
+      ],
+      "examples": [
+        "concentrate on your work",
+        "Concentrate on your work"
+      ],
+      "start": 181.07,
+      "end": 188.28
+    },
+    {
+      "no": 25,
+      "word": "dead",
+      "meanings": [
+        "죽은"
+      ],
+      "examples": [
+        "A dead person",
+        "a dead person"
+      ],
+      "start": 188.28,
+      "end": 194.01
+    },
+    {
+      "no": 26,
+      "word": "personal",
+      "meanings": [
+        "개인의",
+        "개인적인",
+        "개인의 개인적인",
+        "역사상 중요한 역사적인"
+      ],
+      "examples": [
+        "a personal problem",
+        "A personal problem Historic",
+        "A historic moment"
+      ],
+      "start": 193.43,
+      "end": 210.34
+    },
+    {
+      "no": 27,
+      "word": "historic",
+      "meanings": [
+        "역사상 중요한",
+        "역사적인",
+        "서쪽을",
+        "서양을",
+        "앞에",
+        "앞으로",
+        "정확히"
+      ],
+      "examples": [
+        "A historic example"
+      ],
+      "start": 201.72,
+      "end": 230.08
+    },
+    {
+      "no": 28,
+      "word": "western",
+      "meanings": [
+        "서쪽의 서양의"
+      ],
+      "examples": [
+        "Western Europe"
+      ],
+      "start": 210.34,
+      "end": 218.19
+    },
+    {
+      "no": 29,
+      "word": "ahead",
+      "meanings": [
+        "앞에 앞으로"
+      ],
+      "examples": [
+        "Go straight ahead"
+      ],
+      "start": 218.19,
+      "end": 225.56
+    },
+    {
+      "no": 30,
+      "word": "exactly",
+      "meanings": [
+        "정확히"
+      ],
+      "examples": [
+        "It's exactly 3 o'clock"
+      ],
+      "start": 225.56,
+      "end": 232.98
+    }
+  ],
+  "item_count": 30,
+  "flags": [],
+  "source_method": "merge_en_ko"
+}

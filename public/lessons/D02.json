@@ -1,0 +1,428 @@
+{
+  "lesson": "D02",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D02.mp3",
+  "model": "large-v3",
+  "duration_sec": 259.29,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "piece",
+      "meanings": [
+        "부분",
+        "조각",
+        "한 개",
+        "하나"
+      ],
+      "examples": [
+        "A piece of bread"
+      ],
+      "start": 1.94,
+      "end": 9.58
+    },
+    {
+      "no": 2,
+      "word": "example",
+      "meanings": [
+        "예",
+        "모범"
+      ],
+      "examples": [
+        "A good example"
+      ],
+      "start": 11.39,
+      "end": 16.62
+    },
+    {
+      "no": 3,
+      "word": "minute",
+      "meanings": [
+        "분",
+        "잠깐",
+        "순간"
+      ],
+      "examples": [
+        "A few minutes later"
+      ],
+      "start": 18.53,
+      "end": 25.23
+    },
+    {
+      "no": 4,
+      "word": "trip",
+      "meanings": [
+        "여행"
+      ],
+      "examples": [
+        "To go on a trip"
+      ],
+      "start": 27.0,
+      "end": 31.26
+    },
+    {
+      "no": 5,
+      "word": "letter",
+      "meanings": [
+        "편지",
+        "글자"
+      ],
+      "examples": [
+        "To write a letter"
+      ],
+      "start": 32.89,
+      "end": 38.2
+    },
+    {
+      "no": 6,
+      "word": "language",
+      "meanings": [
+        "언어"
+      ],
+      "examples": [
+        "A second language"
+      ],
+      "start": 39.95,
+      "end": 44.19
+    },
+    {
+      "no": 7,
+      "word": "science",
+      "meanings": [
+        "과학"
+      ],
+      "examples": [
+        "A science teacher"
+      ],
+      "start": 46.14,
+      "end": 50.16
+    },
+    {
+      "no": 8,
+      "word": "fire",
+      "meanings": [
+        "불",
+        "화재",
+        "해고하다",
+        "발사하다"
+      ],
+      "examples": [
+        "To make a fire"
+      ],
+      "start": 52.12,
+      "end": 59.85
+    },
+    {
+      "no": 9,
+      "word": "name",
+      "meanings": [
+        "이름",
+        "이름을 붙이다"
+      ],
+      "examples": [
+        "A brand name"
+      ],
+      "start": 61.66,
+      "end": 67.28
+    },
+    {
+      "no": 10,
+      "word": "part",
+      "meanings": [
+        "부분",
+        "부품",
+        "역할",
+        "헤어지다"
+      ],
+      "examples": [
+        "An important part of life"
+      ],
+      "start": 68.97,
+      "end": 77.31
+    },
+    {
+      "no": 11,
+      "word": "plan",
+      "meanings": [
+        "계획",
+        "계획하다"
+      ],
+      "examples": [
+        "To make a plan"
+      ],
+      "start": 78.96,
+      "end": 84.31
+    },
+    {
+      "no": 12,
+      "word": "plant",
+      "meanings": [
+        "식물",
+        "공장",
+        "설비",
+        "심다"
+      ],
+      "examples": [
+        "Animals and plants"
+      ],
+      "start": 84.03,
+      "end": 94.14
+    },
+    {
+      "no": 13,
+      "word": "practice",
+      "meanings": [
+        "연습",
+        "실행",
+        "관행",
+        "연습하다",
+        "실행하다"
+      ],
+      "examples": [
+        "A practice game"
+      ],
+      "start": 95.68,
+      "end": 105.4
+    },
+    {
+      "no": 14,
+      "word": "turn",
+      "meanings": [
+        "돌리다",
+        "바퀴다",
+        "바꾸다",
+        "차례",
+        "회전"
+      ],
+      "examples": [
+        "Turn left"
+      ],
+      "start": 105.4,
+      "end": 115.7
+    },
+    {
+      "no": 15,
+      "word": "need",
+      "meanings": [
+        "필요하다",
+        "필요",
+        "욕구"
+      ],
+      "examples": [
+        "I need you"
+      ],
+      "start": 117.41,
+      "end": 123.69
+    },
+    {
+      "no": 16,
+      "word": "learn",
+      "meanings": [
+        "배우다",
+        "알게 되다"
+      ],
+      "examples": [
+        "To learn a language"
+      ],
+      "start": 125.4,
+      "end": 131.14
+    },
+    {
+      "no": 17,
+      "word": "keep",
+      "meanings": [
+        "유지하다",
+        "계속하다",
+        "보존하다"
+      ],
+      "examples": [
+        "To keep a diary"
+      ],
+      "start": 132.93,
+      "end": 140.06
+    },
+    {
+      "no": 18,
+      "word": "find",
+      "meanings": [
+        "찾아내다",
+        "발견하다"
+      ],
+      "examples": [
+        "To find information"
+      ],
+      "start": 141.76,
+      "end": 147.75
+    },
+    {
+      "no": 19,
+      "word": "become",
+      "meanings": [
+        "무엇이 되다",
+        "무엇해지다"
+      ],
+      "examples": [
+        "To become a teacher"
+      ],
+      "start": 149.9,
+      "end": 156.51
+    },
+    {
+      "no": 20,
+      "word": "live",
+      "meanings": [
+        "살다",
+        "살아있는"
+      ],
+      "examples": [
+        "To live in soul"
+      ],
+      "start": 158.23,
+      "end": 166.24
+    },
+    {
+      "no": 21,
+      "word": "mean",
+      "meanings": [
+        "의미하다",
+        "의도하다",
+        "못된",
+        "심술구준"
+      ],
+      "examples": [
+        "What does it mean"
+      ],
+      "start": 167.88,
+      "end": 176.65
+    },
+    {
+      "no": 22,
+      "word": "last",
+      "meanings": [
+        "지난",
+        "마지막을",
+        "계속되다",
+        "지속되다"
+      ],
+      "examples": [
+        "Last summer"
+      ],
+      "start": 178.3,
+      "end": 186.8
+    },
+    {
+      "no": 23,
+      "word": "any",
+      "meanings": [
+        "어떤",
+        "어떤 것",
+        "어떤 사람",
+        "아무",
+        "아무것"
+      ],
+      "examples": [
+        "Do you have any plans"
+      ],
+      "start": 188.44,
+      "end": 197.84
+    },
+    {
+      "no": 24,
+      "word": "each",
+      "meanings": [
+        "각각",
+        "각각을"
+      ],
+      "examples": [
+        "Each person"
+      ],
+      "start": 199.54,
+      "end": 204.82
+    },
+    {
+      "no": 25,
+      "word": "other",
+      "meanings": [
+        "다른",
+        "그 밖을",
+        "다른 사람",
+        "다른 것"
+      ],
+      "examples": [
+        "Other people"
+      ],
+      "start": 206.46,
+      "end": 214.24
+    },
+    {
+      "no": 26,
+      "word": "another",
+      "meanings": [
+        "또 하나의",
+        "또 하나의 것",
+        "또 하나의 사람",
+        "다른",
+        "다른 것",
+        "다른 사람"
+      ],
+      "examples": [
+        "Another example"
+      ],
+      "start": 216.06,
+      "end": 227.26
+    },
+    {
+      "no": 27,
+      "word": "same",
+      "meanings": [
+        "같은",
+        "같은 것",
+        "같은 사람"
+      ],
+      "examples": [
+        "The same class"
+      ],
+      "start": 229.08,
+      "end": 236.18
+    },
+    {
+      "no": 28,
+      "word": "too",
+      "meanings": [
+        "너무",
+        "무엇도"
+      ],
+      "examples": [
+        "Too much work"
+      ],
+      "start": 237.9,
+      "end": 243.42
+    },
+    {
+      "no": 29,
+      "word": "also",
+      "meanings": [
+        "무엇도"
+      ],
+      "examples": [
+        "I'm cold and I'm also hungry"
+      ],
+      "start": 245.06,
+      "end": 250.4
+    },
+    {
+      "no": 30,
+      "word": "really",
+      "meanings": [
+        "정말",
+        "진짜"
+      ],
+      "examples": [
+        "A really nice guy"
+      ],
+      "start": 251.94,
+      "end": 257.78
+    }
+  ],
+  "source_method": "en"
+}

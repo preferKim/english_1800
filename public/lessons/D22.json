@@ -1,0 +1,399 @@
+{
+  "lesson": "D22",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D22.mp3",
+  "model": "large-v3",
+  "duration_sec": 230.01,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "hero",
+      "meanings": [
+        "영웅",
+        "남자 주인공"
+      ],
+      "examples": [
+        "A national hero"
+      ],
+      "start": 1.3,
+      "end": 8.48
+    },
+    {
+      "no": 2,
+      "word": "ability",
+      "meanings": [
+        "능력"
+      ],
+      "examples": [
+        "Natural ability"
+      ],
+      "start": 6.37,
+      "end": 14.71
+    },
+    {
+      "no": 3,
+      "word": "knowledge",
+      "meanings": [
+        "지식"
+      ],
+      "examples": [
+        "Background knowledge"
+      ],
+      "start": 14.71,
+      "end": 20.71
+    },
+    {
+      "no": 4,
+      "word": "technique",
+      "meanings": [
+        "기법",
+        "기술"
+      ],
+      "examples": [
+        "The exam technique"
+      ],
+      "start": 20.71,
+      "end": 28.02
+    },
+    {
+      "no": 5,
+      "word": "floor",
+      "meanings": [
+        "바닥",
+        "층"
+      ],
+      "examples": [
+        "To sit on the floor"
+      ],
+      "start": 28.02,
+      "end": 35.08
+    },
+    {
+      "no": 6,
+      "word": "cancer",
+      "meanings": [
+        "암"
+      ],
+      "examples": [
+        "To die of cancer"
+      ],
+      "start": 35.08,
+      "end": 41.22
+    },
+    {
+      "no": 7,
+      "word": "diet",
+      "meanings": [
+        "식사",
+        "다이어트",
+        "식이요법"
+      ],
+      "examples": [
+        "To go on a diet"
+      ],
+      "start": 40.18,
+      "end": 50.14
+    },
+    {
+      "no": 8,
+      "word": "garbage",
+      "meanings": [
+        "쓰레기"
+      ],
+      "examples": [
+        "A garbage bag"
+      ],
+      "start": 50.94,
+      "end": 56.26
+    },
+    {
+      "no": 9,
+      "word": "cash",
+      "meanings": [
+        "현금"
+      ],
+      "examples": [
+        "To pay in cash"
+      ],
+      "start": 56.26,
+      "end": 62.44
+    },
+    {
+      "no": 10,
+      "word": "countryside",
+      "meanings": [
+        "시골"
+      ],
+      "examples": [
+        "A lovely countryside"
+      ],
+      "start": 62.44,
+      "end": 68.88
+    },
+    {
+      "no": 11,
+      "word": "route",
+      "meanings": [
+        "길",
+        "노선"
+      ],
+      "examples": [
+        "The quickest route"
+      ],
+      "start": 69.46,
+      "end": 76.43
+    },
+    {
+      "no": 12,
+      "word": "amount",
+      "meanings": [
+        "양",
+        "합계",
+        "얼마이다"
+      ],
+      "examples": [
+        "Amount to",
+        "An amount of information"
+      ],
+      "start": 76.43,
+      "end": 87.12
+    },
+    {
+      "no": 13,
+      "word": "score",
+      "meanings": [
+        "득점",
+        "점수",
+        "득점하다"
+      ],
+      "examples": [
+        "A score of 3 to 2"
+      ],
+      "start": 87.12,
+      "end": 96.83
+    },
+    {
+      "no": 14,
+      "word": "challenge",
+      "meanings": [
+        "도전",
+        "도전하다"
+      ],
+      "examples": [
+        "Always challenge yourself"
+      ],
+      "start": 96.83,
+      "end": 104.68
+    },
+    {
+      "no": 15,
+      "word": "cure",
+      "meanings": [
+        "치료제",
+        "치료법",
+        "치유",
+        "치료하다"
+      ],
+      "examples": [
+        "A cure for cancer"
+      ],
+      "start": 104.68,
+      "end": 114.92
+    },
+    {
+      "no": 16,
+      "word": "appear",
+      "meanings": [
+        "나타나다",
+        "무엇인 것 같다"
+      ],
+      "examples": [
+        "To appear on the screen"
+      ],
+      "start": 112.33,
+      "end": 123.58
+    },
+    {
+      "no": 17,
+      "word": "spread",
+      "meanings": [
+        "펴다",
+        "퍼지다",
+        "퍼뜨리다"
+      ],
+      "examples": [
+        "To spread disease"
+      ],
+      "start": 123.58,
+      "end": 132.22
+    },
+    {
+      "no": 18,
+      "word": "hunt",
+      "meanings": [
+        "사냥하다"
+      ],
+      "examples": [
+        "To hunt animals"
+      ],
+      "start": 132.22,
+      "end": 138.8
+    },
+    {
+      "no": 19,
+      "word": "destroy",
+      "meanings": [
+        "파괴하다"
+      ],
+      "examples": [
+        "To destroy",
+        "a building"
+      ],
+      "start": 138.8,
+      "end": 145.58
+    },
+    {
+      "no": 20,
+      "word": "consider",
+      "meanings": [
+        "숙고하다",
+        "고려하다",
+        "여기다"
+      ],
+      "examples": [
+        "To consider what to do"
+      ],
+      "start": 145.58,
+      "end": 155.34
+    },
+    {
+      "no": 21,
+      "word": "expect",
+      "meanings": [
+        "기대하다",
+        "예상하다"
+      ],
+      "examples": [
+        "To expect him back"
+      ],
+      "start": 156.14,
+      "end": 163.38
+    },
+    {
+      "no": 22,
+      "word": "suggest",
+      "meanings": [
+        "제안하다",
+        "권하다"
+      ],
+      "examples": [
+        "To suggest ways"
+      ],
+      "start": 164.24,
+      "end": 171.14
+    },
+    {
+      "no": 23,
+      "word": "cultural",
+      "meanings": [
+        "문화의"
+      ],
+      "examples": [
+        "Cultural differences"
+      ],
+      "start": 171.14,
+      "end": 177.61
+    },
+    {
+      "no": 24,
+      "word": "social",
+      "meanings": [
+        "사회의"
+      ],
+      "examples": [
+        "Social problems"
+      ],
+      "start": 179.03,
+      "end": 184.32
+    },
+    {
+      "no": 25,
+      "word": "elderly",
+      "meanings": [
+        "연세되신"
+      ],
+      "examples": [
+        "Elderly people"
+      ],
+      "start": 185.12,
+      "end": 190.75
+    },
+    {
+      "no": 26,
+      "word": "unhappy",
+      "meanings": [
+        "불행한"
+      ],
+      "examples": [
+        "He looks unhappy"
+      ],
+      "start": 190.75,
+      "end": 196.97
+    },
+    {
+      "no": 27,
+      "word": "crazy",
+      "meanings": [
+        "미친",
+        "열광적인",
+        "화난"
+      ],
+      "examples": [
+        "Are you crazy"
+      ],
+      "start": 196.97,
+      "end": 205.73
+    },
+    {
+      "no": 28,
+      "word": "alive",
+      "meanings": [
+        "살아있는"
+      ],
+      "examples": [
+        "They are still alive"
+      ],
+      "start": 207.62,
+      "end": 212.68
+    },
+    {
+      "no": 29,
+      "word": "outside",
+      "meanings": [
+        "밖에",
+        "밖으로",
+        "외부의",
+        "바깥쪽"
+      ],
+      "examples": [
+        "To play outside"
+      ],
+      "start": 212.68,
+      "end": 222.73
+    },
+    {
+      "no": 30,
+      "word": "quite",
+      "meanings": [
+        "꽤"
+      ],
+      "examples": [
+        "It is quite cold"
+      ],
+      "start": 222.73,
+      "end": 229.36
+    }
+  ],
+  "source_method": "en"
+}

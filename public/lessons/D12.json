@@ -1,0 +1,408 @@
+{
+  "lesson": "D12",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D12.mp3",
+  "model": "large-v3",
+  "duration_sec": 234.16,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "clerk",
+      "meanings": [
+        "사무원",
+        "점원"
+      ],
+      "examples": [
+        "An office clerk"
+      ],
+      "start": 2.26,
+      "end": 7.87
+    },
+    {
+      "no": 2,
+      "word": "riddle",
+      "meanings": [
+        "수수께끼"
+      ],
+      "examples": [
+        "To solve a riddle"
+      ],
+      "start": 9.74,
+      "end": 14.27
+    },
+    {
+      "no": 3,
+      "word": "company",
+      "meanings": [
+        "회사",
+        "함께 있음",
+        "친구"
+      ],
+      "examples": [
+        "A computer company"
+      ],
+      "start": 15.78,
+      "end": 22.8
+    },
+    {
+      "no": 4,
+      "word": "garage",
+      "meanings": [
+        "차고",
+        "주차장"
+      ],
+      "examples": [
+        "An underground garage"
+      ],
+      "start": 24.56,
+      "end": 30.51
+    },
+    {
+      "no": 5,
+      "word": "palace",
+      "meanings": [
+        "공전"
+      ],
+      "examples": [
+        "Birmingham Palace"
+      ],
+      "start": 32.36,
+      "end": 36.72
+    },
+    {
+      "no": 6,
+      "word": "hole",
+      "meanings": [
+        "구멍"
+      ],
+      "examples": [
+        "To dig a hole"
+      ],
+      "start": 38.51,
+      "end": 42.64
+    },
+    {
+      "no": 7,
+      "word": "bill",
+      "meanings": [
+        "청구서",
+        "계산서",
+        "집회",
+        "법안"
+      ],
+      "examples": [
+        "The water bill"
+      ],
+      "start": 44.33,
+      "end": 51.92
+    },
+    {
+      "no": 8,
+      "word": "seed",
+      "meanings": [
+        "씨",
+        "씨앗"
+      ],
+      "examples": [
+        "To plant seeds"
+      ],
+      "start": 53.49,
+      "end": 58.56
+    },
+    {
+      "no": 9,
+      "word": "medicine",
+      "meanings": [
+        "약",
+        "의학"
+      ],
+      "examples": [
+        "To take medicine"
+      ],
+      "start": 60.48,
+      "end": 65.18
+    },
+    {
+      "no": 10,
+      "word": "luck",
+      "meanings": [
+        "행운"
+      ],
+      "examples": [
+        "Good luck"
+      ],
+      "start": 67.19,
+      "end": 70.81
+    },
+    {
+      "no": 11,
+      "word": "meaning",
+      "meanings": [
+        "의미",
+        "뜻"
+      ],
+      "examples": [
+        "The meaning of her words"
+      ],
+      "start": 70.81,
+      "end": 77.94
+    },
+    {
+      "no": 12,
+      "word": "volunteer",
+      "meanings": [
+        "자원봉사자",
+        "지원자",
+        "자원하다"
+      ],
+      "examples": [
+        "To work as a volunteer"
+      ],
+      "start": 79.66,
+      "end": 87.58
+    },
+    {
+      "no": 13,
+      "word": "view",
+      "meanings": [
+        "견해",
+        "관점",
+        "전망",
+        "경치",
+        "바라보다"
+      ],
+      "examples": [
+        "My view on the subject"
+      ],
+      "start": 89.43,
+      "end": 98.97
+    },
+    {
+      "no": 14,
+      "word": "lie",
+      "meanings": [
+        "누워있다",
+        "있다",
+        "거짓말하다",
+        "거짓말"
+      ],
+      "examples": [
+        "To lie on the grass"
+      ],
+      "start": 100.75,
+      "end": 109.34
+    },
+    {
+      "no": 15,
+      "word": "act",
+      "meanings": [
+        "행동하다",
+        "연기하다",
+        "행동",
+        "행위",
+        "연기",
+        "연극의 막"
+      ],
+      "examples": [
+        "An act of kindness"
+      ],
+      "start": 111.13,
+      "end": 121.57
+    },
+    {
+      "no": 16,
+      "word": "pay",
+      "meanings": [
+        "지불하다",
+        "봉급"
+      ],
+      "examples": [
+        "To pay cash"
+      ],
+      "start": 123.35,
+      "end": 128.52
+    },
+    {
+      "no": 17,
+      "word": "shout",
+      "meanings": [
+        "외치다",
+        "소리치다",
+        "외침"
+      ],
+      "examples": [
+        "To shout for help"
+      ],
+      "start": 130.45,
+      "end": 137.18
+    },
+    {
+      "no": 18,
+      "word": "cross",
+      "meanings": [
+        "건너다",
+        "가로지르다",
+        "교차시키다",
+        "십자가"
+      ],
+      "examples": [
+        "To cross over the river"
+      ],
+      "start": 138.88,
+      "end": 147.87
+    },
+    {
+      "no": 19,
+      "word": "seem",
+      "meanings": [
+        "보이다",
+        "무엇인 것 같다"
+      ],
+      "examples": [
+        "You seem happy"
+      ],
+      "start": 149.44,
+      "end": 155.7
+    },
+    {
+      "no": 20,
+      "word": "invite",
+      "meanings": [
+        "초대하다"
+      ],
+      "examples": [
+        "To invite him to a party"
+      ],
+      "start": 157.32,
+      "end": 162.56
+    },
+    {
+      "no": 21,
+      "word": "arrive",
+      "meanings": [
+        "도착하다"
+      ],
+      "examples": [
+        "To arrive late"
+      ],
+      "start": 161.96,
+      "end": 168.78
+    },
+    {
+      "no": 22,
+      "word": "collect",
+      "meanings": [
+        "모으다",
+        "수집하다"
+      ],
+      "examples": [
+        "To collect information"
+      ],
+      "start": 170.49,
+      "end": 176.16
+    },
+    {
+      "no": 23,
+      "word": "rich",
+      "meanings": [
+        "부유한",
+        "풍부한"
+      ],
+      "examples": [
+        "Rich countries"
+      ],
+      "start": 178.35,
+      "end": 183.93
+    },
+    {
+      "no": 24,
+      "word": "blind",
+      "meanings": [
+        "시각장애가 있는",
+        "눈먼"
+      ],
+      "examples": [
+        "To go blind"
+      ],
+      "start": 185.73,
+      "end": 191.78
+    },
+    {
+      "no": 25,
+      "word": "heavy",
+      "meanings": [
+        "무거운",
+        "심한"
+      ],
+      "examples": [
+        "A heavy bag"
+      ],
+      "start": 193.58,
+      "end": 199.04
+    },
+    {
+      "no": 26,
+      "word": "terrible",
+      "meanings": [
+        "끔찍한",
+        "지독한"
+      ],
+      "examples": [
+        "A terrible accident"
+      ],
+      "start": 200.91,
+      "end": 207.01
+    },
+    {
+      "no": 27,
+      "word": "strange",
+      "meanings": [
+        "이상한",
+        "낯선"
+      ],
+      "examples": [
+        "A strange dream"
+      ],
+      "start": 208.97,
+      "end": 214.63
+    },
+    {
+      "no": 28,
+      "word": "possible",
+      "meanings": [
+        "가능한"
+      ],
+      "examples": [
+        "If possible"
+      ],
+      "start": 216.29,
+      "end": 220.68
+    },
+    {
+      "no": 29,
+      "word": "maybe",
+      "meanings": [
+        "아마"
+      ],
+      "examples": [
+        "Maybe he'll come"
+      ],
+      "start": 222.1,
+      "end": 226.64
+    },
+    {
+      "no": 30,
+      "word": "ago",
+      "meanings": [
+        "전에"
+      ],
+      "examples": [
+        "Five minutes ago"
+      ],
+      "start": 228.28,
+      "end": 232.53
+    }
+  ],
+  "source_method": "en"
+}

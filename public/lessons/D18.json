@@ -1,0 +1,421 @@
+{
+  "lesson": "D18",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D18.mp3",
+  "model": "large-v3",
+  "duration_sec": 253.18,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "creature",
+      "meanings": [
+        "동물",
+        "생명체"
+      ],
+      "examples": [
+        "A living creature"
+      ],
+      "start": 2.51,
+      "end": 8.32
+    },
+    {
+      "no": 2,
+      "word": "army",
+      "meanings": [
+        "군대",
+        "육군"
+      ],
+      "examples": [
+        "The army",
+        "To join the army"
+      ],
+      "start": 6.54,
+      "end": 17.97
+    },
+    {
+      "no": 3,
+      "word": "society",
+      "meanings": [
+        "사회"
+      ],
+      "examples": [
+        "Modern society"
+      ],
+      "start": 19.9,
+      "end": 23.99
+    },
+    {
+      "no": 4,
+      "word": "fan",
+      "meanings": [
+        "펜",
+        "무억광",
+        "선풍기",
+        "부채"
+      ],
+      "examples": [
+        "A football fan"
+      ],
+      "start": 26.11,
+      "end": 34.25
+    },
+    {
+      "no": 5,
+      "word": "wheel",
+      "meanings": [
+        "바퀴"
+      ],
+      "examples": [
+        "A front wheel"
+      ],
+      "start": 34.25,
+      "end": 40.08
+    },
+    {
+      "no": 6,
+      "word": "pair",
+      "meanings": [
+        "쌍",
+        "벌",
+        "켤레"
+      ],
+      "examples": [
+        "A pair of socks"
+      ],
+      "start": 41.77,
+      "end": 48.08
+    },
+    {
+      "no": 7,
+      "word": "joy",
+      "meanings": [
+        "기쁨"
+      ],
+      "examples": [
+        "To jump for joy"
+      ],
+      "start": 49.99,
+      "end": 54.37
+    },
+    {
+      "no": 8,
+      "word": "memory",
+      "meanings": [
+        "기억",
+        "기억력",
+        "추억"
+      ],
+      "examples": [
+        "To have a good memory"
+      ],
+      "start": 56.25,
+      "end": 62.73
+    },
+    {
+      "no": 9,
+      "word": "recipe",
+      "meanings": [
+        "조리법",
+        "요리법"
+      ],
+      "examples": [
+        "A recipe for tomato soup"
+      ],
+      "start": 64.77,
+      "end": 70.95
+    },
+    {
+      "no": 10,
+      "word": "kid",
+      "meanings": [
+        "아이",
+        "농담하다",
+        "놀리다"
+      ],
+      "examples": [
+        "A little kid"
+      ],
+      "start": 72.6,
+      "end": 86.2
+    },
+    {
+      "no": 11,
+      "word": "smoke",
+      "meanings": [
+        "연기",
+        "담배를 피우다",
+        "연기를 내다"
+      ],
+      "examples": [
+        "Black smoke"
+      ],
+      "start": 80.5,
+      "end": 95.58
+    },
+    {
+      "no": 12,
+      "word": "favor",
+      "meanings": [
+        "호의",
+        "친절",
+        "부탁",
+        "선호하다"
+      ],
+      "examples": [
+        "Can I ask you a favor"
+      ],
+      "start": 89.54,
+      "end": 105.57
+    },
+    {
+      "no": 13,
+      "word": "trick",
+      "meanings": [
+        "속임수",
+        "장난",
+        "마술",
+        "속이다"
+      ],
+      "examples": [
+        "To play trickery"
+      ],
+      "start": 99.6,
+      "end": 107.67
+    },
+    {
+      "no": 14,
+      "word": "experiment",
+      "meanings": [
+        "실험",
+        "실험하다"
+      ],
+      "examples": [
+        "To do a new experiment"
+      ],
+      "start": 110.15,
+      "end": 116.18
+    },
+    {
+      "no": 15,
+      "word": "drop",
+      "meanings": [
+        "떨어뜨리다",
+        "떨어지다",
+        "방울",
+        "떨어짐"
+      ],
+      "examples": [
+        "Drops of water"
+      ],
+      "start": 118.0,
+      "end": 132.46
+    },
+    {
+      "no": 16,
+      "word": "press",
+      "meanings": [
+        "누르다",
+        "언론",
+        "인쇄"
+      ],
+      "examples": [
+        "To press a button"
+      ],
+      "start": 127.49,
+      "end": 143.14
+    },
+    {
+      "no": 17,
+      "word": "stick",
+      "meanings": [
+        "붙이다",
+        "찌르다",
+        "내밀다",
+        "스틱",
+        "지팡이"
+      ],
+      "examples": [
+        "To walk with a stick"
+      ],
+      "start": 134.84,
+      "end": 147.58
+    },
+    {
+      "no": 18,
+      "word": "roll",
+      "meanings": [
+        "구루다",
+        "굴리다",
+        "말다",
+        "두루마리"
+      ],
+      "examples": [
+        "To roll slowly"
+      ],
+      "start": 146.72,
+      "end": 159.23
+    },
+    {
+      "no": 19,
+      "word": "throw",
+      "meanings": [
+        "던지다"
+      ],
+      "examples": [
+        "To throw a ball"
+      ],
+      "start": 156.58,
+      "end": 169.15
+    },
+    {
+      "no": 20,
+      "word": "serve",
+      "meanings": [
+        "음식을 제공하다",
+        "시중들다",
+        "봉사하다"
+      ],
+      "examples": [
+        "To serve breakfast"
+      ],
+      "start": 163.0,
+      "end": 177.47
+    },
+    {
+      "no": 21,
+      "word": "improve",
+      "meanings": [
+        "개선되다",
+        "향상시키다"
+      ],
+      "examples": [
+        "To improve",
+        "The skill"
+      ],
+      "start": 172.98,
+      "end": 179.82
+    },
+    {
+      "no": 22,
+      "word": "realize",
+      "meanings": [
+        "깨닫다",
+        "실현하다"
+      ],
+      "examples": [
+        "To realize your mistake"
+      ],
+      "start": 181.5,
+      "end": 187.94
+    },
+    {
+      "no": 23,
+      "word": "dry",
+      "meanings": [
+        "마른",
+        "건조한",
+        "말리다",
+        "마르다"
+      ],
+      "examples": [
+        "Dry clothes"
+      ],
+      "start": 189.69,
+      "end": 197.57
+    },
+    {
+      "no": 24,
+      "word": "complete",
+      "meanings": [
+        "완전한",
+        "끝내다",
+        "완성하다"
+      ],
+      "examples": [
+        "A complete change"
+      ],
+      "start": 199.48,
+      "end": 206.74
+    },
+    {
+      "no": 25,
+      "word": "lucky",
+      "meanings": [
+        "행운의",
+        "온 좋은"
+      ],
+      "examples": [
+        "The lucky winners"
+      ],
+      "start": 208.52,
+      "end": 214.42
+    },
+    {
+      "no": 26,
+      "word": "natural",
+      "meanings": [
+        "자연의",
+        "천연의",
+        "타고난"
+      ],
+      "examples": [
+        "The natural world"
+      ],
+      "start": 216.03,
+      "end": 223.48
+    },
+    {
+      "no": 27,
+      "word": "friendly",
+      "meanings": [
+        "친절한",
+        "친한"
+      ],
+      "examples": [
+        "A friendly smile"
+      ],
+      "start": 224.98,
+      "end": 230.94
+    },
+    {
+      "no": 28,
+      "word": "cute",
+      "meanings": [
+        "귀여운"
+      ],
+      "examples": [
+        "A cute puppy"
+      ],
+      "start": 232.74,
+      "end": 237.01
+    },
+    {
+      "no": 29,
+      "word": "already",
+      "meanings": [
+        "이미",
+        "벌써"
+      ],
+      "examples": [
+        "You already told me that"
+      ],
+      "start": 235.13,
+      "end": 244.73
+    },
+    {
+      "no": 30,
+      "word": "especially",
+      "meanings": [
+        "특히"
+      ],
+      "examples": [
+        "I'm especially interested in it",
+        "At least"
+      ],
+      "start": 246.51,
+      "end": 252.53
+    }
+  ],
+  "source_method": "en"
+}

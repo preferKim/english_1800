@@ -1,0 +1,396 @@
+{
+  "lesson": "D56",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D56.mp3",
+  "model": "large-v3",
+  "duration_sec": 235.47,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "atmosphere",
+      "meanings": [
+        "배기",
+        "분위기"
+      ],
+      "examples": [
+        "The upper atmosphere"
+      ],
+      "start": 2.59,
+      "end": 8.72
+    },
+    {
+      "no": 2,
+      "word": "voyage",
+      "meanings": [
+        "여행",
+        "항해"
+      ],
+      "examples": [
+        "A voyage in space"
+      ],
+      "start": 10.73,
+      "end": 16.31
+    },
+    {
+      "no": 3,
+      "word": "navy",
+      "meanings": [
+        "해군"
+      ],
+      "examples": [
+        "To join the Navy"
+      ],
+      "start": 18.05,
+      "end": 22.5
+    },
+    {
+      "no": 4,
+      "word": "instrument",
+      "meanings": [
+        "기구",
+        "악기"
+      ],
+      "examples": [
+        "A musical instrument"
+      ],
+      "start": 24.41,
+      "end": 29.92
+    },
+    {
+      "no": 5,
+      "word": "tube",
+      "meanings": [
+        "관",
+        "튜브"
+      ],
+      "examples": [
+        "A test tube"
+      ],
+      "start": 31.74,
+      "end": 36.97
+    },
+    {
+      "no": 6,
+      "word": "leather",
+      "meanings": [
+        "가족"
+      ],
+      "examples": [
+        "A leather jacket"
+      ],
+      "start": 38.48,
+      "end": 42.7
+    },
+    {
+      "no": 7,
+      "word": "jewelry",
+      "meanings": [
+        "보석료",
+        "장신고"
+      ],
+      "examples": [
+        "To wear jewelry"
+      ],
+      "start": 44.38,
+      "end": 50.27
+    },
+    {
+      "no": 8,
+      "word": "mud",
+      "meanings": [
+        "진흙"
+      ],
+      "examples": [
+        "To be covered with mud"
+      ],
+      "start": 52.23,
+      "end": 56.55
+    },
+    {
+      "no": 9,
+      "word": "target",
+      "meanings": [
+        "목표",
+        "표적",
+        "관역"
+      ],
+      "examples": [
+        "To hit the target"
+      ],
+      "start": 57.92,
+      "end": 64.84
+    },
+    {
+      "no": 10,
+      "word": "aspect",
+      "meanings": [
+        "측면"
+      ],
+      "examples": [
+        "Every aspect of daily life"
+      ],
+      "start": 66.4,
+      "end": 72.16
+    },
+    {
+      "no": 11,
+      "word": "anger",
+      "meanings": [
+        "분노",
+        "화"
+      ],
+      "examples": [
+        "To shout in anger"
+      ],
+      "start": 73.13,
+      "end": 79.7
+    },
+    {
+      "no": 12,
+      "word": "iron",
+      "meanings": [
+        "철",
+        "다리미"
+      ],
+      "examples": [
+        "Iron gates"
+      ],
+      "start": 81.27,
+      "end": 87.86
+    },
+    {
+      "no": 13,
+      "word": "comment",
+      "meanings": [
+        "논평",
+        "의견"
+      ],
+      "examples": [
+        "A negative comment"
+      ],
+      "start": 89.97,
+      "end": 95.77
+    },
+    {
+      "no": 14,
+      "word": "protest",
+      "meanings": [
+        "항의",
+        "항의하다"
+      ],
+      "examples": [
+        "Protest against the war"
+      ],
+      "start": 97.62,
+      "end": 106.52
+    },
+    {
+      "no": 15,
+      "word": "concern",
+      "meanings": [
+        "걱정",
+        "관심사",
+        "관계되다",
+        "걱정하게 하다"
+      ],
+      "examples": [
+        "Concern for her safety"
+      ],
+      "start": 107.8,
+      "end": 117.92
+    },
+    {
+      "no": 16,
+      "word": "dump",
+      "meanings": [
+        "쓰레기를 버리다",
+        "쓰레기 폐기장"
+      ],
+      "examples": [
+        "To dump waste"
+      ],
+      "start": 119.64,
+      "end": 126.58
+    },
+    {
+      "no": 17,
+      "word": "enable",
+      "meanings": [
+        "할 수 있게 하다"
+      ],
+      "examples": [
+        "Computers enable us to do many things"
+      ],
+      "start": 128.43,
+      "end": 134.73
+    },
+    {
+      "no": 18,
+      "word": "annoy",
+      "meanings": [
+        "짜증나게 하다"
+      ],
+      "examples": [
+        "To annoy me"
+      ],
+      "start": 136.52,
+      "end": 141.21
+    },
+    {
+      "no": 19,
+      "word": "insist",
+      "meanings": [
+        "주장하다",
+        "우기다"
+      ],
+      "examples": [
+        "He insists that he is right"
+      ],
+      "start": 142.77,
+      "end": 149.59
+    },
+    {
+      "no": 20,
+      "word": "combine",
+      "meanings": [
+        "결합하다"
+      ],
+      "examples": [
+        "Diets combined with exercise"
+      ],
+      "start": 151.16,
+      "end": 156.89
+    },
+    {
+      "no": 21,
+      "word": "oh",
+      "meanings": [
+        "빚지고 있다"
+      ],
+      "examples": [
+        "I owe him $50"
+      ],
+      "start": 158.68,
+      "end": 163.63
+    },
+    {
+      "no": 22,
+      "word": "suck",
+      "meanings": [
+        "빨다",
+        "빨아먹다"
+      ],
+      "examples": [
+        "To suck your thumb"
+      ],
+      "start": 165.74,
+      "end": 171.29
+    },
+    {
+      "no": 23,
+      "word": "awake",
+      "meanings": [
+        "깨어있는",
+        "깨다",
+        "깨우다"
+      ],
+      "examples": [
+        "She is wide awake"
+      ],
+      "start": 172.82,
+      "end": 179.96
+    },
+    {
+      "no": 24,
+      "word": "idle",
+      "meanings": [
+        "게으른",
+        "빈둥거리다"
+      ],
+      "examples": [
+        "An idle student"
+      ],
+      "start": 181.78,
+      "end": 187.71
+    },
+    {
+      "no": 25,
+      "word": "previous",
+      "meanings": [
+        "이전의"
+      ],
+      "examples": [
+        "The previous day"
+      ],
+      "start": 189.36,
+      "end": 194.16
+    },
+    {
+      "no": 26,
+      "word": "efficient",
+      "meanings": [
+        "농률적인",
+        "효율적인"
+      ],
+      "examples": [
+        "The efficient use of energy"
+      ],
+      "start": 195.96,
+      "end": 202.89
+    },
+    {
+      "no": 27,
+      "word": "rough",
+      "meanings": [
+        "거친",
+        "대강의"
+      ],
+      "examples": [
+        "Her rough hands"
+      ],
+      "start": 204.57,
+      "end": 210.22
+    },
+    {
+      "no": 28,
+      "word": "severe",
+      "meanings": [
+        "심한",
+        "심각한",
+        "엄한",
+        "엄격한"
+      ],
+      "examples": [
+        "Severe damage"
+      ],
+      "start": 211.97,
+      "end": 220.48
+    },
+    {
+      "no": 29,
+      "word": "romantic",
+      "meanings": [
+        "낭만적인"
+      ],
+      "examples": [
+        "A romantic love"
+      ],
+      "start": 222.17,
+      "end": 227.42
+    },
+    {
+      "no": 30,
+      "word": "sometime",
+      "meanings": [
+        "언젠가"
+      ],
+      "examples": [
+        "Sometime next week"
+      ],
+      "start": 229.0,
+      "end": 234.1
+    }
+  ],
+  "source_method": "en"
+}

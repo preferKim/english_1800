@@ -1,0 +1,397 @@
+{
+  "lesson": "D60",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D60.mp3",
+  "model": "large-v3",
+  "duration_sec": 231.18,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "mankind",
+      "meanings": [
+        "인류"
+      ],
+      "examples": [
+        "the history of mankind"
+      ],
+      "start": 1.59,
+      "end": 35.29
+    },
+    {
+      "no": 2,
+      "word": "poet",
+      "meanings": [
+        "시인"
+      ],
+      "examples": [
+        "a famous poet"
+      ],
+      "start": 8.9,
+      "end": 35.29
+    },
+    {
+      "no": 3,
+      "word": "detective",
+      "meanings": [
+        "형사",
+        "탐정"
+      ],
+      "examples": [
+        "a private detective"
+      ],
+      "start": 14.84,
+      "end": 35.29
+    },
+    {
+      "no": 4,
+      "word": "consumer",
+      "meanings": [
+        "소비자"
+      ],
+      "examples": [
+        "consumer rights"
+      ],
+      "start": 22.57,
+      "end": 35.29
+    },
+    {
+      "no": 5,
+      "word": "chef",
+      "meanings": [
+        "주방장",
+        "요리사"
+      ],
+      "examples": [
+        "to become a chef"
+      ],
+      "start": 29.05,
+      "end": 35.29
+    },
+    {
+      "no": 6,
+      "word": "passion",
+      "meanings": [
+        "열정"
+      ],
+      "examples": [
+        "your passion for soccer"
+      ],
+      "start": 35.29,
+      "end": 72.79
+    },
+    {
+      "no": 7,
+      "word": "steel",
+      "meanings": [
+        "강철"
+      ],
+      "examples": [
+        "the iron and steel industry"
+      ],
+      "start": 43.16,
+      "end": 72.79
+    },
+    {
+      "no": 8,
+      "word": "device",
+      "meanings": [
+        "장치"
+      ],
+      "examples": [
+        "labor-saving devices"
+      ],
+      "start": 50.25,
+      "end": 72.79
+    },
+    {
+      "no": 9,
+      "word": "pill",
+      "meanings": [
+        "알약",
+        "정제"
+      ],
+      "examples": [
+        "a vitamin pill"
+      ],
+      "start": 56.87,
+      "end": 72.79
+    },
+    {
+      "no": 10,
+      "word": "ceiling",
+      "meanings": [
+        "천장"
+      ],
+      "examples": [
+        "a high ceiling"
+      ],
+      "start": 64.05,
+      "end": 72.79
+    },
+    {
+      "no": 11,
+      "word": "aisle",
+      "meanings": [
+        "통로"
+      ],
+      "examples": [
+        "an aisle",
+        "aisle seat"
+      ],
+      "start": 67.03,
+      "end": 110.3
+    },
+    {
+      "no": 12,
+      "word": "appearance",
+      "meanings": [
+        "외모",
+        "출연"
+      ],
+      "examples": [
+        "the physical appearance"
+      ],
+      "start": 75.99,
+      "end": 110.3
+    },
+    {
+      "no": 13,
+      "word": "destination",
+      "meanings": [
+        "목적지"
+      ],
+      "examples": [
+        "to reach your destination"
+      ],
+      "start": 83.61,
+      "end": 110.3
+    },
+    {
+      "no": 14,
+      "word": "sweat",
+      "meanings": [
+        "땀",
+        "땀을 흘리다"
+      ],
+      "examples": [
+        "to wipe the sweat"
+      ],
+      "start": 90.91,
+      "end": 110.3
+    },
+    {
+      "no": 15,
+      "word": "switch",
+      "meanings": [
+        "스위치",
+        "전환",
+        "바꾸다",
+        "켜다",
+        "끄다"
+      ],
+      "examples": [
+        "switch on",
+        "switch off",
+        "to switch on",
+        "its channels"
+      ],
+      "start": 98.18,
+      "end": 147.17
+    },
+    {
+      "no": 16,
+      "word": "grab",
+      "meanings": [
+        "옮겨잡다",
+        "잡아채다",
+        "잡아채기"
+      ],
+      "examples": [
+        "to grab his bag"
+      ],
+      "start": 112.77,
+      "end": 147.17
+    },
+    {
+      "no": 17,
+      "word": "plain",
+      "meanings": [
+        "분명한",
+        "알기 쉬운",
+        "소박한",
+        "평야"
+      ],
+      "examples": [
+        "a plain fact"
+      ],
+      "start": 123.39,
+      "end": 147.17
+    },
+    {
+      "no": 18,
+      "word": "giant",
+      "meanings": [
+        "거대한",
+        "거인"
+      ],
+      "examples": [
+        "a giant planet"
+      ],
+      "start": 133.28,
+      "end": 147.17
+    },
+    {
+      "no": 19,
+      "word": "found",
+      "meanings": [
+        "설립하다"
+      ],
+      "examples": [
+        "to found a company"
+      ],
+      "start": 141.04,
+      "end": 147.17
+    },
+    {
+      "no": 20,
+      "word": "seek",
+      "meanings": [
+        "찾다",
+        "추구하다"
+      ],
+      "examples": [
+        "to seek advice"
+      ],
+      "start": 146.73,
+      "end": 183.8
+    },
+    {
+      "no": 21,
+      "word": "rob",
+      "meanings": [
+        "강탈하다",
+        "털다"
+      ],
+      "examples": [
+        "to rob a bank"
+      ],
+      "start": 154.24,
+      "end": 183.8
+    },
+    {
+      "no": 22,
+      "word": "swing",
+      "meanings": [
+        "흔들다",
+        "흔들리다"
+      ],
+      "examples": [
+        "a sign swinging in the wind"
+      ],
+      "start": 162.78,
+      "end": 183.8
+    },
+    {
+      "no": 23,
+      "word": "cancel",
+      "meanings": [
+        "취소하다"
+      ],
+      "examples": [
+        "to cancel an appointment"
+      ],
+      "start": 171.54,
+      "end": 183.8
+    },
+    {
+      "no": 24,
+      "word": "avoid",
+      "meanings": [
+        "회피하다"
+      ],
+      "examples": [
+        "to avoid an accident"
+      ],
+      "start": 178.37,
+      "end": 183.8
+    },
+    {
+      "no": 25,
+      "word": "rotten",
+      "meanings": [
+        "썩은"
+      ],
+      "examples": [
+        "a rotten apple"
+      ],
+      "start": 185.07,
+      "end": 222.75
+    },
+    {
+      "no": 26,
+      "word": "magnetic",
+      "meanings": [
+        "자기울",
+        "자석같은"
+      ],
+      "examples": [
+        "the earth's magnetic field"
+      ],
+      "start": 191.3,
+      "end": 222.75
+    },
+    {
+      "no": 27,
+      "word": "steep",
+      "meanings": [
+        "가파른"
+      ],
+      "examples": [
+        "a steep hill"
+      ],
+      "start": 198.96,
+      "end": 222.75
+    },
+    {
+      "no": 28,
+      "word": "logical",
+      "meanings": [
+        "논리적인"
+      ],
+      "examples": [
+        "a logical explanation"
+      ],
+      "start": 205.88,
+      "end": 222.75
+    },
+    {
+      "no": 29,
+      "word": "ridiculous",
+      "meanings": [
+        "어리석은",
+        "우스꽝스러운"
+      ],
+      "examples": [
+        "don't be ridiculous"
+      ],
+      "start": 213.0,
+      "end": 222.75
+    },
+    {
+      "no": 30,
+      "word": "upstairs",
+      "meanings": [
+        "위층으로",
+        "위층",
+        "위층의"
+      ],
+      "examples": [
+        "to go upstairs"
+      ],
+      "start": 221.67,
+      "end": 229.39
+    }
+  ],
+  "source_method": "en"
+}

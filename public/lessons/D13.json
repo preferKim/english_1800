@@ -1,0 +1,400 @@
+{
+  "lesson": "D13",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D13.mp3",
+  "model": "large-v3",
+  "duration_sec": 233.35,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "sense",
+      "meanings": [
+        "감각",
+        "기쁨 즐거움",
+        "이미지 인상 영상 심상",
+        "지도"
+      ],
+      "examples": [
+        "a sense of humor pleasure",
+        "great pleasure image",
+        "a visual image map",
+        "to draw a map"
+      ],
+      "start": 1.18,
+      "end": 29.41
+    },
+    {
+      "no": 2,
+      "word": "pleasure",
+      "meanings": [
+        "기쁨",
+        "즐거움"
+      ],
+      "examples": [
+        "great pleasure"
+      ],
+      "start": 5.0,
+      "end": 10.0
+    },
+    {
+      "no": 3,
+      "word": "image",
+      "meanings": [
+        "이미지",
+        "영상"
+      ],
+      "examples": [
+        "a visual image"
+      ],
+      "start": 10.0,
+      "end": 15.0
+    },
+    {
+      "no": 4,
+      "word": "map",
+      "meanings": [
+        "지도"
+      ],
+      "examples": [
+        "to draw a map"
+      ],
+      "start": 15.0,
+      "end": 20.0
+    },
+    {
+      "no": 5,
+      "word": "project",
+      "meanings": [
+        "프로젝트 계획 기획 과제"
+      ],
+      "examples": [
+        "to set up a project"
+      ],
+      "start": 30.24,
+      "end": 38.95
+    },
+    {
+      "no": 6,
+      "word": "traffic",
+      "meanings": [
+        "교통 교통량"
+      ],
+      "examples": [
+        "traffic lights"
+      ],
+      "start": 38.95,
+      "end": 46.13
+    },
+    {
+      "no": 7,
+      "word": "safety",
+      "meanings": [
+        "안전"
+      ],
+      "examples": [
+        "a safety belt"
+      ],
+      "start": 46.13,
+      "end": 52.25
+    },
+    {
+      "no": 8,
+      "word": "spaceship",
+      "meanings": [
+        "우주선"
+      ],
+      "examples": [
+        "to fly a spaceship"
+      ],
+      "start": 52.25,
+      "end": 58.62
+    },
+    {
+      "no": 9,
+      "word": "rainbow",
+      "meanings": [
+        "무지개"
+      ],
+      "examples": [
+        "the rainbow in the sky"
+      ],
+      "start": 58.62,
+      "end": 65.04
+    },
+    {
+      "no": 10,
+      "word": "million",
+      "meanings": [
+        "백만"
+      ],
+      "examples": [
+        "seven million dollars"
+      ],
+      "start": 65.04,
+      "end": 71.49
+    },
+    {
+      "no": 11,
+      "word": "model",
+      "meanings": [
+        "모델 모형 모범"
+      ],
+      "examples": [
+        "a model of the building"
+      ],
+      "start": 71.49,
+      "end": 80.07
+    },
+    {
+      "no": 12,
+      "word": "type",
+      "meanings": [
+        "유형 종류 타자를 치다"
+      ],
+      "examples": [
+        "all types of people"
+      ],
+      "start": 80.07,
+      "end": 88.72
+    },
+    {
+      "no": 13,
+      "word": "block",
+      "meanings": [
+        "블록 구획 막다 방해하다"
+      ],
+      "examples": [
+        "it's three blocks away"
+      ],
+      "start": 88.72,
+      "end": 98.2
+    },
+    {
+      "no": 14,
+      "word": "seat",
+      "meanings": [
+        "좌석 자리",
+        "앉히다"
+      ],
+      "examples": [
+        "please take a seat"
+      ],
+      "start": 98.2,
+      "end": 106.34
+    },
+    {
+      "no": 15,
+      "word": "touch",
+      "meanings": [
+        "만지다",
+        "감동시키다",
+        "접촉"
+      ],
+      "examples": [
+        "don't touch me"
+      ],
+      "start": 106.34,
+      "end": 114.8
+    },
+    {
+      "no": 16,
+      "word": "wonder",
+      "meanings": [
+        "궁금하다",
+        "놀라다",
+        "경의"
+      ],
+      "examples": [
+        "I wonder what happened"
+      ],
+      "start": 114.8,
+      "end": 123.53
+    },
+    {
+      "no": 17,
+      "word": "magic",
+      "meanings": [
+        "마술",
+        "마법",
+        "마술의",
+        "마법의"
+      ],
+      "examples": [
+        "a magic show"
+      ],
+      "start": 123.53,
+      "end": 132.65
+    },
+    {
+      "no": 18,
+      "word": "secret",
+      "meanings": [
+        "비밀",
+        "비밀의"
+      ],
+      "examples": [
+        "to keep a secret"
+      ],
+      "start": 132.65,
+      "end": 139.73
+    },
+    {
+      "no": 19,
+      "word": "general",
+      "meanings": [
+        "일반적인",
+        "육군 장군",
+        "공군 장군"
+      ],
+      "examples": [
+        "general opinion"
+      ],
+      "start": 139.73,
+      "end": 149.14
+    },
+    {
+      "no": 20,
+      "word": "prepare",
+      "meanings": [
+        "준비하다"
+      ],
+      "examples": [
+        "to prepare dinner"
+      ],
+      "start": 149.14,
+      "end": 155.57
+    },
+    {
+      "no": 21,
+      "word": "imagine",
+      "meanings": [
+        "상상하다"
+      ],
+      "examples": [
+        "to imagine the future world"
+      ],
+      "start": 155.57,
+      "end": 162.64
+    },
+    {
+      "no": 22,
+      "word": "forget",
+      "meanings": [
+        "잊다"
+      ],
+      "examples": [
+        "forget the bad things"
+      ],
+      "start": 162.64,
+      "end": 168.97
+    },
+    {
+      "no": 23,
+      "word": "develop",
+      "meanings": [
+        "발달하다",
+        "개발하다"
+      ],
+      "examples": [
+        "to develop",
+        "a new drug"
+      ],
+      "start": 168.97,
+      "end": 176.82
+    },
+    {
+      "no": 24,
+      "word": "recycle",
+      "meanings": [
+        "재활용하다"
+      ],
+      "examples": [
+        "to recycle empty bottles"
+      ],
+      "start": 176.82,
+      "end": 183.94
+    },
+    {
+      "no": 25,
+      "word": "several",
+      "meanings": [
+        "몇 며칠"
+      ],
+      "examples": [
+        "several times"
+      ],
+      "start": 183.94,
+      "end": 189.97
+    },
+    {
+      "no": 26,
+      "word": "funny",
+      "meanings": [
+        "웃기는",
+        "재미있는",
+        "이상한"
+      ],
+      "examples": [
+        "a funny story"
+      ],
+      "start": 189.97,
+      "end": 198.82
+    },
+    {
+      "no": 27,
+      "word": "safe",
+      "meanings": [
+        "안전한"
+      ],
+      "examples": [
+        "a safe working environment"
+      ],
+      "start": 198.82,
+      "end": 205.54
+    },
+    {
+      "no": 28,
+      "word": "enough",
+      "meanings": [
+        "충분한",
+        "충분한 수량",
+        "충분히"
+      ],
+      "examples": [
+        "enough sleep"
+      ],
+      "start": 205.54,
+      "end": 214.6
+    },
+    {
+      "no": 29,
+      "word": "loud",
+      "meanings": [
+        "큰 소리의",
+        "시끄러운",
+        "큰 소리로"
+      ],
+      "examples": [
+        "a loud voice"
+      ],
+      "start": 214.6,
+      "end": 223.48
+    },
+    {
+      "no": 30,
+      "word": "far",
+      "meanings": [
+        "멀리",
+        "훨씬",
+        "먼"
+      ],
+      "examples": [
+        "to go far from home"
+      ],
+      "start": 223.48,
+      "end": 231.92
+    }
+  ],
+  "source_method": "en"
+}

@@ -1,0 +1,408 @@
+{
+  "lesson": "D14",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D14.mp3",
+  "model": "large-v3",
+  "duration_sec": 233.87,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "truth",
+      "meanings": [
+        "진실",
+        "사실",
+        "진리"
+      ],
+      "examples": [
+        "To speak the truth"
+      ],
+      "start": 2.09,
+      "end": 27.33
+    },
+    {
+      "no": 2,
+      "word": "success",
+      "meanings": [
+        "성공"
+      ],
+      "examples": [
+        "A big success"
+      ],
+      "start": 10.61,
+      "end": 27.33
+    },
+    {
+      "no": 3,
+      "word": "friendship",
+      "meanings": [
+        "오정"
+      ],
+      "examples": [
+        "A close friendship"
+      ],
+      "start": 17.09,
+      "end": 27.33
+    },
+    {
+      "no": 4,
+      "word": "being",
+      "meanings": [
+        "존재"
+      ],
+      "examples": [
+        "A human being"
+      ],
+      "start": 22.81,
+      "end": 27.33
+    },
+    {
+      "no": 5,
+      "word": "goods",
+      "meanings": [
+        "상품",
+        "제품"
+      ],
+      "examples": [
+        "The price of the goods"
+      ],
+      "start": 28.26,
+      "end": 64.47
+    },
+    {
+      "no": 6,
+      "word": "coin",
+      "meanings": [
+        "동전"
+      ],
+      "examples": [
+        "A gold coin"
+      ],
+      "start": 36.22,
+      "end": 64.47
+    },
+    {
+      "no": 7,
+      "word": "bank",
+      "meanings": [
+        "은행",
+        "뚝"
+      ],
+      "examples": [
+        "The river bank"
+      ],
+      "start": 42.26,
+      "end": 64.47
+    },
+    {
+      "no": 8,
+      "word": "address",
+      "meanings": [
+        "주소",
+        "연설"
+      ],
+      "examples": [
+        "My email address"
+      ],
+      "start": 48.71,
+      "end": 64.47
+    },
+    {
+      "no": 9,
+      "word": "electricity",
+      "meanings": [
+        "전기"
+      ],
+      "examples": [
+        "To save electricity"
+      ],
+      "start": 56.33,
+      "end": 64.47
+    },
+    {
+      "no": 10,
+      "word": "law",
+      "meanings": [
+        "법",
+        "법률"
+      ],
+      "examples": [
+        "To be against the law"
+      ],
+      "start": 62.16,
+      "end": 100.02
+    },
+    {
+      "no": 11,
+      "word": "campaign",
+      "meanings": [
+        "정치",
+        "사회적 운동"
+      ],
+      "examples": [
+        "The recycling campaign"
+      ],
+      "start": 69.16,
+      "end": 100.02
+    },
+    {
+      "no": 12,
+      "word": "sentence",
+      "meanings": [
+        "문장"
+      ],
+      "examples": [
+        "To read a sentence"
+      ],
+      "start": 78.41,
+      "end": 100.02
+    },
+    {
+      "no": 13,
+      "word": "heat",
+      "meanings": [
+        "열",
+        "열기",
+        "더위",
+        "뜨겁게 하다",
+        "가열하다"
+      ],
+      "examples": [
+        "The heat of the sun"
+      ],
+      "start": 84.28,
+      "end": 100.02
+    },
+    {
+      "no": 14,
+      "word": "circle",
+      "meanings": [
+        "원",
+        "집단",
+        "원을 그려",
+        "그리다",
+        "돌다"
+      ],
+      "examples": [
+        "To draw a circle"
+      ],
+      "start": 95.1,
+      "end": 134.26
+    },
+    {
+      "no": 15,
+      "word": "reach",
+      "meanings": [
+        "이르다",
+        "도착하다",
+        "손을 뻗다",
+        "범위"
+      ],
+      "examples": [
+        "To reach the peak"
+      ],
+      "start": 105.07,
+      "end": 134.26
+    },
+    {
+      "no": 16,
+      "word": "mix",
+      "meanings": [
+        "섞다",
+        "섞이다",
+        "혼합"
+      ],
+      "examples": [
+        "Mix the butter and flour"
+      ],
+      "start": 114.82,
+      "end": 134.26
+    },
+    {
+      "no": 17,
+      "word": "excite",
+      "meanings": [
+        "흥분시키다"
+      ],
+      "examples": [
+        "Don't excite the dog"
+      ],
+      "start": 123.8,
+      "end": 134.26
+    },
+    {
+      "no": 18,
+      "word": "rise",
+      "meanings": [
+        "오르다",
+        "해가 떠오르다"
+      ],
+      "examples": [
+        "Rise by 10%"
+      ],
+      "start": 130.31,
+      "end": 172.55
+    },
+    {
+      "no": 19,
+      "word": "lead",
+      "meanings": [
+        "이끌다",
+        "데리고 가다",
+        "안내하다"
+      ],
+      "examples": [
+        "To lead the way"
+      ],
+      "start": 137.06,
+      "end": 172.55
+    },
+    {
+      "no": 20,
+      "word": "enter",
+      "meanings": [
+        "들어가다",
+        "입학하다"
+      ],
+      "examples": [
+        "To enter a room"
+      ],
+      "start": 147.12,
+      "end": 172.55
+    },
+    {
+      "no": 21,
+      "word": "fill",
+      "meanings": [
+        "채우다",
+        "차다"
+      ],
+      "examples": [
+        "To fill a hole with earth"
+      ],
+      "start": 154.65,
+      "end": 172.55
+    },
+    {
+      "no": 22,
+      "word": "produce",
+      "meanings": [
+        "생산하다"
+      ],
+      "examples": [
+        "To produce goods"
+      ],
+      "start": 162.41,
+      "end": 172.55
+    },
+    {
+      "no": 23,
+      "word": "cool",
+      "meanings": [
+        "시원한",
+        "냉정한",
+        "멋진",
+        "식다",
+        "시키다"
+      ],
+      "examples": [
+        "A cool place"
+      ],
+      "start": 168.6,
+      "end": 207.76
+    },
+    {
+      "no": 24,
+      "word": "slow",
+      "meanings": [
+        "느린",
+        "늦추다"
+      ],
+      "examples": [
+        "A slow speed"
+      ],
+      "start": 179.5,
+      "end": 207.76
+    },
+    {
+      "no": 25,
+      "word": "clear",
+      "meanings": [
+        "명확한",
+        "맑은",
+        "치우다"
+      ],
+      "examples": [
+        "A clear answer"
+      ],
+      "start": 186.57,
+      "end": 207.76
+    },
+    {
+      "no": 26,
+      "word": "false",
+      "meanings": [
+        "틀린",
+        "가짜의",
+        "거짓된"
+      ],
+      "examples": [
+        "False information"
+      ],
+      "start": 195.12,
+      "end": 207.76
+    },
+    {
+      "no": 27,
+      "word": "national",
+      "meanings": [
+        "국가의",
+        "민족의"
+      ],
+      "examples": [
+        "A national holiday"
+      ],
+      "start": 204.06,
+      "end": 232.46
+    },
+    {
+      "no": 28,
+      "word": "main",
+      "meanings": [
+        "주된",
+        "가장 중요한"
+      ],
+      "examples": [
+        "The main point"
+      ],
+      "start": 211.71,
+      "end": 232.46
+    },
+    {
+      "no": 29,
+      "word": "almost",
+      "meanings": [
+        "거의"
+      ],
+      "examples": [
+        "Dinner's almost ready"
+      ],
+      "start": 219.32,
+      "end": 232.46
+    },
+    {
+      "no": 30,
+      "word": "finally",
+      "meanings": [
+        "마침내",
+        "마지막으로"
+      ],
+      "examples": [
+        "She finally left"
+      ],
+      "start": 225.92,
+      "end": 232.46
+    }
+  ],
+  "source_method": "en"
+}

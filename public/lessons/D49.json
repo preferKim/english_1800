@@ -1,0 +1,387 @@
+{
+  "lesson": "D49",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D49.mp3",
+  "model": "large-v3",
+  "duration_sec": 226.22,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "citizen",
+      "meanings": [
+        "시민"
+      ],
+      "examples": [
+        "A United States citizen"
+      ],
+      "start": 1.44,
+      "end": 7.78
+    },
+    {
+      "no": 2,
+      "word": "fair",
+      "meanings": [
+        "요금"
+      ],
+      "examples": [
+        "A fair example"
+      ],
+      "start": 7.78,
+      "end": 11.38
+    },
+    {
+      "no": 3,
+      "word": "airfares",
+      "meanings": [
+        "이야기"
+      ],
+      "examples": [
+        "A fairy tale"
+      ],
+      "start": 11.96,
+      "end": 13.74
+    },
+    {
+      "no": 4,
+      "word": "suggestion",
+      "meanings": [
+        "제안"
+      ],
+      "examples": [
+        "To make a suggestion"
+      ],
+      "start": 20.49,
+      "end": 25.94
+    },
+    {
+      "no": 5,
+      "word": "responsibility",
+      "meanings": [
+        "책임"
+      ],
+      "examples": [
+        "A sense of responsibility"
+      ],
+      "start": 26.8,
+      "end": 33.11
+    },
+    {
+      "no": 6,
+      "word": "risk",
+      "meanings": [
+        "위험"
+      ],
+      "examples": [
+        "To take a risk"
+      ],
+      "start": 33.11,
+      "end": 39.59
+    },
+    {
+      "no": 7,
+      "word": "intelligence",
+      "meanings": [
+        "지능"
+      ],
+      "examples": [
+        "High intelligence"
+      ],
+      "start": 40.39,
+      "end": 45.85
+    },
+    {
+      "no": 8,
+      "word": "viewpoint",
+      "meanings": [
+        "관점",
+        "시각"
+      ],
+      "examples": [
+        "From a historical viewpoint"
+      ],
+      "start": 45.85,
+      "end": 54.05
+    },
+    {
+      "no": 9,
+      "word": "shell",
+      "meanings": [
+        "껍질"
+      ],
+      "examples": [
+        "To collect shells"
+      ],
+      "start": 54.05,
+      "end": 60.2
+    },
+    {
+      "no": 10,
+      "word": "surface",
+      "meanings": [
+        "표면"
+      ],
+      "examples": [
+        "The surface of the water"
+      ],
+      "start": 60.2,
+      "end": 67.08
+    },
+    {
+      "no": 11,
+      "word": "version",
+      "meanings": [
+        "버전"
+      ],
+      "examples": [
+        "A version example"
+      ],
+      "start": 67.08,
+      "end": 70.86
+    },
+    {
+      "no": 12,
+      "word": "pen",
+      "meanings": [
+        "펜"
+      ],
+      "examples": [
+        "A new version of the software"
+      ],
+      "start": 70.86,
+      "end": 74.54
+    },
+    {
+      "no": 13,
+      "word": "account",
+      "meanings": [
+        "계좌",
+        "설명",
+        "설명하다"
+      ],
+      "examples": [
+        "Account for",
+        "To open an account"
+      ],
+      "start": 71.68,
+      "end": 86.1
+    },
+    {
+      "no": 14,
+      "word": "influence",
+      "meanings": [
+        "영향",
+        "영향을 미치다"
+      ],
+      "examples": [
+        "The influence of TV on children"
+      ],
+      "start": 86.1,
+      "end": 95.44
+    },
+    {
+      "no": 15,
+      "word": "hesitate",
+      "meanings": [
+        "망설이다",
+        "주저하다"
+      ],
+      "examples": [
+        "To hesitate for a moment"
+      ],
+      "start": 95.44,
+      "end": 104.13
+    },
+    {
+      "no": 16,
+      "word": "fasten",
+      "meanings": [
+        "매다"
+      ],
+      "examples": [
+        "To fasten the seatbelt"
+      ],
+      "start": 105.02,
+      "end": 110.67
+    },
+    {
+      "no": 17,
+      "word": "manufacture",
+      "meanings": [
+        "제조하다"
+      ],
+      "examples": [
+        "To manufacture cars"
+      ],
+      "start": 111.78,
+      "end": 117.82
+    },
+    {
+      "no": 18,
+      "word": "hire",
+      "meanings": [
+        "고용하다"
+      ],
+      "examples": [
+        "To hire skilled people"
+      ],
+      "start": 117.82,
+      "end": 124.8
+    },
+    {
+      "no": 19,
+      "word": "examine",
+      "meanings": [
+        "조사하다",
+        "검사하다"
+      ],
+      "examples": [
+        "To examine the crash site"
+      ],
+      "start": 125.6,
+      "end": 133.34
+    },
+    {
+      "no": 20,
+      "word": "explode",
+      "meanings": [
+        "폭발하다",
+        "폭파시키다"
+      ],
+      "examples": [
+        "To explode a bomb"
+      ],
+      "start": 134.11,
+      "end": 141.47
+    },
+    {
+      "no": 21,
+      "word": "erase",
+      "meanings": [
+        "지우다"
+      ],
+      "examples": [
+        "To erase the wrong word"
+      ],
+      "start": 142.27,
+      "end": 148.0
+    },
+    {
+      "no": 22,
+      "word": "interrupt",
+      "meanings": [
+        "방해하다",
+        "중단시키다"
+      ],
+      "examples": [
+        "To interrupt your speech"
+      ],
+      "start": 149.04,
+      "end": 156.37
+    },
+    {
+      "no": 23,
+      "word": "deny",
+      "meanings": [
+        "부인하다",
+        "부정하다"
+      ],
+      "examples": [
+        "To deny a claim"
+      ],
+      "start": 156.37,
+      "end": 164.33
+    },
+    {
+      "no": 24,
+      "word": "former",
+      "meanings": [
+        "이전의"
+      ],
+      "examples": [
+        "The former president of Korea"
+      ],
+      "start": 164.33,
+      "end": 171.44
+    },
+    {
+      "no": 25,
+      "word": "clever",
+      "meanings": [
+        "영리한",
+        "똑똑한"
+      ],
+      "examples": [
+        "A clever child"
+      ],
+      "start": 171.44,
+      "end": 179.26
+    },
+    {
+      "no": 26,
+      "word": "distant",
+      "meanings": [
+        "먼"
+      ],
+      "examples": [
+        "In the distant past"
+      ],
+      "start": 179.26,
+      "end": 185.51
+    },
+    {
+      "no": 27,
+      "word": "faint",
+      "meanings": [
+        "희미한"
+      ],
+      "examples": [
+        "A faint sound"
+      ],
+      "start": 185.57,
+      "end": 191.99
+    },
+    {
+      "no": 28,
+      "word": "double",
+      "meanings": [
+        "두 배의",
+        "인용의",
+        "이중의",
+        "두 배",
+        "두 배로 되다"
+      ],
+      "examples": [
+        "A double bed"
+      ],
+      "start": 191.99,
+      "end": 203.37
+    },
+    {
+      "no": 29,
+      "word": "entire",
+      "meanings": [
+        "전체의"
+      ],
+      "examples": [
+        "In my entire life"
+      ],
+      "start": 204.17,
+      "end": 210.08
+    },
+    {
+      "no": 30,
+      "word": "frequent",
+      "meanings": [
+        "잦은",
+        "빈번한"
+      ],
+      "examples": [
+        "Frequent words"
+      ],
+      "start": 211.01,
+      "end": 217.49
+    }
+  ],
+  "source_method": "en"
+}

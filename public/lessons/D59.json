@@ -1,0 +1,399 @@
+{
+  "lesson": "D59",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D59.mp3",
+  "model": "large-v3",
+  "duration_sec": 244.82,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "genius",
+      "meanings": [
+        "천재",
+        "영재"
+      ],
+      "examples": [
+        "A mathematical genius"
+      ],
+      "start": 1.38,
+      "end": 8.63
+    },
+    {
+      "no": 2,
+      "word": "servant",
+      "meanings": [
+        "하인"
+      ],
+      "examples": [
+        "The master and his servant"
+      ],
+      "start": 8.63,
+      "end": 15.55
+    },
+    {
+      "no": 3,
+      "word": "profession",
+      "meanings": [
+        "전문직"
+      ],
+      "examples": [
+        "The medical profession"
+      ],
+      "start": 16.38,
+      "end": 21.78
+    },
+    {
+      "no": 4,
+      "word": "occupation",
+      "meanings": [
+        "직업",
+        "점령"
+      ],
+      "examples": [
+        "Your name"
+      ],
+      "start": 22.61,
+      "end": 30.78
+    },
+    {
+      "no": 5,
+      "word": "surgery",
+      "meanings": [
+        "수술"
+      ],
+      "examples": [
+        "A plastic surgery"
+      ],
+      "start": 30.78,
+      "end": 37.48
+    },
+    {
+      "no": 6,
+      "word": "instruction",
+      "meanings": [
+        "설명",
+        "지시"
+      ],
+      "examples": [
+        "The doctor's instructions"
+      ],
+      "start": 38.31,
+      "end": 46.84
+    },
+    {
+      "no": 7,
+      "word": "principle",
+      "meanings": [
+        "원칙",
+        "원리",
+        "법칙"
+      ],
+      "examples": [
+        "Moral principles"
+      ],
+      "start": 46.84,
+      "end": 55.04
+    },
+    {
+      "no": 8,
+      "word": "revolution",
+      "meanings": [
+        "혁명"
+      ],
+      "examples": [
+        "The social revolution"
+      ],
+      "start": 55.04,
+      "end": 61.67
+    },
+    {
+      "no": 9,
+      "word": "authority",
+      "meanings": [
+        "권한",
+        "권위",
+        "당국"
+      ],
+      "examples": [
+        "People in positions of authority"
+      ],
+      "start": 61.67,
+      "end": 71.02
+    },
+    {
+      "no": 10,
+      "word": "rank",
+      "meanings": [
+        "지위",
+        "계급"
+      ],
+      "examples": [
+        "Social rank"
+      ],
+      "start": 71.02,
+      "end": 77.78
+    },
+    {
+      "no": 11,
+      "word": "property",
+      "meanings": [
+        "재산"
+      ],
+      "examples": [
+        "Personal property"
+      ],
+      "start": 77.78,
+      "end": 84.01
+    },
+    {
+      "no": 12,
+      "word": "advantage",
+      "meanings": [
+        "유리한 점",
+        "잇점"
+      ],
+      "examples": [
+        "To have a big advantage"
+      ],
+      "start": 84.84,
+      "end": 92.09
+    },
+    {
+      "no": 13,
+      "word": "privacy",
+      "meanings": [
+        "사생활"
+      ],
+      "examples": [
+        "To invade your privacy"
+      ],
+      "start": 92.09,
+      "end": 98.96
+    },
+    {
+      "no": 14,
+      "word": "occasion",
+      "meanings": [
+        "때",
+        "경우",
+        "특별한 행사"
+      ],
+      "examples": [
+        "On that occasion"
+      ],
+      "start": 98.96,
+      "end": 107.71
+    },
+    {
+      "no": 15,
+      "word": "propose",
+      "meanings": [
+        "제안하다",
+        "청원하다"
+      ],
+      "examples": [
+        "To propose changes"
+      ],
+      "start": 107.71,
+      "end": 115.74
+    },
+    {
+      "no": 16,
+      "word": "approve",
+      "meanings": [
+        "찬성하다",
+        "승인하다"
+      ],
+      "examples": [
+        "To approve a proposal"
+      ],
+      "start": 116.57,
+      "end": 124.06
+    },
+    {
+      "no": 17,
+      "word": "admit",
+      "meanings": [
+        "인정하다",
+        "시인하다"
+      ],
+      "examples": [
+        "To admit your mistakes"
+      ],
+      "start": 123.46,
+      "end": 132.38
+    },
+    {
+      "no": 18,
+      "word": "conduct",
+      "meanings": [
+        "수행하다",
+        "실시하다",
+        "지휘하다"
+      ],
+      "examples": [
+        "To conduct a survey"
+      ],
+      "start": 132.38,
+      "end": 142.32
+    },
+    {
+      "no": 19,
+      "word": "reserve",
+      "meanings": [
+        "예약하다"
+      ],
+      "examples": [
+        "To reserve tickets"
+      ],
+      "start": 142.32,
+      "end": 148.78
+    },
+    {
+      "no": 20,
+      "word": "reveal",
+      "meanings": [
+        "드러내다",
+        "밝히다"
+      ],
+      "examples": [
+        "To reveal a secret"
+      ],
+      "start": 148.78,
+      "end": 156.71
+    },
+    {
+      "no": 21,
+      "word": "donate",
+      "meanings": [
+        "기부하다",
+        "기증하다"
+      ],
+      "examples": [
+        "Donate your talent"
+      ],
+      "start": 156.71,
+      "end": 164.73
+    },
+    {
+      "no": 22,
+      "word": "involve",
+      "meanings": [
+        "포함하다",
+        "수반하다",
+        "관련시키다"
+      ],
+      "examples": [
+        "The job involves traveling"
+      ],
+      "start": 165.5,
+      "end": 175.67
+    },
+    {
+      "no": 23,
+      "word": "definite",
+      "meanings": [
+        "확실한",
+        "명확한"
+      ],
+      "examples": [
+        "A definite answer"
+      ],
+      "start": 176.56,
+      "end": 182.77
+    },
+    {
+      "no": 24,
+      "word": "urban",
+      "meanings": [
+        "도시의"
+      ],
+      "examples": [
+        "Large urban areas"
+      ],
+      "start": 182.77,
+      "end": 189.41
+    },
+    {
+      "no": 25,
+      "word": "addicted",
+      "meanings": [
+        "중독된",
+        "푹 빠진"
+      ],
+      "examples": [
+        "To be addicted to computer games"
+      ],
+      "start": 190.21,
+      "end": 198.32
+    },
+    {
+      "no": 26,
+      "word": "extreme",
+      "meanings": [
+        "극도의",
+        "극단적인"
+      ],
+      "examples": [
+        "Extreme cold"
+      ],
+      "start": 198.32,
+      "end": 206.14
+    },
+    {
+      "no": 27,
+      "word": "academic",
+      "meanings": [
+        "학업의",
+        "학교의"
+      ],
+      "examples": [
+        "The new academic year"
+      ],
+      "start": 206.14,
+      "end": 217.32
+    },
+    {
+      "no": 28,
+      "word": "guilty",
+      "meanings": [
+        "죄책감을 느끼는",
+        "유죄의"
+      ],
+      "examples": [
+        "To feel guilty"
+      ],
+      "start": 217.32,
+      "end": 225.38
+    },
+    {
+      "no": 29,
+      "word": "conscious",
+      "meanings": [
+        "의식하는",
+        "의식이 있는",
+        "의식적인"
+      ],
+      "examples": [
+        "A conscious effort"
+      ],
+      "start": 225.38,
+      "end": 235.02
+    },
+    {
+      "no": 30,
+      "word": "generally",
+      "meanings": [
+        "일반적으로",
+        "대체로"
+      ],
+      "examples": [
+        "A generally accepted view"
+      ],
+      "start": 235.02,
+      "end": 243.42
+    }
+  ],
+  "source_method": "en"
+}

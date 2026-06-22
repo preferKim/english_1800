@@ -1,0 +1,409 @@
+{
+  "lesson": "D25",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D25.mp3",
+  "model": "large-v3",
+  "duration_sec": 247.14,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "wood",
+      "meanings": [
+        "나무",
+        "목재",
+        "숲"
+      ],
+      "examples": [
+        "To be made of wood"
+      ],
+      "start": 2.22,
+      "end": 28.14
+    },
+    {
+      "no": 2,
+      "word": "cave",
+      "meanings": [
+        "동굴"
+      ],
+      "examples": [
+        "A dark cave"
+      ],
+      "start": 10.39,
+      "end": 28.14
+    },
+    {
+      "no": 3,
+      "word": "tomb",
+      "meanings": [
+        "무덤"
+      ],
+      "examples": [
+        "The family tomb"
+      ],
+      "start": 16.33,
+      "end": 28.14
+    },
+    {
+      "no": 4,
+      "word": "tool",
+      "meanings": [
+        "도구",
+        "연장"
+      ],
+      "examples": [
+        "A carpenter's tools"
+      ],
+      "start": 22.34,
+      "end": 28.14
+    },
+    {
+      "no": 5,
+      "word": "satellite",
+      "meanings": [
+        "인공위성"
+      ],
+      "examples": [
+        "A weather satellite"
+      ],
+      "start": 29.0,
+      "end": 52.29
+    },
+    {
+      "no": 6,
+      "word": "communication",
+      "meanings": [
+        "의사소통"
+      ],
+      "examples": [
+        "A communication example"
+      ],
+      "start": 36.01,
+      "end": 52.29
+    },
+    {
+      "no": 7,
+      "word": "wealth",
+      "meanings": [
+        "부",
+        "재산"
+      ],
+      "examples": [
+        "To create wealth"
+      ],
+      "start": 46.58,
+      "end": 52.29
+    },
+    {
+      "no": 8,
+      "word": "attention",
+      "meanings": [
+        "주의",
+        "주목"
+      ],
+      "examples": [
+        "To pay attention"
+      ],
+      "start": 53.72,
+      "end": 65.6
+    },
+    {
+      "no": 9,
+      "word": "miracle",
+      "meanings": [
+        "기적"
+      ],
+      "examples": [
+        "The miracle of luck"
+      ],
+      "start": 60.65,
+      "end": 65.6
+    },
+    {
+      "no": 10,
+      "word": "love",
+      "meanings": [
+        "개울",
+        "시내",
+        "흐름",
+        "계속 흐르다"
+      ],
+      "examples": [
+        "To go across a stream"
+      ],
+      "start": 65.62,
+      "end": 83.29
+    },
+    {
+      "no": 11,
+      "word": "wave",
+      "meanings": [
+        "파도",
+        "물결",
+        "흔들기",
+        "흔들다"
+      ],
+      "examples": [
+        "The ocean waves"
+      ],
+      "start": 77.29,
+      "end": 100.09
+    },
+    {
+      "no": 12,
+      "word": "value",
+      "meanings": [
+        "가치",
+        "소중히 여기다"
+      ],
+      "examples": [
+        "The value of money"
+      ],
+      "start": 87.02,
+      "end": 100.09
+    },
+    {
+      "no": 13,
+      "word": "beat",
+      "meanings": [
+        "이기다",
+        "계속 때리다",
+        "두드리다",
+        "박동",
+        "박자"
+      ],
+      "examples": [
+        "To beat him in the race"
+      ],
+      "start": 95.01,
+      "end": 115.12
+    },
+    {
+      "no": 14,
+      "word": "support",
+      "meanings": [
+        "지지하다",
+        "부양하다",
+        "지지",
+        "지원"
+      ],
+      "examples": [
+        "To support him"
+      ],
+      "start": 106.58,
+      "end": 115.12
+    },
+    {
+      "no": 15,
+      "word": "twin",
+      "meanings": [
+        "쌍둥이",
+        "쌍둥이 중에 한 명",
+        "쌍둥이의"
+      ],
+      "examples": [
+        "Their twins"
+      ],
+      "start": 116.53,
+      "end": 135.04
+    },
+    {
+      "no": 16,
+      "word": "chemical",
+      "meanings": [
+        "화학물질",
+        "화학의"
+      ],
+      "examples": [
+        "A chemical factory"
+      ],
+      "start": 126.24,
+      "end": 135.04
+    },
+    {
+      "no": 17,
+      "word": "female",
+      "meanings": [
+        "여성",
+        "암컷",
+        "여성의",
+        "암컷의"
+      ],
+      "examples": [
+        "A female athlete"
+      ],
+      "start": 134.2,
+      "end": 151.62
+    },
+    {
+      "no": 18,
+      "word": "fair",
+      "meanings": [
+        "공정한",
+        "공평한",
+        "박람회"
+      ],
+      "examples": [
+        "A fair price"
+      ],
+      "start": 144.26,
+      "end": 151.62
+    },
+    {
+      "no": 19,
+      "word": "respond",
+      "meanings": [
+        "반응하다",
+        "대답하다",
+        "답장하다"
+      ],
+      "examples": [
+        "To respond to the news"
+      ],
+      "start": 153.28,
+      "end": 171.6
+    },
+    {
+      "no": 20,
+      "word": "deliver",
+      "meanings": [
+        "배달하다"
+      ],
+      "examples": [
+        "To deliver milk"
+      ],
+      "start": 162.7,
+      "end": 171.6
+    },
+    {
+      "no": 21,
+      "word": "fold",
+      "meanings": [
+        "접다"
+      ],
+      "examples": [
+        "To fold it in half"
+      ],
+      "start": 169.02,
+      "end": 203.49
+    },
+    {
+      "no": 22,
+      "word": "include",
+      "meanings": [
+        "포함하다"
+      ],
+      "examples": [
+        "Does the price include tax"
+      ],
+      "start": 173.63,
+      "end": 203.49
+    },
+    {
+      "no": 23,
+      "word": "earn",
+      "meanings": [
+        "돈을 벌다"
+      ],
+      "examples": [
+        "To earn a living"
+      ],
+      "start": 182.85,
+      "end": 203.49
+    },
+    {
+      "no": 24,
+      "word": "bet",
+      "meanings": [
+        "돈을 걸다"
+      ],
+      "examples": [
+        "I bet you'll like it"
+      ],
+      "start": 189.07,
+      "end": 203.49
+    },
+    {
+      "no": 25,
+      "word": "calm",
+      "meanings": [
+        "침착한",
+        "차분한",
+        "평온",
+        "진정",
+        "진정하다"
+      ],
+      "examples": [
+        "Please stay calm"
+      ],
+      "start": 195.72,
+      "end": 207.96
+    },
+    {
+      "no": 26,
+      "word": "direct",
+      "meanings": [
+        "직접을",
+        "직접",
+        "지위하다",
+        "감독하다"
+      ],
+      "examples": [
+        "Direct experience"
+      ],
+      "start": 207.2,
+      "end": 242.85
+    },
+    {
+      "no": 27,
+      "word": "thick",
+      "meanings": [
+        "두꺼운",
+        "짙은",
+        "진한"
+      ],
+      "examples": [
+        "A thick coat"
+      ],
+      "start": 217.68,
+      "end": 242.85
+    },
+    {
+      "no": 28,
+      "word": "abstract",
+      "meanings": [
+        "추상적인"
+      ],
+      "examples": [
+        "An abstract painting"
+      ],
+      "start": 223.72,
+      "end": 242.85
+    },
+    {
+      "no": 29,
+      "word": "someday",
+      "meanings": [
+        "언젠가"
+      ],
+      "examples": [
+        "Someday he'll succeed"
+      ],
+      "start": 233.15,
+      "end": 242.85
+    },
+    {
+      "no": 30,
+      "word": "nowadays",
+      "meanings": [
+        "요즘에는"
+      ],
+      "examples": [
+        "It is common nowadays"
+      ],
+      "start": 239.96,
+      "end": 245.38
+    }
+  ],
+  "source_method": "en"
+}

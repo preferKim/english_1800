@@ -1,0 +1,398 @@
+{
+  "lesson": "D58",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D58.mp3",
+  "model": "large-v3",
+  "duration_sec": 236.28,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "identity",
+      "meanings": [
+        "신원",
+        "정체성"
+      ],
+      "examples": [
+        "The identity of the killer"
+      ],
+      "start": 1.7,
+      "end": 9.41
+    },
+    {
+      "no": 2,
+      "word": "devil",
+      "meanings": [
+        "악마",
+        "마귀"
+      ],
+      "examples": [
+        "Red devils"
+      ],
+      "start": 9.41,
+      "end": 16.53
+    },
+    {
+      "no": 3,
+      "word": "spectator",
+      "meanings": [
+        "관종"
+      ],
+      "examples": [
+        "To attract many spectators"
+      ],
+      "start": 17.49,
+      "end": 23.4
+    },
+    {
+      "no": 4,
+      "word": "income",
+      "meanings": [
+        "소득"
+      ],
+      "examples": [
+        "A high income"
+      ],
+      "start": 23.4,
+      "end": 29.11
+    },
+    {
+      "no": 5,
+      "word": "tax",
+      "meanings": [
+        "세금"
+      ],
+      "examples": [
+        "Tax increases"
+      ],
+      "start": 29.11,
+      "end": 35.23
+    },
+    {
+      "no": 6,
+      "word": "fee",
+      "meanings": [
+        "수수료",
+        "요금"
+      ],
+      "examples": [
+        "An entrance fee"
+      ],
+      "start": 35.23,
+      "end": 42.72
+    },
+    {
+      "no": 7,
+      "word": "fuel",
+      "meanings": [
+        "연료"
+      ],
+      "examples": [
+        "A fuel tank"
+      ],
+      "start": 42.72,
+      "end": 48.64
+    },
+    {
+      "no": 8,
+      "word": "burden",
+      "meanings": [
+        "부담",
+        "짐"
+      ],
+      "examples": [
+        "The heavy tax burden"
+      ],
+      "start": 48.64,
+      "end": 56.16
+    },
+    {
+      "no": 9,
+      "word": "variety",
+      "meanings": [
+        "다양성",
+        "여러가지"
+      ],
+      "examples": [
+        "A wide variety of topics"
+      ],
+      "start": 57.02,
+      "end": 64.55
+    },
+    {
+      "no": 10,
+      "word": "some",
+      "meanings": [
+        "금액",
+        "합계",
+        "요약하다"
+      ],
+      "examples": [
+        "Sum up",
+        "A large variety of topics",
+        "A large sum of money"
+      ],
+      "start": 64.55,
+      "end": 74.87
+    },
+    {
+      "no": 11,
+      "word": "profit",
+      "meanings": [
+        "이익",
+        "이익을 얻다",
+        "이익을 주다"
+      ],
+      "examples": [
+        "To make a profit"
+      ],
+      "start": 75.83,
+      "end": 83.93
+    },
+    {
+      "no": 12,
+      "word": "process",
+      "meanings": [
+        "과정",
+        "가공하다",
+        "처리하다"
+      ],
+      "examples": [
+        "The decision-making process"
+      ],
+      "start": 83.93,
+      "end": 93.62
+    },
+    {
+      "no": 13,
+      "word": "exit",
+      "meanings": [
+        "출구",
+        "나가다"
+      ],
+      "examples": [
+        "An emergency exit"
+      ],
+      "start": 93.62,
+      "end": 101.34
+    },
+    {
+      "no": 14,
+      "word": "pop",
+      "meanings": [
+        "펑하고 터지다",
+        "팝뮤직",
+        "팝뮤직의",
+        "디지털",
+        "대중적인"
+      ],
+      "examples": [
+        "A balloon popped"
+      ],
+      "start": 101.34,
+      "end": 112.3
+    },
+    {
+      "no": 15,
+      "word": "purchase",
+      "meanings": [
+        "구입하다",
+        "구입",
+        "구입품"
+      ],
+      "examples": [
+        "To purchase the goods"
+      ],
+      "start": 112.3,
+      "end": 121.16
+    },
+    {
+      "no": 16,
+      "word": "defeat",
+      "meanings": [
+        "패배시키다",
+        "이기다",
+        "패배"
+      ],
+      "examples": [
+        "To defeat an enemy"
+      ],
+      "start": 122.06,
+      "end": 130.01
+    },
+    {
+      "no": 17,
+      "word": "persuade",
+      "meanings": [
+        "설득하다"
+      ],
+      "examples": [
+        "To persuade him to come"
+      ],
+      "start": 130.87,
+      "end": 137.11
+    },
+    {
+      "no": 18,
+      "word": "cheat",
+      "meanings": [
+        "부정행위를 하다",
+        "속이다"
+      ],
+      "examples": [
+        "To cheat in a test"
+      ],
+      "start": 137.11,
+      "end": 145.32
+    },
+    {
+      "no": 19,
+      "word": "locate",
+      "meanings": [
+        "어디에 위치하다",
+        "위치를 찾아내다"
+      ],
+      "examples": [
+        "Be located",
+        "To be located in the center of town"
+      ],
+      "start": 146.09,
+      "end": 156.64
+    },
+    {
+      "no": 20,
+      "word": "investigate",
+      "meanings": [
+        "조사하다"
+      ],
+      "examples": [
+        "To investigate the cause of the accident"
+      ],
+      "start": 155.16,
+      "end": 164.36
+    },
+    {
+      "no": 21,
+      "word": "distinguish",
+      "meanings": [
+        "구별하다"
+      ],
+      "examples": [
+        "To distinguish between right and wrong"
+      ],
+      "start": 165.22,
+      "end": 172.41
+    },
+    {
+      "no": 22,
+      "word": "adopt",
+      "meanings": [
+        "입양하다",
+        "채택하다"
+      ],
+      "examples": [
+        "To adopt a child"
+      ],
+      "start": 173.24,
+      "end": 180.45
+    },
+    {
+      "no": 23,
+      "word": "usual",
+      "meanings": [
+        "보통의",
+        "평소의"
+      ],
+      "examples": [
+        "As usual"
+      ],
+      "start": 181.28,
+      "end": 187.69
+    },
+    {
+      "no": 24,
+      "word": "fashionable",
+      "meanings": [
+        "요행하는"
+      ],
+      "examples": [
+        "Fashionable clothes"
+      ],
+      "start": 188.58,
+      "end": 194.44
+    },
+    {
+      "no": 25,
+      "word": "sufficient",
+      "meanings": [
+        "충분한"
+      ],
+      "examples": [
+        "Sufficient time"
+      ],
+      "start": 194.44,
+      "end": 200.79
+    },
+    {
+      "no": 26,
+      "word": "accurate",
+      "meanings": [
+        "정확한"
+      ],
+      "examples": [
+        "Accurate data"
+      ],
+      "start": 200.79,
+      "end": 206.96
+    },
+    {
+      "no": 27,
+      "word": "complicated",
+      "meanings": [
+        "복잡한"
+      ],
+      "examples": [
+        "A complicated process"
+      ],
+      "start": 206.96,
+      "end": 213.74
+    },
+    {
+      "no": 28,
+      "word": "artificial",
+      "meanings": [
+        "인공의"
+      ],
+      "examples": [
+        "A artificial example"
+      ],
+      "start": 211.41,
+      "end": 218.18
+    },
+    {
+      "no": 29,
+      "word": "and",
+      "meanings": [
+        "그리고"
+      ],
+      "examples": [
+        "An artificial lake"
+      ],
+      "start": 218.18,
+      "end": 220.78
+    },
+    {
+      "no": 30,
+      "word": "tropical",
+      "meanings": [
+        "열대위"
+      ],
+      "examples": [
+        "Tropical fruit"
+      ],
+      "start": 221.74,
+      "end": 227.13
+    }
+  ],
+  "source_method": "en"
+}

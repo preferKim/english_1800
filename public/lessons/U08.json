@@ -1,0 +1,405 @@
+{
+  "lesson": "U08",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-U08.mp3",
+  "model": "large-v3",
+  "duration_sec": 246.1,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "upgrading",
+      "meanings": [
+        "외교관"
+      ],
+      "examples": [
+        "A foreign diplomat"
+      ],
+      "start": 0.34,
+      "end": 7.48
+    },
+    {
+      "no": 2,
+      "word": "diploma",
+      "meanings": [
+        "졸업장"
+      ],
+      "examples": [
+        "A high school diploma"
+      ],
+      "start": 6.64,
+      "end": 13.66
+    },
+    {
+      "no": 3,
+      "word": "livestock",
+      "meanings": [
+        "가축"
+      ],
+      "examples": [
+        "To keep livestock"
+      ],
+      "start": 15.56,
+      "end": 19.77
+    },
+    {
+      "no": 4,
+      "word": "forehead",
+      "meanings": [
+        "이마"
+      ],
+      "examples": [
+        "To kiss her forehead"
+      ],
+      "start": 21.55,
+      "end": 26.1
+    },
+    {
+      "no": 5,
+      "word": "cliff",
+      "meanings": [
+        "벼랑",
+        "절벽"
+      ],
+      "examples": [
+        "The cliff edge"
+      ],
+      "start": 27.92,
+      "end": 33.15
+    },
+    {
+      "no": 6,
+      "word": "swamp",
+      "meanings": [
+        "늪"
+      ],
+      "examples": [
+        "Tropical swamps"
+      ],
+      "start": 33.98,
+      "end": 38.99
+    },
+    {
+      "no": 7,
+      "word": "brass",
+      "meanings": [
+        "노쇠",
+        "황동",
+        "금관악기"
+      ],
+      "examples": [
+        "A brass band"
+      ],
+      "start": 40.38,
+      "end": 52.12
+    },
+    {
+      "no": 8,
+      "word": "rectangle",
+      "meanings": [
+        "직사각형"
+      ],
+      "examples": [
+        "Squares and rectangles"
+      ],
+      "start": 49.3,
+      "end": 59.56
+    },
+    {
+      "no": 9,
+      "word": "pipe",
+      "meanings": [
+        "관",
+        "배관"
+      ],
+      "examples": [
+        "A water pipe"
+      ],
+      "start": 56.28,
+      "end": 65.63
+    },
+    {
+      "no": 10,
+      "word": "doorbell",
+      "meanings": [
+        "초인종"
+      ],
+      "examples": [
+        "To ring the doorbell"
+      ],
+      "start": 63.06,
+      "end": 70.25
+    },
+    {
+      "no": 11,
+      "word": "carbon",
+      "meanings": [
+        "탄소"
+      ],
+      "examples": [
+        "Carbon dioxide"
+      ],
+      "start": 69.41,
+      "end": 74.0
+    },
+    {
+      "no": 12,
+      "word": "explosion",
+      "meanings": [
+        "폭발"
+      ],
+      "examples": [
+        "A gas explosion"
+      ],
+      "start": 75.92,
+      "end": 80.64
+    },
+    {
+      "no": 13,
+      "word": "arrival",
+      "meanings": [
+        "도착"
+      ],
+      "examples": [
+        "The time of your arrival"
+      ],
+      "start": 78.76,
+      "end": 87.37
+    },
+    {
+      "no": 14,
+      "word": "boredom",
+      "meanings": [
+        "지루함",
+        "따분함"
+      ],
+      "examples": [
+        "To relieve the boredom"
+      ],
+      "start": 89.0,
+      "end": 95.39
+    },
+    {
+      "no": 15,
+      "word": "judgment",
+      "meanings": [
+        "판단",
+        "판결",
+        "심판"
+      ],
+      "examples": [
+        "An error of judgment"
+      ],
+      "start": 97.1,
+      "end": 106.84
+    },
+    {
+      "no": 16,
+      "word": "editorial",
+      "meanings": [
+        "사설",
+        "편집을"
+      ],
+      "examples": [
+        "To read an editorial"
+      ],
+      "start": 105.88,
+      "end": 112.14
+    },
+    {
+      "no": 17,
+      "word": "mass",
+      "meanings": [
+        "덩어리",
+        "대량",
+        "대중",
+        "질량",
+        "대량을",
+        "대중을"
+      ],
+      "examples": [
+        "The mass of a planet",
+        "Mass production"
+      ],
+      "start": 114.07,
+      "end": 132.72
+    },
+    {
+      "no": 18,
+      "word": "memorial",
+      "meanings": [
+        "기념비",
+        "추모의"
+      ],
+      "examples": [
+        "A war memorial",
+        "A memorial service"
+      ],
+      "start": 128.53,
+      "end": 142.38
+    },
+    {
+      "no": 19,
+      "word": "stable",
+      "meanings": [
+        "안정된",
+        "마국간"
+      ],
+      "examples": [
+        "Stable prices"
+      ],
+      "start": 138.66,
+      "end": 147.48
+    },
+    {
+      "no": 20,
+      "word": "minimum",
+      "meanings": [
+        "최소의",
+        "최저의",
+        "최소",
+        "최저"
+      ],
+      "examples": [
+        "A minimum price"
+      ],
+      "start": 146.6,
+      "end": 157.43
+    },
+    {
+      "no": 21,
+      "word": "fancy",
+      "meanings": [
+        "화려한",
+        "고급의",
+        "값비싼",
+        "공상",
+        "상상"
+      ],
+      "examples": [
+        "A fancy restaurant"
+      ],
+      "start": 156.55,
+      "end": 169.64
+    },
+    {
+      "no": 22,
+      "word": "potential",
+      "meanings": [
+        "잠재적인",
+        "가능성 있는",
+        "잠재력",
+        "가능성"
+      ],
+      "examples": [
+        "To heal customers"
+      ],
+      "start": 168.76,
+      "end": 180.75
+    },
+    {
+      "no": 23,
+      "word": "heal",
+      "meanings": [
+        "치유하다",
+        "되다"
+      ],
+      "examples": [
+        "To heal the sick"
+      ],
+      "start": 178.38,
+      "end": 185.66
+    },
+    {
+      "no": 24,
+      "word": "resist",
+      "meanings": [
+        "저항하다",
+        "견디다"
+      ],
+      "examples": [
+        "I can't resist buying the shoes"
+      ],
+      "start": 187.58,
+      "end": 196.64
+    },
+    {
+      "no": 25,
+      "word": "shave",
+      "meanings": [
+        "면도하다",
+        "깎다"
+      ],
+      "examples": [
+        "He shaves every morning"
+      ],
+      "start": 195.78,
+      "end": 202.52
+    },
+    {
+      "no": 26,
+      "word": "congratulate",
+      "meanings": [
+        "축하하다"
+      ],
+      "examples": [
+        "To congratulate the winner"
+      ],
+      "start": 204.24,
+      "end": 209.66
+    },
+    {
+      "no": 27,
+      "word": "picky",
+      "meanings": [
+        "까다로운"
+      ],
+      "examples": [
+        "A picky eater"
+      ],
+      "start": 211.45,
+      "end": 218.52
+    },
+    {
+      "no": 28,
+      "word": "subtle",
+      "meanings": [
+        "미묘한"
+      ],
+      "examples": [
+        "A subtle difference"
+      ],
+      "start": 217.5,
+      "end": 222.13
+    },
+    {
+      "no": 29,
+      "word": "conventional",
+      "meanings": [
+        "관습적인",
+        "관례적인",
+        "전통적인"
+      ],
+      "examples": [
+        "Conventional behavior",
+        "Conventional methods"
+      ],
+      "start": 223.98,
+      "end": 234.76
+    },
+    {
+      "no": 30,
+      "word": "expressive",
+      "meanings": [
+        "표현하는",
+        "표현력이 풍부한"
+      ],
+      "examples": [
+        "The expressive power of his music"
+      ],
+      "start": 236.43,
+      "end": 244.77
+    }
+  ],
+  "source_method": "en"
+}

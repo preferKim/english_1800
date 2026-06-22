@@ -1,0 +1,397 @@
+{
+  "lesson": "D51",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D51.mp3",
+  "model": "large-v3",
+  "duration_sec": 236.36,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "client",
+      "meanings": [
+        "의뢰인",
+        "고객"
+      ],
+      "examples": [
+        "To deal with clients"
+      ],
+      "start": 2.45,
+      "end": 35.06
+    },
+    {
+      "no": 2,
+      "word": "clown",
+      "meanings": [
+        "어릿광대"
+      ],
+      "examples": [
+        "A circus clown"
+      ],
+      "start": 9.68,
+      "end": 35.06
+    },
+    {
+      "no": 3,
+      "word": "empire",
+      "meanings": [
+        "제국"
+      ],
+      "examples": [
+        "The Roman Empire"
+      ],
+      "start": 15.92,
+      "end": 35.06
+    },
+    {
+      "no": 4,
+      "word": "dragon",
+      "meanings": [
+        "용"
+      ],
+      "examples": [
+        "A huge dragon"
+      ],
+      "start": 22.12,
+      "end": 35.06
+    },
+    {
+      "no": 5,
+      "word": "nail",
+      "meanings": [
+        "손톱",
+        "발톱",
+        "못"
+      ],
+      "examples": [
+        "To bite your nail"
+      ],
+      "start": 28.24,
+      "end": 35.06
+    },
+    {
+      "no": 6,
+      "word": "baggage",
+      "meanings": [
+        "수하물",
+        "짐"
+      ],
+      "examples": [
+        "Check your baggage in"
+      ],
+      "start": 35.9,
+      "end": 65.89
+    },
+    {
+      "no": 7,
+      "word": "label",
+      "meanings": [
+        "라벨",
+        "꼬리표"
+      ],
+      "examples": [
+        "Price labels"
+      ],
+      "start": 44.17,
+      "end": 65.89
+    },
+    {
+      "no": 8,
+      "word": "coal",
+      "meanings": [
+        "석탄"
+      ],
+      "examples": [
+        "Put some coal on the fire"
+      ],
+      "start": 52.5,
+      "end": 65.89
+    },
+    {
+      "no": 9,
+      "word": "bubble",
+      "meanings": [
+        "거품"
+      ],
+      "examples": [
+        "Soap bubbles"
+      ],
+      "start": 59.46,
+      "end": 65.89
+    },
+    {
+      "no": 10,
+      "word": "bug",
+      "meanings": [
+        "작은 곤충",
+        "컴퓨터 오류"
+      ],
+      "examples": [
+        "A bug in the software"
+      ],
+      "start": 64.97,
+      "end": 101.88
+    },
+    {
+      "no": 11,
+      "word": "dawn",
+      "meanings": [
+        "새벽"
+      ],
+      "examples": [
+        "To rise at dawn"
+      ],
+      "start": 73.85,
+      "end": 101.88
+    },
+    {
+      "no": 12,
+      "word": "detail",
+      "meanings": [
+        "세부사항"
+      ],
+      "examples": [
+        "To describe it in detail"
+      ],
+      "start": 80.21,
+      "end": 101.88
+    },
+    {
+      "no": 13,
+      "word": "plenty",
+      "meanings": [
+        "충분한 수량"
+      ],
+      "examples": [
+        "Plenty of time"
+      ],
+      "start": 87.32,
+      "end": 101.88
+    },
+    {
+      "no": 14,
+      "word": "delight",
+      "meanings": [
+        "기쁨",
+        "즐거움",
+        "기쁘게 하다"
+      ],
+      "examples": [
+        "To laugh with delight"
+      ],
+      "start": 94.2,
+      "end": 101.88
+    },
+    {
+      "no": 15,
+      "word": "dispute",
+      "meanings": [
+        "분쟁",
+        "논쟁",
+        "반박하다"
+      ],
+      "examples": [
+        "To settle the dispute"
+      ],
+      "start": 103.22,
+      "end": 137.25
+    },
+    {
+      "no": 16,
+      "word": "flame",
+      "meanings": [
+        "불길",
+        "불꽃",
+        "타오르다"
+      ],
+      "examples": [
+        "A bright blue flame"
+      ],
+      "start": 112.67,
+      "end": 137.25
+    },
+    {
+      "no": 17,
+      "word": "flash",
+      "meanings": [
+        "번쩍이다",
+        "비추다",
+        "섬광",
+        "카메라 플래시"
+      ],
+      "examples": [
+        "Lightning flashed"
+      ],
+      "start": 121.48,
+      "end": 137.25
+    },
+    {
+      "no": 18,
+      "word": "regret",
+      "meanings": [
+        "후회하다",
+        "유감스럽게 생각하다",
+        "유감",
+        "후회"
+      ],
+      "examples": [
+        "I regret what I said"
+      ],
+      "start": 132.2,
+      "end": 172.82
+    },
+    {
+      "no": 19,
+      "word": "bless",
+      "meanings": [
+        "축복하다"
+      ],
+      "examples": [
+        "God bless you"
+      ],
+      "start": 143.91,
+      "end": 172.82
+    },
+    {
+      "no": 20,
+      "word": "spell",
+      "meanings": [
+        "철자를 쓰다",
+        "철자를 말하다"
+      ],
+      "examples": [
+        "To spell my name wrong"
+      ],
+      "start": 150.34,
+      "end": 172.82
+    },
+    {
+      "no": 21,
+      "word": "surround",
+      "meanings": [
+        "둘러싸다"
+      ],
+      "examples": [
+        "To be surrounded by trees"
+      ],
+      "start": 159.22,
+      "end": 172.82
+    },
+    {
+      "no": 22,
+      "word": "swear",
+      "meanings": [
+        "맹세하다",
+        "욕하다"
+      ],
+      "examples": [
+        "To swear on your honor"
+      ],
+      "start": 166.15,
+      "end": 172.82
+    },
+    {
+      "no": 23,
+      "word": "wander",
+      "meanings": [
+        "돌아다니다",
+        "배회하다"
+      ],
+      "examples": [
+        "To wander the streets"
+      ],
+      "start": 174.23,
+      "end": 210.92
+    },
+    {
+      "no": 24,
+      "word": "generous",
+      "meanings": [
+        "인심 좋은",
+        "관대한"
+      ],
+      "examples": [
+        "A generous woman"
+      ],
+      "start": 182.52,
+      "end": 210.92
+    },
+    {
+      "no": 25,
+      "word": "thankful",
+      "meanings": [
+        "감사하는"
+      ],
+      "examples": [
+        "He was thankful to be alive"
+      ],
+      "start": 190.54,
+      "end": 210.92
+    },
+    {
+      "no": 26,
+      "word": "instant",
+      "meanings": [
+        "즉각적인",
+        "즉석의"
+      ],
+      "examples": [
+        "An instant response"
+      ],
+      "start": 197.68,
+      "end": 210.92
+    },
+    {
+      "no": 27,
+      "word": "medium",
+      "meanings": [
+        "중간의"
+      ],
+      "examples": [
+        "A medium size"
+      ],
+      "start": 205.9,
+      "end": 210.92
+    },
+    {
+      "no": 28,
+      "word": "virtual",
+      "meanings": [
+        "가상을"
+      ],
+      "examples": [
+        "Virtual reality"
+      ],
+      "start": 212.52,
+      "end": 234.78
+    },
+    {
+      "no": 29,
+      "word": "illegal",
+      "meanings": [
+        "불법의"
+      ],
+      "examples": [
+        "Illegal parking"
+      ],
+      "start": 219.06,
+      "end": 234.78
+    },
+    {
+      "no": 30,
+      "word": "either",
+      "meanings": [
+        "무엇도",
+        "어느 하나",
+        "어느 하나의"
+      ],
+      "examples": [
+        "I can't swim",
+        "I can't either"
+      ],
+      "start": 225.16,
+      "end": 234.78
+    }
+  ],
+  "source_method": "en"
+}

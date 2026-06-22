@@ -1,0 +1,429 @@
+{
+  "lesson": "D41",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D41.mp3",
+  "model": "large-v3",
+  "duration_sec": 229.72,
+  "items": [
+    {
+      "no": 1,
+      "word": "merchant",
+      "meanings": [
+        "상인"
+      ],
+      "examples": [
+        "A rich merchant"
+      ],
+      "start": 1.41,
+      "end": 34.76
+    },
+    {
+      "no": 2,
+      "word": "heritage",
+      "meanings": [
+        "유산",
+        "조직",
+        "단체",
+        "기구"
+      ],
+      "examples": [
+        "Cultural heritage Organization",
+        "An international organization",
+        "Cultural heritage"
+      ],
+      "start": 7.29,
+      "end": 34.76
+    },
+    {
+      "no": 3,
+      "word": "organization",
+      "meanings": [
+        "조직",
+        "단체",
+        "기구"
+      ],
+      "examples": [
+        "An international organization"
+      ],
+      "start": 14.84,
+      "end": 34.76
+    },
+    {
+      "no": 4,
+      "word": "kindergarten",
+      "meanings": [
+        "유치원",
+        "경영 관리"
+      ],
+      "examples": [
+        "A kindergarten teacher Management",
+        "A career in management",
+        "A kindergarten teacher"
+      ],
+      "start": 23.94,
+      "end": 37.18
+    },
+    {
+      "no": 5,
+      "word": "management",
+      "meanings": [
+        "경영",
+        "관리"
+      ],
+      "examples": [
+        "a career in management"
+      ],
+      "start": 30.88,
+      "end": 37.22
+    },
+    {
+      "no": 6,
+      "word": "operation",
+      "meanings": [
+        "수술 작전",
+        "임무",
+        "수술",
+        "작전"
+      ],
+      "examples": [
+        "A heart operation Mission",
+        "Your main mission in life",
+        "a heart operation"
+      ],
+      "start": 37.18,
+      "end": 51.4
+    },
+    {
+      "no": 7,
+      "word": "mission",
+      "meanings": [
+        "임무"
+      ],
+      "examples": [
+        "your main mission in life"
+      ],
+      "start": 44.91,
+      "end": 51.44
+    },
+    {
+      "no": 8,
+      "word": "means",
+      "meanings": [
+        "수단 방법",
+        "지불 지불금",
+        "수단",
+        "방법"
+      ],
+      "examples": [
+        "A means of communication Payment",
+        "Cash payments",
+        "a means of communication"
+      ],
+      "start": 51.4,
+      "end": 65.94
+    },
+    {
+      "no": 9,
+      "word": "payment",
+      "meanings": [
+        "지불",
+        "지불금"
+      ],
+      "examples": [
+        "cash payments"
+      ],
+      "start": 58.49,
+      "end": 66.0
+    },
+    {
+      "no": 10,
+      "word": "merit",
+      "meanings": [
+        "장점 가치",
+        "장점",
+        "가치"
+      ],
+      "examples": [
+        "The great merit"
+      ],
+      "start": 65.94,
+      "end": 73.4
+    },
+    {
+      "no": 11,
+      "word": "mirror",
+      "meanings": [
+        "거울"
+      ],
+      "examples": [
+        "To look in the mirror"
+      ],
+      "start": 73.36,
+      "end": 79.61
+    },
+    {
+      "no": 12,
+      "word": "ladder",
+      "meanings": [
+        "사다리"
+      ],
+      "examples": [
+        "To climb up the ladder"
+      ],
+      "start": 79.61,
+      "end": 86.09
+    },
+    {
+      "no": 13,
+      "word": "ingredient",
+      "meanings": [
+        "재료 요소"
+      ],
+      "examples": [
+        "A list of ingredients"
+      ],
+      "start": 86.88,
+      "end": 93.21
+    },
+    {
+      "no": 14,
+      "word": "index",
+      "meanings": [
+        "색인 지수 지표"
+      ],
+      "examples": [
+        "A price index"
+      ],
+      "start": 94.65,
+      "end": 101.94
+    },
+    {
+      "no": 15,
+      "word": "behave",
+      "meanings": [
+        "행동하다"
+      ],
+      "examples": [
+        "To behave like an adult",
+        "To behave"
+      ],
+      "start": 101.92,
+      "end": 109.14
+    },
+    {
+      "no": 16,
+      "word": "compete",
+      "meanings": [
+        "경쟁하다"
+      ],
+      "examples": [
+        "to compete with foreign companies",
+        "To compete with foreign companies"
+      ],
+      "start": 108.0,
+      "end": 116.66
+    },
+    {
+      "no": 17,
+      "word": "argue",
+      "meanings": [
+        "다투다 언쟁하다 주장하다",
+        "풀어주다 방출하다 공개하다"
+      ],
+      "examples": [
+        "To argue with each other Release",
+        "To release a prisoner",
+        "to argue with each other"
+      ],
+      "start": 116.64,
+      "end": 135.32
+    },
+    {
+      "no": 18,
+      "word": "release",
+      "meanings": [
+        "석방하다",
+        "발표하다",
+        "개봉하다"
+      ],
+      "examples": [
+        "to release a prisoner"
+      ],
+      "start": 126.11,
+      "end": 135.36
+    },
+    {
+      "no": 19,
+      "word": "pretend",
+      "meanings": [
+        "결론을 내리다",
+        "관찰하다",
+        "준수하다",
+        "매운",
+        "멋진",
+        "훌륭한",
+        "엄청난",
+        "꾸준한",
+        "여러 가지의",
+        "다양한",
+        "유니크",
+        "독특한",
+        "불필요한",
+        "병든",
+        "아픈",
+        "나쁜",
+        "지하울",
+        "진심으로",
+        "무엇인 척하다"
+      ],
+      "examples": [
+        "to pretend to be asleep",
+        "To pretend",
+        "To be asleep"
+      ],
+      "start": 135.36,
+      "end": 224.98
+    },
+    {
+      "no": 20,
+      "word": "conclude",
+      "meanings": [
+        "결론을 내리다"
+      ],
+      "examples": [
+        "Nothing was concluded"
+      ],
+      "start": 142.55,
+      "end": 149.62
+    },
+    {
+      "no": 21,
+      "word": "observe",
+      "meanings": [
+        "관찰하다",
+        "준소하다"
+      ],
+      "examples": [
+        "To observe his behavior"
+      ],
+      "start": 149.62,
+      "end": 158.17
+    },
+    {
+      "no": 22,
+      "word": "spicy",
+      "meanings": [
+        "매운"
+      ],
+      "examples": [
+        "A spicy tomato sauce"
+      ],
+      "start": 158.17,
+      "end": 165.2
+    },
+    {
+      "no": 23,
+      "word": "terrific",
+      "meanings": [
+        "멋진",
+        "훌륭한",
+        "엄청난"
+      ],
+      "examples": [
+        "A terrific job"
+      ],
+      "start": 165.2,
+      "end": 174.24
+    },
+    {
+      "no": 24,
+      "word": "steady",
+      "meanings": [
+        "꾸준한"
+      ],
+      "examples": [
+        "A steady speed"
+      ],
+      "start": 174.24,
+      "end": 180.37
+    },
+    {
+      "no": 25,
+      "word": "various",
+      "meanings": [
+        "여러 가지의",
+        "다양한"
+      ],
+      "examples": [
+        "In various ways"
+      ],
+      "start": 181.23,
+      "end": 188.3
+    },
+    {
+      "no": 26,
+      "word": "unique",
+      "meanings": [
+        "유일한",
+        "독특한"
+      ],
+      "examples": [
+        "A unique design"
+      ],
+      "start": 188.3,
+      "end": 196.02
+    },
+    {
+      "no": 27,
+      "word": "unnecessary",
+      "meanings": [
+        "불필요한"
+      ],
+      "examples": [
+        "Don't buy unnecessary things"
+      ],
+      "start": 196.85,
+      "end": 203.92
+    },
+    {
+      "no": 28,
+      "word": "ill",
+      "meanings": [
+        "병든",
+        "아픈",
+        "나쁜"
+      ],
+      "examples": [
+        "To become ill"
+      ],
+      "start": 203.92,
+      "end": 212.53
+    },
+    {
+      "no": 29,
+      "word": "underground",
+      "meanings": [
+        "지하울"
+      ],
+      "examples": [
+        "An underground cave"
+      ],
+      "start": 212.53,
+      "end": 220.61
+    },
+    {
+      "no": 30,
+      "word": "sincerely",
+      "meanings": [
+        "진심으로"
+      ],
+      "examples": [
+        "I sincerely hope it will succeed"
+      ],
+      "start": 220.61,
+      "end": 228.26
+    }
+  ],
+  "item_count": 30,
+  "flags": [],
+  "source_method": "merge_en_ko"
+}

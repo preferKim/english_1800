@@ -1,0 +1,391 @@
+{
+  "lesson": "D44",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D44.mp3",
+  "model": "large-v3",
+  "duration_sec": 224.6,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "dinosaur",
+      "meanings": [
+        "공룡"
+      ],
+      "examples": [
+        "Dinosaur bones"
+      ],
+      "start": 2.59,
+      "end": 35.77
+    },
+    {
+      "no": 2,
+      "word": "ruler",
+      "meanings": [
+        "지배자",
+        "자"
+      ],
+      "examples": [
+        "A 12-inch ruler"
+      ],
+      "start": 8.8,
+      "end": 35.77
+    },
+    {
+      "no": 3,
+      "word": "admiral",
+      "meanings": [
+        "해군장군",
+        "제독"
+      ],
+      "examples": [
+        "Admiral Yi Sun-shin"
+      ],
+      "start": 12.58,
+      "end": 35.77
+    },
+    {
+      "no": 4,
+      "word": "liberty",
+      "meanings": [
+        "자유"
+      ],
+      "examples": [
+        "Liberty and equality"
+      ],
+      "start": 24.0,
+      "end": 35.77
+    },
+    {
+      "no": 5,
+      "word": "tragedy",
+      "meanings": [
+        "비극"
+      ],
+      "examples": [
+        "Shakespeare's tragedies"
+      ],
+      "start": 30.87,
+      "end": 35.77
+    },
+    {
+      "no": 6,
+      "word": "trial",
+      "meanings": [
+        "재판",
+        "시험",
+        "실험"
+      ],
+      "examples": [
+        "A fair trial"
+      ],
+      "start": 35.77,
+      "end": 64.91
+    },
+    {
+      "no": 7,
+      "word": "treatment",
+      "meanings": [
+        "치료"
+      ],
+      "examples": [
+        "The treatment of cancer"
+      ],
+      "start": 45.53,
+      "end": 64.91
+    },
+    {
+      "no": 8,
+      "word": "shelter",
+      "meanings": [
+        "주거지",
+        "피신처"
+      ],
+      "examples": [
+        "Food and shelter"
+      ],
+      "start": 51.93,
+      "end": 64.91
+    },
+    {
+      "no": 9,
+      "word": "orphanage",
+      "meanings": [
+        "고아원"
+      ],
+      "examples": [
+        "To visit an orphanage"
+      ],
+      "start": 59.58,
+      "end": 64.91
+    },
+    {
+      "no": 10,
+      "word": "item",
+      "meanings": [
+        "항목",
+        "품목"
+      ],
+      "examples": [
+        "Items on the list"
+      ],
+      "start": 65.68,
+      "end": 99.92
+    },
+    {
+      "no": 11,
+      "word": "gravity",
+      "meanings": [
+        "중력"
+      ],
+      "examples": [
+        "Newton's law of gravity"
+      ],
+      "start": 73.17,
+      "end": 99.92
+    },
+    {
+      "no": 12,
+      "word": "clue",
+      "meanings": [
+        "실마리",
+        "단서",
+        "힌트"
+      ],
+      "examples": [
+        "Give me a clue"
+      ],
+      "start": 79.97,
+      "end": 99.92
+    },
+    {
+      "no": 13,
+      "word": "range",
+      "meanings": [
+        "범위"
+      ],
+      "examples": [
+        "Wide range of goods"
+      ],
+      "start": 88.36,
+      "end": 99.92
+    },
+    {
+      "no": 14,
+      "word": "rumor",
+      "meanings": [
+        "소문"
+      ],
+      "examples": [
+        "A widespread rumor"
+      ],
+      "start": 94.91,
+      "end": 99.92
+    },
+    {
+      "no": 15,
+      "word": "vehicle",
+      "meanings": [
+        "탈 것",
+        "차량"
+      ],
+      "examples": [
+        "Motor vehicles"
+      ],
+      "start": 100.82,
+      "end": 123.95
+    },
+    {
+      "no": 16,
+      "word": "sew",
+      "meanings": [
+        "바느질하다",
+        "꿰매다"
+      ],
+      "examples": [
+        "To sew clothes"
+      ],
+      "start": 107.57,
+      "end": 123.95
+    },
+    {
+      "no": 17,
+      "word": "associate",
+      "meanings": [
+        "연상하다",
+        "연관시키다"
+      ],
+      "examples": [
+        "To associate flowers with spring"
+      ],
+      "start": 116.08,
+      "end": 123.95
+    },
+    {
+      "no": 18,
+      "word": "identify",
+      "meanings": [
+        "확인하다"
+      ],
+      "examples": [
+        "To identify faces"
+      ],
+      "start": 125.64,
+      "end": 136.19
+    },
+    {
+      "no": 19,
+      "word": "mention",
+      "meanings": [
+        "언급하다",
+        "간단히",
+        "말하다"
+      ],
+      "examples": [
+        "To mention it again"
+      ],
+      "start": 132.52,
+      "end": 171.78
+    },
+    {
+      "no": 20,
+      "word": "establish",
+      "meanings": [
+        "설립하다",
+        "확립하다"
+      ],
+      "examples": [
+        "To establish relations"
+      ],
+      "start": 141.21,
+      "end": 171.78
+    },
+    {
+      "no": 21,
+      "word": "unite",
+      "meanings": [
+        "연합하다",
+        "통합하다"
+      ],
+      "examples": [
+        "The United States of America"
+      ],
+      "start": 149.66,
+      "end": 171.78
+    },
+    {
+      "no": 22,
+      "word": "frustrate",
+      "meanings": [
+        "좌절시키다"
+      ],
+      "examples": [
+        "To get frustrated"
+      ],
+      "start": 158.48,
+      "end": 171.78
+    },
+    {
+      "no": 23,
+      "word": "stuck",
+      "meanings": [
+        "움직일 수 없는",
+        "갇힌"
+      ],
+      "examples": [
+        "I was stuck in traffic"
+      ],
+      "start": 165.08,
+      "end": 171.78
+    },
+    {
+      "no": 24,
+      "word": "cheerful",
+      "meanings": [
+        "쾌활한",
+        "유쾌한"
+      ],
+      "examples": [
+        "A cheerful smile"
+      ],
+      "start": 173.59,
+      "end": 207.74
+    },
+    {
+      "no": 25,
+      "word": "careless",
+      "meanings": [
+        "부주의한"
+      ],
+      "examples": [
+        "Careless driving"
+      ],
+      "start": 181.06,
+      "end": 207.74
+    },
+    {
+      "no": 26,
+      "word": "dull",
+      "meanings": [
+        "지루한",
+        "둔한"
+      ],
+      "examples": [
+        "A dull movie"
+      ],
+      "start": 187.37,
+      "end": 207.74
+    },
+    {
+      "no": 27,
+      "word": "disgusting",
+      "meanings": [
+        "역겨운"
+      ],
+      "examples": [
+        "Smoking is disgusting"
+      ],
+      "start": 194.99,
+      "end": 207.74
+    },
+    {
+      "no": 28,
+      "word": "willing",
+      "meanings": [
+        "기꺼이 하는"
+      ],
+      "examples": [
+        "To be willing to help them"
+      ],
+      "start": 202.02,
+      "end": 207.74
+    },
+    {
+      "no": 29,
+      "word": "golden",
+      "meanings": [
+        "금의",
+        "금빛을",
+        "귀중한"
+      ],
+      "examples": [
+        "Golden hair"
+      ],
+      "start": 209.17,
+      "end": 222.97
+    },
+    {
+      "no": 30,
+      "word": "apart",
+      "meanings": [
+        "떨어져"
+      ],
+      "examples": [
+        "I hate it when we're apart"
+      ],
+      "start": 217.78,
+      "end": 222.97
+    }
+  ],
+  "source_method": "en"
+}

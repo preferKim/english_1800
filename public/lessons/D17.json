@@ -1,0 +1,403 @@
+{
+  "lesson": "D17",
+  "source_file": "data/영단어1800-Day별-C(영단어+뜻+예문)/1800-C-D17.mp3",
+  "model": "large-v3",
+  "duration_sec": 235.0,
+  "item_count": 30,
+  "flags": [],
+  "items": [
+    {
+      "no": 1,
+      "word": "outside",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A outside example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 2,
+      "word": "bridge",
+      "meanings": [
+        "다리"
+      ],
+      "examples": [
+        "To cross a bridge"
+      ],
+      "start": 2.28,
+      "end": 6.84
+    },
+    {
+      "no": 3,
+      "word": "ghost",
+      "meanings": [
+        "유령"
+      ],
+      "examples": [
+        "To see a ghost"
+      ],
+      "start": 8.72,
+      "end": 12.92
+    },
+    {
+      "no": 4,
+      "word": "scene",
+      "meanings": [
+        "장면",
+        "현장"
+      ],
+      "examples": [
+        "A scene example"
+      ],
+      "start": 14.69,
+      "end": 18.08
+    },
+    {
+      "no": 5,
+      "word": "wisdom",
+      "meanings": [
+        "지혜"
+      ],
+      "examples": [
+        "Words of wisdom"
+      ],
+      "start": 29.26,
+      "end": 33.04
+    },
+    {
+      "no": 6,
+      "word": "fault",
+      "meanings": [
+        "잘못",
+        "결점"
+      ],
+      "examples": [
+        "It's all my fault"
+      ],
+      "start": 33.04,
+      "end": 40.18
+    },
+    {
+      "no": 7,
+      "word": "flight",
+      "meanings": [
+        "항공편",
+        "비행기 여행",
+        "비행"
+      ],
+      "examples": [
+        "An international flight"
+      ],
+      "start": 41.99,
+      "end": 49.46
+    },
+    {
+      "no": 8,
+      "word": "zoo",
+      "meanings": [
+        "동물원"
+      ],
+      "examples": [
+        "Animals in the zoo"
+      ],
+      "start": 51.28,
+      "end": 55.72
+    },
+    {
+      "no": 9,
+      "word": "candle",
+      "meanings": [
+        "양초"
+      ],
+      "examples": [
+        "To light a candle"
+      ],
+      "start": 57.33,
+      "end": 61.65
+    },
+    {
+      "no": 10,
+      "word": "bottom",
+      "meanings": [
+        "맨 아래",
+        "바닥"
+      ],
+      "examples": [
+        "At the bottom of the page"
+      ],
+      "start": 63.22,
+      "end": 69.14
+    },
+    {
+      "no": 11,
+      "word": "mistake",
+      "meanings": [
+        "실수",
+        "실수하다"
+      ],
+      "examples": [
+        "To make a mistake"
+      ],
+      "start": 70.92,
+      "end": 76.73
+    },
+    {
+      "no": 12,
+      "word": "trouble",
+      "meanings": [
+        "곤란",
+        "공경",
+        "괴롭히다"
+      ],
+      "examples": [
+        "To be in trouble"
+      ],
+      "start": 78.54,
+      "end": 85.3
+    },
+    {
+      "no": 13,
+      "word": "nap",
+      "meanings": [
+        "낮잠",
+        "낮잠을 자다"
+      ],
+      "examples": [
+        "To take a nap"
+      ],
+      "start": 87.13,
+      "end": 92.88
+    },
+    {
+      "no": 14,
+      "word": "blow",
+      "meanings": [
+        "바람이 불다",
+        "강타",
+        "타격"
+      ],
+      "examples": [
+        "The wind blows hard"
+      ],
+      "start": 94.5,
+      "end": 101.68
+    },
+    {
+      "no": 15,
+      "word": "flood",
+      "meanings": [
+        "물에 잠기게 하다",
+        "흘러넘치다",
+        "홍소"
+      ],
+      "examples": [
+        "Flood control"
+      ],
+      "start": 103.36,
+      "end": 113.19
+    },
+    {
+      "no": 16,
+      "word": "hurry",
+      "meanings": [
+        "서두르다",
+        "서두름"
+      ],
+      "examples": [
+        "Hurry up"
+      ],
+      "start": 112.39,
+      "end": 120.12
+    },
+    {
+      "no": 17,
+      "word": "treat",
+      "meanings": [
+        "대하다",
+        "다루다",
+        "치료하다",
+        "대접하다",
+        "한턱내기"
+      ],
+      "examples": [
+        "To treat it with care"
+      ],
+      "start": 119.36,
+      "end": 129.76
+    },
+    {
+      "no": 18,
+      "word": "express",
+      "meanings": [
+        "표현하다",
+        "급행을",
+        "속달",
+        "급행열차"
+      ],
+      "examples": [
+        "Express your feelings"
+      ],
+      "start": 131.54,
+      "end": 140.41
+    },
+    {
+      "no": 19,
+      "word": "breathe",
+      "meanings": [
+        "숨쉬다",
+        "호흡하다"
+      ],
+      "examples": [
+        "To breathe deeply"
+      ],
+      "start": 140.41,
+      "end": 148.17
+    },
+    {
+      "no": 20,
+      "word": "hate",
+      "meanings": [
+        "몹시 싫어하다",
+        "혐오하다"
+      ],
+      "examples": [
+        "To hate snakes"
+      ],
+      "start": 149.96,
+      "end": 156.15
+    },
+    {
+      "no": 21,
+      "word": "create",
+      "meanings": [
+        "창조하다",
+        "창출하다"
+      ],
+      "examples": [
+        "To create jobs"
+      ],
+      "start": 158.1,
+      "end": 164.29
+    },
+    {
+      "no": 22,
+      "word": "divide",
+      "meanings": [
+        "나누다"
+      ],
+      "examples": [
+        "Divide the cake into eight pieces"
+      ],
+      "start": 166.4,
+      "end": 172.99
+    },
+    {
+      "no": 23,
+      "word": "soft",
+      "meanings": [
+        "부드러운"
+      ],
+      "examples": [
+        "A soft skin"
+      ],
+      "start": 174.44,
+      "end": 179.28
+    },
+    {
+      "no": 24,
+      "word": "empty",
+      "meanings": [
+        "비어 있는"
+      ],
+      "examples": [
+        "An empty bottle"
+      ],
+      "start": 181.02,
+      "end": 185.15
+    },
+    {
+      "no": 25,
+      "word": "perfect",
+      "meanings": [
+        "완벽한",
+        "완전한"
+      ],
+      "examples": [
+        "In perfect condition"
+      ],
+      "start": 186.96,
+      "end": 192.92
+    },
+    {
+      "no": 26,
+      "word": "successful",
+      "meanings": [
+        "성공한",
+        "성공적인"
+      ],
+      "examples": [
+        "A successful event"
+      ],
+      "start": 194.86,
+      "end": 201.56
+    },
+    {
+      "no": 27,
+      "word": "everyday",
+      "meanings": [
+        "매일의",
+        "일상의"
+      ],
+      "examples": [
+        "Everyday life"
+      ],
+      "start": 203.37,
+      "end": 209.22
+    },
+    {
+      "no": 28,
+      "word": "low",
+      "meanings": [
+        "낮은",
+        "낮게"
+      ],
+      "examples": [
+        "Low-fat cheese"
+      ],
+      "start": 210.91,
+      "end": 216.41
+    },
+    {
+      "no": 29,
+      "word": "alone",
+      "meanings": [
+        "혼자",
+        "외로이",
+        "외로운"
+      ],
+      "examples": [
+        "To live alone"
+      ],
+      "start": 218.27,
+      "end": 224.83
+    },
+    {
+      "no": 30,
+      "word": "inside",
+      "meanings": [
+        "안",
+        "안쪽",
+        "안쪽에"
+      ],
+      "examples": [
+        "Let's go inside"
+      ],
+      "start": 226.46,
+      "end": 233.28
+    }
+  ],
+  "source_method": "en"
+}
