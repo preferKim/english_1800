@@ -1,12 +1,11 @@
 import React, { useState } from 'react';
-import { BookOpen, AlertCircle, ArrowRight, ShieldCheck } from 'lucide-react';
+import { BookOpen, AlertCircle, ShieldCheck } from 'lucide-react';
 import { db, isSupabaseConfigured } from '../lib/supabaseClient';
 
 interface LoginScreenProps {
-  onContinueAsGuest: () => void;
 }
 
-export const LoginScreen: React.FC<LoginScreenProps> = ({ onContinueAsGuest }) => {
+export const LoginScreen: React.FC<LoginScreenProps> = () => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -143,22 +142,6 @@ export const LoginScreen: React.FC<LoginScreenProps> = ({ onContinueAsGuest }) =
             )}
           </button>
 
-          <button 
-            onClick={onContinueAsGuest} 
-            className="btn btn-outline"
-            disabled={loading}
-            style={{ 
-              padding: '0.8rem', 
-              fontSize: '0.9rem',
-              display: 'flex',
-              justifyContent: 'center',
-              alignItems: 'center',
-              gap: '0.5rem',
-              color: 'var(--text-secondary)'
-            }}
-          >
-            로그인 없이 게스트로 시작하기 <ArrowRight size={14} />
-          </button>
         </div>
 
         <style>{`@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }`}</style>

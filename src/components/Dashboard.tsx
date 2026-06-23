@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BookOpen, Award, CheckCircle, BookMarked, Search, HelpCircle } from 'lucide-react';
+import { BookOpen, Award, CheckCircle, BookMarked, Search, HelpCircle, Zap } from 'lucide-react';
 
 interface DashboardProps {
   onSelectLesson: (lessonId: string, mode: 'study' | 'quiz') => void;
@@ -7,8 +7,6 @@ interface DashboardProps {
   completedStudies: string[];
   quizScores: { [lessonId: string]: { score: number; total: number } };
   incorrectCount: number;
-  isGuest?: boolean;
-  onSignInTrigger?: () => void;
 }
 
 export const Dashboard: React.FC<DashboardProps> = ({
@@ -17,8 +15,6 @@ export const Dashboard: React.FC<DashboardProps> = ({
   completedStudies,
   quizScores,
   incorrectCount,
-  isGuest = false,
-  onSignInTrigger,
 }) => {
   const [activeTab, setActiveTab] = useState<'main' | 'extra'>('main');
   const [searchQuery, setSearchQuery] = useState('');
@@ -84,41 +80,8 @@ export const Dashboard: React.FC<DashboardProps> = ({
 
   return (
     <div className="animate-fade-in">
-      {/* Guest Warning Banner */}
-      {isGuest && (
-        <div 
-          className="glass-panel" 
-          style={{ 
-            padding: '1rem 1.5rem', 
-            marginBottom: '2rem', 
-            display: 'flex', 
-            justifyContent: 'space-between', 
-            alignItems: 'center', 
-            border: '1px solid rgba(245, 158, 11, 0.3)', 
-            background: 'rgba(245, 158, 11, 0.03)',
-            borderRadius: 'var(--radius-md)',
-            flexWrap: 'wrap',
-            gap: '1rem'
-          }}
-        >
-          <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
-            <span style={{ fontSize: '1.25rem' }}>⚠️</span>
-            <div>
-              <div style={{ fontWeight: 700, color: 'var(--warning)', fontSize: '0.95rem' }}>게스트 모드로 학습 중입니다.</div>
-              <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>쿠키를 청소하거나 기기를 변경하면 학습 진도와 오답노트 기록이 모두 손실됩니다.</div>
-            </div>
-          </div>
-          <button 
-            className="btn btn-warning" 
-            onClick={onSignInTrigger}
-            style={{ padding: '0.4rem 1rem', fontSize: '0.85rem', borderRadius: 'var(--radius-sm)' }}
-          >
-            Google 로그인 연동하기
-          </button>
-        </div>
-      )}
       {/* Stats Summary Dashboard */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '1.5rem', marginBottom: '2rem' }}>
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '1.5rem', marginBottom: '2rem' }}>
         
         <div className="glass-panel" style={{ padding: '1.5rem', display: 'flex', alignItems: 'center', gap: '1.25rem' }}>
           <div style={{ background: 'var(--primary-glow)', padding: '1rem', borderRadius: 'var(--radius-md)', color: 'var(--primary)' }}>
@@ -153,9 +116,60 @@ export const Dashboard: React.FC<DashboardProps> = ({
           <div style={{ flexGrow: 1 }}>
             <div style={{ color: 'var(--text-secondary)', fontSize: '0.875rem' }}>오답노트 등록 단어</div>
             <div style={{ fontSize: '1.75rem', fontWeight: 800, color: incorrectCount > 0 ? 'var(--danger)' : 'var(--text-primary)' }}>
-              {incorrectCount} <span style={{ fontSize: '0.9rem', fontWeight: 500, color: 'var(--text-secondary)' }}>단어 복습하기 &rarr;</span>
+              {incorrectCount} <span style={{ fontSize: '0.9rem', fontWeight: 500, color: 'var(--text-secondary)' }}>복습하기 &rarr;</span>
             </div>
           </div>
+        </div>
+
+        <div 
+          className="glass-panel" 
+          style={{ 
+            padding: '1.5rem', 
+            display: 'flex', 
+            flexDirection: 'column', 
+            justifyContent: 'space-between',
+            gap: '0.75rem', 
+            border: '1px solid rgba(14, 165, 233, 0.2)',
+            background: 'linear-gradient(135deg, rgba(14, 165, 233, 0.05) 0%, rgba(18, 24, 38, 0.6) 100%)'
+          }}
+        >
+          <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+            <div style={{ background: 'var(--secondary-glow)', padding: '0.75rem', borderRadius: 'var(--radius-md)', color: 'var(--secondary)' }}>
+              <Zap size={24} />
+            </div>
+            <div>
+              <div style={{ color: 'var(--text-primary)', fontSize: '0.9rem', fontWeight: 700 }}>⚡ 누적 랜덤 퀴즈</div>
+              {quizScores.cumulative ? (
+                <div style={{ fontSize: '1.05rem', fontWeight: 800 }}>
+                  최근: <span style={{ color: 'var(--secondary)' }}>{quizScores.cumulative.score}</span> / {quizScores.cumulative.total}
+                  <span style={{ fontSize: '0.75rem', fontWeight: 500, color: 'var(--text-secondary)', marginLeft: '0.25rem' }}>
+                    ({Math.round(quizScores.cumulative.score / quizScores.cumulative.total * 100)}%)
+                  </span>
+                </div>
+              ) : (
+                <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)' }}>
+                  완료한 강 전체 대상 30문항
+                </div>
+              )}
+            </div>
+          </div>
+          <button
+            className={`btn ${completedStudies.length === 0 ? 'btn-secondary btn-disabled' : 'btn-primary'}`}
+            disabled={completedStudies.length === 0}
+            onClick={() => onSelectLesson('cumulative', 'quiz')}
+            style={{ 
+              width: '100%', 
+              padding: '0.4rem 0.8rem', 
+              fontSize: '0.8rem',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              gap: '0.25rem'
+            }}
+            title={completedStudies.length === 0 ? '학습 완료한 강의가 있어야 도전할 수 있습니다.' : '누적 퀴즈 도전'}
+          >
+            <Zap size={12} /> 누적 퀴즈 도전
+          </button>
         </div>
 
       </div>

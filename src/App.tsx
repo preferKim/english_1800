@@ -5,7 +5,7 @@ import { QuizMode } from './components/QuizMode';
 import { NotebookMode } from './components/NotebookMode';
 import { LoginScreen } from './components/LoginScreen';
 import { db, supabase } from './lib/supabaseClient';
-import { BookOpen, BookMarked, LogOut, LogIn } from 'lucide-react';
+import { BookOpen, BookMarked, LogOut } from 'lucide-react';
 
 function App() {
   const [activeScreen, setActiveScreen] = useState<'dashboard' | 'study' | 'quiz' | 'notebook'>('dashboard');
@@ -14,7 +14,6 @@ function App() {
   // Auth & Session States
   const [userId, setUserId] = useState<string>('');
   const [userMetadata, setUserMetadata] = useState<{ name?: string; email?: string; avatarUrl?: string } | null>(null);
-  const [isGuestMode, setIsGuestMode] = useState<boolean>(false);
   const [authLoading, setAuthLoading] = useState<boolean>(true);
 
   // Progress States
@@ -25,8 +24,7 @@ function App() {
   // 1. Auth Listener
   useEffect(() => {
     if (!supabase) {
-      // No Supabase, default to Guest Mode immediately
-      setupGuestSession();
+      // No Supabase, stop loading (LoginScreen will display configure error warning)
       setAuthLoading(false);
       return;
     }
@@ -36,13 +34,8 @@ function App() {
       if (session) {
         handleUserLogin(session.user);
       } else {
-        // No session found
-        const preferredMode = localStorage.getItem('english_1800_auth_mode');
-        if (preferredMode === 'guest') {
-          setupGuestSession();
-        } else {
-          setAuthLoading(false);
-        }
+        // No session found, force sign-in
+        setAuthLoading(false);
       }
     });
 
@@ -58,28 +51,10 @@ function App() {
     return () => subscription.unsubscribe();
   }, []);
 
-  // Helper: Setup Guest Session
-  const setupGuestSession = () => {
-    let storedUid = localStorage.getItem('english_1800_user_id');
-    if (!storedUid || storedUid.startsWith('guest_') === false) {
-      storedUid = 'guest_' + Math.random().toString(36).substring(2, 11);
-      localStorage.setItem('english_1800_user_id', storedUid);
-    }
-    setUserId(storedUid);
-    setUserMetadata(null);
-    setIsGuestMode(true);
-    localStorage.setItem('english_1800_auth_mode', 'guest');
-    
-    // Load local progress
-    loadLocalProgress();
-    setAuthLoading(false);
-  };
-
   // Helper: Handle Login Session
   const handleUserLogin = async (sbUser: any) => {
     const uid = sbUser.id;
     setUserId(uid);
-    setIsGuestMode(false);
     localStorage.setItem('english_1800_user_id', uid);
     localStorage.setItem('english_1800_auth_mode', 'auth');
 
@@ -116,7 +91,6 @@ function App() {
   const handleUserLogout = () => {
     setUserId('');
     setUserMetadata(null);
-    setIsGuestMode(false);
     localStorage.removeItem('english_1800_auth_mode');
     setCompletedStudies([]);
     setQuizScores({});
@@ -172,10 +146,8 @@ function App() {
       setCompletedStudies(updated);
       localStorage.setItem('english_1800_completed_studies', JSON.stringify(updated));
 
-      // Push to cloud if logged in
-      if (!isGuestMode) {
-        await db.saveUserProgress(userId, updated, quizScores);
-      }
+      // Push to cloud
+      await db.saveUserProgress(userId, updated, quizScores);
     }
   };
 
@@ -192,10 +164,8 @@ function App() {
       setQuizScores(updated);
       localStorage.setItem('english_1800_quiz_scores', JSON.stringify(updated));
 
-      // Push to cloud if logged in
-      if (!isGuestMode) {
-        await db.saveUserProgress(userId, completedStudies, updated);
-      }
+      // Push to cloud
+      await db.saveUserProgress(userId, completedStudies, updated);
     }
     
     setTimeout(() => {
@@ -221,9 +191,9 @@ function App() {
     );
   }
 
-  // Not logged in and not continuing as guest: Show Login Portal
-  if (!userId && !isGuestMode) {
-    return <LoginScreen onContinueAsGuest={setupGuestSession} />;
+  // Not logged in: Show Login Portal
+  if (!userId) {
+    return <LoginScreen />;
   }
 
   return (
@@ -261,7 +231,7 @@ function App() {
         <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', flexWrap: 'wrap' }}>
           
           {/* User profile / Logged In info */}
-          {userMetadata ? (
+          {userMetadata && (
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', background: 'rgba(255,255,255,0.03)', padding: '0.35rem 0.75rem', borderRadius: 'var(--radius-full)', border: '1px solid var(--border-light)' }}>
               {userMetadata.avatarUrl ? (
                 <img 
@@ -283,22 +253,6 @@ function App() {
                 title="로그아웃"
               >
                 <LogOut size={16} onMouseEnter={e => e.currentTarget.style.color = 'var(--danger)'} onMouseLeave={e => e.currentTarget.style.color = 'var(--text-tertiary)'} />
-              </button>
-            </div>
-          ) : (
-            // Guest Mode banner trigger
-            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-              <span className="badge badge-warning" style={{ textTransform: 'none', fontSize: '0.75rem' }}>게스트 학습 중</span>
-              <button 
-                onClick={() => {
-                  localStorage.removeItem('english_1800_auth_mode');
-                  setUserId('');
-                  setIsGuestMode(false);
-                }}
-                className="btn btn-outline"
-                style={{ padding: '0.3rem 0.75rem', fontSize: '0.75rem', display: 'flex', alignItems: 'center', gap: '0.25rem' }}
-              >
-                <LogIn size={12} /> 로그인하기
               </button>
             </div>
           )}
@@ -338,12 +292,6 @@ function App() {
             completedStudies={completedStudies}
             quizScores={quizScores}
             incorrectCount={incorrectCount}
-            isGuest={isGuestMode}
-            onSignInTrigger={() => {
-              localStorage.removeItem('english_1800_auth_mode');
-              setUserId('');
-              setIsGuestMode(false);
-            }}
           />
         )}
 
@@ -362,6 +310,7 @@ function App() {
           <QuizMode
             lessonId={selectedLessonId}
             userId={userId}
+            completedStudies={completedStudies}
             onBack={() => {
               setActiveScreen('dashboard');
               refreshIncorrectCount();
@@ -384,7 +333,7 @@ function App() {
 
       {/* Footer */}
       <footer style={{ textAlign: 'center', padding: '2rem 1rem', color: 'var(--text-tertiary)', borderTop: '1px solid var(--border-light)', fontSize: '0.8rem' }}>
-        &copy; {new Date().getFullYear()} English 1800 단어장. All rights reserved. | {userMetadata ? `연동 계정: ${userMetadata.email}` : `로컬 게스트 모드`}
+        &copy; {new Date().getFullYear()} English 1800 단어장. All rights reserved. | 연동 계정: {userMetadata?.email}
       </footer>
 
     </div>

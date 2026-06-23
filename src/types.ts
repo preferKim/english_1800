@@ -28,6 +28,8 @@ export interface IncorrectAnswer {
   incorrect_count: number;
   last_incorrect_at?: string;
   is_learned: boolean;
+  review_stage?: number;
+  next_review_at?: string;
 }
 
 export interface QuizQuestion {

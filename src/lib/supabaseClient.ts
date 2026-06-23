@@ -95,6 +95,7 @@ export const db = {
     examples: string[]
   ): Promise<IncorrectAnswer> {
     const nowString = new Date().toISOString();
+    const tomorrowString = new Date(Date.now() + 24 * 60 * 60 * 1000).toISOString();
 
     if (supabase && isUuid(userId)) {
       try {
@@ -115,6 +116,8 @@ export const db = {
             .update({
               incorrect_count: existing.incorrect_count + 1,
               is_learned: false,
+              review_stage: 1,
+              next_review_at: tomorrowString,
               last_incorrect_at: nowString
             })
             .eq('id', existing.id)
@@ -134,6 +137,8 @@ export const db = {
               examples,
               incorrect_count: 1,
               is_learned: false,
+              review_stage: 1,
+              next_review_at: tomorrowString,
               last_incorrect_at: nowString
             })
             .select()
@@ -155,6 +160,8 @@ export const db = {
         ...localData[existingIndex],
         incorrect_count: localData[existingIndex].incorrect_count + 1,
         is_learned: false,
+        review_stage: 1,
+        next_review_at: tomorrowString,
         last_incorrect_at: nowString
       };
       saveLocalIncorrectAnswers(localData);
@@ -169,6 +176,8 @@ export const db = {
         examples,
         incorrect_count: 1,
         is_learned: false,
+        review_stage: 1,
+        next_review_at: tomorrowString,
         last_incorrect_at: nowString
       };
       localData.push(newItem);
@@ -280,5 +289,95 @@ export const db = {
       }
     }
     return false;
+  },
+
+  /**
+   * Spaced Repetition: Update review stage (Leitner 5-Stage System)
+   * isCorrect = true: level increments, schedules next review further out. If Stage 5, sets is_learned = true.
+   * isCorrect = false: level resets to Stage 1, schedules review for tomorrow.
+   */
+  async updateReviewStage(userId: string, word: string, isCorrect: boolean): Promise<IncorrectAnswer | null> {
+    const nowString = new Date().toISOString();
+    
+    let existing: IncorrectAnswer | null = null;
+    let localData: IncorrectAnswer[] = [];
+    let localIndex = -1;
+
+    // 1. Retrieve the existing entry
+    if (supabase && isUuid(userId)) {
+      try {
+        const { data, error } = await supabase
+          .from('incorrect_answers')
+          .select('*')
+          .eq('user_id', userId)
+          .eq('word', word)
+          .single();
+        if (!error) existing = data as IncorrectAnswer;
+      } catch (e) {
+        console.error('Failed to get existing entry from Supabase:', e);
+      }
+    }
+
+    if (!existing) {
+      localData = getLocalIncorrectAnswers();
+      localIndex = localData.findIndex(item => item.user_id === userId && item.word === word);
+      if (localIndex > -1) {
+        existing = localData[localIndex];
+      }
+    }
+
+    if (!existing) return null;
+
+    // 2. Calculate new stage & date
+    let newStage = existing.review_stage || 1;
+    if (isCorrect) {
+      newStage = Math.min(5, newStage + 1);
+    } else {
+      newStage = 1; // reset on mistake
+    }
+
+    // Interval days mapping: Stage 1 = +1d, Stage 2 = +3d, Stage 3 = +7d, Stage 4 = +14d, Stage 5 = +30d
+    const intervals = [0, 1, 3, 7, 14, 30];
+    const days = intervals[newStage] || 1;
+    const nextReviewString = new Date(Date.now() + days * 24 * 60 * 60 * 1000).toISOString();
+    const isLearned = (newStage === 5);
+
+    const updates = {
+      review_stage: newStage,
+      next_review_at: nextReviewString,
+      is_learned: isLearned,
+      last_incorrect_at: isCorrect ? existing.last_incorrect_at : nowString
+    };
+
+    // 3. Write updates
+    if (supabase && isUuid(userId)) {
+      try {
+        const { data, error } = await supabase
+          .from('incorrect_answers')
+          .update(updates)
+          .eq('user_id', userId)
+          .eq('word', word)
+          .select()
+          .single();
+
+        if (error) throw error;
+        return data as IncorrectAnswer;
+      } catch (e) {
+        console.error('Failed to update review stage in Supabase, using localStorage fallback:', e);
+      }
+    }
+
+    const localUpdated: IncorrectAnswer = {
+      ...existing,
+      ...updates
+    };
+
+    if (localIndex > -1) {
+      localData[localIndex] = localUpdated;
+    } else {
+      localData.push(localUpdated);
+    }
+    saveLocalIncorrectAnswers(localData);
+    return localUpdated;
   }
 };

@@ -20,6 +20,7 @@ export const NotebookMode: React.FC<NotebookModeProps> = ({
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [filterLearned, setFilterLearned] = useState<'all' | 'learning' | 'mastered'>('learning');
+  const [reviewScope, setReviewScope] = useState<'due' | 'all'>('due');
   const [selectedLesson, setSelectedLesson] = useState<string>('all');
 
   // Practice Modes
@@ -61,31 +62,132 @@ export const NotebookMode: React.FC<NotebookModeProps> = ({
     }
   };
 
-  const handleToggleLearned = async (word: string, currentStatus: boolean) => {
+  // Spaced Repetition (Leitner) update callback
+  const handleReviewResult = async (word: string, isCorrect: boolean) => {
     try {
-      const newStatus = !currentStatus;
-      await db.markAsLearned(userId, word, newStatus);
-      setIncorrectList(prev => 
-        prev.map(item => item.word === word ? { ...item, is_learned: newStatus } : item)
-      );
-      onRefreshStats();
+      const updated = await db.updateReviewStage(userId, word, isCorrect);
+      if (updated) {
+        setIncorrectList(prev => 
+          prev.map(item => item.word === word ? updated : item)
+        );
+        onRefreshStats();
+      }
     } catch (e) {
-      console.error(e);
+      console.error('Failed to update review result:', e);
     }
   };
 
-  // Filter lists
+  const handleToggleLearned = async (word: string, currentIsLearned: boolean) => {
+    try {
+      const newIsLearned = !currentIsLearned;
+      await db.markAsLearned(userId, word, newIsLearned);
+      
+      setIncorrectList(prev => 
+        prev.map(item => {
+          if (item.word === word) {
+            return {
+              ...item,
+              is_learned: newIsLearned,
+              review_stage: newIsLearned ? 5 : 1,
+              next_review_at: newIsLearned 
+                ? new Date(Date.now() + 30 * 24 * 60 * 60 * 1000).toISOString()
+                : new Date(Date.now() + 24 * 60 * 60 * 1000).toISOString()
+            };
+          }
+          return item;
+        })
+      );
+      onRefreshStats();
+    } catch (e) {
+      console.error('Failed to toggle learned status:', e);
+    }
+  };
+
+  const renderStageBadge = (stage?: number, isLearned?: boolean) => {
+    if (isLearned || stage === 5) {
+      return (
+        <span 
+          className="badge badge-success" 
+          style={{ 
+            fontSize: '0.75rem', 
+            padding: '0.2rem 0.5rem', 
+            fontWeight: 700,
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: '0.15rem'
+          }}
+        >
+          <Award size={10} /> 5단계 (완료)
+        </span>
+      );
+    }
+    
+    const currentStage = stage || 1;
+    let badgeColor = 'var(--danger)';
+    if (currentStage === 2) badgeColor = 'var(--warning)';
+    if (currentStage === 3) badgeColor = '#3b82f6';
+    if (currentStage === 4) badgeColor = '#8b5cf6';
+    
+    return (
+      <span 
+        className="badge" 
+        style={{ 
+          background: badgeColor, 
+          color: 'white', 
+          fontSize: '0.75rem', 
+          padding: '0.2rem 0.5rem', 
+          fontWeight: 700 
+        }}
+      >
+        {currentStage}단계
+      </span>
+    );
+  };
+
+  const getNextReviewText = (item: IncorrectAnswer) => {
+    if (item.is_learned || item.review_stage === 5) {
+      return <span style={{ color: 'var(--success)', fontWeight: 600 }}>마스터</span>;
+    }
+    if (!item.next_review_at) {
+      return <span style={{ color: 'var(--danger)', fontWeight: 600 }}>오늘 복습</span>;
+    }
+    const diff = new Date(item.next_review_at).getTime() - Date.now();
+    if (diff <= 0) {
+      return <span style={{ color: 'var(--danger)', fontWeight: 600 }}>오늘 복습</span>;
+    }
+    const days = Math.ceil(diff / (1000 * 60 * 60 * 24));
+    return <span style={{ color: 'var(--text-secondary)' }}>{days}일 후</span>;
+  };
+
+  const now = new Date();
+
+  // Due list (unlearned & review date <= now)
+  const dueList = incorrectList.filter(item => {
+    if (item.is_learned) return false;
+    if (!item.next_review_at) return true;
+    return new Date(item.next_review_at) <= now;
+  });
+
+  const dueCount = dueList.length;
+
+  // Filter lists based on reviewScope
   const filteredList = incorrectList.filter(item => {
-    const matchesLearned = 
-      filterLearned === 'all' ? true :
-      filterLearned === 'mastered' ? item.is_learned === true :
-      item.is_learned === false;
+    if (reviewScope === 'due') {
+      const isDue = !item.next_review_at || new Date(item.next_review_at) <= now;
+      if (item.is_learned || !isDue) return false;
+    } else {
+      const matchesLearned = 
+        filterLearned === 'all' ? true :
+        filterLearned === 'mastered' ? item.is_learned === true :
+        item.is_learned === false;
+      if (!matchesLearned) return false;
+    }
       
     const matchesLesson = 
       selectedLesson === 'all' ? true :
       item.lesson_id === selectedLesson;
 
-    return matchesLearned && matchesLesson;
+    return matchesLesson;
   });
 
   // Extract unique lesson list from incorrect notes for filter
@@ -140,14 +242,17 @@ export const NotebookMode: React.FC<NotebookModeProps> = ({
 
     if (isCorrect) {
       setQuizScore(prev => prev + 1);
-      // Automatically mark as learned if got it right in review quiz!
-      db.markAsLearned(userId, currentQ.word, true).then(() => {
+    }
+
+    // Update Leitner review stage: increment on correct, reset on incorrect
+    db.updateReviewStage(userId, currentQ.word, isCorrect).then((updated) => {
+      if (updated) {
         setIncorrectList(prev => 
-          prev.map(item => item.word === currentQ.word ? { ...item, is_learned: true } : item)
+          prev.map(item => item.word === currentQ.word ? updated : item)
         );
         onRefreshStats();
-      });
-    }
+      }
+    }).catch(err => console.error('Failed to update stage in quiz review:', err));
   };
 
   const handleNextQuiz = () => {
@@ -385,54 +490,114 @@ export const NotebookMode: React.FC<NotebookModeProps> = ({
         </button>
       </div>
 
+      {/* Tab Switcher for Review Scope */}
+      <div style={{ display: 'flex', borderBottom: '1px solid var(--border-light)', marginBottom: '1.5rem', gap: '1rem' }}>
+        <button
+          onClick={() => setReviewScope('due')}
+          style={{
+            background: 'none',
+            border: 'none',
+            borderBottom: reviewScope === 'due' ? '3px solid var(--primary)' : '3px solid transparent',
+            color: reviewScope === 'due' ? 'var(--text-primary)' : 'var(--text-secondary)',
+            padding: '0.75rem 1.25rem',
+            fontSize: '1.05rem',
+            fontWeight: 700,
+            cursor: 'pointer',
+            transition: 'all var(--transition-fast)',
+            display: 'flex',
+            alignItems: 'center',
+            gap: '0.5rem'
+          }}
+        >
+          <BookOpen size={18} />
+          오늘의 복습 대상
+          <span 
+            className="badge" 
+            style={{ 
+              marginLeft: '0.25rem', 
+              background: dueCount > 0 ? 'var(--danger)' : 'var(--bg-tertiary)',
+              color: dueCount > 0 ? 'white' : 'var(--text-secondary)',
+              padding: '0.15rem 0.5rem'
+            }}
+          >
+            {dueCount}
+          </span>
+        </button>
+        <button
+          onClick={() => setReviewScope('all')}
+          style={{
+            background: 'none',
+            border: 'none',
+            borderBottom: reviewScope === 'all' ? '3px solid var(--primary)' : '3px solid transparent',
+            color: reviewScope === 'all' ? 'var(--text-primary)' : 'var(--text-secondary)',
+            padding: '0.75rem 1.25rem',
+            fontSize: '1.05rem',
+            fontWeight: 700,
+            cursor: 'pointer',
+            transition: 'all var(--transition-fast)',
+            display: 'flex',
+            alignItems: 'center',
+            gap: '0.5rem'
+          }}
+        >
+          <RefreshCcw size={18} />
+          전체 오답 단어장
+          <span className="badge badge-secondary" style={{ marginLeft: '0.25rem', padding: '0.15rem 0.5rem' }}>
+            {incorrectList.length}
+          </span>
+        </button>
+      </div>
+
       {/* Filter panel */}
       <div className="glass-panel" style={{ padding: '1.25rem', marginBottom: '2rem', display: 'flex', flexWrap: 'wrap', gap: '1.5rem', justifyContent: 'space-between', alignItems: 'center' }}>
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
-          {/* Status filter */}
-          <div>
-            <label style={{ display: 'block', fontSize: '0.75rem', color: 'var(--text-tertiary)', fontWeight: 700, marginBottom: '0.25rem' }}>상태 필터</label>
-            <div style={{ display: 'flex', background: 'var(--bg-secondary)', padding: '0.2rem', borderRadius: 'var(--radius-md)', border: '1px solid var(--border-light)' }}>
-              <button 
-                className="btn" 
-                onClick={() => setFilterLearned('learning')}
-                style={{ 
-                  padding: '0.3rem 0.8rem', 
-                  fontSize: '0.85rem', 
-                  borderRadius: 'var(--radius-sm)',
-                  background: filterLearned === 'learning' ? 'var(--primary)' : 'transparent',
-                  color: filterLearned === 'learning' ? 'white' : 'var(--text-secondary)'
-                }}
-              >
-                학습 중 ({incorrectList.filter(i => !i.is_learned).length})
-              </button>
-              <button 
-                className="btn" 
-                onClick={() => setFilterLearned('mastered')}
-                style={{ 
-                  padding: '0.3rem 0.8rem', 
-                  fontSize: '0.85rem', 
-                  borderRadius: 'var(--radius-sm)',
-                  background: filterLearned === 'mastered' ? 'var(--primary)' : 'transparent',
-                  color: filterLearned === 'mastered' ? 'white' : 'var(--text-secondary)'
-                }}
-              >
-                완료 ({incorrectList.filter(i => i.is_learned).length})
-              </button>
-              <button 
-                className="btn" 
-                onClick={() => setFilterLearned('all')}
-                style={{ 
-                  padding: '0.3rem 0.8rem', 
-                  fontSize: '0.85rem', 
-                  borderRadius: 'var(--radius-sm)',
-                  background: filterLearned === 'all' ? 'var(--primary)' : 'transparent',
-                  color: filterLearned === 'all' ? 'white' : 'var(--text-secondary)'
-                }}
-              >
-                전체 ({incorrectList.length})
-              </button>
+          {/* Status filter (Only visible in 'All' tab) */}
+          {reviewScope === 'all' && (
+            <div>
+              <label style={{ display: 'block', fontSize: '0.75rem', color: 'var(--text-tertiary)', fontWeight: 700, marginBottom: '0.25rem' }}>상태 필터</label>
+              <div style={{ display: 'flex', background: 'var(--bg-secondary)', padding: '0.2rem', borderRadius: 'var(--radius-md)', border: '1px solid var(--border-light)' }}>
+                <button 
+                  className="btn" 
+                  onClick={() => setFilterLearned('learning')}
+                  style={{ 
+                    padding: '0.3rem 0.8rem', 
+                    fontSize: '0.85rem', 
+                    borderRadius: 'var(--radius-sm)',
+                    background: filterLearned === 'learning' ? 'var(--primary)' : 'transparent',
+                    color: filterLearned === 'learning' ? 'white' : 'var(--text-secondary)'
+                  }}
+                >
+                  학습 중 ({incorrectList.filter(i => !i.is_learned).length})
+                </button>
+                <button 
+                  className="btn" 
+                  onClick={() => setFilterLearned('mastered')}
+                  style={{ 
+                    padding: '0.3rem 0.8rem', 
+                    fontSize: '0.85rem', 
+                    borderRadius: 'var(--radius-sm)',
+                    background: filterLearned === 'mastered' ? 'var(--primary)' : 'transparent',
+                    color: filterLearned === 'mastered' ? 'white' : 'var(--text-secondary)'
+                  }}
+                >
+                  완료 ({incorrectList.filter(i => i.is_learned).length})
+                </button>
+                <button 
+                  className="btn" 
+                  onClick={() => setFilterLearned('all')}
+                  style={{ 
+                    padding: '0.3rem 0.8rem', 
+                    fontSize: '0.85rem', 
+                    borderRadius: 'var(--radius-sm)',
+                    background: filterLearned === 'all' ? 'var(--primary)' : 'transparent',
+                    color: filterLearned === 'all' ? 'white' : 'var(--text-secondary)'
+                  }}
+                >
+                  전체 ({incorrectList.length})
+                </button>
+              </div>
             </div>
-          </div>
+          )}
 
           {/* Lesson Filter */}
           <div>
@@ -481,11 +646,12 @@ export const NotebookMode: React.FC<NotebookModeProps> = ({
         <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left' }}>
           <thead>
             <tr style={{ background: 'var(--bg-tertiary)', borderBottom: '1px solid var(--border-light)' }}>
-              <th style={{ padding: '1rem', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>상태</th>
+              <th style={{ padding: '1rem', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>단계 / 예정일</th>
               <th style={{ padding: '1rem', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>단어</th>
               <th style={{ padding: '1rem', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>뜻</th>
               <th style={{ padding: '1rem', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>강의</th>
               <th style={{ padding: '1rem', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>틀린 횟수</th>
+              <th style={{ padding: '1rem', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>복습 결과 기록</th>
               <th style={{ padding: '1rem', fontSize: '0.85rem', color: 'var(--text-secondary)', textAlign: 'right' }}>관리</th>
             </tr>
           </thead>
@@ -500,21 +666,23 @@ export const NotebookMode: React.FC<NotebookModeProps> = ({
                   transition: 'all var(--transition-fast)'
                 }}
               >
-                {/* State toggle */}
+                {/* Stage Badge & Date */}
                 <td style={{ padding: '0.75rem 1rem' }}>
-                  <button 
-                    onClick={() => handleToggleLearned(item.word, item.is_learned)}
-                    style={{ background: 'none', border: 'none', cursor: 'pointer', color: item.is_learned ? 'var(--success)' : 'var(--text-tertiary)' }}
-                    title={item.is_learned ? '미완료로 표시' : '완료로 표시'}
-                  >
-                    <CheckCircle size={20} />
-                  </button>
+                  <div style={{ display: 'flex', flexDirection: 'column', gap: '0.25rem', alignItems: 'flex-start' }}>
+                    {renderStageBadge(item.review_stage, item.is_learned)}
+                    <span style={{ fontSize: '0.75rem', color: 'var(--text-secondary)' }}>{getNextReviewText(item)}</span>
+                  </div>
                 </td>
                 
                 {/* Word */}
                 <td style={{ padding: '0.75rem 1rem' }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-                    <span style={{ fontWeight: 700, fontSize: '1.05rem' }}>{item.word}</span>
+                    <span 
+                      style={{ fontWeight: 700, fontSize: '1.05rem', cursor: 'pointer', borderBottom: '1px dashed var(--text-tertiary)' }}
+                      onClick={() => speakWord(item.word)}
+                    >
+                      {item.word}
+                    </span>
                     <button 
                       onClick={() => speakWord(item.word)}
                       style={{ background: 'none', border: 'none', cursor: 'pointer', color: 'var(--text-tertiary)' }}
@@ -541,24 +709,55 @@ export const NotebookMode: React.FC<NotebookModeProps> = ({
                   </span>
                 </td>
 
+                {/* Review evaluation buttons */}
+                <td style={{ padding: '0.75rem 1rem' }}>
+                  <div style={{ display: 'flex', gap: '0.4rem' }}>
+                    <button
+                      className="btn btn-success"
+                      onClick={() => handleReviewResult(item.word, true)}
+                      style={{ padding: '0.25rem 0.5rem', fontSize: '0.75rem', minHeight: 'auto', borderRadius: 'var(--radius-sm)' }}
+                      title="외웠습니다 (+1단계)"
+                    >
+                      <Check size={12} /> 외움
+                    </button>
+                    <button
+                      className="btn btn-danger"
+                      onClick={() => handleReviewResult(item.word, false)}
+                      style={{ padding: '0.25rem 0.5rem', fontSize: '0.75rem', minHeight: 'auto', borderRadius: 'var(--radius-sm)' }}
+                      title="틀렸습니다 (1단계로)"
+                    >
+                      <RefreshCcw size={12} /> 틀림
+                    </button>
+                  </div>
+                </td>
+
                 {/* Actions */}
                 <td style={{ padding: '0.75rem 1rem', textAlign: 'right' }}>
-                  <button 
-                    onClick={() => handleDelete(item.word)}
-                    style={{ background: 'none', border: 'none', cursor: 'pointer', color: 'var(--danger)', opacity: 0.8 }}
-                    onMouseEnter={e => e.currentTarget.style.opacity = '1'}
-                    onMouseLeave={e => e.currentTarget.style.opacity = '0.8'}
-                    title="오답노트에서 삭제"
-                  >
-                    <Trash2 size={16} />
-                  </button>
+                  <div style={{ display: 'inline-flex', gap: '0.75rem', alignItems: 'center' }}>
+                    <button 
+                      onClick={() => handleToggleLearned(item.word, !!item.is_learned)}
+                      style={{ background: 'none', border: 'none', cursor: 'pointer', color: item.is_learned ? 'var(--success)' : 'var(--text-tertiary)' }}
+                      title={item.is_learned ? '복습 대상으로 변경' : '바로 완료(마스터) 처리'}
+                    >
+                      <CheckCircle size={18} />
+                    </button>
+                    <button 
+                      onClick={() => handleDelete(item.word)}
+                      style={{ background: 'none', border: 'none', cursor: 'pointer', color: 'var(--danger)', opacity: 0.8 }}
+                      onMouseEnter={e => e.currentTarget.style.opacity = '1'}
+                      onMouseLeave={e => e.currentTarget.style.opacity = '0.8'}
+                      title="오답노트에서 삭제"
+                    >
+                      <Trash2 size={16} />
+                    </button>
+                  </div>
                 </td>
               </tr>
             ))}
 
             {filteredList.length === 0 && (
               <tr>
-                <td colSpan={6} style={{ padding: '4rem 1rem', textAlign: 'center', color: 'var(--text-secondary)' }}>
+                <td colSpan={7} style={{ padding: '4rem 1rem', textAlign: 'center', color: 'var(--text-secondary)' }}>
                   오답노트에 해당하는 단어가 없습니다.
                 </td>
               </tr>

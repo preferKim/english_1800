@@ -7,6 +7,7 @@ import { useSpeech } from '../hooks/useSpeech';
 interface QuizModeProps {
   lessonId: string;
   userId: string;
+  completedStudies?: string[];
   onBack: () => void;
   onSaveScore: (lessonId: string, score: number, total: number) => void;
 }
@@ -14,6 +15,7 @@ interface QuizModeProps {
 export const QuizMode: React.FC<QuizModeProps> = ({
   lessonId,
   userId,
+  completedStudies = [],
   onBack,
   onSaveScore,
 }) => {
@@ -32,21 +34,54 @@ export const QuizMode: React.FC<QuizModeProps> = ({
   useEffect(() => {
     setLoading(true);
     setError(null);
-    fetch(`/lessons/${lessonId}.json`)
-      .then(res => {
-        if (!res.ok) throw new Error(`강의 정보를 불러오지 못했습니다 (${res.status})`);
-        return res.json();
-      })
-      .then((data: LessonData) => {
-        generateQuiz(data.items);
+
+    if (lessonId === 'cumulative') {
+      if (!completedStudies || completedStudies.length === 0) {
+        setError('학습을 완료한 강의가 없습니다. 먼저 강의 학습을 완료해 주세요.');
         setLoading(false);
-      })
-      .catch(err => {
-        console.error(err);
-        setError(err.message);
-        setLoading(false);
-      });
-  }, [lessonId]);
+        return;
+      }
+
+      const fetchPromises = completedStudies.map(id =>
+        fetch(`/lessons/${id}.json`).then(res => {
+          if (!res.ok) throw new Error(`강의 ${id} 정보를 불러오지 못했습니다.`);
+          return res.json();
+        })
+      );
+
+      Promise.all(fetchPromises)
+        .then((lessonsData: LessonData[]) => {
+          const allItems = lessonsData.flatMap(lesson => 
+            lesson.items.map(item => ({
+              ...item,
+              lessonId: lesson.lesson
+            }))
+          );
+          generateQuiz(allItems);
+          setLoading(false);
+        })
+        .catch(err => {
+          console.error(err);
+          setError(err.message || '누적 학습 단어를 불러오는 중 오류가 발생했습니다.');
+          setLoading(false);
+        });
+    } else {
+      fetch(`/lessons/${lessonId}.json`)
+        .then(res => {
+          if (!res.ok) throw new Error(`강의 정보를 불러오지 못했습니다 (${res.status})`);
+          return res.json();
+        })
+        .then((data: LessonData) => {
+          generateQuiz(data.items);
+          setLoading(false);
+        })
+        .catch(err => {
+          console.error(err);
+          setError(err.message);
+          setLoading(false);
+        });
+    }
+  }, [lessonId, completedStudies]);
 
   // Generate random questions of mixed types for all words in the lesson
   const generateQuiz = (items: WordItem[]) => {
@@ -56,7 +91,11 @@ export const QuizMode: React.FC<QuizModeProps> = ({
     }
 
     // Shuffle all words
-    const selectedWords = [...items].sort(() => 0.5 - Math.random());
+    let selectedWords = [...items].sort(() => 0.5 - Math.random());
+
+    if (lessonId === 'cumulative') {
+      selectedWords = selectedWords.slice(0, 30);
+    }
 
     const generatedQuestions: QuizQuestion[] = selectedWords.map((wordItem, idx) => {
       // Pick random question type
@@ -173,9 +212,10 @@ export const QuizMode: React.FC<QuizModeProps> = ({
       setScore(prev => prev + 1);
     } else {
       // Sync incorrect answer to Supabase DB (or localStorage fallback)
+      const originalLessonId = (currentQuestion.word as any).lessonId || lessonId;
       db.addIncorrectAnswer(
         userId,
-        lessonId,
+        originalLessonId,
         currentQuestion.word.word,
         currentQuestion.word.meanings,
         currentQuestion.word.examples
@@ -230,7 +270,11 @@ export const QuizMode: React.FC<QuizModeProps> = ({
           </div>
           <h2 style={{ fontSize: '1.75rem', fontWeight: 800, marginBottom: '0.5rem' }}>퀴즈를 마쳤습니다!</h2>
           <p style={{ color: 'var(--text-secondary)', marginBottom: '1.5rem' }}>
-            {lessonId.startsWith('D') ? `Day ${lessonId.substring(1)}` : `Unit ${lessonId.substring(1)}`}
+            {lessonId === 'cumulative' 
+              ? '⚡ 누적 랜덤 퀴즈 (30문항)' 
+              : lessonId.startsWith('D') 
+                ? `Day ${lessonId.substring(1)}` 
+                : `Unit ${lessonId.substring(1)}`}
           </p>
 
           <div style={{ fontSize: '3.5rem', fontWeight: 800, color: percentage >= 80 ? 'var(--success)' : percentage >= 50 ? 'var(--warning)' : 'var(--danger)', marginBottom: '0.25rem' }}>
