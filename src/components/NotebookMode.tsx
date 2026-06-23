@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { ArrowLeft, Trash2, CheckCircle, RefreshCcw, BookOpen, Award, Check, Volume2 } from 'lucide-react';
 import type { IncorrectAnswer } from '../types';
 import { db } from '../lib/supabaseClient';
+import { useSpeech } from '../hooks/useSpeech';
 
 interface NotebookModeProps {
   userId: string;
@@ -14,6 +15,7 @@ export const NotebookMode: React.FC<NotebookModeProps> = ({
   onBack,
   onRefreshStats,
 }) => {
+  const speak = useSpeech();
   const [incorrectList, setIncorrectList] = useState<IncorrectAnswer[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -91,12 +93,7 @@ export const NotebookMode: React.FC<NotebookModeProps> = ({
 
   // TTS helper
   const speakWord = (text: string) => {
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-      const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = 'en-US';
-      window.speechSynthesis.speak(utterance);
-    }
+    speak(text);
   };
 
   // Start Flashcard Practice

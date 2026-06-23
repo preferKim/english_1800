@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { ArrowLeft, CheckCircle, XCircle, Award, RotateCcw } from 'lucide-react';
 import type { LessonData, WordItem, QuizQuestion } from '../types';
 import { db } from '../lib/supabaseClient';
+import { useSpeech } from '../hooks/useSpeech';
 
 interface QuizModeProps {
   lessonId: string;
@@ -16,6 +17,7 @@ export const QuizMode: React.FC<QuizModeProps> = ({
   onBack,
   onSaveScore,
 }) => {
+  const speak = useSpeech();
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [questions, setQuestions] = useState<QuizQuestion[]>([]);
@@ -149,12 +151,7 @@ export const QuizMode: React.FC<QuizModeProps> = ({
   };
 
   const speakWord = (text: string) => {
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-      const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = 'en-US';
-      window.speechSynthesis.speak(utterance);
-    }
+    speak(text);
   };
 
   const handleAnswerSubmit = (answer: string) => {

@@ -1,6 +1,7 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useRef } from 'react';
 import { ChevronLeft, ChevronRight, Volume2, Play, Pause, ArrowLeft, Check } from 'lucide-react';
 import type { LessonData, WordItem } from '../types';
+import { useSpeech } from '../hooks/useSpeech';
 
 interface StudyModeProps {
   lessonId: string;
@@ -22,6 +23,13 @@ export const StudyMode: React.FC<StudyModeProps> = ({
   // Auto Play States
   const [isAutoPlaying, setIsAutoPlaying] = useState(false);
 
+  // Hook for robust Speech Synthesis
+  const speak = useSpeech();
+  const lastSpokenIndexRef = useRef<number>(-1);
+
+  // KakaoTalk in-app browser detection
+  const isKakaoTalk = typeof navigator !== 'undefined' && /KAKAOTALK/i.test(navigator.userAgent);
+
   // Fetch lesson data
   useEffect(() => {
     setLoading(true);
@@ -36,6 +44,7 @@ export const StudyMode: React.FC<StudyModeProps> = ({
         setCurrentIndex(0);
         setIsFlipped(false);
         setLoading(false);
+        lastSpokenIndexRef.current = -1;
       })
       .catch(err => {
         console.error(err);
@@ -48,16 +57,41 @@ export const StudyMode: React.FC<StudyModeProps> = ({
 
   // TTS Pronunciation helper
   const speakWord = useCallback((text: string, type: 'word' | 'example' = 'word') => {
-    if ('speechSynthesis' in window) {
-      // Cancel previous speaking
-      window.speechSynthesis.cancel();
-      
-      const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = 'en-US';
-      utterance.rate = type === 'word' ? 0.85 : 0.95; // Slightly slower for primary word
-      window.speechSynthesis.speak(utterance);
+    speak(text, type === 'word' ? 0.85 : 0.95);
+  }, [speak]);
+
+  // Navigate handlers (Preserves user gesture by speaking synchronously before state transition)
+  const handleNext = useCallback(() => {
+    if (!lessonData) return;
+    setIsFlipped(false);
+    
+    const nextIndex = (currentIndex + 1) % lessonData.items.length;
+    const nextWord = lessonData.items[nextIndex];
+    if (nextWord) {
+      lastSpokenIndexRef.current = nextIndex;
+      speakWord(nextWord.word, 'word');
     }
-  }, []);
+    
+    setTimeout(() => {
+      setCurrentIndex(nextIndex);
+    }, 150);
+  }, [lessonData, currentIndex, speakWord]);
+
+  const handlePrev = useCallback(() => {
+    if (!lessonData) return;
+    setIsFlipped(false);
+    
+    const prevIndex = (currentIndex - 1 + lessonData.items.length) % lessonData.items.length;
+    const prevWord = lessonData.items[prevIndex];
+    if (prevWord) {
+      lastSpokenIndexRef.current = prevIndex;
+      speakWord(prevWord.word, 'word');
+    }
+    
+    setTimeout(() => {
+      setCurrentIndex(prevIndex);
+    }, 150);
+  }, [lessonData, currentIndex, speakWord]);
 
   // Keyboard navigation
   useEffect(() => {
@@ -80,34 +114,17 @@ export const StudyMode: React.FC<StudyModeProps> = ({
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [lessonData, currentIndex, currentWord, speakWord]);
+  }, [lessonData, currentIndex, currentWord, speakWord, handleNext, handlePrev]);
 
-  // Navigate handlers
-  const handleNext = () => {
-    if (!lessonData) return;
-    setIsFlipped(false);
-    
-    // Auto voice output on word switch if configured or manually triggered
-    setTimeout(() => {
-      setCurrentIndex(prev => (prev + 1) % lessonData.items.length);
-    }, 150);
-  };
-
-  const handlePrev = () => {
-    if (!lessonData) return;
-    setIsFlipped(false);
-    
-    setTimeout(() => {
-      setCurrentIndex(prev => (prev - 1 + lessonData.items.length) % lessonData.items.length);
-    }, 150);
-  };
-
-  // Trigger speech when index updates
+  // Trigger speech when index updates (handles initial load or autoplay)
   useEffect(() => {
     if (currentWord && !loading && !isFlipped) {
-      speakWord(currentWord.word, 'word');
+      if (lastSpokenIndexRef.current !== currentIndex) {
+        lastSpokenIndexRef.current = currentIndex;
+        speakWord(currentWord.word, 'word');
+      }
     }
-  }, [currentIndex, currentWord, loading, speakWord]);
+  }, [currentIndex, currentWord, loading, isFlipped, speakWord]);
 
   // Auto-play management
   useEffect(() => {
@@ -133,7 +150,7 @@ export const StudyMode: React.FC<StudyModeProps> = ({
 
       return () => clearInterval(interval);
     }
-  }, [isAutoPlaying, currentIndex, currentWord, speakWord]);
+  }, [isAutoPlaying, currentIndex, currentWord, speakWord, handleNext]);
 
   if (loading) {
     return (
@@ -294,6 +311,31 @@ export const StudyMode: React.FC<StudyModeProps> = ({
           <ChevronRight size={24} />
         </button>
       </div>
+
+      {/* KakaoTalk in-app browser warning banner */}
+      {isKakaoTalk && (
+        <div 
+          className="glass-panel" 
+          style={{ 
+            marginTop: '2rem', 
+            padding: '1rem 1.25rem', 
+            textAlign: 'left', 
+            border: '1px solid rgba(245, 158, 11, 0.3)', 
+            background: 'rgba(245, 158, 11, 0.03)',
+            borderRadius: 'var(--radius-md)',
+            fontSize: '0.85rem',
+            color: 'var(--text-secondary)'
+          }}
+        >
+          <div style={{ fontWeight: 700, color: 'var(--warning)', marginBottom: '0.25rem' }}>
+            ⚠️ 카카오톡 인앱 브라우저 학습 안내
+          </div>
+          <div>
+            카카오톡 인앱 브라우저의 보안 정책상 자동 슬라이드 쇼(자동 재생) 모드에서는 음성이 차단될 수 있습니다. 
+            음성을 들으시려면 <strong>수동으로 화면을 탭하거나 이전/다음 버튼을 이용</strong>해 주세요.
+          </div>
+        </div>
+      )}
 
     </div>
   );
