@@ -93,6 +93,45 @@ export const StudyMode: React.FC<StudyModeProps> = ({
     }, 150);
   }, [lessonData, currentIndex, speakWord]);
 
+  const handleCardClick = useCallback(() => {
+    setIsFlipped(prev => {
+      const nextFlipped = !prev;
+      if (nextFlipped && currentWord && currentWord.examples && currentWord.examples.length > 0) {
+        speakWord(currentWord.examples[0], 'example');
+      }
+      return nextFlipped;
+    });
+  }, [currentWord, speakWord]);
+
+  // Touch Swiping logic
+  const touchStartX = useRef<number>(0);
+  const touchStartY = useRef<number>(0);
+
+  const handleTouchStart = useCallback((e: React.TouchEvent) => {
+    touchStartX.current = e.touches[0].clientX;
+    touchStartY.current = e.touches[0].clientY;
+  }, []);
+
+  const handleTouchEnd = useCallback((e: React.TouchEvent) => {
+    if (!lessonData) return;
+    
+    const touchEndX = e.changedTouches[0].clientX;
+    const touchEndY = e.changedTouches[0].clientY;
+    
+    const diffX = touchStartX.current - touchEndX;
+    const diffY = touchStartY.current - touchEndY;
+    const minSwipeDistance = 50; // minimum swipe distance in pixels
+
+    // Check horizontal swipe dominant
+    if (Math.abs(diffX) > Math.abs(diffY)) {
+      if (diffX > minSwipeDistance) {
+        handleNext();
+      } else if (diffX < -minSwipeDistance) {
+        handlePrev();
+      }
+    }
+  }, [lessonData, handleNext, handlePrev]);
+
   // Keyboard navigation
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -100,7 +139,7 @@ export const StudyMode: React.FC<StudyModeProps> = ({
       
       if (e.code === 'Space') {
         e.preventDefault();
-        setIsFlipped(prev => !prev);
+        handleCardClick();
       } else if (e.code === 'ArrowRight') {
         handleNext();
       } else if (e.code === 'ArrowLeft') {
@@ -114,7 +153,7 @@ export const StudyMode: React.FC<StudyModeProps> = ({
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [lessonData, currentIndex, currentWord, speakWord, handleNext, handlePrev]);
+  }, [lessonData, currentWord, speakWord, handleNext, handlePrev, handleCardClick]);
 
   // Trigger speech when index updates (handles initial load or autoplay)
   useEffect(() => {
@@ -208,8 +247,12 @@ export const StudyMode: React.FC<StudyModeProps> = ({
       </div>
 
       {/* Flashcard Component */}
-      <div className="flip-card-container">
-        <div className={`flip-card ${isFlipped ? 'flipped' : ''}`} onClick={() => setIsFlipped(!isFlipped)}>
+      <div 
+        className="flip-card-container"
+        onTouchStart={handleTouchStart}
+        onTouchEnd={handleTouchEnd}
+      >
+        <div className={`flip-card ${isFlipped ? 'flipped' : ''}`} onClick={handleCardClick}>
           
           {/* FRONT: English Word */}
           <div className="flip-card-front">

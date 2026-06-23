@@ -104,6 +104,16 @@ export const NotebookMode: React.FC<NotebookModeProps> = ({
     setPracticeFlipped(false);
   };
 
+  const handleFlashcardClick = () => {
+    const nextFlipped = !practiceFlipped;
+    setPracticeFlipped(nextFlipped);
+    
+    const currentItem = filteredList[practiceIndex];
+    if (nextFlipped && currentItem && currentItem.examples && currentItem.examples.length > 0) {
+      speakWord(currentItem.examples[0]);
+    }
+  };
+
   // Start Quiz Practice (Spelling)
   const startQuiz = () => {
     if (filteredList.length === 0) return;
@@ -179,7 +189,7 @@ export const NotebookMode: React.FC<NotebookModeProps> = ({
         </div>
 
         <div className="flip-card-container">
-          <div className={`flip-card ${practiceFlipped ? 'flipped' : ''}`} onClick={() => setPracticeFlipped(!practiceFlipped)}>
+          <div className={`flip-card ${practiceFlipped ? 'flipped' : ''}`} onClick={handleFlashcardClick}>
             
             {/* Front */}
             <div className="flip-card-front">
