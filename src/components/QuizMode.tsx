@@ -48,16 +48,15 @@ export const QuizMode: React.FC<QuizModeProps> = ({
       });
   }, [lessonId]);
 
-  // Generate 10 random questions of mixed types
+  // Generate random questions of mixed types for all words in the lesson
   const generateQuiz = (items: WordItem[]) => {
-    if (items.length < 5) {
-      setError('퀴즈를 생성하기에 단어 수가 너무 부족합니다.');
+    if (items.length < 1) {
+      setError('퀴즈를 생성하기에 단어 수가 부족합니다.');
       return;
     }
 
-    // Shuffle and pick 10 words
-    const shuffledItems = [...items].sort(() => 0.5 - Math.random());
-    const selectedWords = shuffledItems.slice(0, Math.min(10, items.length));
+    // Shuffle all words
+    const selectedWords = [...items].sort(() => 0.5 - Math.random());
 
     const generatedQuestions: QuizQuestion[] = selectedWords.map((wordItem, idx) => {
       // Pick random question type
