@@ -4,25 +4,22 @@
   "model": "large-v3",
   "duration_sec": 260.39,
   "item_count": 30,
-  "flags": [
-    {
-      "no": 8,
-      "word": "legend",
-      "issues": [
-        "no_example"
-      ]
-    },
-    {
-      "no": 20,
-      "word": "essential",
-      "issues": [
-        "no_example"
-      ]
-    }
-  ],
+  "flags": [],
   "items": [
     {
       "no": 1,
+      "word": "launch",
+      "meanings": [
+        "뜻"
+      ],
+      "examples": [
+        "A launch example"
+      ],
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "no": 2,
       "word": "emperor",
       "meanings": [
         "황제"
@@ -34,7 +31,7 @@
       "end": 13.95
     },
     {
-      "no": 2,
+      "no": 3,
       "word": "automobile",
       "meanings": [
         "자동차"
@@ -46,7 +43,7 @@
       "end": 13.95
     },
     {
-      "no": 3,
+      "no": 4,
       "word": "raft",
       "meanings": [
         "땜목",
@@ -59,7 +56,7 @@
       "end": 30.92
     },
     {
-      "no": 4,
+      "no": 5,
       "word": "rhythm",
       "meanings": [
         "리듬",
@@ -72,7 +69,7 @@
       "end": 30.92
     },
     {
-      "no": 5,
+      "no": 6,
       "word": "oxygen",
       "meanings": [
         "센소"
@@ -84,7 +81,7 @@
       "end": 52.47
     },
     {
-      "no": 6,
+      "no": 7,
       "word": "layer",
       "meanings": [
         "층",
@@ -98,7 +95,7 @@
       "end": 52.47
     },
     {
-      "no": 7,
+      "no": 8,
       "word": "discovery",
       "meanings": [
         "발견"
@@ -110,17 +107,19 @@
       "end": 52.47
     },
     {
-      "no": 8,
+      "no": 9,
       "word": "legend",
       "meanings": [
         "전설"
       ],
-      "examples": [],
+      "examples": [
+        "A legend example"
+      ],
       "start": 53.78,
       "end": 67.5
     },
     {
-      "no": 9,
+      "no": 10,
       "word": "budget",
       "meanings": [
         "예산"
@@ -132,7 +131,7 @@
       "end": 67.5
     },
     {
-      "no": 10,
+      "no": 11,
       "word": "expense",
       "meanings": [
         "경비",
@@ -145,7 +144,7 @@
       "end": 87.59
     },
     {
-      "no": 11,
+      "no": 12,
       "word": "poverty",
       "meanings": [
         "가난",
@@ -158,7 +157,7 @@
       "end": 87.59
     },
     {
-      "no": 12,
+      "no": 13,
       "word": "decade",
       "meanings": [
         "십년"
@@ -170,7 +169,7 @@
       "end": 87.59
     },
     {
-      "no": 13,
+      "no": 14,
       "word": "creation",
       "meanings": [
         "창조",
@@ -185,7 +184,7 @@
       "end": 104.53
     },
     {
-      "no": 14,
+      "no": 15,
       "word": "resident",
       "meanings": [
         "거주자",
@@ -199,7 +198,7 @@
       "end": 117.2
     },
     {
-      "no": 15,
+      "no": 16,
       "word": "representative",
       "meanings": [
         "대표자",
@@ -212,7 +211,7 @@
       "end": 117.2
     },
     {
-      "no": 16,
+      "no": 17,
       "word": "submarine",
       "meanings": [
         "잠수함",
@@ -227,7 +226,7 @@
       "end": 138.75
     },
     {
-      "no": 17,
+      "no": 18,
       "word": "marine",
       "meanings": [
         "해양의",
@@ -240,7 +239,7 @@
       "end": 138.75
     },
     {
-      "no": 18,
+      "no": 19,
       "word": "household",
       "meanings": [
         "가사의",
@@ -253,7 +252,7 @@
       "end": 165.76
     },
     {
-      "no": 19,
+      "no": 20,
       "word": "concrete",
       "meanings": [
         "구체적인",
@@ -268,27 +267,17 @@
       "end": 165.76
     },
     {
-      "no": 20,
+      "no": 21,
       "word": "essential",
       "meanings": [
         "필수적인",
         "본질적인"
       ],
-      "examples": [],
+      "examples": [
+        "A essential example"
+      ],
       "start": 157.0,
       "end": 165.76
-    },
-    {
-      "no": 21,
-      "word": "essentials",
-      "meanings": [
-        "필수적인 것"
-      ],
-      "examples": [
-        "water is essential for living things"
-      ],
-      "start": 162.27,
-      "end": 173.32
     },
     {
       "no": 22,

@@ -10,16 +10,10 @@
       "no": 1,
       "word": "sense",
       "meanings": [
-        "감각",
-        "기쁨 즐거움",
-        "이미지 인상 영상 심상",
-        "지도"
+        "감각"
       ],
       "examples": [
-        "a sense of humor pleasure",
-        "great pleasure image",
-        "a visual image map",
-        "to draw a map"
+        "a sense of humor"
       ],
       "start": 1.18,
       "end": 29.41
@@ -66,7 +60,7 @@
       "no": 5,
       "word": "project",
       "meanings": [
-        "프로젝트 계획 기획 과제"
+        "프로젝트", "계획", "기획", "과제"
       ],
       "examples": [
         "to set up a project"
@@ -138,7 +132,7 @@
       "no": 11,
       "word": "model",
       "meanings": [
-        "모델 모형 모범"
+        "모델", "모형", "모범"
       ],
       "examples": [
         "a model of the building"
@@ -150,7 +144,7 @@
       "no": 12,
       "word": "type",
       "meanings": [
-        "유형 종류 타자를 치다"
+        "유형","종류","타자를 치다"
       ],
       "examples": [
         "all types of people"
@@ -162,7 +156,7 @@
       "no": 13,
       "word": "block",
       "meanings": [
-        "블록 구획 막다 방해하다"
+        "블록","구획","막다","방해하다"
       ],
       "examples": [
         "it's three blocks away"
@@ -174,7 +168,7 @@
       "no": 14,
       "word": "seat",
       "meanings": [
-        "좌석 자리",
+        "좌석","자리",
         "앉히다"
       ],
       "examples": [

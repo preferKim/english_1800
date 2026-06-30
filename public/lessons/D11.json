@@ -6,297 +6,6 @@
   "items": [
     {
       "no": 1,
-      "word": "earth",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A earth example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 2,
-      "word": "nature",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A nature example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 3,
-      "word": "cliff",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A cliff example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 4,
-      "word": "swamp",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A swamp example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 5,
-      "word": "plant",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A plant example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 6,
-      "word": "recycle",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A recycle example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 7,
-      "word": "protect",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A protect example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 8,
-      "word": "destroy",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A destroy example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 9,
-      "word": "survive",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A survive example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 10,
-      "word": "waste",
-      "meanings": [
-        "낭비",
-        "쓰레기",
-        "낭비하다"
-      ],
-      "examples": [
-        "A waste example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 11,
-      "word": "pollute",
-      "meanings": [
-        "오염시키다"
-      ],
-      "examples": [
-        "A pollute example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 12,
-      "word": "dirty",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A dirty example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 13,
-      "word": "natural",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A natural example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 14,
-      "word": "wild",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A wild example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 15,
-      "word": "global",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A global example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 16,
-      "word": "public",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A public example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 17,
-      "word": "together",
-      "meanings": [
-        "함께"
-      ],
-      "examples": [
-        "A together example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 18,
-      "word": "away",
-      "meanings": [
-        "떨어져",
-        "멀리"
-      ],
-      "examples": [
-        "A away example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 19,
-      "word": "however",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A however example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 20,
-      "word": "this",
-      "meanings": [
-        "이것"
-      ],
-      "examples": [
-        "A this example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 21,
-      "word": "instead",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A instead example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 22,
-      "word": "almost",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A almost example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 23,
-      "word": "mainly",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A mainly example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 24,
-      "word": "perhaps",
-      "meanings": [
-        "뜻"
-      ],
-      "examples": [
-        "A perhaps example"
-      ],
-      "start": 0.0,
-      "end": 0.0
-    },
-    {
-      "no": 25,
       "word": "environment",
       "meanings": [
         "환경"
@@ -308,22 +17,19 @@
       "end": 6.85
     },
     {
-      "no": 26,
+      "no": 2,
       "word": "pollution",
       "meanings": [
-        "오염",
-        "호수"
+        "오염"
       ],
       "examples": [
-        "Air pollution Lake",
-        "A beautiful lake",
         "Air pollution"
       ],
       "start": 6.83,
       "end": 18.78
     },
     {
-      "no": 27,
+      "no": 3,
       "word": "lake",
       "meanings": [
         "호수"
@@ -335,7 +41,7 @@
       "end": 18.78
     },
     {
-      "no": 28,
+      "no": 4,
       "word": "desert",
       "meanings": [
         "사막"
@@ -347,7 +53,7 @@
       "end": 24.6
     },
     {
-      "no": 29,
+      "no": 5,
       "word": "insect",
       "meanings": [
         "곤충",
@@ -360,19 +66,321 @@
       "end": 30.95
     },
     {
-      "no": 30,
+      "no": 6,
       "word": "accident",
       "meanings": [
-        "사고",
-        "대학",
-        "시험",
-        "조언"
+        "사고"
       ],
       "examples": [
         "A car accident"
       ],
       "start": 30.93,
       "end": 53.14
+    },
+    {
+      "no": 7,
+      "word": "college",
+      "meanings": [
+        "대학"
+      ],
+      "examples": [
+        "A college professor"
+      ],
+      "start": 37.12,
+      "end": 42.86
+    },
+    {
+      "no": 8,
+      "word": "exam",
+      "meanings": [
+        "시험"
+      ],
+      "examples": [
+        "To take an exam"
+      ],
+      "start": 42.86,
+      "end": 49.14
+    },
+    {
+      "no": 9,
+      "word": "advice",
+      "meanings": [
+        "조언 충고"
+      ],
+      "examples": [
+        "To ask for advice"
+      ],
+      "start": 50.0,
+      "end": 56.6
+    },
+    {
+      "no": 10,
+      "word": "hobby",
+      "meanings": [
+        "취미"
+      ],
+      "examples": [
+        "To enjoy your hobby"
+      ],
+      "start": 53.14,
+      "end": 69.24
+    },
+    {
+      "no": 11,
+      "word": "form",
+      "meanings": [
+        "형태", "형식", "형성되다"
+      ],
+      "examples": [
+        "The past form of the verb"
+      ],
+      "start": 62.84,
+      "end": 71.78
+    },
+    {
+      "no": 12,
+      "word": "mark",
+      "meanings": [
+        "표식",
+        "부호", "자국", "표시하다" 
+      ],
+      "examples": [
+        "A question mark"
+      ],
+      "start": 69.52,
+      "end": 80.98
+    },
+    {
+      "no": 13,
+      "word": "board",
+      "meanings": [
+        "판", "게시판", "탑승하다"
+      ],
+      "examples": [
+        "To board a plane"
+      ],
+      "start": 80.96,
+      "end": 89.31
+    },
+    {
+      "no": 14,
+      "word": "post",
+      "meanings": [
+        "우편물", "직위", "기동", "오송하다", "게시하다"
+      ],
+      "examples": [
+        "a post office"
+      ],
+      "start": 89.31,
+      "end": 108.74
+    },
+    {
+      "no": 15,
+      "word": "laugh",
+      "meanings": [
+        "웃다", "비웃다", 
+        "웃음"
+      ],
+      "examples": [
+        "to laugh a lot"
+      ],
+      "start": 100.42,
+      "end": 144.14
+    },
+    {
+      "no": 16,
+      "word": "excuse",
+      "meanings": [
+        "용서하다", "변명하다", "변명"
+      ],
+      "examples": [
+        "Excuse me"
+      ],
+      "start": 108.74,
+      "end": 117.6
+    },
+    {
+      "no": 17,
+      "word": "pass",
+      "meanings": [
+        "지나가다", "건네주다",
+        "합격하다",
+        "통행증"
+      ],
+      "examples": [
+        "To pass the store"
+      ],
+      "start": 117.6,
+      "end": 129.16
+    },
+    {
+      "no": 18,
+      "word": "drive",
+      "meanings": [
+        "운전하다", "몰다", "드라이브"
+      ],
+      "examples": [
+        "To drive a car"
+      ],
+      "start": 129.16,
+      "end": 137.81
+    },
+    {
+      "no": 19,
+      "word": "receive",
+      "meanings": [
+        "받다"
+      ],
+      "examples": [
+        "To receive a prize"
+      ],
+      "start": 138.68,
+      "end": 144.06
+    },
+    {
+      "no": 20,
+      "word": "kill",
+      "meanings": [
+        "죽이다"
+      ],
+      "examples": [
+        "Kill mosquitoes"
+      ],
+      "start": 144.06,
+      "end": 149.78
+    },
+    {
+      "no": 21,
+      "word": "climb",
+      "meanings": [
+        "오르다",
+        "등반하다"
+      ],
+      "examples": [
+        "To climb a wall"
+      ],
+      "start": 149.78,
+      "end": 157.25
+    },
+    {
+      "no": 22,
+      "word": "add",
+      "meanings": [
+        "더하다",
+        "덧붙이다"
+      ],
+      "examples": [
+        "add 7 and 5"
+      ],
+      "start": 156.69,
+      "end": 164.72
+    },
+    {
+      "no": 23,
+      "word": "fat",
+      "meanings": [
+        "살찐",
+        "뚱뚱한",
+        "지방"
+      ],
+      "examples": [
+        "To get fat"
+      ],
+      "start": 164.66,
+      "end": 172.98
+    },
+    {
+      "no": 24,
+      "word": "dark",
+      "meanings": [
+        "어두운",
+        "어둠"
+      ],
+      "examples": [
+        "A dark night"
+      ],
+      "start": 172.98,
+      "end": 229.63
+    },
+    {
+      "no": 25,
+      "word": "whole",
+      "meanings": [
+        "전체",
+        "전부"
+      ],
+      "examples": [
+        "The whole world"
+      ],
+      "start": 180.13,
+      "end": 189.97
+    },
+    {
+      "no": 26,
+      "word": "afraid",
+      "meanings": [
+        "두려워하는",
+        "무서워하는",
+        "걱정하는"
+      ],
+      "examples": [
+        "To be afraid of dogs"
+      ],
+      "start": 190.8,
+      "end": 200.04
+    },
+    {
+      "no": 27,
+      "word": "physical",
+      "meanings": [
+        "육체의",
+        "신체의",
+        "물질의",
+        "물리의"
+      ],
+      "examples": [
+        "Physical activities"
+      ],
+      "start": 200.04,
+      "end": 210.34
+    },
+    {
+      "no": 28,
+      "word": "dangerous",
+      "meanings": [
+        "위험한"
+      ],
+      "examples": [
+        "A dangerous place"
+      ],
+      "start": 211.27,
+      "end": 217.08
+    },
+    {
+      "no": 29,
+      "word": "off",
+      "meanings": [
+        "떨어져",
+        "멀리"
+      ],
+      "examples": [
+        "Take your coat off"
+      ],
+      "start": 217.08,
+      "end": 224.34
+    },
+    {
+      "no": 30,
+      "word": "ever",
+      "meanings": [
+        "언제든",
+        "한 번이라도"
+      ],
+      "examples": [
+        "Have you ever seen a UFO"
+      ],
+      "start": 224.34,
+      "end": 232.26
     }
   ],
   "item_count": 30,
