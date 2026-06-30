@@ -10,8 +10,7 @@
       "meanings": [
         "10대",
         "소년",
-        "소녀",
-        "팔"
+        "소녀"
       ],
       "examples": [
         "Books for teenagers"
@@ -62,30 +61,10 @@
       "word": "prize",
       "meanings": [
         "상",
-        "상품",
-        "기회",
-        "가능성",
-        "모양",
-        "상태",
-        "차이",
-        "벽",
-        "경연",
-        "대회",
-        "겨루다",
-        "경주",
-        "인종",
-        "경주하다",
-        "냄새",
-        "냄새나다",
-        "냄새를 맡다",
-        "관심",
-        "흥미",
-        "이익",
-        "관심을 끌다",
-        "흥미를 끌다"
+        "상품"
       ],
       "examples": [
-        "a wall painting"
+        "To win a prize"
       ],
       "start": 32.08,
       "end": 104.66
@@ -204,19 +183,11 @@
       "no": 14,
       "word": "judge",
       "meanings": [
-        "재판관 판단하다 재판하다",
-        "원인 일으키다 원인이 되다",
-        "덮다 다루다 덮게 표지",
-        "여행하다 이동하다 여행",
         "재판관",
         "판단하다",
         "재판하다"
       ],
       "examples": [
-        "a wise judge cause",
-        "cause and effect cover",
-        "snow covered the ground travel",
-        "to travel around the world",
         "a wise judge"
       ],
       "start": 104.91,
@@ -323,15 +294,7 @@
         "다치게 하다",
         "아프다",
         "다친",
-        "상처",
-        "피곤한",
-        "실증난",
-        "자랑스러운",
-        "더러운",
-        "화난",
-        "성난",
-        "현대의",
-        "오늘 현대적인 유용한 쓸모있는 곧 빨리 한번 과거 언젠가 일단 무엇하면"
+        "상처"
       ],
       "examples": [
         "He was badly hurt"
@@ -394,7 +357,7 @@
       "word": "modern",
       "meanings": [
         "현대의",
-        "오늘 현대적인 유용한 쓸모있는 곧 빨리 한번 과거 언젠가 일단 무엇하면"
+        "현대적인"
       ],
       "examples": [
         "modern life"
