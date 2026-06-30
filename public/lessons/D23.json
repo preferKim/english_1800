@@ -112,46 +112,11 @@
       "meanings": [
         "온도",
         "기온",
-        "체온",
-        "운송",
-        "교통수단",
-        "장소",
-        "현장",
-        "웹사이트",
-        "결정",
-        "소설",
-        "허구",
-        "무섭게 하다",
-        "겁주다",
-        "미끄러지다",
-        "녹다",
-        "녹이다",
-        "오염시키다",
-        "영향을 미치다",
-        "의존하다",
-        "믿다",
-        "달려있다",
-        "경영하다",
-        "관리하다",
-        "해내다",
-        "맞다",
-        "맞추다",
-        "건강한",
-        "알맞은",
-        "맞는",
-        "올바른",
-        "바로잡다",
-        "고치다",
-        "놀라운",
-        "활동적인",
-        "적극적인",
-        "다채로운",
-        "화려한"
+        "체온"
       ],
       "examples": [
         "high temperature",
-        "low temperature",
-        "A colorful tie"
+        "low temperature"
       ],
       "start": 57.5,
       "end": 204.91
@@ -200,18 +165,10 @@
       "word": "fiction",
       "meanings": [
         "소설",
-        "허구",
-        "무섭게 하다",
-        "겁주다",
-        "미끄러지다",
-        "녹다",
-        "녹이다"
+        "허구"
       ],
       "examples": [
-        "The story frightened me",
-        "You scared me",
-        "To slip on the ice",
-        "To melt the butter"
+        "Historical fiction"
       ],
       "start": 91.59,
       "end": 129.12
@@ -220,8 +177,8 @@
       "no": 14,
       "word": "frighten",
       "meanings": [
-        "겁주다",
-        "놀라게 하다"
+        "무섭게하다",
+        "겁주다"
       ],
       "examples": [
         "The story frightened me"
@@ -233,8 +190,8 @@
       "no": 15,
       "word": "scare",
       "meanings": [
-        "겁주다",
-        "놀라게 하다"
+        "무섭게하다",
+        "겁주다"
       ],
       "examples": [
         "You scared me"

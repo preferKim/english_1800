@@ -127,7 +127,6 @@
         "사전"
       ],
       "examples": [
-        "An English Dictionary",
         "An English dictionary"
       ],
       "start": 70.61,
@@ -141,11 +140,9 @@
         "물체",
         "목적",
         "목표",
-        "대상",
-        "반대하다"
+        "대상"
       ],
       "examples": [
-        "Object to",
         "A moving object"
       ],
       "start": 78.58,
@@ -170,17 +167,8 @@
       "no": 13,
       "word": "tear",
       "meanings": [
-        "눈물",
-        "짖다",
-        "찢어지다",
-        "존경",
-        "영광",
-        "명예",
-        "존경하다",
-        "경의를 표하다",
-        "증가하다",
-        "증가시키다",
-        "증가"
+        "눈물 (발음: 티어)",
+        "찢다, 찢어지다 (발음: 테어)"
       ],
       "examples": [
         "Tears of joy"
@@ -238,11 +226,9 @@
         "남성",
         "수컷",
         "남성의",
-        "수컷의",
-        "수컷을"
+        "수컷의"
       ],
       "examples": [
-        "male bees",
         "Male bees"
       ],
       "start": 146.3,
@@ -258,7 +244,6 @@
         "원주민"
       ],
       "examples": [
-        "a native speaker",
         "A native speaker"
       ],
       "start": 154.56,
@@ -268,15 +253,9 @@
       "no": 19,
       "word": "disappoint",
       "meanings": [
-        "실망시키다",
-        "빛나다",
-        "고치다 수리하다 고정시키다",
-        "따르다 퍼붓다",
-        "허락하다 허용하다"
+        "실망시키다"
       ],
       "examples": [
-        "to disappoint her",
-        "to allow him to watch TV",
         "To disappoint her"
       ],
       "start": 165.18,
@@ -343,7 +322,6 @@
         "예방하다"
       ],
       "examples": [
-        "to prevent accidents",
         "To prevent accidents"
       ],
       "start": 204.3,
@@ -358,7 +336,6 @@
         "어떤"
       ],
       "examples": [
-        "to be certain about that",
         "To be certain about that"
       ],
       "start": 213.58,
@@ -372,7 +349,6 @@
         "마음의"
       ],
       "examples": [
-        "mental health",
         "Mental health"
       ],
       "start": 223.42,
@@ -410,9 +386,7 @@
         "그러므로"
       ],
       "examples": [
-        "I think",
-        "therefore I am",
-        "I am"
+        "I think, therefore I am",
       ],
       "start": 244.85,
       "end": 252.74
