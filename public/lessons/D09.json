@@ -114,9 +114,11 @@
     },
     {
       "no": 9,
-      "word": "glasses",
+      "word": "glass",
       "meanings": [
-        "안경"
+        "유리",
+        "유리잔",
+        "안경(glasses)"
       ],
       "examples": [
         "A glass bottle"
@@ -190,7 +192,7 @@
       "word": "match",
       "meanings": [
         "시합",
-        "성량",
+        "성냥",
         "어울리다",
         "연결시키다"
       ],
@@ -371,7 +373,7 @@
         "훌륭히"
       ],
       "examples": [
-        "Find clothes"
+        "Fine clothes"
       ],
       "start": 218.43,
       "end": 226.47
@@ -414,7 +416,8 @@
         "나중에",
         "후에",
         "더 뒤",
-        "나중"
+        "나중",
+        "나중의"
       ],
       "examples": [
         "See you later"
