@@ -12,8 +12,7 @@
         "요리"
       ],
       "examples": [
-        "To do the dishes",
-        "to do the dishes"
+        "To do the dishes"
       ],
       "start": 1.32,
       "end": 27.78
@@ -25,7 +24,6 @@
         "장난감"
       ],
       "examples": [
-        "a toy car",
         "A toy car"
       ],
       "start": 3.25,
@@ -38,8 +36,7 @@
         "지하철"
       ],
       "examples": [
-        "To take the subway",
-        "to take the subway"
+        "To take the subway"
       ],
       "start": 13.46,
       "end": 27.78
@@ -51,8 +48,7 @@
         "목소리"
       ],
       "examples": [
-        "A soft voice",
-        "a soft voice"
+        "A soft voice"
       ],
       "start": 19.76,
       "end": 27.78
@@ -65,8 +61,7 @@
         "행사"
       ],
       "examples": [
-        "A big event",
-        "a big event"
+        "A big event"
       ],
       "start": 25.71,
       "end": 54.36
@@ -105,9 +100,7 @@
         "수당"
       ],
       "examples": [
-        "to get an allowance",
-        "Hundreds of people",
-        "A thousand dollars"
+        "to get an allowance"
       ],
       "start": 46.32,
       "end": 66.17
@@ -119,7 +112,7 @@
         "백"
       ],
       "examples": [
-        "hundreds of people"
+        "Hundreds of people"
       ],
       "start": 54.36,
       "end": 55.76
@@ -131,13 +124,40 @@
         "천"
       ],
       "examples": [
-        "thousand"
+        "A thousand dollars"
       ],
       "start": 58.74,
       "end": 60.14
     },
     {
       "no": 11,
+      "word": "century",
+      "meanings": [
+        "세기",
+        "백년"
+      ],
+      "examples": [
+        "The 21st century"
+      ],
+      "start": 67.27,
+      "end": 85.68
+    },
+    {
+      "no": 12,
+      "word": "rest",
+      "meanings": [
+        "휴식",
+        "나머지",
+        "쉬다"
+      ],
+      "examples": [
+        "To take the rest"
+      ],
+      "start": 75.47,
+      "end": 91.82
+    },
+    {
+      "no": 13,
       "word": "waste",
       "meanings": [
         "낭비",
@@ -151,7 +171,7 @@
       "end": 90.8
     },
     {
-      "no": 12,
+      "no": 14,
       "word": "surprise",
       "meanings": [
         "놀라게 하다",
@@ -166,100 +186,82 @@
       "end": 101.21
     },
     {
-      "no": 13,
-      "word": "prize",
-      "meanings": [
-        "상"
-      ],
-      "examples": [
-        "To win a prize"
-      ],
-      "start": 99.49,
-      "end": 101.65
-    },
-    {
-      "no": 14,
+      "no": 15,
       "word": "bear",
       "meanings": [
         "곰",
         "낳다"
       ],
       "examples": [
-        "to be born in Korea",
         "To be born in Korea"
       ],
       "start": 99.49,
       "end": 109.39
     },
     {
-      "no": 15,
+      "no": 16,
       "word": "fight",
       "meanings": [
         "싸우다",
         "싸움"
       ],
       "examples": [
-        "to fight in the war",
         "To fight in the war"
       ],
       "start": 109.39,
       "end": 116.89
     },
     {
-      "no": 16,
+      "no": 17,
       "word": "buy",
       "meanings": [
         "사다"
       ],
       "examples": [
-        "to buy a book",
         "To buy a book"
       ],
       "start": 116.89,
       "end": 122.74
     },
     {
-      "no": 17,
+      "no": 18,
       "word": "sell",
       "meanings": [
         "팔다"
       ],
       "examples": [
-        "to sell the car",
         "To sell the car"
       ],
       "start": 122.74,
       "end": 128.51
     },
     {
-      "no": 18,
+      "no": 19,
       "word": "follow",
       "meanings": [
         "따르다"
       ],
       "examples": [
-        "to follow the rule",
         "To follow the rule"
       ],
       "start": 128.51,
       "end": 134.59
     },
     {
-      "no": 19,
+      "no": 20,
       "word": "miss",
       "meanings": [
         "놓치다",
         "그리워하다"
       ],
       "examples": [
-        "to miss a bus",
         "To miss a bus"
       ],
       "start": 134.59,
       "end": 141.92
     },
     {
-      "no": 20,
+      "no": 21,
       "word": "close",
       "meanings": [
         "닫다",
@@ -273,7 +275,7 @@
       "end": 181.73
     },
     {
-      "no": 21,
+      "no": 22,
       "word": "free",
       "meanings": [
         "자유로운",
@@ -288,7 +290,7 @@
       "end": 162.82
     },
     {
-      "no": 22,
+      "no": 23,
       "word": "upset",
       "meanings": [
         "속상한",
@@ -301,7 +303,7 @@
       "end": 170.73
     },
     {
-      "no": 23,
+      "no": 24,
       "word": "healthy",
       "meanings": [
         "건강한",
@@ -314,7 +316,7 @@
       "end": 178.67
     },
     {
-      "no": 24,
+      "no": 25,
       "word": "delicious",
       "meanings": [
         "맛있는"
@@ -326,24 +328,23 @@
       "end": 184.95
     },
     {
-      "no": 25,
+      "no": 26,
       "word": "sad",
       "meanings": [
-        "조심하는",
-        "준비된"
+        "슬픈"
       ],
       "examples": [
-        "A sad song",
-        "Be careful"
+        "A sad song"
       ],
       "start": 183.71,
       "end": 202.41
     },
     {
-      "no": 26,
+      "no": 27,
       "word": "careful",
       "meanings": [
-        "조심하는"
+        "조심하는",
+        "주의깊은"
       ],
       "examples": [
         "Be careful"
@@ -352,7 +353,7 @@
       "end": 198.14
     },
     {
-      "no": 27,
+      "no": 28,
       "word": "ready",
       "meanings": [
         "준비된"
@@ -364,11 +365,11 @@
       "end": 204.3
     },
     {
-      "no": 28,
+      "no": 29,
       "word": "away",
       "meanings": [
         "떨어져",
-        "멀리"
+        "떠나서"
       ],
       "examples": [
         "to be six miles away"
@@ -377,28 +378,16 @@
       "end": 213.06
     },
     {
-      "no": 29,
+      "no": 30,
       "word": "however",
       "meanings": [
         "그러나",
         "그렇지만"
       ],
       "examples": [
-        "is not true"
+        "This, however, is not true"
       ],
       "start": 211.86,
-      "end": 220.13
-    },
-    {
-      "no": 30,
-      "word": "this",
-      "meanings": [
-        "이것"
-      ],
-      "examples": [
-        "A this example"
-      ],
-      "start": 217.85,
       "end": 220.13
     }
   ],
