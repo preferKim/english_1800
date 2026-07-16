@@ -14,7 +14,6 @@
         "부부"
       ],
       "examples": [
-        "A couple",
         "An old couple"
       ],
       "start": 1.2,
@@ -88,10 +87,11 @@
       "no": 7,
       "word": "direction",
       "meanings": [
-        "방향"
+        "방향",
+        "길 안내(복수)"
       ],
       "examples": [
-        "A direction example"
+        "Ask for directions"
       ],
       "start": 48.63,
       "end": 53.61
@@ -197,8 +197,7 @@
       "word": "increase",
       "meanings": [
         "증가하다",
-        "증가시키다",
-        "증가"
+        "증가시키다"
       ],
       "examples": [
         "An increase in spending"
@@ -214,7 +213,7 @@
         "물기"
       ],
       "examples": [
-        "Does your dog bite"
+        "Does your dog bite?"
       ],
       "start": 135.13,
       "end": 144.97
@@ -358,7 +357,7 @@
       "no": 27,
       "word": "comfortable",
       "meanings": [
-        "편안",
+        "편한",
         "편안한"
       ],
       "examples": [
